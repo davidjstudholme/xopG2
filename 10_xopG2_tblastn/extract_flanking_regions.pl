@@ -111,26 +111,30 @@ foreach my $file (sort keys %file2hits) {
 		next if $end   < $X;
 		next if $start > $Y;
 
-		### Only consider CDS
-		next unless $feature->primary_tag eq 'CDS';
-
-		my $gene       = get_qual($feature, 'gene')       // 'NA';
-		my $locus_tag  = get_qual($feature, 'locus_tag')  // 'NA';
-		my $product    = get_qual($feature, 'product')    // 'NA';
-		my $protein_id = get_qual($feature, 'protein_id') // 'NA';
-		    
+		my $type = $feature->primary_tag;
+		next unless
+		    $type eq 'CDS' ||
+		    is_mobile_element($feature);
+		
+		my $name = cds_name($feature);   # from earlier, works for CDS
+		my $loc  = $feature->location->to_FTstring;
+		
+		my $product = get_qual($feature, 'product') // 'NA';
+		my $note    = get_qual($feature, 'note')    // 'NA';
+		my $mobtype = get_qual($feature, 'mobile_element_type') // 'NA';
+		my $highlight = "";
+		$highlight = "***" if is_mobile_element($feature);
+		
 		print join("\t",
-			   $hit_acc,
-			   $feature->primary_tag,
-			   $feature->location->to_FTstring,
-			   $gene,
-			   $locus_tag,
+			   $type,
+			   $loc,
+			   $name,
 			   $product,
-			   $protein_id
+			   $mobtype,
+			   $highlight,
 		    ), "\n";
 	    }
 	    
-
 	    ### Throttle requests
 	    sleep 0.5;
 	    
@@ -146,4 +150,45 @@ sub get_qual {
     return undef unless $feat->has_tag($tag);
     my @vals = $feat->get_tag_values($tag);
     return join(',', @vals);
+}
+
+sub cds_name {
+    my ($feat) = @_;
+
+    # Priority order: most specific → most generic
+    for my $tag (qw(gene locus_tag protein_id product)) {
+	if ($feat->has_tag($tag)) {
+	    my @vals = $feat->get_tag_values($tag);
+	    return join(',', @vals);
+	}
+    }
+    return 'unnamed_CDS';
+}
+
+
+sub is_mobile_element {
+    my ($feat) = @_;
+
+    # 1. Feature type
+    return 1 if $feat->primary_tag eq 'mobile_element';
+
+    # 2. Known repeat container types
+    return 1 if $feat->primary_tag eq 'repeat_region';
+
+    # 3. Look for mobility-related qualifiers
+    for my $tag ($feat->get_all_tags) {
+	for my $val ($feat->get_tag_values($tag)) {
+	                return 1 if $val =~ /\b(
+                transposon|
+                insertion\s+sequence|
+                integrase|
+                transposase|
+                IS\d+|
+                retrotransposon|
+                prophage
+            )\b/ix;
+	}
+    }
+
+    return 0;
 }
