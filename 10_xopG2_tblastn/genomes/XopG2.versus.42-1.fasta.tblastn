@@ -1,0 +1,72 @@
+TBLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: 42-1.fasta
+           2 sequences; 5,035,152 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP066990.1 Xanthomonas campestris pv. campestris strain 42-1 chro...  92.8    1e-22
+
+
+>CP066990.1 Xanthomonas campestris pv. campestris strain 42-1 
+chromosome, complete genome
+Length=4982561
+
+ Score = 92.8 bits (229),  Expect = 1e-22, Method: Compositional matrix adjust.
+ Identities = 68/194 (35%), Positives = 105/194 (54%), Gaps = 11/194 (6%)
+ Frame = -3
+
+Query  24      VDAALAKIESTPSGNHLLEGLKPLAAHGK-KVLLNESPPWNPAPSAGAVFTDKQRRKYGE  82
+               V+  L  I S  +GN LL+ L  L++  + K+ ++E       PSA  V +  Q  ++ +
+Sbjct  153738  VNVHLDAIGSGSTGNQLLDDLVSLSSQRRHKITIHEMEVSKSGPSAEPVLSRHQLERHPD  153559
+
+Query  83      RESEGEAAVELGLITKGRFCKG--EGTNATVNWSPGVGLM-VDSEGRPQGQSSEYAEQAF  139
+                 +  E     G     +  +G  EG++  V W+     M +D +G P G +S + ++  
+Sbjct  153558  LNNYQEIRETAGRRYAWKTSQGQNEGSSVVVTWTAHQTSMGLDEDGDPTGPTSSHRDKVS  153379
+
+Query  140     VGLAHELIHAKHIMSGDFKHG-GDRLDPKSKSGKEELRATGLGKYASERV---SENSIRA  195
+               + LAHEL+HAKH+M G +     D  DP++ SGKEELRA G+G+Y   +    SENS+RA
+Sbjct  153378  L-LAHELVHAKHMMGGTWMGSYDDSRDPETDSGKEELRAVGIGEYKYSKTRQPSENSVRA  153202
+
+Query  196     ENGLPIRK--HYAG  207
+               E+ LP R   HY+G
+Sbjct  153201  EHDLPKRASYHYSG  153160
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 208099032
+
+
+  Database: 42-1.fasta
+    Posted date:  Dec 14, 2025  11:00 AM
+  Number of letters in database: 5,035,152
+  Number of sequences in database:  2
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

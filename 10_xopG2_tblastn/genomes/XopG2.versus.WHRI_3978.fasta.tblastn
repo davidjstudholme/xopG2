@@ -1,0 +1,68 @@
+TBLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_3978.fasta
+           58 sequences; 5,114,276 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JBEFTZ010000053.1 Xanthomonas campestris pv. campestris strain WH...  82.0    1e-19
+
+
+>JBEFTZ010000053.1 Xanthomonas campestris pv. campestris strain 
+WHRI 3978 scf_1196069_53, whole genome shotgun sequence
+Length=878
+
+ Score = 82.0 bits (201),  Expect = 1e-19, Method: Compositional matrix adjust.
+ Identities = 58/164 (35%), Positives = 89/164 (54%), Gaps = 10/164 (6%)
+ Frame = +2
+
+Query  53   KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKG--EGTNAT  110
+            K+ ++E       PSA  V +  Q  ++ +  +  E     G     +  +G  EG++  
+Sbjct  20   KITIHEMEVSKSGPSAEPVLSRHQLERHPDLNNYQEIRETAGRRYAWKTSQGQNEGSSVV  199
+
+Query  111  VNWSPGVGLM-VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHG-GDRLDPKS  168
+            V W+     M +D +G P G +S + ++  + LAHEL+HAKH+M G +     D  DP++
+Sbjct  200  VTWTAHQTSMGLDEDGDPTGPTSSHRDKVSL-LAHELVHAKHMMGGTWMGSYDDSRDPET  376
+
+Query  169  KSGKEELRATGLGKYASERV---SENSIRAENGLPIRK--HYAG  207
+             SGKEELRA G+G+Y   +    SENS+RAE+ LP R   HY+G
+Sbjct  377  DSGKEELRAVGIGEYKYSKTRQPSENSVRAEHDLPKRASYHYSG  508
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 210793056
+
+
+  Database: WHRI_3978.fasta
+    Posted date:  Dec 14, 2025  11:02 AM
+  Number of letters in database: 5,114,276
+  Number of sequences in database:  58
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

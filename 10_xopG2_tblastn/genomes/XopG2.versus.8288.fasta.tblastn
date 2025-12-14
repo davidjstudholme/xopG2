@@ -1,0 +1,93 @@
+TBLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: 8288.fasta
+           1 sequences; 5,106,871 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP066955.1 Xanthomonas campestris pv. campestris strain 08288 chr...  425     1e-138
+
+
+>CP066955.1 Xanthomonas campestris pv. campestris strain 08288 
+chromosome, complete genome
+Length=5106871
+
+ Score = 425 bits (1093),  Expect = 1e-138, Method: Compositional matrix adjust.
+ Identities = 207/207 (100%), Positives = 207/207 (100%), Gaps = 0/207 (0%)
+ Frame = +3
+
+Query  1        MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP  60
+                MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP
+Sbjct  1104135  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP  1104314
+
+Query  61       PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM  120
+                PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM
+Sbjct  1104315  PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM  1104494
+
+Query  121      VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGKEELRATGL  180
+                VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGKEELRATGL
+Sbjct  1104495  VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGKEELRATGL  1104674
+
+Query  181      GKYASERVSENSIRAENGLPIRKHYAG  207
+                GKYASERVSENSIRAENGLPIRKHYAG
+Sbjct  1104675  GKYASERVSENSIRAENGLPIRKHYAG  1104755
+
+
+ Score = 120 bits (301),  Expect = 3e-32, Method: Compositional matrix adjust.
+ Identities = 80/209 (38%), Positives = 117/209 (56%), Gaps = 14/209 (7%)
+ Frame = -3
+
+Query  5        TRHPTIEINRYRSAD---YPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESPP  61
+                T  P I I+   SA    Y ++V++AL +I +  SG+ LL+GL  ++A   + +      
+Sbjct  1262543  TNFPGIYISTQTSAREEPYKNQVESALERIAAGSSGSALLQGLSAISARKNRKVTIAEIG  1262364
+
+Query  62       WNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLMV  121
+                    P   AV +  +  KY     + E   +   + K R  KG+G NA + WSP   + +
+Sbjct  1262363  AEAQPKTRAVLSGSEVEKY-----DPETFADNLALAKERARKGKGCNAIIEWSPQSHIEL  1262199
+
+Query  122      DSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFK--HGGDRLDPKSKSGKEELRATG  179
+                ++ G P    S   E++FV LAHELIHA+H+++G  +   GGDR D  S++GKEELRA G
+Sbjct  1262198  NANGSPLRLGSN-PEESFVVLAHELIHAQHLLAGTSRAYKGGDRYDETSEAGKEELRAVG  1262022
+
+Query  180      LGKYASERV---SENSIRAENGLPIRKHY  205
+                +GKY   +    SENSIR E+GLP+RK Y
+Sbjct  1262021  VGKYEYRKTRQPSENSIRQEHGLPVRKKY  1261935
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 211073668
+
+
+  Database: 8288.fasta
+    Posted date:  Dec 14, 2025  11:01 AM
+  Number of letters in database: 5,106,871
+  Number of sequences in database:  1
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

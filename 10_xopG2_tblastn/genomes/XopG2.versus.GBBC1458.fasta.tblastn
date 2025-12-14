@@ -1,0 +1,77 @@
+TBLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: GBBC1458.fasta
+           1 sequences; 5,024,642 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP075146.1 Xanthomonas campestris pv. campestris strain GBBC1458 ...  319     9e-102
+
+
+>CP075146.1 Xanthomonas campestris pv. campestris strain GBBC1458 
+chromosome, complete genome
+Length=5024642
+
+ Score = 319 bits (818),  Expect = 9e-102, Method: Compositional matrix adjust.
+ Identities = 155/155 (100%), Positives = 155/155 (100%), Gaps = 0/155 (0%)
+ Frame = +2
+
+Query  53       KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVN  112
+                KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVN
+Sbjct  1107971  KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVN  1108150
+
+Query  113      WSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGK  172
+                WSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGK
+Sbjct  1108151  WSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGK  1108330
+
+Query  173      EELRATGLGKYASERVSENSIRAENGLPIRKHYAG  207
+                EELRATGLGKYASERVSENSIRAENGLPIRKHYAG
+Sbjct  1108331  EELRATGLGKYASERVSENSIRAENGLPIRKHYAG  1108435
+
+
+ Score = 113 bits (282),  Expect = 9e-30, Method: Compositional matrix adjust.
+ Identities = 54/54 (100%), Positives = 54/54 (100%), Gaps = 0/54 (0%)
+ Frame = +2
+
+Query  1        MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKV  54
+                MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKV
+Sbjct  1106735  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKV  1106896
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 207674828
+
+
+  Database: GBBC1458.fasta
+    Posted date:  Dec 14, 2025  11:01 AM
+  Number of letters in database: 5,024,642
+  Number of sequences in database:  1
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
