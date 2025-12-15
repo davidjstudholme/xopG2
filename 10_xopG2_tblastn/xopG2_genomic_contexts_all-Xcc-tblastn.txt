@@ -493,3 +493,1421 @@ CDS	complement(1089197..1089541)	JH282_04555	PilZ domain-containing protein	NA
 CP066970.1: 1087868 .. 1088488 in genome 11085.fasta
 Hit covers 100 %
 
+CDS	1085690..1086232	JH300_04555	YecA family protein	NA	
+CDS	1086245..1087579	JH300_04560	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1087868..1088491	JH300_04565	type III secretion system effector protein	NA	
+CDS	complement(1088729..1090054)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1090252..1090596)	JH300_04575	PilZ domain-containing protein	NA	
+
+CP066943.1: 963991 .. 964458 in genome 12049.fasta
+!!! Hit covers 75 %
+!!! Hit covers 25 %
+
+CDS	961661..962203	JH293_03990	YecA family protein	NA	
+CDS	962216..963550	JH293_03995	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	963839..964111	JH293_04000	hypothetical protein	NA	
+CDS	964048..964461	JH293_04005	hypothetical protein	NA	
+CDS	complement(964699..966024)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(966222..966566)	JH293_04015	PilZ domain-containing protein	NA	
+
+CP066939.1: 3897901 .. 3898521 in genome 12112.fasta
+Hit covers 100 %
+
+CDS	3895793..3896137	JH286_16840	PilZ domain-containing protein	NA	
+CDS	3896335..3897660	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(3897898..3898521)	JH286_16850	type III secretion system effector protein	NA	
+CDS	complement(3898810..3900144)	JH286_16855	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(3900157..3900699)	JH286_16860	YecA family protein	NA	
+
+CP155947.1: 1111852 .. 1112349 in genome 419.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	1109026..1110360	ABFT92_04695	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1110870..1111832	ABFT92_04700	IS1595-like element ISXca4 family transposase	NA	***
+CDS	1111858..1112352	ABFT92_04705	M91 family zinc metallopeptidase	NA	
+CDS	complement(1112590..1113915)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1114113..1114457)	ABFT92_04715	PilZ domain-containing protein	NA	
+
+CP066950.1: 1084758 .. 1085378 in genome 474.fasta
+Hit covers 100 %
+
+CDS	1082580..1083122	JH298_04550	YecA family protein	NA	
+CDS	1083135..1084469	JH298_04555	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1084731..1085381	JH298_04560	type III secretion system effector protein	NA	
+CDS	complement(1085619..1086944)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1087142..1087486)	JH298_04570	PilZ domain-containing protein	NA	
+
+JAUIMZ010000035.1: 79 .. 543 in genome 5495.fasta
+!!! Hit covers 74 %
+
+CDS	85..546	QYY56_15370	M91 family zinc metallopeptidase	NA	
+CDS	complement(784..2109)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2307..2651)	QYY56_15380	PilZ domain-containing protein	NA	
+
+JAUINL010000049.1: 28549 .. 29013 in genome 5499.fasta
+!!! Hit covers 74 %
+
+CDS	26441..26785	QYY65_19160	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29007)	QYY65_19170	M91 family zinc metallopeptidase	NA	
+
+JAUINE010000020.1: 44005 .. 44625 in genome 5610.fasta
+Hit covers 100 %
+
+CDS	41827..42369	QYY87_12895	YecA family protein	NA	
+CDS	42382..43716	QYY87_12900	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43978..44628	QYY87_12905	type III secretion system effector protein	NA	
+CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46389..46733)	QYY87_12915	PilZ domain-containing protein	NA	
+
+JAUINF010000027.1: 28549 .. 29169 in genome 5630.fasta
+STOP codon in JAUINF010000027.1: 28549 .. 29169
+Hit covers 100 %
+
+CDS	26441..26785	QYY69_15325	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29169)	QYY69_15335	type III secretion system effector protein	NA	
+CDS	complement(29458..30792)	QYY69_15340	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	QYY69_15345	YecA family protein	NA	
+
+JAUING010000039.1: 45506 .. 46126 in genome 5631.fasta
+STOP codon in JAUING010000039.1: 45506 .. 46126
+Hit covers 100 %
+
+CDS	43328..43870	QYY71_18200	YecA family protein	NA	
+CDS	43883..45217	QYY71_18205	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45506..46195	QYY71_18210	type III secretion system effector protein	NA	
+
+JAUINJ010000036.1: 49445 .. 49942 in genome 5714B.fasta
+!!! Hit covers 80 %
+
+CDS	47337..47681	QYY70_16505	PilZ domain-containing protein	NA	
+CDS	47879..49204	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49442..49936)	QYY70_16515	M91 family zinc metallopeptidase	NA	
+
+JAUINK010000036.1: 49445 .. 49942 in genome 5715A.fasta
+!!! Hit covers 80 %
+
+CDS	47337..47681	QYY80_16640	PilZ domain-containing protein	NA	
+CDS	47879..49204	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49442..49936)	QYY80_16650	M91 family zinc metallopeptidase	NA	
+
+JAUINP010000037.1: 78 .. 575 in genome 5732.fasta
+!!! Hit covers 80 %
+
+CDS	84..578	QYY63_16985	M91 family zinc metallopeptidase	NA	
+CDS	complement(816..2141)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2339..2683)	QYY63_16995	PilZ domain-containing protein	NA	
+
+JAUINQ010000035.1: 49445 .. 49942 in genome 5733.fasta
+!!! Hit covers 80 %
+
+CDS	47337..47681	QYY88_17965	PilZ domain-containing protein	NA	
+CDS	47879..49204	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49442..49936)	QYY88_17975	M91 family zinc metallopeptidase	NA	
+
+JAUINR010000036.1: 78 .. 575 in genome 5734.fasta
+!!! Hit covers 80 %
+
+CDS	84..578	QYZ29_16880	M91 family zinc metallopeptidase	NA	
+CDS	complement(816..2141)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2339..2683)	QYZ29_16890	PilZ domain-containing protein	NA	
+
+JAUINS010000035.1: 49445 .. 49942 in genome 5735.fasta
+!!! Hit covers 80 %
+
+CDS	47337..47681	QYZ02_17255	PilZ domain-containing protein	NA	
+CDS	47879..49204	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49442..49936)	QYZ02_17265	M91 family zinc metallopeptidase	NA	
+
+JAUINT010000037.1: 78 .. 575 in genome 5736.fasta
+!!! Hit covers 80 %
+
+CDS	84..578	QYY78_17045	M91 family zinc metallopeptidase	NA	
+CDS	complement(816..2141)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2339..2683)	QYY78_17055	PilZ domain-containing protein	NA	
+
+JAUINU010000025.1: 28549 .. 29169 in genome 5737.fasta
+Hit covers 100 %
+
+CDS	26441..26785	QYY60_15725	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29196)	QYY60_15735	type III secretion system effector protein	NA	
+CDS	complement(29458..30792)	QYY60_15740	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	QYY60_15745	YecA family protein	NA	
+
+JAUINV010000028.1: 28549 .. 29169 in genome 5739.fasta
+Hit covers 100 %
+
+CDS	26441..26785	QYY59_16055	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29196)	QYY59_16065	type III secretion system effector protein	NA	
+CDS	complement(29458..30792)	QYY59_16070	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	QYY59_16075	YecA family protein	NA	
+
+JAUINZ010000037.1: 78 .. 575 in genome 5742.fasta
+!!! Hit covers 80 %
+
+CDS	84..578	QYZ00_16520	M91 family zinc metallopeptidase	NA	
+CDS	complement(816..2141)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2339..2683)	QYZ00_16530	PilZ domain-containing protein	NA	
+
+JAUIOA010000037.1: 78 .. 575 in genome 5743.fasta
+!!! Hit covers 80 %
+
+CDS	84..578	QYY76_16580	M91 family zinc metallopeptidase	NA	
+CDS	complement(816..2141)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2339..2683)	QYY76_16590	PilZ domain-containing protein	NA	
+
+JAUIOI010000020.1: 45506 .. 46126 in genome 5783.fasta
+STOP codon in JAUIOI010000020.1: 45506 .. 46126
+Hit covers 100 %
+
+CDS	43328..43870	QYZ34_13875	YecA family protein	NA	
+CDS	43883..45217	QYZ34_13880	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45506..46129	QYZ34_13885	type III secretion system effector protein	NA	
+CDS	complement(46367..47692)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47890..48234)	QYZ34_13895	PilZ domain-containing protein	NA	
+
+JAUION010000019.1: 45506 .. 46126 in genome 5784.fasta
+STOP codon in JAUION010000019.1: 45506 .. 46126
+Hit covers 100 %
+
+CDS	43328..43870	QYZ16_13685	YecA family protein	NA	
+CDS	43883..45217	QYZ16_13690	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45506..46129	QYZ16_13695	type III secretion system effector protein	NA	
+CDS	complement(46367..47692)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47890..48234)	QYZ16_13705	PilZ domain-containing protein	NA	
+
+JAUIOP010000029.1: 44005 .. 44625 in genome 5802.fasta
+STOP codon in JAUIOP010000029.1: 44005 .. 44625
+Hit covers 100 %
+
+CDS	41827..42369	QYY97_16615	YecA family protein	NA	
+CDS	42382..43716	QYY97_16620	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44005..44628	QYY97_16625	type III secretion system effector protein	NA	
+CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46389..46733)	QYY97_16635	PilZ domain-containing protein	NA	
+
+JAUIPD010000019.1: 49448 .. 50068 in genome 6018A.fasta
+STOP codon in JAUIPD010000019.1: 49448 .. 50068
+Hit covers 100 %
+
+CDS	47340..47684	QYZ03_13285	PilZ domain-containing protein	NA	
+CDS	47882..49207	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49445..50068)	QYZ03_13295	type III secretion system effector protein	NA	
+CDS	complement(50357..51691)	QYZ03_13300	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51704..52246)	QYZ03_13305	YecA family protein	NA	
+
+JAUIPL010000035.1: 49451 .. 49948 in genome 6290.fasta
+!!! Hit covers 80 %
+
+CDS	47343..47687	QYZ17_17515	PilZ domain-containing protein	NA	
+CDS	47885..49210	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49448..49942)	QYZ17_17525	M91 family zinc metallopeptidase	NA	
+
+CP155948.1: 1089843 .. 1090151 in genome 8004.fasta
+!!! Hit covers 51 %
+!!! Hit covers 49 %
+
+CDS	1087665..1088207	ABFU73_04590	YecA family protein	NA	
+CDS	1088220..1089554	ABFU73_04595	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1089816..1090172	ABFU73_04600	M91 family zinc metallopeptidase	NA	
+CDS	complement(join(1090159..1090687,1090686..1090957))	ABFU73_04605	IS5 family transposase	NA	***
+CDS	1091052..1091318	ABFU73_04610	M91 family zinc metallopeptidase	NA	
+CDS	complement(1091556..1092881)	pepQ	Xaa-Pro dipeptidase	NA	
+
+CP066945.1: 1084446 .. 1085066 in genome 8284.fasta
+Hit covers 100 %
+
+CDS	1082268..1082810	JH306_04550	YecA family protein	NA	
+CDS	1082823..1084157	JH306_04555	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1084446..1085069	JH306_04560	type III secretion system effector protein	NA	
+CDS	complement(1085307..1086632)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1086830..1087174)	JH306_04570	PilZ domain-containing protein	NA	
+
+CP066955.1: 1104135 .. 1104755 in genome 8288.fasta
+Hit covers 100 %
+!!! Hit covers 97 %
+
+CDS	1101957..1102499	JH309_04630	YecA family protein	NA	
+CDS	1102512..1103846	JH309_04635	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1104084..1104758	JH309_04640	type III secretion system effector protein	NA	
+CDS	complement(1104996..1106321)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1106519..1106863)	JH309_04650	PilZ domain-containing protein	NA	
+
+CP066934.1: 1104415 .. 1105035 in genome 8290.fasta
+Hit covers 100 %
+!!! Hit covers 97 %
+
+CDS	1102237..1102779	JH256_04630	YecA family protein	NA	
+CDS	1102792..1104126	JH256_04635	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1104388..1105038	JH256_04640	type III secretion system effector protein	NA	
+CDS	complement(1105276..1106601)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1106799..1107143)	JH256_04650	PilZ domain-containing protein	NA	
+
+CP066966.1: 1104272 .. 1104892 in genome 8305.fasta
+Hit covers 100 %
+
+CDS	1102094..1102636	JH275_04665	YecA family protein	NA	
+CDS	1102649..1103983	JH275_04670	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1104245..1104895	JH275_04675	type III secretion system effector protein	NA	
+CDS	complement(1105133..1106458)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1106656..1107000)	JH275_04685	PilZ domain-containing protein	NA	
+
+JAUIPQ010000015.1: 43997 .. 44617 in genome 8819.fasta
+Hit covers 100 %
+
+CDS	41819..42361	QYZ05_10755	YecA family protein	NA	
+CDS	42374..43708	QYZ05_10760	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43997..44620	QYZ05_10765	type III secretion system effector protein	NA	
+CDS	complement(44858..46183)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46381..46725)	QYZ05_10775	PilZ domain-containing protein	NA	
+
+JAUIPR010000019.1: 43999 .. 44619 in genome 8891A.fasta
+Hit covers 100 %
+
+CDS	41821..42363	QYZ13_13745	YecA family protein	NA	
+CDS	42376..43710	QYZ13_13750	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43948..44622	QYZ13_13755	type III secretion system effector protein	NA	
+CDS	complement(44860..46185)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46383..46727)	QYZ13_13765	PilZ domain-containing protein	NA	
+
+JAUIPT010000015.1: 43908 .. 44528 in genome 8908.fasta
+Hit covers 100 %
+
+CDS	41730..42272	QYZ01_10445	YecA family protein	NA	
+CDS	42285..43619	QYZ01_10450	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43881..44531	QYZ01_10455	type III secretion system effector protein	NA	
+CDS	complement(44769..46094)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46292..46636)	QYZ01_10465	PilZ domain-containing protein	NA	
+
+JAUIPU010000012.1: 67619 .. 68239 in genome 8909A.fasta
+Hit covers 100 %
+
+CDS	65511..65855	QYY75_09790	PilZ domain-containing protein	NA	
+CDS	66053..67378	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67616..68266)	QYY75_09800	type III secretion system effector protein	NA	
+CDS	complement(68528..69862)	QYY75_09805	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69875..70417)	QYY75_09810	YecA family protein	NA	
+
+JAUIPV010000014.1: 45502 .. 46122 in genome 8934A.fasta
+Hit covers 100 %
+
+CDS	43324..43866	QYZ33_10090	YecA family protein	NA	
+CDS	43879..45213	QYZ33_10095	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45502..46125	QYZ33_10100	type III secretion system effector protein	NA	
+CDS	complement(46363..47688)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47886..48230)	QYZ33_10110	PilZ domain-containing protein	NA	
+
+JAUIPW010000017.1: 45553 .. 46173 in genome 8959A.fasta
+Hit covers 100 %
+
+CDS	43375..43917	QYZ35_12045	YecA family protein	NA	
+CDS	43930..45264	QYZ35_12050	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45553..46176	QYZ35_12055	type III secretion system effector protein	NA	
+CDS	complement(46414..47739)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47937..48281)	QYZ35_12065	PilZ domain-containing protein	NA	
+
+AE008922.1: 3871055 .. 3871675 in genome ATCC_33913.fasta
+Hit covers 100 %
+
+CDS	3868947..3869291	XCC3256	conserved hypothetical protein	NA	
+CDS	3869489..3870814	pepQ	proline dipeptidase	NA	
+CDS	complement(3871052..3871675)	XCC3258	conserved hypothetical protein	NA	
+CDS	complement(3871964..3873298)	pepP	aminopeptidase P	NA	
+CDS	complement(3873311..3873853)	XCC3260	conserved hypothetical protein	NA	
+
+CDNB01000022.1: 45424 .. 46044 in genome B1459.fasta
+Hit covers 100 %
+
+CDS	43246..43788	XCCB1459_0925	UPF0149 protein	NA	
+CDS	43801..45135	pepP	aminopeptidase P	NA	
+CDS	complement(46285..47610)	pepQ	proline dipeptidase	NA	
+CDS	complement(47808..48152)	XCCB1459_0928	hypothetical protein	NA	
+
+HG764958.1: 1077364 .. 1077984 in genome CFBP6863.fasta
+Hit covers 100 %
+
+
+CP155982.1: 1139167 .. 1139787 in genome CFBP_1121.fasta
+Hit covers 100 %
+
+CDS	1136989..1137531	ABFU32_04810	YecA family protein	NA	
+CDS	1137544..1138878	ABFU32_04815	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1139167..1139790	ABFU32_04820	type III secretion system effector protein	NA	
+CDS	complement(1140028..1141353)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1141551..1141895)	ABFU32_04830	PilZ domain-containing protein	NA	
+
+CP155933.1: 1107887 .. 1108507 in genome CFBP_1124.fasta
+Hit covers 100 %
+
+CDS	1105709..1106251	ABFU36_04685	YecA family protein	NA	
+CDS	1106264..1107598	ABFU36_04690	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1107860..1108510	ABFU36_04695	type III secretion system effector protein	NA	
+CDS	complement(1108748..1110073)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1110271..1110615)	ABFU36_04705	PilZ domain-containing protein	NA	
+
+CP155981.1: 1107011 .. 1107631 in genome CFBP_1710.fasta
+Hit covers 100 %
+
+CDS	1104833..1105375	ABFU28_04670	YecA family protein	NA	
+CDS	1105388..1106722	ABFU28_04675	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1106984..1107634	ABFU28_04680	type III secretion system effector protein	NA	
+CDS	complement(1107872..1109197)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1109395..1109739)	ABFU28_04690	PilZ domain-containing protein	NA	
+
+CM002541.1: 1059534 .. 1060154 in genome CFBP_1712.fasta
+Hit covers 100 %
+
+
+CM002580.1: 1083260 .. 1083880 in genome CFBP_1713.fasta
+Hit covers 100 %
+
+
+CP155930.1: 1096198 .. 1096818 in genome CFBP_4954.fasta
+Hit covers 100 %
+
+CDS	1094020..1094562	ABFU18_04635	YecA family protein	NA	
+CDS	1094575..1095909	ABFU18_04640	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1096198..1096821	ABFU18_04645	type III secretion system effector protein	NA	
+CDS	complement(1097059..1098384)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1098582..1098926)	ABFU18_04655	PilZ domain-containing protein	NA	
+
+CM002551.1: 1068505 .. 1069125 in genome CFBP_4955.fasta
+Hit covers 100 %
+
+
+CP155931.1: 3868639 .. 3869259 in genome CFBP_5241.fasta
+Hit covers 100 %
+
+CDS	3866531..3866875	ABFU24_16975	PilZ domain-containing protein	NA	
+CDS	3867073..3868398	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(3868636..3869259)	ABFU24_16985	type III secretion system effector protein	NA	
+CDS	complement(3869548..3870882)	ABFU24_16990	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(3870895..3871437)	ABFU24_16995	YecA family protein	NA	
+
+CM002558.1: 1066962 .. 1067582 in genome CFBP_5683.fasta
+Hit covers 100 %
+
+
+CP156004.1: 1110001 .. 1110621 in genome CFBP_6863.fasta
+Hit covers 100 %
+
+CDS	1107823..1108365	ABFT93_04675	YecA family protein	NA	
+CDS	1108378..1109712	ABFT93_04680	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1110001..1110624	ABFT93_04685	type III secretion system effector protein	NA	
+CDS	complement(1110862..1112187)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1112385..1112729)	ABFT93_04695	PilZ domain-containing protein	NA	
+
+JBDOJB010000001.1: 1094097 .. 1094717 in genome CFBP_6865.fasta
+Hit covers 100 %
+
+CDS	1091919..1092461	ABFU74_04610	YecA family protein	NA	
+CDS	1092474..1093808	ABFU74_04615	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1094097..1094720	ABFU74_04620	type III secretion system effector protein	NA	
+CDS	complement(1094958..1096283)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1096481..1096825)	ABFU74_04630	PilZ domain-containing protein	NA	
+
+CM002537.1: 1085548 .. 1086168 in genome CFBP_6865R.fasta
+Hit covers 100 %
+
+
+CP155939.1: 3893500 .. 3893997 in genome CFBP_8242.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	3891392..3891736	ABFU70_17015	PilZ domain-containing protein	NA	
+CDS	3891934..3893259	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(3893497..3893991)	ABFU70_17025	M91 family zinc metallopeptidase	NA	
+CDS	complement(3894017..3894979)	ABFU70_17030	IS1595-like element ISXca4 family transposase	NA	***
+CDS	complement(3895489..3896823)	ABFU70_17035	aminopeptidase P N-terminal domain-containing protein	NA	
+
+CM002574.1: 1062246 .. 1062743 in genome CN07.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+
+HG752432.1: 1108452 .. 1109072 in genome CN13.fasta
+Hit covers 100 %
+
+
+CP017317.1: 1068391 .. 1069011 in genome CN14.fasta
+Hit covers 100 %
+!!! Hit covers 97 %
+
+
+CP017323.1: 1068386 .. 1069006 in genome CN15.fasta
+Hit covers 100 %
+!!! Hit covers 97 %
+
+
+CP017389.1: 1068356 .. 1068976 in genome CN16.fasta
+Hit covers 100 %
+!!! Hit covers 97 %
+
+
+CP075146.1: 1107971 .. 1108435 in genome GBBC1458.fasta
+!!! Hit covers 74 %
+!!! Hit covers 26 %
+
+CDS	1105112..1106446	KIV67_04660	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1106708..1106902	KIV67_04665	hypothetical protein	NA	
+CDS	1106989..1107951	KIV67_04670	IS1595-like element ISXca4 family transposase	NA	***
+CDS	1107977..1108438	KIV67_04675	hypothetical protein	NA	
+CDS	complement(1108676..1110001)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1110199..1110543)	KIV67_04685	PilZ domain-containing protein	NA	
+
+JAHBRD010000001.1: 406763 .. 407383 in genome GBBC_1372.fasta
+Hit covers 100 %
+
+CDS	404585..405127	KIP37_01675	YecA family protein	NA	
+CDS	405140..406474	KIP37_01680	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	406712..407386	KIP37_01685	type III secretion system effector protein	NA	
+CDS	complement(407624..408949)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(409147..409491)	KIP37_01695	PilZ domain-containing protein	NA	
+
+JAHBRC010000001.1: 153651 .. 154115 in genome GBBC_1412.fasta
+!!! Hit covers 74 %
+!!! Hit covers 26 %
+
+CDS	151543..151887	KIP58_00610	PilZ domain-containing protein	NA	
+CDS	152085..153410	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(153648..154109)	KIP58_00620	hypothetical protein	NA	
+CDS	complement(154135..155097)	KIP58_00625	IS1595-like element ISXca4 family transposase	NA	***
+CDS	complement(155184..155378)	KIP58_00630	hypothetical protein	NA	
+CDS	complement(155640..156974)	KIP58_00635	aminopeptidase P N-terminal domain-containing protein	NA	
+
+JAHBRB010000035.1: 49367 .. 49831 in genome GBBC_1414.fasta
+!!! Hit covers 74 %
+
+CDS	47259..47603	KIP62_17585	PilZ domain-containing protein	NA	
+CDS	47801..49126	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49364..>49832)	KIP62_17595	type III secretion system effector protein	NA	
+
+JAHBQY010000001.1: 1861698 .. 1862195 in genome GBBC_1429.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	1859590..1859934	KIP44_07805	PilZ domain-containing protein	NA	
+CDS	1860132..1861457	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1861695..1862189)	KIP44_07815	type III secretion system effector protein	NA	
+CDS	complement(1862215..1863177)	KIP44_07820	IS1595-like element ISXca4 family transposase	NA	***
+CDS	complement(1863687..1865021)	KIP44_07825	aminopeptidase P N-terminal domain-containing protein	NA	
+
+JAHBQW010000039.1: 2 .. 466 in genome GBBC_1456.fasta
+!!! Hit covers 74 %
+
+CDS	<1..469	KIP46_13500	type III secretion system effector protein	NA	
+CDS	complement(707..2032)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2230..2574)	KIP46_13510	PilZ domain-containing protein	NA	
+
+JAHBQU010000034.1: 2 .. 466 in genome GBBC_3216.fasta
+!!! Hit covers 74 %
+
+CDS	<1..469	KIP23_10425	type III secretion system effector protein	NA	
+CDS	complement(707..2032)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2230..2574)	KIP23_10435	PilZ domain-containing protein	NA	
+
+JAHBQQ010000001.1: 4028876 .. 4029496 in genome GBBC_3229.fasta
+Hit covers 100 %
+
+CDS	4026768..4027112	KIP31_17605	PilZ domain-containing protein	NA	
+CDS	4027310..4028635	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(4028873..4029523)	KIP31_17615	type III secretion system effector protein	NA	
+CDS	complement(4029785..4031119)	KIP31_17620	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(4031132..4031674)	KIP31_17625	YecA family protein	NA	
+
+CP012145.1: 1060216 .. 1060524 in genome ICMP_21080.fasta
+!!! Hit covers 51 %
+!!! Hit covers 49 %
+
+CDS	1058038..1058580	AEA00_04425	hypothetical protein	NA	
+CDS	1058593..1059927	AEA00_04430	Xaa-Pro aminopeptidase	NA	
+CDS	complement(1060532..1061002)	AEA00_04435	transposase	NA	***
+CDS	complement(1061436..1062248)	AEA00_04440	beta-lactamase	NA	
+CDS	complement(1062262..1063074)	AEA00_04445	endonuclease	NA	
+
+CP155968.1: 1105440 .. 1106060 in genome IPO_3367.fasta
+Hit covers 100 %
+
+CDS	1103262..1103804	ABFU11_04665	YecA family protein	NA	
+CDS	1103817..1105151	ABFU11_04670	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1105413..1106063	ABFU11_04675	type III secretion system effector protein	NA	
+CDS	complement(1106301..1107626)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1107824..1108168)	ABFU11_04685	PilZ domain-containing protein	NA	
+
+CP155999.1: 1091219 .. 1091527 in genome LMG_00572.fasta
+!!! Hit covers 51 %
+!!! Hit covers 49 %
+
+CDS	1089041..1089583	ABFU10_04595	YecA family protein	NA	
+CDS	1089596..1090930	ABFU10_04600	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1091219..1091548	ABFU10_04605	M91 family zinc metallopeptidase	NA	
+CDS	complement(join(1091535..1092063,1092062..1092333))	ABFU10_04610	IS5 family transposase	NA	***
+CDS	1092428..1092694	ABFU10_04615	M91 family zinc metallopeptidase	NA	
+CDS	complement(1092932..1094257)	pepQ	Xaa-Pro dipeptidase	NA	
+
+CP155998.1: 1134613 .. 1135233 in genome LMG_00574.fasta
+Hit covers 100 %
+
+CDS	1132435..1132977	ABFU56_04870	YecA family protein	NA	
+CDS	1132990..1134324	ABFU56_04875	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1134613..1135236	ABFU56_04880	type III secretion system effector protein	NA	
+CDS	complement(1135474..1136799)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1136997..1137341)	ABFU56_04890	PilZ domain-containing protein	NA	
+
+CP155996.1: 1110545 .. 1111042 in genome LMG_07460.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	1107721..1109053	ABFU01_04695	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1109563..1110525	ABFU01_04700	IS1595-like element ISXca4 family transposase	NA	***
+CDS	1110551..1111045	ABFU01_04705	M91 family zinc metallopeptidase	NA	
+CDS	complement(1111283..1112608)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1112806..1113150)	ABFU01_04715	PilZ domain-containing protein	NA	
+
+CP155994.1: 1085745 .. 1086365 in genome LMG_07461.fasta
+Hit covers 100 %
+
+CDS	1083567..1084109	ABFU62_04595	YecA family protein	NA	
+CDS	1084122..1085456	ABFU62_04600	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1085745..1086368	ABFU62_04605	type III secretion system effector protein	NA	
+CDS	complement(1086606..1087931)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1088129..1088473)	ABFU62_04615	PilZ domain-containing protein	NA	
+
+CP155989.1: 1121516 .. 1122013 in genome LMG_08006.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	1118690..1120024	ABFU50_04770	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1120534..1121496	ABFU50_04775	IS1595-like element ISXca4 family transposase	NA	***
+CDS	1121522..1122016	ABFU50_04780	M91 family zinc metallopeptidase	NA	
+CDS	complement(1122254..1123579)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1123777..1124121)	ABFU50_04790	PilZ domain-containing protein	NA	
+
+CP155987.1: 1094243 .. 1094863 in genome LMG_08081.fasta
+Hit covers 100 %
+
+CDS	1092065..1092607	ABFU63_04620	YecA family protein	NA	
+CDS	1092620..1093954	ABFU63_04625	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1094243..1094866	ABFU63_04630	type III secretion system effector protein	NA	
+CDS	complement(1095104..1096429)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1096627..1096971)	ABFU63_04640	PilZ domain-containing protein	NA	
+
+CP155985.1: 4177933 .. 4178553 in genome LMG_08106.fasta
+Hit covers 100 %
+
+CDS	4175825..4176169	ABFU61_18300	PilZ domain-containing protein	NA	
+CDS	4176367..4177692	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(4177930..4178553)	ABFU61_18310	type III secretion system effector protein	NA	
+CDS	complement(4178842..4180176)	ABFU61_18315	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(4180189..4180731)	ABFU61_18320	YecA family protein	NA	
+
+JBGOGE010000022.1: 43922 .. 44542 in genome NCPPB_3927.fasta
+Hit covers 100 %
+
+CDS	41744..42286	ACD594_17395	YecA family protein	NA	
+CDS	42299..43633	ACD594_17400	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43922..44545	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(44783..46108)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46306..46650)	ACD594_17415	PilZ domain-containing protein	NA	
+
+JBGOGD010000020.1: 67462 .. 68082 in genome NCPPB_4678.fasta
+Hit covers 100 %
+
+CDS	65354..65698	ACD583_14835	PilZ domain-containing protein	NA	
+CDS	65896..67221	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67459..68082)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68371..69705)	ACD583_14850	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69718..70260)	ACD583_14855	YecA family protein	NA	
+
+JBGOGC010000016.1: 67456 .. 68076 in genome NCPPB_4680.fasta
+Hit covers 100 %
+
+CDS	65348..65692	ACD588_13520	PilZ domain-containing protein	NA	
+CDS	65890..67215	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67453..68076)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68365..69699)	ACD588_13535	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69712..70254)	ACD588_13540	YecA family protein	NA	
+
+JBGOGB010000019.1: 49185 .. 49805 in genome NCPPB_4682.fasta
+Hit covers 100 %
+
+CDS	47077..47421	ACD586_15585	PilZ domain-containing protein	NA	
+CDS	47619..48944	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49182..49805)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(50094..51428)	ACD586_15600	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51441..51983)	ACD586_15605	YecA family protein	NA	
+
+JAJFNA010000026.1: 28550 .. 29170 in genome NCPPB_528.fasta
+Hit covers 100 %
+
+CDS	26442..26786	LLE66_17315	PilZ domain-containing protein	NA	
+CDS	26984..28309	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28547..29197)	LLE66_17325	type III secretion system effector protein	NA	
+CDS	complement(29459..30793)	LLE66_17330	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30806..31348)	LLE66_17335	YecA family protein	NA	
+
+JAMXPG010000020.1: 45164 .. 45628 in genome SB113.fasta
+!!! Hit covers 74 %
+!!! Hit covers 26 %
+
+CDS	42305..43639	NHH59_12105	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44182..45144	NHH59_12110	IS1595-like element ISXca4 family transposase	NA	***
+CDS	45170..45631	NHH59_12115	type III secretion system effector protein	NA	
+CDS	complement(45869..47194)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47392..47736)	NHH59_12125	PilZ domain-containing protein	NA	
+
+JAMXPI010000014.1: 46223 .. 46843 in genome SB39_1.fasta
+Hit covers 100 %
+
+CDS	44045..44587	NHH66_10070	YecA family protein	NA	
+CDS	44600..45934	NHH66_10075	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46304..46846	NHH66_10080	type III secretion system effector protein	NA	
+CDS	complement(47084..48409)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48607..48951)	NHH66_10090	PilZ domain-containing protein	NA	
+
+JAMXPE010000034.1: 1 .. 498 in genome SO1.fasta
+!!! Hit covers 80 %
+
+CDS	<1..501	NHH64_17425	type III secretion system effector protein	NA	
+CDS	complement(739..2064)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2262..2606)	NHH64_17435	PilZ domain-containing protein	NA	
+
+JAMXPC010000020.1: 49365 .. 49985 in genome TR7.fasta
+Hit covers 100 %
+
+CDS	47257..47601	NHH58_13780	PilZ domain-containing protein	NA	
+CDS	47799..49124	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49362..50012)	NHH58_13790	type III secretion system effector protein	NA	
+CDS	complement(50274..51608)	NHH58_13795	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51621..52163)	NHH58_13800	YecA family protein	NA	
+
+JAYITM010000020.1: 54076 .. 54696 in genome WHRI_10030A.fasta
+Hit covers 100 %
+
+CDS	51898..52440	VDR83_15690	YecA family protein	NA	
+CDS	52453..53787	VDR83_15695	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	54076..54699	VDR83_15700	type III secretion system effector protein	NA	
+CDS	complement(54937..56262)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(56460..56804)	VDR83_15710	PilZ domain-containing protein	NA	
+
+JAYIPJ010000034.1: 28549 .. 29046 in genome WHRI_3843B.fasta
+!!! Hit covers 80 %
+
+CDS	26441..26785	VDQ47_20180	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29040)	VDQ47_20190	M91 family zinc metallopeptidase	NA	
+
+JBEFUY010000031.1: 78 .. 575 in genome WHRI_3844B.fasta
+!!! Hit covers 80 %
+
+CDS	84..578	ABQE77_20205	M91 family zinc metallopeptidase	NA	
+CDS	complement(816..2141)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2339..2683)	ABQE77_20215	PilZ domain-containing protein	NA	
+
+JBEFUZ010000018.1: 49449 .. 50069 in genome WHRI_3845B.fasta
+Hit covers 100 %
+
+CDS	47341..47685	ABQE73_16710	PilZ domain-containing protein	NA	
+CDS	47883..49208	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49446..50096)	ABQE73_16720	type III secretion system effector protein	NA	
+CDS	complement(50358..51692)	ABQE73_16725	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51705..52247)	ABQE73_16730	YecA family protein	NA	
+
+JBEFVA010000039.1: 28558 .. 29055 in genome WHRI_3846B.fasta
+!!! Hit covers 80 %
+
+CDS	26450..26794	ABQF18_20075	PilZ domain-containing protein	NA	
+CDS	26992..28317	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28555..29049)	ABQF18_20085	M91 family zinc metallopeptidase	NA	
+
+JBSJOT010000020.1: 43860 .. 44480 in genome WHRI_3851A.fasta
+Hit covers 100 %
+
+CDS	41752..42096	ACWJJ0_17755	PilZ domain-containing protein	NA	
+CDS	42294..43619	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(43857..44507)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(44769..46103)	ACWJJ0_17770	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(46116..46658)	ACWJJ0_17775	YecA/YgfB family protein	NA	
+
+JBEFVB010000028.1: 28549 .. 29169 in genome WHRI_3852B.fasta
+STOP codon in JBEFVB010000028.1: 28549 .. 29169
+Hit covers 100 %
+
+CDS	26441..26785	ABQE85_18510	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28780..29169)	ABQE85_18520	M91 family zinc metallopeptidase	NA	
+CDS	complement(29458..30792)	ABQE85_18525	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	ABQE85_18530	YecA family protein	NA	
+
+RRXI01000025.1: 67589 .. 68209 in genome WHRI_3880.fasta
+Hit covers 100 %
+
+CDS	65481..65825	EIQ17_06975	PilZ domain-containing protein	NA	
+CDS	66023..67348	EIQ17_06980	Xaa-Pro dipeptidase	NA	
+CDS	complement(67586..68209)	EIQ17_06985	type III secretion system effector protein	NA	
+CDS	complement(68498..69832)	EIQ17_06990	M24 family metallopeptidase	NA	
+CDS	complement(69845..70387)	EIQ17_06995	YecA family protein	NA	
+
+JAYIMH010000026.1: 28525 .. 29145 in genome WHRI_3880_NCPPB_2986.fasta
+Hit covers 100 %
+
+CDS	26417..26761	VDP21_17635	PilZ domain-containing protein	NA	
+CDS	26959..28284	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28522..29145)	VDP21_17645	type III secretion system effector protein	NA	
+CDS	complement(29434..30768)	VDP21_17650	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30781..31323)	VDP21_17655	YecA family protein	NA	
+
+JAYIMI010000025.1: 28538 .. 29158 in genome WHRI_3883_NCPPB_1946.fasta
+Hit covers 100 %
+
+CDS	26430..26774	VDO80_19070	PilZ domain-containing protein	NA	
+CDS	26972..28297	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28535..29158)	VDO80_19080	type III secretion system effector protein	NA	
+CDS	complement(29447..30781)	VDO80_19085	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30794..31336)	VDO80_19090	YecA family protein	NA	
+
+JBEFVD010000030.1: 74 .. 382 in genome WHRI_3961.fasta
+!!! Hit covers 49 %
+
+CDS	complement(53..409)	ABQF24_20660	M91 family zinc metallopeptidase	NA	
+CDS	complement(671..2005)	ABQF24_20665	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(2018..2560)	ABQF24_20670	YecA family protein	NA	
+
+JBEFVD010000031.1: 75 .. 392 in genome WHRI_3961.fasta
+!!! Hit covers 51 %
+
+CDS	87..395	ABQF24_20840	M91 family zinc metallopeptidase	NA	
+CDS	complement(633..1958)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2156..2500)	ABQF24_20850	PilZ domain-containing protein	NA	
+
+JBEFVE010000033.1: 39451 .. 39759 in genome WHRI_3962.fasta
+!!! Hit covers 49 %
+
+CDS	37273..37815	ABQE82_20615	YecA family protein	NA	
+CDS	37828..39162	ABQE82_20620	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	39424..39780	ABQE82_20625	M91 family zinc metallopeptidase	NA	
+
+JBEFVE010000037.1: 72 .. 389 in genome WHRI_3962.fasta
+!!! Hit covers 51 %
+
+CDS	84..392	ABQE82_21100	M91 family zinc metallopeptidase	NA	
+CDS	complement(630..1955)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(2153..2497)	ABQE82_21110	PilZ domain-containing protein	NA	
+
+JAYINK010000023.1: 28549 .. 29169 in genome WHRI_3975A.fasta
+Hit covers 100 %
+
+CDS	26441..26785	VDP12_17770	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29196)	VDP12_17780	type III secretion system effector protein	NA	
+CDS	complement(29458..30792)	VDP12_17785	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	VDP12_17790	YecA family protein	NA	
+
+JAYIMO010000020.1: 44005 .. 44625 in genome WHRI_5212_NCPPB_528.fasta
+Hit covers 100 %
+
+CDS	41827..42369	VDP35_18230	YecA family protein	NA	
+CDS	42382..43716	VDP35_18235	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44005..44628	VDP35_18240	type III secretion system effector protein	NA	
+CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46389..46733)	VDP35_18250	PilZ domain-containing protein	NA	
+
+JAYIMP010000006.1: 83206 .. 83826 in genome WHRI_5219_NCPPB_2517.fasta
+Hit covers 100 %
+
+CDS	81028..81570	VDP16_07450	YecA family protein	NA	
+CDS	81583..82917	VDP16_07455	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	83206..83829	VDP16_07460	type III secretion system effector protein	NA	
+CDS	complement(84067..85392)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(85600..85944)	VDP16_07470	PilZ domain-containing protein	NA	
+
+JBEFUB010000022.1: 49445 .. 50065 in genome WHRI_5486.fasta
+Hit covers 100 %
+
+CDS	47337..47681	ABQE86_16705	PilZ domain-containing protein	NA	
+CDS	47879..49204	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49442..50092)	ABQE86_16715	type III secretion system effector protein	NA	
+CDS	complement(50354..51688)	ABQE86_16720	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51701..52243)	ABQE86_16725	YecA family protein	NA	
+
+JBEFUC010000019.1: 45208 .. 45705 in genome WHRI_5489.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	42382..43716	ABQE71_16070	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44226..45188	ABQE71_16075	IS1595-like element ISXca4 family transposase	NA	***
+CDS	45214..45708	ABQE71_16080	M91 family zinc metallopeptidase	NA	
+CDS	complement(45946..47271)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47469..47813)	ABQE71_16090	PilZ domain-containing protein	NA	
+
+JBEFUD010000028.1: 44005 .. 44625 in genome WHRI_5490.fasta
+STOP codon in JBEFUD010000028.1: 44005 .. 44625
+Hit covers 100 %
+
+CDS	41827..42369	ABQF11_18510	YecA family protein	NA	
+CDS	42382..43716	ABQF11_18515	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44005..44628	ABQF11_18520	type III secretion system effector protein	NA	
+CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46389..46733)	ABQF11_18530	PilZ domain-containing protein	NA	
+
+JAYIMS010000023.1: 45208 .. 45705 in genome WHRI_5494A.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	42382..43716	VDP15_18200	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44226..45188	VDP15_18205	IS1595-like element ISXca4 family transposase	NA	***
+CDS	45214..45708	VDP15_18210	M91 family zinc metallopeptidase	NA	
+CDS	complement(45946..47271)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47469..47813)	VDP15_18220	PilZ domain-containing protein	NA	
+
+JAYIOU010000028.1: 28549 .. 29169 in genome WHRI_6022A.fasta
+STOP codon in JAYIOU010000028.1: 28549 .. 29169
+Hit covers 100 %
+
+CDS	26441..26785	VDQ06_18610	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28780..29196)	VDQ06_18620	M91 family zinc metallopeptidase	NA	
+CDS	complement(29458..30792)	VDQ06_18625	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	VDQ06_18630	YecA family protein	NA	
+
+JAYIOJ010000023.1: 28520 .. 28987 in genome WHRI_6067.fasta
+!!! Hit covers 75 %
+!!! Hit covers 25 %
+
+CDS	26412..26756	VDP83_18300	PilZ domain-containing protein	NA	
+CDS	26954..28279	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28517..28978)	VDP83_18310	M91 family zinc metallopeptidase	NA	
+CDS	complement(29428..30762)	VDP83_18315	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30775..31317)	VDP83_18320	YecA family protein	NA	
+
+JAYIRA010000016.1: 41563 .. 42183 in genome WHRI_6379_NCPPB_45.fasta
+Hit covers 100 %
+
+CDS	39385..39927	VDR09_12030	YecA family protein	NA	
+CDS	39940..41274	VDR09_12035	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	41563..42186	VDR09_12040	type III secretion system effector protein	NA	
+CDS	complement(42424..43749)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(43947..44291)	VDR09_12050	PilZ domain-containing protein	NA	
+
+JAYIRB010000034.1: 49457 .. 49954 in genome WHRI_6380_NCPPB_404.fasta
+!!! Hit covers 80 %
+
+CDS	47349..47693	VDQ98_18730	PilZ domain-containing protein	NA	
+CDS	47891..49216	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49454..49948)	VDQ98_18740	M91 family zinc metallopeptidase	NA	
+
+RRXH01000036.1: 49489 .. 50109 in genome WHRI_6382.fasta
+Hit covers 100 %
+
+CDS	47381..47725	EIQ18_15455	PilZ domain-containing protein	NA	
+CDS	47923..49248	EIQ18_15460	Xaa-Pro dipeptidase	NA	
+CDS	complement(49486..50109)	EIQ18_15465	type III secretion system effector protein	NA	
+CDS	complement(50398..51732)	EIQ18_15470	M24 family metallopeptidase	NA	
+CDS	complement(51745..52287)	EIQ18_15475	YecA family protein	NA	
+
+JAYIRD010000028.1: 43999 .. 44619 in genome WHRI_6382_NCPPB_1711.fasta
+Hit covers 100 %
+
+CDS	41821..42363	VDR06_16420	YecA family protein	NA	
+CDS	42376..43710	VDR06_16425	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43999..44622	VDR06_16430	type III secretion system effector protein	NA	
+CDS	complement(44860..46185)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46383..46727)	VDR06_16440	PilZ domain-containing protein	NA	
+
+JAYIRF010000026.1: 28520 .. 29140 in genome WHRI_6412.fasta
+Hit covers 100 %
+
+CDS	26412..26756	VDR02_13530	PilZ domain-containing protein	NA	
+CDS	26954..28279	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28517..29140)	VDR02_13540	type III secretion system effector protein	NA	
+CDS	complement(29429..30763)	VDR02_13545	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30776..31318)	VDR02_13550	YecA family protein	NA	
+
+JAYIWA010000023.1: 49438 .. 50058 in genome WHRI_7782.fasta
+STOP codon in JAYIWA010000023.1: 49438 .. 50058
+Hit covers 100 %
+
+CDS	47330..47674	VDS26_13880	PilZ domain-containing protein	NA	
+CDS	47872..49197	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49669..50085)	VDS26_13890	M91 family zinc metallopeptidase	NA	
+CDS	complement(50347..51681)	VDS26_13895	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51694..52236)	VDS26_13900	YecA family protein	NA	
+
+JAYIQL010000029.1: 28549 .. 29169 in genome WHRI_7787.fasta
+STOP codon in JAYIQL010000029.1: 28549 .. 29169
+Hit covers 100 %
+
+CDS	26441..26785	VDQ93_16825	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28780..29196)	VDQ93_16835	M91 family zinc metallopeptidase	NA	
+CDS	complement(29458..30792)	VDQ93_16840	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	VDQ93_16845	YecA family protein	NA	
+
+JAYIWD010000031.1: 12319 .. 12939 in genome WHRI_7803.fasta
+Hit covers 100 %
+
+CDS	10211..10555	VDS28_17960	PilZ domain-containing protein	NA	
+CDS	10753..12078	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(12316..12939)	VDS28_17970	type III secretion system effector protein	NA	
+CDS	complement(13228..14562)	VDS28_17975	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(14575..15117)	VDS28_17980	YecA family protein	NA	
+
+JAYIWH010000036.1: 49451 .. 49948 in genome WHRI_7807.fasta
+!!! Hit covers 80 %
+
+CDS	47343..47687	VDS33_17900	PilZ domain-containing protein	NA	
+CDS	47885..49210	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49448..49942)	VDS33_17910	M91 family zinc metallopeptidase	NA	
+
+JAYIVG010000042.1: 28558 .. 29055 in genome WHRI_8329.fasta
+!!! Hit covers 80 %
+
+CDS	26450..26794	VDS13_20155	PilZ domain-containing protein	NA	
+CDS	26992..28317	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28555..29049)	VDS13_20165	M91 family zinc metallopeptidase	NA	
+
+JAYITN010000016.1: 67535 .. 68155 in genome WHRI_8405.fasta
+Hit covers 100 %
+
+CDS	65427..65771	VDR66_13620	PilZ domain-containing protein	NA	
+CDS	65969..67294	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67532..68155)	VDR66_13630	type III secretion system effector protein	NA	
+CDS	complement(68444..69778)	VDR66_13635	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69791..70333)	VDR66_13640	YecA family protein	NA	
+
+JAYITU010000037.1: 28549 .. 29013 in genome WHRI_8409.fasta
+!!! Hit covers 74 %
+
+CDS	26441..26785	VDR69_20615	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29007)	VDR69_20625	M91 family zinc metallopeptidase	NA	
+
+JAYIUR010000024.1: 28567 .. 29187 in genome WHRI_8443B.fasta
+Hit covers 100 %
+
+CDS	26459..26803	VDR95_17860	PilZ domain-containing protein	NA	
+CDS	27001..28326	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28564..29214)	VDR95_17870	type III secretion system effector protein	NA	
+CDS	complement(29476..30810)	VDR95_17875	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30823..31365)	VDR95_17880	YecA family protein	NA	
+
+JAYIVA010000012.1: 67530 .. 68150 in genome WHRI_8460B.fasta
+Hit covers 100 %
+
+CDS	65422..65766	VDR74_10890	PilZ domain-containing protein	NA	
+CDS	65964..67289	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67527..68150)	VDR74_10900	type III secretion system effector protein	NA	
+CDS	complement(68439..69773)	VDR74_10905	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69786..70328)	VDR74_10910	YecA family protein	NA	
+
+RRXA01000054.1: 50287 .. 50907 in genome WHRI_8815.fasta
+Hit covers 100 %
+
+CDS	48179..48523	EIQ25_19680	PilZ domain-containing protein	NA	
+CDS	48721..50046	EIQ25_19685	Xaa-Pro dipeptidase	NA	
+CDS	complement(50284..50907)	EIQ25_19690	type III secretion system effector protein	NA	
+CDS	complement(51196..52530)	EIQ25_19695	M24 family metallopeptidase	NA	
+CDS	complement(52543..53085)	EIQ25_19700	YecA family protein	NA	
+
+RRXP01000009.1: 67887 .. 68507 in genome WHRI_8819.fasta
+Hit covers 100 %
+
+CDS	65779..66123	EIQ10_01235	PilZ domain-containing protein	NA	
+CDS	66321..67646	EIQ10_01240	Xaa-Pro dipeptidase	NA	
+CDS	complement(67884..68507)	EIQ10_01245	type III secretion system effector protein	NA	
+CDS	complement(68796..70130)	EIQ10_01250	M24 family metallopeptidase	NA	
+CDS	complement(70143..70685)	EIQ10_01255	YecA family protein	NA	
+
+JAYIQT010000026.1: 28520 .. 29140 in genome WHRI_8820.fasta
+Hit covers 100 %
+
+CDS	26412..26756	VDR04_15470	PilZ domain-containing protein	NA	
+CDS	26954..28279	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28517..29167)	VDR04_15480	type III secretion system effector protein	NA	
+CDS	complement(29429..30763)	VDR04_15485	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30776..31318)	VDR04_15490	YecA family protein	NA	
+
+JAYIVJ010000029.1: 28549 .. 29169 in genome WHRI_8838.fasta
+Hit covers 100 %
+
+CDS	26441..26785	VDS12_17365	PilZ domain-containing protein	NA	
+CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28546..29196)	VDS12_17375	type III secretion system effector protein	NA	
+CDS	complement(29458..30792)	VDS12_17380	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30805..31347)	VDS12_17385	YecA family protein	NA	
+
+JAYIVK010000029.1: 38646 .. 39266 in genome WHRI_8839.fasta
+Hit covers 100 %
+
+CDS	36468..37010	VDS16_17835	YecA family protein	NA	
+CDS	37023..38357	VDS16_17840	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	38619..39269	VDS16_17845	type III secretion system effector protein	NA	
+CDS	complement(39507..40832)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(41030..41374)	VDS16_17855	PilZ domain-containing protein	NA	
+
+JAYIVM010000015.1: 40810 .. 41430 in genome WHRI_8841.fasta
+Hit covers 100 %
+
+CDS	38632..39174	VDR93_14170	YecA family protein	NA	
+CDS	39187..40521	VDR93_14175	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	40810..41433	VDR93_14180	type III secretion system effector protein	NA	
+CDS	complement(41671..42996)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(43194..43538)	VDR93_14190	PilZ domain-containing protein	NA	
+
+JAYIRO010000023.1: 44025 .. 44645 in genome WHRI_8879.fasta
+Hit covers 100 %
+
+CDS	41847..42389	VDR13_16045	YecA family protein	NA	
+CDS	42402..43736	VDR13_16050	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44025..44648	VDR13_16055	type III secretion system effector protein	NA	
+CDS	complement(44886..46211)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46409..46753)	VDR13_16065	PilZ domain-containing protein	NA	
+
+CP169057.1: 3787420 .. 3788040 in genome WHRI_8892A.fasta
+Hit covers 100 %
+
+CDS	3785312..3785656	VDR70_016455	PilZ domain-containing protein	NA	
+CDS	3785854..3787179	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(3787417..3788067)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(3788329..3789663)	VDR70_016470	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(3789676..3790218)	VDR70_016475	YecA family protein	NA	
+
+JAYITY010000019.1: 43908 .. 44528 in genome WHRI_8895.fasta
+Hit covers 100 %
+
+CDS	41730..42272	VDR71_14965	YecA family protein	NA	
+CDS	42285..43619	VDR71_14970	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	43881..44531	VDR71_14975	type III secretion system effector protein	NA	
+CDS	complement(44769..46094)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(46292..46636)	VDR71_14985	PilZ domain-containing protein	NA	
+
+JAYITZ010000028.1: 36378 .. 36998 in genome WHRI_8952A.fasta
+Hit covers 100 %
+
+CDS	34270..34614	VDR75_16390	PilZ domain-containing protein	NA	
+CDS	34812..36137	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(36375..37049)	VDR75_16400	type III secretion system effector protein	NA	
+CDS	complement(37287..38621)	VDR75_16405	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(38634..39176)	VDR75_16410	YecA family protein	NA	
+
+CP168116.1: 1136512 .. 1137132 in genome WHRI_8956.fasta
+Hit covers 100 %
+
+CDS	1134334..1134876	ABQE72_004805	YecA family protein	NA	
+CDS	1134889..1136223	ABQE72_004810	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1136512..1137135	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(1137373..1138698)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1138896..1139240)	ABQE72_004825	PilZ domain-containing protein	NA	
+
+JAYIUD010000013.1: 67536 .. 68156 in genome WHRI_8975A.fasta
+Hit covers 100 %
+
+CDS	65428..65772	VDR78_10335	PilZ domain-containing protein	NA	
+CDS	65970..67295	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67533..68156)	VDR78_10345	type III secretion system effector protein	NA	
+CDS	complement(68445..69779)	VDR78_10350	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69792..70334)	VDR78_10355	YecA family protein	NA	
+
+JAYIUG010000016.1: 67536 .. 68156 in genome WHRI_8979.fasta
+Hit covers 100 %
+
+CDS	65428..65772	VDR86_12140	PilZ domain-containing protein	NA	
+CDS	65970..67295	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67533..68156)	VDR86_12150	type III secretion system effector protein	NA	
+CDS	complement(68445..69779)	VDR86_12155	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69792..70334)	VDR86_12160	YecA family protein	NA	
+
+JAYIUH010000019.1: 67574 .. 68194 in genome WHRI_8980.fasta
+Hit covers 100 %
+
+CDS	65466..65810	VDR80_16050	PilZ domain-containing protein	NA	
+CDS	66008..67333	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67571..68221)	VDR80_16060	type III secretion system effector protein	NA	
+CDS	complement(68483..69817)	VDR80_16065	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69830..70372)	VDR80_16070	YecA family protein	NA	
+
+JAYIUI010000023.1: 28567 .. 29187 in genome WHRI_8981.fasta
+Hit covers 100 %
+
+CDS	26459..26803	VDR82_18690	PilZ domain-containing protein	NA	
+CDS	27001..28326	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28564..29214)	VDR82_18700	type III secretion system effector protein	NA	
+CDS	complement(29476..30810)	VDR82_18705	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30823..31365)	VDR82_18710	YecA family protein	NA	
+
+CP107717.1: 1095518 .. 1096138 in genome XY1-1.fasta
+Hit covers 100 %
+
+CDS	1093340..1093882	OF401_04605	YecA family protein	NA	
+CDS	1093895..1095229	OF401_04610	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1095599..1096141	OF401_04615	type III secretion system effector protein	NA	
+CDS	complement(1096379..1097704)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1097902..1098246)	OF401_04625	PilZ domain-containing protein	NA	
+
+CP155934.1: 1092729 .. 1093349 in genome Xc02.fasta
+Hit covers 100 %
+
+CDS	1090551..1091093	ABFU09_04595	YecA family protein	NA	
+CDS	1091106..1092440	ABFU09_04600	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1092729..1093352	ABFU09_04605	type III secretion system effector protein	NA	
+CDS	complement(1093590..1094915)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1095113..1095457)	ABFU09_04615	PilZ domain-containing protein	NA	
+
+JAUBMQ020000019.1: 67462 .. 68082 in genome Xc16.fasta
+Hit covers 100 %
+
+CDS	65354..65698	QT939_014445	PilZ domain-containing protein	NA	
+CDS	65896..67221	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67459..68082)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68371..69705)	QT939_014460	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69718..70260)	QT939_014465	YecA family protein	NA	
+
+JAUBMP020000017.1: 41315 .. 41935 in genome Xc20.fasta
+Hit covers 100 %
+
+CDS	39137..39679	QT935_013705	YecA family protein	NA	
+CDS	39692..41026	QT935_013710	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	41315..41938	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(42176..43501)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(43699..44043)	QT935_013725	PilZ domain-containing protein	NA	
+
+JAUBMS020000015.1: 41291 .. 41911 in genome Xc2010.fasta
+Hit covers 100 %
+
+CDS	39113..39655	QT941_012035	YecA family protein	NA	
+CDS	39668..41002	QT941_012040	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	41291..41914	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(42152..43477)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(43675..44019)	QT941_012055	PilZ domain-containing protein	NA	
+
+JAUBMN020000028.1: 28055 .. 28675 in genome Xc211.fasta
+Hit covers 100 %
+
+CDS	25947..26291	QT937_017945	PilZ domain-containing protein	NA	
+CDS	26489..27814	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28052..28675)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(28964..30298)	QT937_017960	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30311..30853)	QT937_017965	YecA family protein	NA	
+
+JAUBMO020000016.1: 49185 .. 49805 in genome Xc25.fasta
+Hit covers 100 %
+
+CDS	47077..47421	QT931_014000	PilZ domain-containing protein	NA	
+CDS	47619..48944	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49182..49805)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(50094..51428)	QT931_014015	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51441..51983)	QT931_014020	YecA family protein	NA	
+
+JAUBMM020000016.1: 46224 .. 46844 in genome Xc252.fasta
+Hit covers 100 %
+
+CDS	44046..44588	QT933_013705	YecA family protein	NA	
+CDS	44601..45935	QT933_013710	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46224..46847	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(47085..48410)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48608..48952)	QT933_013725	PilZ domain-containing protein	NA	
+
+JAUBML020000021.1: 67493 .. 68113 in genome Xc262.fasta
+Hit covers 100 %
+
+CDS	65385..65729	QT936_017430	PilZ domain-containing protein	NA	
+CDS	65927..67252	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67490..68140)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68402..69736)	QT936_017445	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69749..70291)	QT936_017450	YecA family protein	NA	
+
+JAUBMK020000017.1: 67462 .. 68082 in genome Xc272.fasta
+Hit covers 100 %
+
+CDS	65354..65698	QT932_012635	PilZ domain-containing protein	NA	
+CDS	65896..67221	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67459..68082)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68371..69705)	QT932_012650	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69718..70260)	QT932_012655	YecA family protein	NA	
+
+JAUBMJ020000016.1: 46224 .. 46844 in genome Xc292.fasta
+Hit covers 100 %
+
+CDS	44046..44588	QT917_012265	YecA family protein	NA	
+CDS	44601..45935	QT917_012270	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46224..46847	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(47085..48410)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48608..48952)	QT917_012285	PilZ domain-containing protein	NA	
+
+JAUBMI020000017.1: 49362 .. 49982 in genome Xc302.fasta
+Hit covers 100 %
+
+CDS	47254..47598	QT924_013760	PilZ domain-containing protein	NA	
+CDS	47796..49121	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49359..49982)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(50271..51605)	QT924_013775	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51618..52160)	QT924_013780	YecA family protein	NA	
+
+JAUBMH020000019.1: 46224 .. 46844 in genome Xc312.fasta
+Hit covers 100 %
+
+CDS	44046..44588	QT925_015185	YecA family protein	NA	
+CDS	44601..45935	QT925_015190	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46224..46847	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(47085..48410)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48608..48952)	QT925_015205	PilZ domain-containing protein	NA	
+
+JAUBNA020000018.1: 46225 .. 46845 in genome Xc321-1.fasta
+Hit covers 100 %
+
+CDS	44047..44589	QT960_012865	YecA family protein	NA	
+CDS	44602..45936	QT960_012870	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46225..46848	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(47086..48411)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48609..48953)	QT960_012885	PilZ domain-containing protein	NA	
+
+JAUBMZ020000017.1: 46225 .. 46845 in genome Xc321-2.fasta
+Hit covers 100 %
+
+CDS	44047..44589	QT946_012090	YecA family protein	NA	
+CDS	44602..45936	QT946_012095	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46225..46848	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(47086..48411)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48609..48953)	QT946_012110	PilZ domain-containing protein	NA	
+
+JAUBMG020000016.1: 67462 .. 68082 in genome Xc321.fasta
+Hit covers 100 %
+
+CDS	65354..65698	QT926_012125	PilZ domain-containing protein	NA	
+CDS	65896..67221	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67459..68082)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68371..69705)	QT926_012140	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69718..70260)	QT926_012145	YecA family protein	NA	
+
+JAUBMF020000017.1: 67462 .. 68082 in genome Xc342.fasta
+Hit covers 100 %
+
+CDS	65354..65698	QT928_014050	PilZ domain-containing protein	NA	
+CDS	65896..67221	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67459..68082)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68371..69705)	QT928_014065	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69718..70260)	QT928_014070	YecA family protein	NA	
+
+JAUBME020000019.1: 45821 .. 46441 in genome Xc362.fasta
+Hit covers 100 %
+
+CDS	43643..44185	QT919_015765	YecA family protein	NA	
+CDS	44198..45532	QT919_015770	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45821..46444	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(46682..48007)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48205..48549)	QT919_015785	PilZ domain-containing protein	NA	
+
+JAUBMD020000021.1: 67493 .. 68113 in genome Xc412.fasta
+Hit covers 100 %
+
+CDS	65385..65729	QT929_018180	PilZ domain-containing protein	NA	
+CDS	65927..67252	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67490..68140)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68402..69736)	QT929_018195	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69749..70291)	QT929_018200	YecA family protein	NA	
+
+JAUBMC020000016.1: 67462 .. 68082 in genome Xc422.fasta
+Hit covers 100 %
+
+CDS	65354..65698	QT930_013030	PilZ domain-containing protein	NA	
+CDS	65896..67221	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67459..68082)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68371..69705)	QT930_013045	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69718..70260)	QT930_013050	YecA family protein	NA	
+
+JAUBMB020000019.1: 67549 .. 68169 in genome Xc433.fasta
+Hit covers 100 %
+
+CDS	65441..65785	QT927_016390	PilZ domain-containing protein	NA	
+CDS	65983..67308	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(67546..68196)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(68458..69792)	QT927_016405	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(69805..70347)	QT927_016410	YecA family protein	NA	
+
+JAUBMA020000020.1: 49191 .. 49811 in genome Xc442.fasta
+Hit covers 100 %
+
+CDS	47083..47427	QT922_015135	PilZ domain-containing protein	NA	
+CDS	47625..48950	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(49188..49811)	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(50100..51434)	QT922_015150	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(51447..51989)	QT922_015155	YecA family protein	NA	
+
+JAUBLZ020000017.1: 46225 .. 46845 in genome Xc452.fasta
+Hit covers 100 %
+
+CDS	44047..44589	QT920_013670	YecA family protein	NA	
+CDS	44602..45936	QT920_013675	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	46225..46848	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(47086..48411)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(48609..48953)	QT920_013690	PilZ domain-containing protein	NA	
+
+JAUBMR020000019.1: 45596 .. 46216 in genome Xc7.fasta
+Hit covers 100 %
+
+CDS	43418..43960	QT934_017500	YecA family protein	NA	
+CDS	43973..45307	QT934_017505	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	45569..46219	xopG	XopG/HopH/AvrPtoH family type III secretion system effector	NA	
+CDS	complement(46457..47782)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47980..48324)	QT934_017520	PilZ domain-containing protein	NA	
+
+HF570389.2: 1035794 .. 1036291 in genome Xca5.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+
+CP155936.1: 1063995 .. 1064615 in genome Xcc-G.fasta
+Hit covers 100 %
+!!! Hit covers 99 %
+
+CDS	1061817..1062359	ABFU69_04525	YecA family protein	NA	
+CDS	1062372..1063706	ABFU69_04530	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1063995..1064618	ABFU69_04535	type III secretion system effector protein	NA	
+CDS	complement(1064856..1066181)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1066379..1066723)	ABFU69_04545	PilZ domain-containing protein	NA	
+
+CP029483.1: 658539 .. 658847 in genome Xcc8004_Xcc1.fasta
+!!! Hit covers 51 %
+!!! Hit covers 49 %
+
+CDS	655809..657134	DFG55_02820	Xaa-Pro dipeptidase	NA	
+CDS	complement(657372..657689)	DFG55_02825	type III secretion system effector protein	NA	
+CDS	join(657733..658004,658003..658531)	DFG55_02830	IS5 family transposase	NA	***
+CDS	complement(658539..658847)	DFG55_02835	hypothetical protein	NA	
+CDS	complement(659136..660470)	DFG55_02840	Xaa-Pro aminopeptidase	NA	
+CDS	complement(660483..661025)	DFG55_02845	YecA family protein	NA	
+
+CP029484.1: 1024931 .. 1025239 in genome Xcc8004_Xcc2.fasta
+!!! Hit covers 51 %
+!!! Hit covers 49 %
+
+CDS	1022753..1023295	DFG54_04530	YecA family protein	NA	
+CDS	1023308..1024642	DFG54_04535	Xaa-Pro aminopeptidase	NA	
+CDS	1024931..1025239	DFG54_04540	hypothetical protein	NA	
+CDS	complement(join(1025247..1025775,1025774..1026045))	DFG54_04545	IS5 family transposase	NA	***
+CDS	1026089..1026406	DFG54_04550	type III secretion system effector protein	NA	
+CDS	complement(1026644..1027969)	DFG54_04555	Xaa-Pro dipeptidase	NA	
+
+CP156007.1: 4003235 .. 4003855 in genome bglFP_6745.fasta
+Hit covers 100 %
+!!! Hit covers 88 %
+
+CDS	4001126..4001470	ABFU17_17615	PilZ domain-containing protein	NA	
+CDS	4001669..4002994	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(4003232..4003906)	ABFU17_17625	type III secretion system effector protein	NA	
+CDS	complement(4004144..4005478)	ABFU17_17630	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(4005491..4006033)	ABFU17_17635	YecA family protein	NA	
+
+CP155977.1: 4020152 .. 4020772 in genome bglFP_6746.fasta
+Hit covers 100 %
+!!! Hit covers 88 %
+
+CDS	4018043..4018387	ABFT89_17695	PilZ domain-containing protein	NA	
+CDS	4018586..4019911	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(4020149..4020772)	ABFT89_17705	type III secretion system effector protein	NA	
+CDS	complement(4021061..4022395)	ABFT89_17710	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(4022408..4022950)	ABFT89_17715	YecA family protein	NA	

@@ -14,7 +14,7 @@ cd ..
 
 ### Parse TBLASTN files
 ./extract_flanking_regions.pl ./genomes/*.tblastn > xopG2_genomic_contexts_all-Xcc-tblastn.txt
-perl parse_blast_to_presence-absence_matrix.pl ./genomes/*.tblastn > gene_presence_absence_all-Xcc-tblastn.csv
+perl parse_blast_to_presence-absence_matrix.pl ./genomes/*.tblastn > gene_presence_absence_all-Xcc-tblastn.tsv
 
 
 

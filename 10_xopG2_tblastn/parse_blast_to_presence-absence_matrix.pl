@@ -10,14 +10,8 @@ my %file2hits;
 my %queries;
 my %files;
 
-#my $coverage_threshold_min = 0.20; # example $coverage_threshold_min = 0.90 
-#my $coverage_threshold_max = 0.95; # example $coverage_threshold_max = 1.00
-
-my $coverage_threshold_min = 0.90; # example $coverage_threshold_min = 0.90
-my $coverage_threshold_max = 1.00; # example $coverage_threshold_max = 1.00
-
-
-
+my $coverage_threshold_min = 30; # example $coverage_threshold_min = 90
+my $coverage_threshold_max = 100; # example $coverage_threshold_max = 100
 my $pc_identical_threshold = 90; # example $pc_identical_threshold = 90
 
 while (my $file = shift) {
@@ -47,9 +41,9 @@ while (my $file = shift) {
 		my $hit_string = $hsp->hit_string;		
 		if ($hit_string =~ m/\*/) {
 			warn "$file $query_acc versus $hit_acc contains STOP codon\n";
-			}
-
-		my $coverage = ($query_end - $query_start + 1) / $query_length;
+		}
+		
+		my $coverage = 100 * (($query_end - $query_start + 1) / $query_length);
 
 		#warn "$coverage\t$pc_identical\n";
 		
@@ -57,7 +51,7 @@ while (my $file = shift) {
                    $coverage <= $coverage_threshold_max and
 		    $pc_identical >= $pc_identical_threshold) {
 		    
-		    $file2hits{$file}{"$query_acc $query_desc"}++;
+		    $file2hits{$file}{"$query_acc $query_desc"}{$coverage}=$pc_identical;
 		   
 		}
 		
@@ -66,21 +60,33 @@ while (my $file = shift) {
     }
 }
 
-print "BLAST file";
-foreach my $query (sort keys %queries) {
-    print "\t$query";
-}
+print "File";
+print "\t";
+print "Coverage (%)";
+print "\t";
+print "Sequence identity (%)";;
 print "\n";
 
 
 foreach my $file (sort keys %files) {
-    print "$file";
     foreach my $query (sort keys %queries) {
 	if (defined $file2hits{$file}{$query}) {
-	    print "\t1";
+	    foreach my $coverage (sort {$b=$a} keys %{$file2hits{$file}{$query}}) {
+		my $pc_identical = $file2hits{$file}{$query}{$coverage};
+		print "$file";
+		print "\t";
+		print int($coverage);
+		print "\t";
+		print int($pc_identical);
+		print "\n";
+	    }
 	} else {
-	    print "\t0";
+	    print "$file";
+	    print "\t";
+	    print "";
+	    print "\t";
+	    print "";
+	    print "\n";
 	}
     }
-    print "\n";
 }
