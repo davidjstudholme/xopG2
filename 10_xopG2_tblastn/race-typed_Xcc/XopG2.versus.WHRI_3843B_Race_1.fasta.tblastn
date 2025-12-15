@@ -1,0 +1,82 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_3843B_Race_1.fasta
+           84 sequences; 4,955,984 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIPJ010000034.1 Xanthomonas campestris pv. campestris strain WH...  340     6e-109
+JAYIPJ010000029.1 Xanthomonas campestris pv. campestris strain WH...  92.0    2e-22 
+
+
+>JAYIPJ010000034.1 Xanthomonas campestris pv. campestris strain 
+WHRI 3843B scf_81957_34, whole genome shotgun sequence
+Length=29123
+
+ Score = 340 bits (872),  Expect = 6e-109, Method: Compositional matrix adjust.
+ Identities = 166/166 (100%), Positives = 166/166 (100%), Gaps = 0/166 (0%)
+ Frame = -3
+
+Query  42     EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF  101
+              EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF
+Sbjct  29046  EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF  28867
+
+Query  102    CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG  161
+              CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG
+Sbjct  28866  CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG  28687
+
+Query  162    DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  207
+              DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG
+Sbjct  28686  DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  28549
+
+
+>JAYIPJ010000029.1 Xanthomonas campestris pv. campestris strain 
+WHRI 3843B scf_81957_29, whole genome shotgun sequence
+Length=45712
+
+ Score = 92.0 bits (227),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 43/43 (100%), Positives = 43/43 (100%), Gaps = 0/43 (0%)
+ Frame = -2
+
+Query  1    MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG  43
+            MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG
+Sbjct  207  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG  79
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 203982728
+
+
+  Database: WHRI_3843B_Race_1.fasta
+    Posted date:  Dec 15, 2025  3:28 PM
+  Number of letters in database: 4,955,984
+  Number of sequences in database:  84
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
