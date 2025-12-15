@@ -1,0 +1,97 @@
+BLASTN 2.16.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: 12049.fasta
+           2 sequences; 5,289,785 total letters
+
+
+
+Query= CP066953.1:1086813-1087433 Xanthomonas campestris pv. campestris
+strain 10103 chromosome, complete genome
+
+Length=621
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP066943.1 Xanthomonas campestris pv. campestris strain 12049 chr...  1140    0.0  
+
+
+>CP066943.1 Xanthomonas campestris pv. campestris strain 12049 
+chromosome, complete genome
+Length=5135440
+
+ Score = 1140 bits (617),  Expect = 0.0
+ Identities = 620/621 (99%), Gaps = 1/621 (0%)
+ Strand=Plus/Plus
+
+Query  1       ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  963839  ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  963898
+
+Query  61      CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  963899  CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  963958
+
+Query  121     CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCT  180
+               |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  963959  CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGG-AAAAAGGTCTTGCTCAATGAGTCGCCT  964017
+
+Query  181     CCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATAC  240
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964018  CCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATAC  964077
+
+Query  241     GGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGC  300
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964078  GGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGC  964137
+
+Query  301     TTCTGTAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATG  360
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964138  TTCTGTAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATG  964197
+
+Query  361     GTCGATAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTG  420
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964198  GTCGATAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTG  964257
+
+Query  421     GGGCTTGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGT  480
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964258  GGGCTTGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGT  964317
+
+Query  481     GGTGACCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTC  540
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964318  GGTGACCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTC  964377
+
+Query  541     GGAAAGTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCG  600
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  964378  GGAAAGTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCG  964437
+
+Query  601     ATAAGAAAGCATTATGCCGGT  621
+               |||||||||||||||||||||
+Sbjct  964438  ATAAGAAAGCATTATGCCGGT  964458
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3168554859
+
+
+  Database: 12049.fasta
+    Posted date:  Dec 14, 2025  11:00 AM
+  Number of letters in database: 5,289,785
+  Number of sequences in database:  2
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

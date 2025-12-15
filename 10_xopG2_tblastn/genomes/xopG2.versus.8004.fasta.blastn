@@ -1,0 +1,106 @@
+BLASTN 2.16.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: 8004.fasta
+           1 sequences; 5,150,550 total letters
+
+
+
+Query= CP066953.1:1086813-1087433 Xanthomonas campestris pv. campestris
+strain 10103 chromosome, complete genome
+
+Length=621
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP155948.1 Xanthomonas campestris pv. campestris str. 8004 chromo...  584     3e-167
+
+
+>CP155948.1 Xanthomonas campestris pv. campestris str. 8004 chromosome, 
+complete genome
+Length=5150550
+
+ Score = 584 bits (316),  Expect = 3e-167
+ Identities = 316/316 (100%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  306      TAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATGGTCGA  365
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091000  TAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATGGTCGA  1091059
+
+Query  366      TAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTGGGGCT  425
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091060  TAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTGGGGCT  1091119
+
+Query  426      TGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGTGGTGA  485
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091120  TGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGTGGTGA  1091179
+
+Query  486      CCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTCGGAAA  545
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091180  CCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTCGGAAA  1091239
+
+Query  546      GTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCGATAAG  605
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091240  GTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCGATAAG  1091299
+
+Query  606      AAAGCATTATGCCGGT  621
+                ||||||||||||||||
+Sbjct  1091300  AAAGCATTATGCCGGT  1091315
+
+
+ Score = 566 bits (306),  Expect = 1e-161
+ Identities = 308/309 (99%), Gaps = 0/309 (0%)
+ Strand=Plus/Plus
+
+Query  1        ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  60
+                ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1089843  ATGGCAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  1089902
+
+Query  61       CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1089903  CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  1089962
+
+Query  121      CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCT  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1089963  CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCT  1090022
+
+Query  181      CCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATAC  240
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1090023  CCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATAC  1090082
+
+Query  241      GGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGC  300
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1090083  GGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGC  1090142
+
+Query  301      TTCTGTAAG  309
+                |||||||||
+Sbjct  1090143  TTCTGTAAG  1090151
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3085166272
+
+
+  Database: 8004.fasta
+    Posted date:  Dec 14, 2025  11:01 AM
+  Number of letters in database: 5,150,550
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

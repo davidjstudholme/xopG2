@@ -1,0 +1,111 @@
+BLASTN 2.16.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: WHRI_3843B.fasta
+           84 sequences; 4,955,984 total letters
+
+
+
+Query= CP066953.1:1086813-1087433 Xanthomonas campestris pv. campestris
+strain 10103 chromosome, complete genome
+
+Length=621
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIPJ010000034.1 Xanthomonas campestris pv. campestris strain WH...  922     0.0  
+JAYIPJ010000029.1 Xanthomonas campestris pv. campestris strain WH...  241     7e-64
+
+
+>JAYIPJ010000034.1 Xanthomonas campestris pv. campestris strain 
+WHRI 3843B scf_81957_34, whole genome shotgun sequence
+Length=29123
+
+ Score = 922 bits (499),  Expect = 0.0
+ Identities = 499/499 (100%), Gaps = 0/499 (0%)
+ Strand=Plus/Minus
+
+Query  123    TGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCTCC  182
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29047  TGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCTCC  28988
+
+Query  183    CTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATACGG  242
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28987  CTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATACGG  28928
+
+Query  243    AGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGCTT  302
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28927  AGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGCTT  28868
+
+Query  303    CTGTAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATGGT  362
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28867  CTGTAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATGGT  28808
+
+Query  363    CGATAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTGGG  422
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28807  CGATAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTGGG  28748
+
+Query  423    GCTTGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGTGG  482
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28747  GCTTGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGTGG  28688
+
+Query  483    TGACCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTCGG  542
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28687  TGACCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTCGG  28628
+
+Query  543    AAAGTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCGAT  602
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28627  AAAGTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCGAT  28568
+
+Query  603    AAGAAAGCATTATGCCGGT  621
+              |||||||||||||||||||
+Sbjct  28567  AAGAAAGCATTATGCCGGT  28549
+
+
+>JAYIPJ010000029.1 Xanthomonas campestris pv. campestris strain 
+WHRI 3843B scf_81957_29, whole genome shotgun sequence
+Length=45712
+
+ Score = 241 bits (130),  Expect = 7e-64
+ Identities = 130/130 (100%), Gaps = 0/130 (0%)
+ Strand=Plus/Minus
+
+Query  1    ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  207  ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  148
+
+Query  61   CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  147  CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  88
+
+Query  121  CTTGAAGGTT  130
+            ||||||||||
+Sbjct  87   CTTGAAGGTT  78
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2967527464
+
+
+  Database: WHRI_3843B.fasta
+    Posted date:  Dec 14, 2025  11:02 AM
+  Number of letters in database: 4,955,984
+  Number of sequences in database:  84
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

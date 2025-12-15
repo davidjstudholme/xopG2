@@ -1,0 +1,107 @@
+BLASTN 2.16.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: GBBC_1414.fasta
+           106 sequences; 4,935,042 total letters
+
+
+
+Query= CP066953.1:1086813-1087433 Xanthomonas campestris pv. campestris
+strain 10103 chromosome, complete genome
+
+Length=621
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAHBRB010000035.1 Xanthomonas campestris pv. campestris strain GB...  861     0.0  
+JAHBRB010000037.1 Xanthomonas campestris pv. campestris strain GB...  302     3e-82
+
+
+>JAHBRB010000035.1 Xanthomonas campestris pv. campestris strain 
+GBBC 1414 35, whole genome shotgun sequence
+Length=49832
+
+ Score = 861 bits (466),  Expect = 0.0
+ Identities = 466/466 (100%), Gaps = 0/466 (0%)
+ Strand=Plus/Minus
+
+Query  156    AAAGGTCTTGCTCAATGAGTCGCCTCCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTT  215
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49832  AAAGGTCTTGCTCAATGAGTCGCCTCCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTT  49773
+
+Query  216    TACCGATAAACAAAGAAGAAAATACGGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGA  275
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49772  TACCGATAAACAAAGAAGAAAATACGGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGA  49713
+
+Query  276    ACTTGGCCTCATCACAAAAGGTCGCTTCTGTAAGGGCGAAGGTACCAACGCAACAGTGAA  335
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49712  ACTTGGCCTCATCACAAAAGGTCGCTTCTGTAAGGGCGAAGGTACCAACGCAACAGTGAA  49653
+
+Query  336    CTGGAGCCCTGGTGTTGGTTTGATGGTCGATAGTGAAGGCCGTCCCCAGGGGCAAAGTTC  395
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49652  CTGGAGCCCTGGTGTTGGTTTGATGGTCGATAGTGAAGGCCGTCCCCAGGGGCAAAGTTC  49593
+
+Query  396    CGAATATGCAGAACAGGCATTTGTGGGGCTTGCGCACGAGTTGATTCATGCAAAGCACAT  455
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49592  CGAATATGCAGAACAGGCATTTGTGGGGCTTGCGCACGAGTTGATTCATGCAAAGCACAT  49533
+
+Query  456    CATGTCAGGAGACTTCAAGCACGGTGGTGACCGTCTTGATCCGAAAAGTAAGTCTGGCAA  515
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49532  CATGTCAGGAGACTTCAAGCACGGTGGTGACCGTCTTGATCCGAAAAGTAAGTCTGGCAA  49473
+
+Query  516    AGAAGAGCTGCGTGCAACTGGGCTCGGAAAGTATGCTTCAGAGCGTGTTTCCGAAAACAG  575
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49472  AGAAGAGCTGCGTGCAACTGGGCTCGGAAAGTATGCTTCAGAGCGTGTTTCCGAAAACAG  49413
+
+Query  576    TATTCGTGCGGAGAATGGTCTCCCGATAAGAAAGCATTATGCCGGT  621
+              ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49412  TATTCGTGCGGAGAATGGTCTCCCGATAAGAAAGCATTATGCCGGT  49367
+
+
+>JAHBRB010000037.1 Xanthomonas campestris pv. campestris strain 
+GBBC 1414 37, whole genome shotgun sequence
+Length=48639
+
+ Score = 302 bits (163),  Expect = 3e-82
+ Identities = 163/163 (100%), Gaps = 0/163 (0%)
+ Strand=Plus/Minus
+
+Query  1    ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  163  ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  104
+
+Query  61   CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  103  CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  44
+
+Query  121  CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCT  163
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43   CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCT  1
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2954693290
+
+
+  Database: GBBC_1414.fasta
+    Posted date:  Dec 14, 2025  11:01 AM
+  Number of letters in database: 4,935,042
+  Number of sequences in database:  106
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

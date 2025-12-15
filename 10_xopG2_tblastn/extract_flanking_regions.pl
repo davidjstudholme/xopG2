@@ -74,7 +74,7 @@ while (my $file = shift) {
 foreach my $file (sort keys %file2hits) {
     my $fasta_filename;
     
-    if ($file =~ m/\.versus\.(.*.fasta)\.tblastn/) {
+    if ($file =~ m/\.versus\.(.*.fasta)\.t*blastn/) {
 	$fasta_filename = $1;
     } else {
 	die "Could not parse FASTA filename from BLAST file '$file'\n";

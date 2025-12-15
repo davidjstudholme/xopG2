@@ -1,0 +1,106 @@
+BLASTN 2.16.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: LMG_00572.fasta
+           1 sequences; 5,138,930 total letters
+
+
+
+Query= CP066953.1:1086813-1087433 Xanthomonas campestris pv. campestris
+strain 10103 chromosome, complete genome
+
+Length=621
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP155999.1 Xanthomonas campestris pv. campestris strain LMG 00572...  584     3e-167
+
+
+>CP155999.1 Xanthomonas campestris pv. campestris strain LMG 00572 
+chromosome, complete genome
+Length=5138930
+
+ Score = 584 bits (316),  Expect = 3e-167
+ Identities = 316/316 (100%), Gaps = 0/316 (0%)
+ Strand=Plus/Plus
+
+Query  306      TAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATGGTCGA  365
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1092376  TAAGGGCGAAGGTACCAACGCAACAGTGAACTGGAGCCCTGGTGTTGGTTTGATGGTCGA  1092435
+
+Query  366      TAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTGGGGCT  425
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1092436  TAGTGAAGGCCGTCCCCAGGGGCAAAGTTCCGAATATGCAGAACAGGCATTTGTGGGGCT  1092495
+
+Query  426      TGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGTGGTGA  485
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1092496  TGCGCACGAGTTGATTCATGCAAAGCACATCATGTCAGGAGACTTCAAGCACGGTGGTGA  1092555
+
+Query  486      CCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTCGGAAA  545
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1092556  CCGTCTTGATCCGAAAAGTAAGTCTGGCAAAGAAGAGCTGCGTGCAACTGGGCTCGGAAA  1092615
+
+Query  546      GTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCGATAAG  605
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1092616  GTATGCTTCAGAGCGTGTTTCCGAAAACAGTATTCGTGCGGAGAATGGTCTCCCGATAAG  1092675
+
+Query  606      AAAGCATTATGCCGGT  621
+                ||||||||||||||||
+Sbjct  1092676  AAAGCATTATGCCGGT  1092691
+
+
+ Score = 571 bits (309),  Expect = 2e-163
+ Identities = 309/309 (100%), Gaps = 0/309 (0%)
+ Strand=Plus/Plus
+
+Query  1        ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091219  ATGACAATATCGACGCGGCATCCGACTATTGAAATAAATCGCTATCGCAGCGCGGATTAC  1091278
+
+Query  61       CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091279  CCGGATCGGGTGGATGCTGCCTTGGCCAAGATTGAAAGTACTCCCTCAGGGAATCACTTG  1091338
+
+Query  121      CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCT  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091339  CTTGAAGGTTTGAAGCCTTTGGCTGCGCATGGAAAAAAGGTCTTGCTCAATGAGTCGCCT  1091398
+
+Query  181      CCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATAC  240
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091399  CCCTGGAATCCTGCTCCAAGCGCAGGTGCGGTGTTTACCGATAAACAAAGAAGAAAATAC  1091458
+
+Query  241      GGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGC  300
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1091459  GGAGAGCGTGAATCGGAAGGTGAGGCTGCTGTAGAACTTGGCCTCATCACAAAAGGTCGC  1091518
+
+Query  301      TTCTGTAAG  309
+                |||||||||
+Sbjct  1091519  TTCTGTAAG  1091527
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3078205892
+
+
+  Database: LMG_00572.fasta
+    Posted date:  Dec 14, 2025  11:01 AM
+  Number of letters in database: 5,138,930
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

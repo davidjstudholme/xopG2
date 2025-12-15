@@ -13,6 +13,14 @@ CDS	1087868..1088491	JH300_04565	type III secretion system effector protein	NA
 CDS	complement(1088729..1090054)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(1090252..1090596)	JH300_04575	PilZ domain-containing protein	NA	
 
+CP066943.1: 963839 .. 964458 in genome 12049.fasta
+CDS	961661..962203	JH293_03990	YecA family protein	NA	
+CDS	962216..963550	JH293_03995	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	963839..964111	JH293_04000	hypothetical protein	NA	
+CDS	964048..964461	JH293_04005	hypothetical protein	NA	
+CDS	complement(964699..966024)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(966222..966566)	JH293_04015	PilZ domain-containing protein	NA	
+
 CP066939.1: 3897901 .. 3898521 in genome 12112.fasta
 CDS	3895793..3896137	JH286_16840	PilZ domain-containing protein	NA	
 CDS	3896335..3897660	pepQ	Xaa-Pro dipeptidase	NA	
@@ -35,7 +43,6 @@ CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA
 CDS	complement(46389..46733)	QYY87_12915	PilZ domain-containing protein	NA	
 
 JAUINF010000027.1: 28549 .. 29169 in genome 5630.fasta
-STOP codon in JAUINF010000027.1: 28549 .. 29169
 CDS	26441..26785	QYY69_15325	PilZ domain-containing protein	NA	
 CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(28546..29169)	QYY69_15335	type III secretion system effector protein	NA	
@@ -43,7 +50,6 @@ CDS	complement(29458..30792)	QYY69_15340	aminopeptidase P N-terminal domain-cont
 CDS	complement(30805..31347)	QYY69_15345	YecA family protein	NA	
 
 JAUING010000039.1: 45506 .. 46126 in genome 5631.fasta
-STOP codon in JAUING010000039.1: 45506 .. 46126
 CDS	43328..43870	QYY71_18200	YecA family protein	NA	
 CDS	43883..45217	QYY71_18205	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	45506..46195	QYY71_18210	type III secretion system effector protein	NA	
@@ -63,7 +69,6 @@ CDS	complement(29458..30792)	QYY59_16070	aminopeptidase P N-terminal domain-cont
 CDS	complement(30805..31347)	QYY59_16075	YecA family protein	NA	
 
 JAUIOI010000020.1: 45506 .. 46126 in genome 5783.fasta
-STOP codon in JAUIOI010000020.1: 45506 .. 46126
 CDS	43328..43870	QYZ34_13875	YecA family protein	NA	
 CDS	43883..45217	QYZ34_13880	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	45506..46129	QYZ34_13885	type III secretion system effector protein	NA	
@@ -71,7 +76,6 @@ CDS	complement(46367..47692)	pepQ	Xaa-Pro dipeptidase	NA
 CDS	complement(47890..48234)	QYZ34_13895	PilZ domain-containing protein	NA	
 
 JAUION010000019.1: 45506 .. 46126 in genome 5784.fasta
-STOP codon in JAUION010000019.1: 45506 .. 46126
 CDS	43328..43870	QYZ16_13685	YecA family protein	NA	
 CDS	43883..45217	QYZ16_13690	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	45506..46129	QYZ16_13695	type III secretion system effector protein	NA	
@@ -79,7 +83,6 @@ CDS	complement(46367..47692)	pepQ	Xaa-Pro dipeptidase	NA
 CDS	complement(47890..48234)	QYZ16_13705	PilZ domain-containing protein	NA	
 
 JAUIOP010000029.1: 44005 .. 44625 in genome 5802.fasta
-STOP codon in JAUIOP010000029.1: 44005 .. 44625
 CDS	41827..42369	QYY97_16615	YecA family protein	NA	
 CDS	42382..43716	QYY97_16620	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	44005..44628	QYY97_16625	type III secretion system effector protein	NA	
@@ -87,7 +90,6 @@ CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA
 CDS	complement(46389..46733)	QYY97_16635	PilZ domain-containing protein	NA	
 
 JAUIPD010000019.1: 49448 .. 50068 in genome 6018A.fasta
-STOP codon in JAUIPD010000019.1: 49448 .. 50068
 CDS	47340..47684	QYZ03_13285	PilZ domain-containing protein	NA	
 CDS	47882..49207	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(49445..50068)	QYZ03_13295	type III secretion system effector protein	NA	
@@ -366,7 +368,6 @@ CDS	complement(44769..46103)	ACWJJ0_17770	aminopeptidase P N-terminal domain-con
 CDS	complement(46116..46658)	ACWJJ0_17775	YecA/YgfB family protein	NA	
 
 JBEFVB010000028.1: 28549 .. 29169 in genome WHRI_3852B.fasta
-STOP codon in JBEFVB010000028.1: 28549 .. 29169
 CDS	26441..26785	ABQE85_18510	PilZ domain-containing protein	NA	
 CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(28780..29169)	ABQE85_18520	M91 family zinc metallopeptidase	NA	
@@ -423,7 +424,6 @@ CDS	complement(50354..51688)	ABQE86_16720	aminopeptidase P N-terminal domain-con
 CDS	complement(51701..52243)	ABQE86_16725	YecA family protein	NA	
 
 JBEFUD010000028.1: 44005 .. 44625 in genome WHRI_5490.fasta
-STOP codon in JBEFUD010000028.1: 44005 .. 44625
 CDS	41827..42369	ABQF11_18510	YecA family protein	NA	
 CDS	42382..43716	ABQF11_18515	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	44005..44628	ABQF11_18520	type III secretion system effector protein	NA	
@@ -431,12 +431,18 @@ CDS	complement(44866..46191)	pepQ	Xaa-Pro dipeptidase	NA
 CDS	complement(46389..46733)	ABQF11_18530	PilZ domain-containing protein	NA	
 
 JAYIOU010000028.1: 28549 .. 29169 in genome WHRI_6022A.fasta
-STOP codon in JAYIOU010000028.1: 28549 .. 29169
 CDS	26441..26785	VDQ06_18610	PilZ domain-containing protein	NA	
 CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(28780..29196)	VDQ06_18620	M91 family zinc metallopeptidase	NA	
 CDS	complement(29458..30792)	VDQ06_18625	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30805..31347)	VDQ06_18630	YecA family protein	NA	
+
+JAYIOJ010000023.1: 28520 .. 29139 in genome WHRI_6067.fasta
+CDS	26412..26756	VDP83_18300	PilZ domain-containing protein	NA	
+CDS	26954..28279	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(28517..28978)	VDP83_18310	M91 family zinc metallopeptidase	NA	
+CDS	complement(29428..30762)	VDP83_18315	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	complement(30775..31317)	VDP83_18320	YecA family protein	NA	
 
 JAYIRA010000016.1: 41563 .. 42183 in genome WHRI_6379_NCPPB_45.fasta
 CDS	39385..39927	VDR09_12030	YecA family protein	NA	
@@ -467,7 +473,6 @@ CDS	complement(29429..30763)	VDR02_13545	aminopeptidase P N-terminal domain-cont
 CDS	complement(30776..31318)	VDR02_13550	YecA family protein	NA	
 
 JAYIWA010000023.1: 49438 .. 50058 in genome WHRI_7782.fasta
-STOP codon in JAYIWA010000023.1: 49438 .. 50058
 CDS	47330..47674	VDS26_13880	PilZ domain-containing protein	NA	
 CDS	47872..49197	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(49669..50085)	VDS26_13890	M91 family zinc metallopeptidase	NA	
@@ -475,7 +480,6 @@ CDS	complement(50347..51681)	VDS26_13895	aminopeptidase P N-terminal domain-cont
 CDS	complement(51694..52236)	VDS26_13900	YecA family protein	NA	
 
 JAYIQL010000029.1: 28549 .. 29169 in genome WHRI_7787.fasta
-STOP codon in JAYIQL010000029.1: 28549 .. 29169
 CDS	26441..26785	VDQ93_16825	PilZ domain-containing protein	NA	
 CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(28780..29196)	VDQ93_16835	M91 family zinc metallopeptidase	NA	
