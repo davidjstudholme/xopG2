@@ -1,0 +1,77 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_6067.fasta
+           81 sequences; 5,041,173 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIOJ010000023.1 Xanthomonas campestris pv. campestris strain WH...  321     7e-116
+
+
+>JAYIOJ010000023.1 Xanthomonas campestris pv. campestris strain 
+WHRI 6067 scf_82297_23, whole genome shotgun sequence
+Length=73145
+
+ Score = 321 bits (823),  Expect(2) = 7e-116, Method: Compositional matrix adjust.
+ Identities = 156/156 (100%), Positives = 156/156 (100%), Gaps = 0/156 (0%)
+ Frame = -2
+
+Query  52     KKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATV  111
+              KKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATV
+Sbjct  28987  KKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATV  28808
+
+Query  112    NWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSG  171
+              NWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSG
+Sbjct  28807  NWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSG  28628
+
+Query  172    KEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  207
+              KEELRATGLGKYASERVSENSIRAENGLPIRKHYAG
+Sbjct  28627  KEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  28520
+
+
+ Score = 111 bits (277),  Expect(2) = 7e-116, Method: Compositional matrix adjust.
+ Identities = 52/53 (98%), Positives = 53/53 (100%), Gaps = 0/53 (0%)
+ Frame = -3
+
+Query  1      MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKK  53
+              MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGK+
+Sbjct  29139  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKR  28981
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 207534832
+
+
+  Database: WHRI_6067.fasta
+    Posted date:  Dec 15, 2025  3:06 PM
+  Number of letters in database: 5,041,173
+  Number of sequences in database:  81
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

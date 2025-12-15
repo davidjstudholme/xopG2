@@ -1,0 +1,73 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_3849A.fasta
+           71 sequences; 5,133,170 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+RRXQ01000061.1 Xanthomonas campestris pv. campestris strain WHRI ...  89.7    5e-22
+
+
+>RRXQ01000061.1 Xanthomonas campestris pv. campestris strain WHRI 
+3849A NODE_64_length_1086_cov_108.158_ID_127, whole genome 
+shotgun sequence
+Length=1086
+
+ Score = 89.7 bits (221),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 66/187 (35%), Positives = 102/187 (55%), Gaps = 11/187 (6%)
+ Frame = -1
+
+Query  31    IESTPSGNHLLEGLKPLAAHGK-KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEA  89
+             I S  +GN LL+ L  L++  + K+ ++E       PSA  V +  Q  ++ +  +  E 
+Sbjct  1086  IGSGSTGNQLLDDLVSLSSQRRHKITIHEMEVSKSGPSAEPVLSRHQLERHPDLNNYQEI  907
+
+Query  90    AVELGLITKGRFCKG--EGTNATVNWSPGVGLM-VDSEGRPQGQSSEYAEQAFVGLAHEL  146
+                 G     +  +G  EG++  V W+     M +D +G P G +S + ++  + LAHEL
+Sbjct  906   RETAGRRYAWKTSQGQNEGSSVVVTWTAHQTSMGLDEDGDPTGPTSSHRDKVSL-LAHEL  730
+
+Query  147   IHAKHIMSGDFKHG-GDRLDPKSKSGKEELRATGLGKYASERV---SENSIRAENGLPIR  202
+             +HAKH+M G +     D  DP++ SGKEELRA G+G+Y   +    SENS+RAE+ LP R
+Sbjct  729   VHAKHMMGGTWMGSYDDSRDPETDSGKEELRAVGIGEYKYSKTRQPSENSVRAEHDLPKR  550
+
+Query  203   K--HYAG  207
+                HY+G
+Sbjct  549   ASYHYSG  529
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 211440212
+
+
+  Database: WHRI_3849A.fasta
+    Posted date:  Dec 15, 2025  3:06 PM
+  Number of letters in database: 5,133,170
+  Number of sequences in database:  71
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
