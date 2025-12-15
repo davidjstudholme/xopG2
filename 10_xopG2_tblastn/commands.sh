@@ -9,20 +9,14 @@ for i in *.fasta; do echo $i; formatdb -pF -i $i ; done
 ### Perform the TBLASTN searches
 for i in *.fasta; do echo $i; tblastn -seg no -query ../XopG2.faa -db $i -evalue 0.0000000001 -out XopG2.versus.$i.tblastn; done
 
-### Perform the BLASTN searches
-for i in *.fasta; do echo $i; blastn -query ../xopG2.fna -db $i -evalue 0.0000000001 -out xopG2.versus.$i.blastn; done
-
-
 ### Come back out of the new directory                                                                                                                                             
 cd ..
 
-./extract_flanking_regions.pl ./genomes/*.tblastn > xopG2_genomic_contexts.txt
+### Parse TBLASTN files
+./extract_flanking_regions.pl ./genomes/*.tblastn > xopG2_genomic_contexts_all-Xcc-tblastn.txt
+perl parse_blast_to_presence-absence_matrix.pl ./genomes/*.tblastn > gene_presence_absence_all-Xcc-tblastn.csv
 
-perl parse_blast_to_presence-absence_matrix.pl ./genomes/*.tblastn > gene_presence_absence_transposed.csv
 
-./extract_flanking_regions.pl ./genomes/*.blastn > xopG2_genomic_contexts.txt
-
-perl parse_blast_to_presence-absence_matrix.pl ./genomes/*.blastn > gene_presence_absence_transposed.csv
 
 
 

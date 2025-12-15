@@ -8,19 +8,20 @@ use Bio::SeqIO;
 use Bio::DB::GenBank;
 
 my %file2hits;
-my %stop_codons;
 my %files;
+my %coverages;
+my %stop_codons;
 
 my $upstream_flank = 2000;
 my $downstream_flank = 2000;
 
-#my $coverage_threshold_min = 0.20; # example $coverage_threshold_min = 0.90 
-#my $coverage_threshold_max = 0.95; # example $coverage_threshold_max = 1.00
-
-my $coverage_threshold_min = 0.90; # example $coverage_threshold_min = 0.90
+my $coverage_threshold_min = 0.40; # example $coverage_threshold_min = 0.90 
 my $coverage_threshold_max = 1.00; # example $coverage_threshold_max = 1.00
 
-my $pc_identical_threshold = 90; # example $pc_identical_threshold = 90
+#my $coverage_threshold_min = 0.90; # example $coverage_threshold_min = 0.90
+#my $coverage_threshold_max = 1.00; # example $coverage_threshold_max = 1.00
+
+my $pc_identical_threshold = 95; # example $pc_identical_threshold = 90
 
 while (my $file = shift) {
     
@@ -46,38 +47,83 @@ while (my $file = shift) {
 		my $hit_end = $hsp->end('hit');
 		
 		my $pc_identical = 100 * $hsp->frac_identical; 
-		
+
+		### Keep a tally of stop codons
 		my $hit_string = $hsp->hit_string;		
 		if ($hit_string =~ m/\*/) {
 		    warn "$file $query_acc versus $hit_acc contains STOP codon\n";
-		    $stop_codons{$file}{$hit_acc} ++;
+		    $stop_codons{$file}{$hit_acc}++;
 		}
-		
+
+		### Calculate coverage over the query sequence
 		my $coverage = ($query_end - $query_start + 1) / $query_length;
-		
-		#warn "$coverage\t$pc_identical\n";
+		my $pc_coverage = int($coverage * 100);
+		$coverages{$file}{$hit_acc}{$pc_coverage}++;
 		
 		if ($coverage >= $coverage_threshold_min and
 		    $coverage <= $coverage_threshold_max and
 		    $pc_identical >= $pc_identical_threshold) {
 		    
 		    $file2hits{$file}{$hit_acc} = [$hit_start, $hit_end];
-		    #warn "Found a hit";
 		}
-		
 	    }
 	}
     }
 }
 
-### Iterate over each BLAST hit
-foreach my $file (sort keys %file2hits) {
+
+### List genomes that have stop codons
+foreach my $file (sort keys %stop_codons) {
+    warn "$file has STOP codon\n";
+}
+
+
+### List genomes that show complete coverage
+my %coverage_to_printline;
+print "Coverages:\n";
+foreach my $file (sort keys %coverages){
     my $fasta_filename;
-    
-    if ($file =~ m/\.versus\.(.*.fasta)\.t*blastn/) {
+    if ($file =~ m/\.versus\.(.*.fasta)\.tblastn/) {
 	$fasta_filename = $1;
     } else {
-	die "Could not parse FASTA filename from BLAST file '$file'\n";
+	die "Could not parse FASTA filename from TBLASTN file '$file'\n";
+    }
+    foreach my $acc (keys %{$coverages{$file}}) {
+	my @coverages = sort {$b<=>$a} keys %{$coverages{$file}{$acc}};
+	my $highest_coverage = shift @coverages;
+	my $printline = "";
+	$printline .= "$fasta_filename";
+	$printline .= "\t";
+	$printline .= "$acc";
+	$printline .= "\t";
+	$printline .= "$highest_coverage %";
+	foreach my $i (@coverages) {
+	    $printline .= ", $i %";
+	}
+	$printline .= "\t";
+	if (defined $stop_codons{$file}{$acc}) {
+	    $printline .= "STOP codon ";
+	} else {
+	    $printline .= "";
+	}
+	push @{$coverage_to_printline{$highest_coverage}}, $printline;
+    }
+}
+
+foreach my $coverage (sort {$b<=>$a} keys %coverage_to_printline) {
+    foreach my $readline (sort @{$coverage_to_printline{$coverage}}) {
+	print "$readline\n";
+	warn "$readline\n";
+    }
+}
+
+### Iterate over each BLAST hit
+foreach my $file (sort keys %file2hits) {
+    my $fasta_filename;  
+    if ($file =~ m/\.versus\.(.*.fasta)\.tblastn/) {
+	$fasta_filename = $1;
+    } else {
+	die "Could not parse FASTA filename from TBLASTN file '$file'\n";
     }
 
     warn "Examining $fasta_filename\n";
@@ -86,11 +132,26 @@ foreach my $file (sort keys %file2hits) {
 	if (defined $file2hits{$file}{$hit_acc}) {
 	    my ($hit_start, $hit_end) = @{$file2hits{$file}{$hit_acc}};
 
+	    ### Print header line for this genome
 	    print "\n$hit_acc: $hit_start .. $hit_end in genome $fasta_filename\n";
 	    if (defined $stop_codons{$file}{$hit_acc}) {
 		print "STOP codon in $hit_acc: $hit_start .. $hit_end\n";
 		warn "STOP codon in $hit_acc: $hit_start .. $hit_end\n";
 	    }
+
+	    ### Print list of coverages
+	    my @coverages = @{$coverages{$file}{$hit_acc}};
+	    foreach my $coverage (sort {$b<=>$a} @coverages) {
+		if ($coverage == 100) {
+		} else {
+		    print "!!! ";
+		}
+		print "Hit covers $coverage %\n";
+	    }
+	    
+	    ### Print a blank line
+	    print "\n"; 
+
 	    
 	    ### Extract features in the flanking sequence
 	    my $X = $hit_start - $upstream_flank;
@@ -138,12 +199,10 @@ foreach my $file (sort keys %file2hits) {
 	    ### Throttle requests
 	    sleep 0.5;
 	    
-	    
-	} else {
 	}
     }
 }
-
+    
 
 sub get_qual {
     my ($feat, $tag) = @_;

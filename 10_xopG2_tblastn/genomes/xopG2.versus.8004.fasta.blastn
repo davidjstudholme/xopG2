@@ -19,14 +19,14 @@ Length=621
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-CP155948.1 Xanthomonas campestris pv. campestris str. 8004 chromo...  584     3e-167
+CP155948.1 Xanthomonas campestris pv. campestris str. 8004 chromo...  453     7e-128
 
 
 >CP155948.1 Xanthomonas campestris pv. campestris str. 8004 chromosome, 
 complete genome
 Length=5150550
 
- Score = 584 bits (316),  Expect = 3e-167
+ Score = 453 bits (632),  Expect = 7e-128
  Identities = 316/316 (100%), Gaps = 0/316 (0%)
  Strand=Plus/Plus
 
@@ -55,7 +55,7 @@ Query  606      AAAGCATTATGCCGGT  621
 Sbjct  1091300  AAAGCATTATGCCGGT  1091315
 
 
- Score = 566 bits (306),  Expect = 1e-161
+ Score = 441 bits (614),  Expect = 5e-124
  Identities = 308/309 (99%), Gaps = 0/309 (0%)
  Strand=Plus/Plus
 
@@ -86,13 +86,13 @@ Sbjct  1090143  TTCTGTAAG  1090151
 
 
 Lambda      K        H
-    1.33    0.621     1.12 
+   0.549    0.333    0.549 
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+   0.495    0.170    0.300 
 
-Effective search space used: 3085166272
+Effective search space used: 2910029110
 
 
   Database: 8004.fasta
@@ -102,5 +102,5 @@ Effective search space used: 3085166272
 
 
 
-Matrix: blastn matrix 1 -2
-Gap Penalties: Existence: 0, Extension: 2.5
+Matrix: blastn matrix 2 -2
+Gap Penalties: Existence: 4, Extension: 2
