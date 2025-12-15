@@ -1,1 +1,495 @@
-Genomes with partial coverage: ./genomes/XopG2.versus.10090.fasta.tblastn (HASH(0x5566aca779b8)) ./genomes/XopG2.versus.10108.fasta.tblastn (HASH(0x5566aca77970)) ./genomes/XopG2.versus.10213.fasta.tblastn (HASH(0x5566aca6f828)) ./genomes/XopG2.versus.10215A.fasta.tblastn (HASH(0x5566aca6f5e8)) ./genomes/XopG2.versus.10217A.fasta.tblastn (HASH(0x5566aca78060)) ./genomes/XopG2.versus.12049.fasta.tblastn (HASH(0x5566aca67e60)) ./genomes/XopG2.versus.147.fasta.tblastn (HASH(0x5566aca67d70)) ./genomes/XopG2.versus.33-1.fasta.tblastn (HASH(0x5566aca65548)) ./genomes/XopG2.versus.3811.fasta.tblastn (HASH(0x5566aca67d28)) ./genomes/XopG2.versus.39-3.fasta.tblastn (HASH(0x5566aca67f68)) ./genomes/XopG2.versus.3977A.fasta.tblastn (HASH(0x5566aca65ba8)) ./genomes/XopG2.versus.40-2.fasta.tblastn (HASH(0x5566ac946c50)) ./genomes/XopG2.versus.419.fasta.tblastn (HASH(0x5566aca7c750)) ./genomes/XopG2.versus.42-1.fasta.tblastn (HASH(0x5566aca78708)) ./genomes/XopG2.versus.42-2.fasta.tblastn (HASH(0x5566ac798268)) ./genomes/XopG2.versus.42-4.fasta.tblastn (HASH(0x5566aca7cc18)) ./genomes/XopG2.versus.45672.fasta.tblastn (HASH(0x5566aca7c780)) ./genomes/XopG2.versus.45685.fasta.tblastn (HASH(0x5566aca778c8)) ./genomes/XopG2.versus.45772.fasta.tblastn (HASH(0x5566aca7d410)) ./genomes/XopG2.versus.45806.fasta.tblastn (HASH(0x5566aca655a8)) ./genomes/XopG2.versus.45835.fasta.tblastn (HASH(0x5566aca67cb0)) ./genomes/XopG2.versus.45837.fasta.tblastn (HASH(0x5566aca70098)) ./genomes/XopG2.versus.45927.fasta.tblastn (HASH(0x5566aca6f8e8)) ./genomes/XopG2.versus.45957.fasta.tblastn (HASH(0x5566aca65428)) ./genomes/XopG2.versus.54-2.fasta.tblastn (HASH(0x5566aca81108)) ./genomes/XopG2.versus.54-3.fasta.tblastn (HASH(0x5566aca65620)) ./genomes/XopG2.versus.5495.fasta.tblastn (HASH(0x5566aca7cd50)) ./genomes/XopG2.versus.5498.fasta.tblastn (HASH(0x5566aca7cf00)) ./genomes/XopG2.versus.5499.fasta.tblastn (HASH(0x5566abb9ccf0)) ./genomes/XopG2.versus.55-1.fasta.tblastn (HASH(0x5566aca81408)) ./genomes/XopG2.versus.55-2.fasta.tblastn (HASH(0x5566aca77ca0)) ./genomes/XopG2.versus.5714B.fasta.tblastn (HASH(0x5566aca6f978)) ./genomes/XopG2.versus.5715A.fasta.tblastn (HASH(0x5566aca81d38)) ./genomes/XopG2.versus.5732.fasta.tblastn (HASH(0x5566aca81768)) ./genomes/XopG2.versus.5733.fasta.tblastn (HASH(0x5566aca81fc0)) ./genomes/XopG2.versus.5734.fasta.tblastn (HASH(0x5566aca871b8)) ./genomes/XopG2.versus.5735.fasta.tblastn (HASH(0x5566aca81300)) ./genomes/XopG2.versus.5736.fasta.tblastn (HASH(0x5566aca7c4f8)) ./genomes/XopG2.versus.5740.fasta.tblastn (HASH(0x5566aca7cf90)) ./genomes/XopG2.versus.5741.fasta.tblastn (HASH(0x5566aca7cea0)) ./genomes/XopG2.versus.5742.fasta.tblastn (HASH(0x5566aca871e8)) ./genomes/XopG2.versus.5743.fasta.tblastn (HASH(0x5566aca77d30)) ./genomes/XopG2.versus.5744.fasta.tblastn (HASH(0x5566aca81348)) ./genomes/XopG2.versus.5745.fasta.tblastn (HASH(0x5566aca6f810)) ./genomes/XopG2.versus.5746.fasta.tblastn (HASH(0x5566aca7c6a8)) ./genomes/XopG2.versus.5771.fasta.tblastn (HASH(0x5566aca86ed0)) ./genomes/XopG2.versus.5772.fasta.tblastn (HASH(0x5566ac392110)) ./genomes/XopG2.versus.5773.fasta.tblastn (HASH(0x5566aca7ca08)) ./genomes/XopG2.versus.5778.fasta.tblastn (HASH(0x5566aca0d610)) ./genomes/XopG2.versus.5779.fasta.tblastn (HASH(0x5566aca817c8)) ./genomes/XopG2.versus.5780.fasta.tblastn (HASH(0x5566aca81f48)) ./genomes/XopG2.versus.5789.fasta.tblastn (HASH(0x5566aca57258)) ./genomes/XopG2.versus.5791.fasta.tblastn (HASH(0x5566aca81cd8)) ./genomes/XopG2.versus.5792.fasta.tblastn (HASH(0x5566aca81138)) ./genomes/XopG2.versus.5796.fasta.tblastn (HASH(0x5566aca81990)) ./genomes/XopG2.versus.5800.fasta.tblastn (HASH(0x5566aca77910)) ./genomes/XopG2.versus.5804.fasta.tblastn (HASH(0x5566aca86fc0)) ./genomes/XopG2.versus.5806.fasta.tblastn (HASH(0x5566aca7c660)) ./genomes/XopG2.versus.5821.fasta.tblastn (HASH(0x5566aca879f8)) ./genomes/XopG2.versus.6019A.fasta.tblastn (HASH(0x5566aca86d08)) ./genomes/XopG2.versus.6019C.fasta.tblastn (HASH(0x5566aca873e0)) ./genomes/XopG2.versus.6020A.fasta.tblastn (HASH(0x5566aca81630)) ./genomes/XopG2.versus.6023A.fasta.tblastn (HASH(0x5566aca87a58)) ./genomes/XopG2.versus.6198.fasta.tblastn (HASH(0x5566aca87998)) ./genomes/XopG2.versus.6290.fasta.tblastn (HASH(0x5566aca815a0)) ./genomes/XopG2.versus.6413.fasta.tblastn (HASH(0x5566aca7cb28)) ./genomes/XopG2.versus.6414.fasta.tblastn (HASH(0x5566ab603ff8)) ./genomes/XopG2.versus.7073.fasta.tblastn (HASH(0x5566aca81180)) ./genomes/XopG2.versus.8004.fasta.tblastn (HASH(0x5566ac7386e8)) ./genomes/XopG2.versus.8288.fasta.tblastn (HASH(0x5566aca81390)) ./genomes/XopG2.versus.8290.fasta.tblastn (HASH(0x5566aca81db0)) ./genomes/XopG2.versus.8708.fasta.tblastn (HASH(0x5566aca81d50)) ./genomes/XopG2.versus.8903A.fasta.tblastn (HASH(0x5566aca7cc90)) ./genomes/XopG2.versus.8964.fasta.tblastn (HASH(0x5566abf31f18)) ./genomes/XopG2.versus.A342.fasta.tblastn (HASH(0x5566aca65d10)) ./genomes/XopG2.versus.AMN4_1.fasta.tblastn (HASH(0x5566ac946998)) ./genomes/XopG2.versus.AMN5.fasta.tblastn (HASH(0x5566aca65ec0)) ./genomes/XopG2.versus.Ar1BCA1.fasta.tblastn (HASH(0x5566aca81570)) ./genomes/XopG2.versus.Ar1PC2.fasta.tblastn (HASH(0x5566aca87b78)) ./genomes/XopG2.versus.B100.fasta.tblastn (HASH(0x5566aca65938)) ./genomes/XopG2.versus.BJSJQ20200612-pXX3-4.fasta.tblastn (HASH(0x5566abf317f8)) ./genomes/XopG2.versus.BJSJQ20200612.fasta.tblastn (HASH(0x5566aca81480)) ./genomes/XopG2.versus.BrA1.fasta.tblastn (HASH(0x5566aca81798)) ./genomes/XopG2.versus.CFBP1119.fasta.tblastn (HASH(0x5566aca875a8)) ./genomes/XopG2.versus.CFBP4953.fasta.tblastn (HASH(0x5566abf31930)) ./genomes/XopG2.versus.CFBP_12824.fasta.tblastn (HASH(0x5566aca77988)) ./genomes/XopG2.versus.CFBP_1869.fasta.tblastn (HASH(0x5566aca68100)) ./genomes/XopG2.versus.CFBP_5127.fasta.tblastn (HASH(0x5566aca67680)) ./genomes/XopG2.versus.CFBP_5130.fasta.tblastn (HASH(0x5566aca7d458)) ./genomes/XopG2.versus.CFBP_7156.fasta.tblastn (HASH(0x5566aca77928)) ./genomes/XopG2.versus.CFBP_8242.fasta.tblastn (HASH(0x5566aca77dd8)) ./genomes/XopG2.versus.CFBP_8405.fasta.tblastn (HASH(0x5566aca70080)) ./genomes/XopG2.versus.CFBP_8406.fasta.tblastn (HASH(0x5566aca651d0)) ./genomes/XopG2.versus.CFBP_9145.fasta.tblastn (HASH(0x5566aca89248)) ./genomes/XopG2.versus.CM6.fasta.tblastn (HASH(0x5566abf3d690)) ./genomes/XopG2.versus.CN01.fasta.tblastn (HASH(0x5566aca7d3c8)) ./genomes/XopG2.versus.CN07.fasta.tblastn (HASH(0x5566aca87590)) ./genomes/XopG2.versus.CN11.fasta.tblastn (HASH(0x5566aca875f0)) ./genomes/XopG2.versus.CN14.fasta.tblastn (HASH(0x5566abf3d120)) ./genomes/XopG2.versus.CN15.fasta.tblastn (HASH(0x5566abf316a8)) ./genomes/XopG2.versus.CN16.fasta.tblastn (HASH(0x5566ac74a1f0)) ./genomes/XopG2.versus.CaNP1C.fasta.tblastn (HASH(0x5566aca872c0)) ./genomes/XopG2.versus.DAPP-PG_308.fasta.tblastn (HASH(0x5566aca89698)) ./genomes/XopG2.versus.GBBC1458.fasta.tblastn (HASH(0x5566aca78678)) ./genomes/XopG2.versus.GBBC_1071.fasta.tblastn (HASH(0x5566aca7ca38)) ./genomes/XopG2.versus.GBBC_1072.fasta.tblastn (HASH(0x5566aca6fb70)) ./genomes/XopG2.versus.GBBC_1073.fasta.tblastn (HASH(0x5566aca88cc0)) ./genomes/XopG2.versus.GBBC_1412.fasta.tblastn (HASH(0x5566abf31c30)) ./genomes/XopG2.versus.GBBC_1414.fasta.tblastn (HASH(0x5566aca81678)) ./genomes/XopG2.versus.GBBC_1415.fasta.tblastn (HASH(0x5566abf3cd78)) ./genomes/XopG2.versus.GBBC_1419.fasta.tblastn (HASH(0x5566abf3d3c0)) ./genomes/XopG2.versus.GBBC_1429.fasta.tblastn (HASH(0x5566aca89008)) ./genomes/XopG2.versus.GBBC_1431.fasta.tblastn (HASH(0x5566abf321a0)) ./genomes/XopG2.versus.GBBC_1456.fasta.tblastn (HASH(0x5566aca77ec8)) ./genomes/XopG2.versus.GBBC_3216.fasta.tblastn (HASH(0x5566aca8e0e8)) ./genomes/XopG2.versus.GBBC_3220.fasta.tblastn (HASH(0x5566abf3cee0)) ./genomes/XopG2.versus.GBBC_3226.fasta.tblastn (HASH(0x5566abf31db0)) ./genomes/XopG2.versus.ICMP_21080.fasta.tblastn (HASH(0x5566aca81f18)) ./genomes/XopG2.versus.IPO_634.fasta.tblastn (HASH(0x5566abf37fc0)) ./genomes/XopG2.versus.K13014.fasta.tblastn (HASH(0x5566aca8e478)) ./genomes/XopG2.versus.LMG_00569.fasta.tblastn (HASH(0x5566abf3d780)) ./genomes/XopG2.versus.LMG_00572.fasta.tblastn (HASH(0x5566aca67668)) ./genomes/XopG2.versus.LMG_00583.fasta.tblastn (HASH(0x5566aca8e0d0)) ./genomes/XopG2.versus.LMG_07460.fasta.tblastn (HASH(0x5566aca90aa8)) ./genomes/XopG2.versus.LMG_08001.fasta.tblastn (HASH(0x5566abf3ccd0)) ./genomes/XopG2.versus.LMG_08003.fasta.tblastn (HASH(0x5566aca898d8)) ./genomes/XopG2.versus.LMG_08005.fasta.tblastn (HASH(0x5566aca65848)) ./genomes/XopG2.versus.LMG_08006.fasta.tblastn (HASH(0x5566abf38350)) ./genomes/XopG2.versus.LMG_08099.fasta.tblastn (HASH(0x5566aca8e208)) ./genomes/XopG2.versus.MAFF301176.fasta.tblastn (HASH(0x5566abf31f48)) ./genomes/XopG2.versus.MAFF302021.fasta.tblastn (HASH(0x5566aca6fb58)) ./genomes/XopG2.versus.MBG-107.1.fasta.tblastn (HASH(0x5566aca77be0)) ./genomes/XopG2.versus.MBG-63.1.fasta.tblastn (HASH(0x5566aca81cc0)) ./genomes/XopG2.versus.NCPPB_1144.fasta.tblastn (HASH(0x5566aca87620)) ./genomes/XopG2.versus.NSTU_AG-1.fasta.tblastn (HASH(0x5566aca786d8)) ./genomes/XopG2.versus.SA14.fasta.tblastn (HASH(0x5566aca7d200)) ./genomes/XopG2.versus.SB102.fasta.tblastn (HASH(0x5566aca8dbd8)) ./genomes/XopG2.versus.SB113.fasta.tblastn (HASH(0x5566aca653e0)) ./genomes/XopG2.versus.SB47_1.fasta.tblastn (HASH(0x5566aca90940)) ./genomes/XopG2.versus.SB76_1.fasta.tblastn (HASH(0x5566aca917e0)) ./genomes/XopG2.versus.SB80.fasta.tblastn (HASH(0x5566abf38548)) ./genomes/XopG2.versus.SO1.fasta.tblastn (HASH(0x5566aca90f28)) ./genomes/XopG2.versus.SV5.fasta.tblastn (HASH(0x5566aca968d8)) ./genomes/XopG2.versus.WHRI_10018A.fasta.tblastn (HASH(0x5566abf37b88)) ./genomes/XopG2.versus.WHRI_10018B.fasta.tblastn (HASH(0x5566aca91048)) ./genomes/XopG2.versus.WHRI_10019A.fasta.tblastn (HASH(0x5566aca96c20)) ./genomes/XopG2.versus.WHRI_10019C.fasta.tblastn (HASH(0x5566aca87830)) ./genomes/XopG2.versus.WHRI_10020A.fasta.tblastn (HASH(0x5566aca90e20)) ./genomes/XopG2.versus.WHRI_10021A.fasta.tblastn (HASH(0x5566aca674d0)) ./genomes/XopG2.versus.WHRI_10021B.fasta.tblastn (HASH(0x5566aca96158)) ./genomes/XopG2.versus.WHRI_10023A.fasta.tblastn (HASH(0x5566aca81450)) ./genomes/XopG2.versus.WHRI_10024A.fasta.tblastn (HASH(0x5566aca8e100)) ./genomes/XopG2.versus.WHRI_10033A.fasta.tblastn (HASH(0x5566aca89188)) ./genomes/XopG2.versus.WHRI_10034B.fasta.tblastn (HASH(0x5566aca8e328)) ./genomes/XopG2.versus.WHRI_10035A.fasta.tblastn (HASH(0x5566aca96860)) ./genomes/XopG2.versus.WHRI_10061.fasta.tblastn (HASH(0x5566aca91618)) ./genomes/XopG2.versus.WHRI_10062A.fasta.tblastn (HASH(0x5566abf38170)) ./genomes/XopG2.versus.WHRI_3811.fasta.tblastn (HASH(0x5566abf387d0)) ./genomes/XopG2.versus.WHRI_3818A.fasta.tblastn (HASH(0x5566aca89338)) ./genomes/XopG2.versus.WHRI_3819A.fasta.tblastn (HASH(0x5566aca963e0)) ./genomes/XopG2.versus.WHRI_3843B.fasta.tblastn (HASH(0x5566abf38410)) ./genomes/XopG2.versus.WHRI_3844B.fasta.tblastn (HASH(0x5566abf38518)) ./genomes/XopG2.versus.WHRI_3846B.fasta.tblastn (HASH(0x5566abf38890)) ./genomes/XopG2.versus.WHRI_3849A.fasta.tblastn (HASH(0x5566aca96650)) ./genomes/XopG2.versus.WHRI_3873.fasta.tblastn (HASH(0x5566aca89068)) ./genomes/XopG2.versus.WHRI_3874.fasta.tblastn (HASH(0x5566abf31ea0)) ./genomes/XopG2.versus.WHRI_3876_NCPPB_1043.fasta.tblastn (HASH(0x5566aca89b00)) ./genomes/XopG2.versus.WHRI_3877_NCPPB_1645.fasta.tblastn (HASH(0x5566aca8e4d8)) ./genomes/XopG2.versus.WHRI_3961.fasta.tblastn (HASH(0x5566aca81ea0)) ./genomes/XopG2.versus.WHRI_3962.fasta.tblastn (HASH(0x5566aca878d8)) ./genomes/XopG2.versus.WHRI_3964.fasta.tblastn (HASH(0x5566aca96248)) ./genomes/XopG2.versus.WHRI_3971A.fasta.tblastn (HASH(0x5566aca91510)) ./genomes/XopG2.versus.WHRI_3972A.fasta.tblastn (HASH(0x5566aca8dba8)) ./genomes/XopG2.versus.WHRI_3973A.fasta.tblastn (HASH(0x5566aca96cc8)) ./genomes/XopG2.versus.WHRI_3974A.fasta.tblastn (HASH(0x5566aca9f1a8)) ./genomes/XopG2.versus.WHRI_3976A.fasta.tblastn (HASH(0x5566aca7c840)) ./genomes/XopG2.versus.WHRI_3978.fasta.tblastn (HASH(0x5566abf31a38)) ./genomes/XopG2.versus.WHRI_5176.fasta.tblastn (HASH(0x5566aca96170)) ./genomes/XopG2.versus.WHRI_5482.fasta.tblastn (HASH(0x5566aca8dc68)) ./genomes/XopG2.versus.WHRI_5487.fasta.tblastn (HASH(0x5566aca91768)) ./genomes/XopG2.versus.WHRI_5489.fasta.tblastn (HASH(0x5566abf38578)) ./genomes/XopG2.versus.WHRI_5494A.fasta.tblastn (HASH(0x5566aca9ace8)) ./genomes/XopG2.versus.WHRI_6024A.fasta.tblastn (HASH(0x5566aca8e868)) ./genomes/XopG2.versus.WHRI_6044.fasta.tblastn (HASH(0x5566aca9aac0)) ./genomes/XopG2.versus.WHRI_6046.fasta.tblastn (HASH(0x5566aca90fa0)) ./genomes/XopG2.versus.WHRI_6047.fasta.tblastn (HASH(0x5566aca9b120)) ./genomes/XopG2.versus.WHRI_6050.fasta.tblastn (HASH(0x5566aca9fe20)) ./genomes/XopG2.versus.WHRI_6051.fasta.tblastn (HASH(0x5566aca8dc38)) ./genomes/XopG2.versus.WHRI_6053.fasta.tblastn (HASH(0x5566aca9fd90)) ./genomes/XopG2.versus.WHRI_6054.fasta.tblastn (HASH(0x5566aca96b30)) ./genomes/XopG2.versus.WHRI_6059.fasta.tblastn (HASH(0x5566aca9f400)) ./genomes/XopG2.versus.WHRI_6062.fasta.tblastn (HASH(0x5566aca9fb38)) ./genomes/XopG2.versus.WHRI_6063.fasta.tblastn (HASH(0x5566aca9b768)) ./genomes/XopG2.versus.WHRI_6064.fasta.tblastn (HASH(0x5566aca675a8)) ./genomes/XopG2.versus.WHRI_6067.fasta.tblastn (HASH(0x5566aca9af10)) ./genomes/XopG2.versus.WHRI_6068.fasta.tblastn (HASH(0x5566acaa4d80)) ./genomes/XopG2.versus.WHRI_6069.fasta.tblastn (HASH(0x5566aca96350)) ./genomes/XopG2.versus.WHRI_6070.fasta.tblastn (HASH(0x5566aca9a9b8)) ./genomes/XopG2.versus.WHRI_6071.fasta.tblastn (HASH(0x5566aca8dcc8)) ./genomes/XopG2.versus.WHRI_6072.fasta.tblastn (HASH(0x5566aca90d18)) ./genomes/XopG2.versus.WHRI_6073.fasta.tblastn (HASH(0x5566aca91300)) ./genomes/XopG2.versus.WHRI_6074.fasta.tblastn (HASH(0x5566aca9b8a0)) ./genomes/XopG2.versus.WHRI_6075.fasta.tblastn (HASH(0x5566aca89650)) ./genomes/XopG2.versus.WHRI_6076.fasta.tblastn (HASH(0x5566aca9f778)) ./genomes/XopG2.versus.WHRI_6077.fasta.tblastn (HASH(0x5566aca913d8)) ./genomes/XopG2.versus.WHRI_6081.fasta.tblastn (HASH(0x5566aca91540)) ./genomes/XopG2.versus.WHRI_6083.fasta.tblastn (HASH(0x5566aca96728)) ./genomes/XopG2.versus.WHRI_6084.fasta.tblastn (HASH(0x5566aca9f598)) ./genomes/XopG2.versus.WHRI_6085.fasta.tblastn (HASH(0x5566aca88e88)) ./genomes/XopG2.versus.WHRI_6086.fasta.tblastn (HASH(0x5566aca9f190)) ./genomes/XopG2.versus.WHRI_6090.fasta.tblastn (HASH(0x5566aca89aa0)) ./genomes/XopG2.versus.WHRI_6136.fasta.tblastn (HASH(0x5566aca9adc0)) ./genomes/XopG2.versus.WHRI_6180.fasta.tblastn (HASH(0x5566aca96938)) ./genomes/XopG2.versus.WHRI_6182.fasta.tblastn (HASH(0x5566aca9b060)) ./genomes/XopG2.versus.WHRI_6380_NCPPB_404.fasta.tblastn (HASH(0x5566aca9aeb0)) ./genomes/XopG2.versus.WHRI_6381_NCPPB_529.fasta.tblastn (HASH(0x5566aca8e220)) ./genomes/XopG2.versus.WHRI_6413.fasta.tblastn (HASH(0x5566aca6fab0)) ./genomes/XopG2.versus.WHRI_7071.fasta.tblastn (HASH(0x5566aca8e538)) ./genomes/XopG2.versus.WHRI_7072.fasta.tblastn (HASH(0x5566abf3d060)) ./genomes/XopG2.versus.WHRI_7074.fasta.tblastn (HASH(0x5566aca96320)) ./genomes/XopG2.versus.WHRI_7240.fasta.tblastn (HASH(0x5566aca89860)) ./genomes/XopG2.versus.WHRI_7260.fasta.tblastn (HASH(0x5566acaa57e8)) ./genomes/XopG2.versus.WHRI_7262.fasta.tblastn (HASH(0x5566aca90c58)) ./genomes/XopG2.versus.WHRI_7264.fasta.tblastn (HASH(0x5566aca964b8)) ./genomes/XopG2.versus.WHRI_7275.fasta.tblastn (HASH(0x5566acaa5728)) ./genomes/XopG2.versus.WHRI_7277.fasta.tblastn (HASH(0x5566aca96bf0)) ./genomes/XopG2.versus.WHRI_7279.fasta.tblastn (HASH(0x5566aca88ed0)) ./genomes/XopG2.versus.WHRI_7283.fasta.tblastn (HASH(0x5566aca8e6d0)) ./genomes/XopG2.versus.WHRI_7284.fasta.tblastn (HASH(0x5566acaa52a8)) ./genomes/XopG2.versus.WHRI_7285.fasta.tblastn (HASH(0x5566abf32380)) ./genomes/XopG2.versus.WHRI_7286.fasta.tblastn (HASH(0x5566aca9f7a8)) ./genomes/XopG2.versus.WHRI_7287.fasta.tblastn (HASH(0x5566aca9f6a0)) ./genomes/XopG2.versus.WHRI_7292.fasta.tblastn (HASH(0x5566aca8e700)) ./genomes/XopG2.versus.WHRI_7294.fasta.tblastn (HASH(0x5566acaa5368)) ./genomes/XopG2.versus.WHRI_7657.fasta.tblastn (HASH(0x5566aca96c50)) ./genomes/XopG2.versus.WHRI_7804.fasta.tblastn (HASH(0x5566aca8e388)) ./genomes/XopG2.versus.WHRI_7805.fasta.tblastn (HASH(0x5566acaa51e8)) ./genomes/XopG2.versus.WHRI_7806.fasta.tblastn (HASH(0x5566aca9f028)) ./genomes/XopG2.versus.WHRI_7807.fasta.tblastn (HASH(0x5566abf3d708)) ./genomes/XopG2.versus.WHRI_7808.fasta.tblastn (HASH(0x5566aca96d40)) ./genomes/XopG2.versus.WHRI_7809.fasta.tblastn (HASH(0x5566aca9f5e0)) ./genomes/XopG2.versus.WHRI_7810.fasta.tblastn (HASH(0x5566aca77c70)) ./genomes/XopG2.versus.WHRI_8022A.fasta.tblastn (HASH(0x5566aca96ab8)) ./genomes/XopG2.versus.WHRI_8022C.fasta.tblastn (HASH(0x5566aca9a9d0)) ./genomes/XopG2.versus.WHRI_8023A.fasta.tblastn (HASH(0x5566acaa9168)) ./genomes/XopG2.versus.WHRI_8023C.fasta.tblastn (HASH(0x5566aca96368)) ./genomes/XopG2.versus.WHRI_8078.fasta.tblastn (HASH(0x5566aca9f4d8)) ./genomes/XopG2.versus.WHRI_8127.fasta.tblastn (HASH(0x5566aca9b7b0)) ./genomes/XopG2.versus.WHRI_8310.fasta.tblastn (HASH(0x5566acaa4f90)) ./genomes/XopG2.versus.WHRI_8322.fasta.tblastn (HASH(0x5566acaa58a8)) ./genomes/XopG2.versus.WHRI_8323.fasta.tblastn (HASH(0x5566abf3d4b0)) ./genomes/XopG2.versus.WHRI_8329.fasta.tblastn (HASH(0x5566acaa89e8)) ./genomes/XopG2.versus.WHRI_8330.fasta.tblastn (HASH(0x5566aca967e8)) ./genomes/XopG2.versus.WHRI_8333.fasta.tblastn (HASH(0x5566aca9abe0)) ./genomes/XopG2.versus.WHRI_8346.fasta.tblastn (HASH(0x5566abf3d7f8)) ./genomes/XopG2.versus.WHRI_8348.fasta.tblastn (HASH(0x5566acaa5a88)) ./genomes/XopG2.versus.WHRI_8372.fasta.tblastn (HASH(0x5566abf3d5d0)) ./genomes/XopG2.versus.WHRI_8374.fasta.tblastn (HASH(0x5566acaa9300)) ./genomes/XopG2.versus.WHRI_8377.fasta.tblastn (HASH(0x5566acaadba0)) ./genomes/XopG2.versus.WHRI_8387.fasta.tblastn (HASH(0x5566acaa5218)) ./genomes/XopG2.versus.WHRI_8402.fasta.tblastn (HASH(0x5566acaa50b0)) ./genomes/XopG2.versus.WHRI_8409.fasta.tblastn (HASH(0x5566abf386c8)) ./genomes/XopG2.versus.WHRI_8414A.fasta.tblastn (HASH(0x5566acaa57d0)) ./genomes/XopG2.versus.WHRI_8420A.fasta.tblastn (HASH(0x5566acaa9390)) ./genomes/XopG2.versus.WHRI_8430.fasta.tblastn (HASH(0x5566acaaddb0)) ./genomes/XopG2.versus.WHRI_8434.fasta.tblastn (HASH(0x5566acaa8b08)) ./genomes/XopG2.versus.WHRI_8436.fasta.tblastn (HASH(0x5566aca9b048)) ./genomes/XopG2.versus.WHRI_8441A.fasta.tblastn (HASH(0x5566acaa8b68)) ./genomes/XopG2.versus.WHRI_8447A.fasta.tblastn (HASH(0x5566acaa8d18)) ./genomes/XopG2.versus.WHRI_8452A.fasta.tblastn (HASH(0x5566aca9f2b0)) ./genomes/XopG2.versus.WHRI_8453B.fasta.tblastn (HASH(0x5566acaa8fe8)) ./genomes/XopG2.versus.WHRI_8455A.fasta.tblastn (HASH(0x5566abf383e0)) ./genomes/XopG2.versus.WHRI_8462A.fasta.tblastn (HASH(0x5566aca9f0e8)) ./genomes/XopG2.versus.WHRI_8469.fasta.tblastn (HASH(0x5566acaa8dc0)) ./genomes/XopG2.versus.WHRI_8497.fasta.tblastn (HASH(0x5566ac938680)) ./genomes/XopG2.versus.WHRI_8500.fasta.tblastn (HASH(0x5566aca91108)) ./genomes/XopG2.versus.WHRI_8539.fasta.tblastn (HASH(0x5566acaa8ce8)) ./genomes/XopG2.versus.WHRI_8541.fasta.tblastn (HASH(0x5566acaa5b48)) ./genomes/XopG2.versus.WHRI_8544.fasta.tblastn (HASH(0x5566aca89a58)) ./genomes/XopG2.versus.WHRI_8618.fasta.tblastn (HASH(0x5566aca89110)) ./genomes/XopG2.versus.WHRI_8622.fasta.tblastn (HASH(0x5566acaa8820)) ./genomes/XopG2.versus.WHRI_8629.fasta.tblastn (HASH(0x5566aca9aa18)) ./genomes/XopG2.versus.WHRI_8646.fasta.tblastn (HASH(0x5566acaa88e0)) ./genomes/XopG2.versus.WHRI_8650.fasta.tblastn (HASH(0x5566acaa8e20)) ./genomes/XopG2.versus.WHRI_8721.fasta.tblastn (HASH(0x5566aca966f8)) ./genomes/XopG2.versus.WHRI_8730.fasta.tblastn (HASH(0x5566acaa5920)) ./genomes/XopG2.versus.WHRI_8746.fasta.tblastn (HASH(0x5566abf3d438)) ./genomes/XopG2.versus.WHRI_8758.fasta.tblastn (HASH(0x5566aca9b288)) ./genomes/XopG2.versus.WHRI_8795.fasta.tblastn (HASH(0x5566acaa8a60)) ./genomes/XopG2.versus.WHRI_8801.fasta.tblastn (HASH(0x5566aca9fad8)) ./genomes/XopG2.versus.WHRI_8804_NCPPB_3566.fasta.tblastn (HASH(0x5566aca9b1e0)) ./genomes/XopG2.versus.WHRI_8836.fasta.tblastn (HASH(0x5566aca91180)) ./genomes/XopG2.versus.WHRI_8837.fasta.tblastn (HASH(0x5566aca91078)) ./genomes/XopG2.versus.WHRI_8840.fasta.tblastn (HASH(0x5566acaa5ba8)) ./genomes/XopG2.versus.WHRI_8856.fasta.tblastn (HASH(0x5566acaa58c0)) ./genomes/XopG2.versus.WHRI_8952A.fasta.tblastn (HASH(0x5566acab4cf8)) ./genomes/XopG2.versus.WHRI_8966.fasta.tblastn (HASH(0x5566aca676c8)) ./genomes/XopG2.versus.WHRI_8968.fasta.tblastn (HASH(0x5566aca96d10)) ./genomes/XopG2.versus.WHRI_8975A.fasta.tblastn (HASH(0x5566aca8dfb0)) ./genomes/XopG2.versus.WHRI_8976.fasta.tblastn (HASH(0x5566acab82d0)) ./genomes/XopG2.versus.WHRI_8978.fasta.tblastn (HASH(0x5566abf319d8)) ./genomes/XopG2.versus.Xc105.fasta.tblastn (HASH(0x5566abf37c30)) ./genomes/XopG2.versus.Xc110.fasta.tblastn (HASH(0x5566acab42d8)) ./genomes/XopG2.versus.Xc111.fasta.tblastn (HASH(0x5566acab4c68)) ./genomes/XopG2.versus.Xc115.fasta.tblastn (HASH(0x5566aca90e98)) ./genomes/XopG2.versus.Xc117.fasta.tblastn (HASH(0x5566acab4200)) ./genomes/XopG2.versus.Xc120.fasta.tblastn (HASH(0x5566acaadd98)) ./genomes/XopG2.versus.Xc121-1.fasta.tblastn (HASH(0x5566acab3ff0)) ./genomes/XopG2.versus.Xc121-2.fasta.tblastn (HASH(0x5566acaa8e38)) ./genomes/XopG2.versus.Xc129.fasta.tblastn (HASH(0x5566acab4110)) ./genomes/XopG2.versus.Xc134.fasta.tblastn (HASH(0x5566abf3d3f0)) ./genomes/XopG2.versus.Xc142.fasta.tblastn (HASH(0x5566acab88b8)) ./genomes/XopG2.versus.Xc150.fasta.tblastn (HASH(0x5566acaae158)) ./genomes/XopG2.versus.Xc153.fasta.tblastn (HASH(0x5566acab4b78)) ./genomes/XopG2.versus.Xc160.fasta.tblastn (HASH(0x5566acab44b8)) ./genomes/XopG2.versus.Xc163.fasta.tblastn (HASH(0x5566acaade58)) ./genomes/XopG2.versus.Xc164.fasta.tblastn (HASH(0x5566acaa8af0)) ./genomes/XopG2.versus.Xc173.fasta.tblastn (HASH(0x5566aca89230)) ./genomes/XopG2.versus.Xc175.fasta.tblastn (HASH(0x5566acab4548)) ./genomes/XopG2.versus.Xc221-1.fasta.tblastn (HASH(0x5566acaa55c0)) ./genomes/XopG2.versus.Xc221-2.fasta.tblastn (HASH(0x5566aca968c0)) ./genomes/XopG2.versus.Xc35.fasta.tblastn (HASH(0x5566aca916d8)) ./genomes/XopG2.versus.Xc39.fasta.tblastn (HASH(0x5566acab8fc0)) ./genomes/XopG2.versus.Xc421-1.fasta.tblastn (HASH(0x5566acabdb98)) ./genomes/XopG2.versus.Xc421-2.fasta.tblastn (HASH(0x5566acab8450)) ./genomes/XopG2.versus.Xc43.fasta.tblastn (HASH(0x5566acabe2a0)) ./genomes/XopG2.versus.Xc51.fasta.tblastn (HASH(0x5566acab41e8)) ./genomes/XopG2.versus.Xc52.fasta.tblastn (HASH(0x5566acabde38)) ./genomes/XopG2.versus.Xc521-1.fasta.tblastn (HASH(0x5566acaa50c8)) ./genomes/XopG2.versus.Xc521-2.fasta.tblastn (HASH(0x5566acab84e0)) ./genomes/XopG2.versus.Xc57.fasta.tblastn (HASH(0x5566acaadfc0)) ./genomes/XopG2.versus.Xc58.fasta.tblastn (HASH(0x5566acaa90c0)) ./genomes/XopG2.versus.Xc67.fasta.tblastn (HASH(0x5566acaade40)) ./genomes/XopG2.versus.Xc78.fasta.tblastn (HASH(0x5566acabe6f0)) ./genomes/XopG2.versus.Xca5.fasta.tblastn (HASH(0x5566acab8768)) ./genomes/XopG2.versus.Xcc-C7.fasta.tblastn (HASH(0x5566acac16c8)) ./genomes/XopG2.versus.Xcc-G.fasta.tblastn (HASH(0x5566acac0ed0)) ./genomes/XopG2.versus.Xcc8004_Xcc1.fasta.tblastn (HASH(0x5566acac1398)) ./genomes/XopG2.versus.Xcc8004_Xcc2.fasta.tblastn (HASH(0x5566aca8da88)) ./genomes/XopG2.versus.bglFP_6745.fasta.tblastn (HASH(0x5566abf315b8)) ./genomes/XopG2.versus.bglFP_6746.fasta.tblastn (HASH(0x5566acabdac0)) ./genomes/XopG2.versus.bglFP_6813.fasta.tblastn (HASH(0x5566acac18d8))
+Coverages:
+10103.fasta	CP066953.1	100 %	
+11085.fasta	CP066970.1	100 %	
+12112.fasta	CP066939.1	100 %	
+474.fasta	CP066950.1	100 %	
+5610.fasta	JAUINE010000020.1	100 %	
+5630.fasta	JAUINF010000027.1	100 %	STOP codon 
+5631.fasta	JAUING010000039.1	100 %	STOP codon 
+5737.fasta	JAUINU010000025.1	100 %	
+5739.fasta	JAUINV010000028.1	100 %	
+5783.fasta	JAUIOI010000020.1	100 %	STOP codon 
+5784.fasta	JAUION010000019.1	100 %	STOP codon 
+5802.fasta	JAUIOP010000029.1	100 %	STOP codon 
+6018A.fasta	JAUIPD010000019.1	100 %	STOP codon 
+8284.fasta	CP066945.1	100 %	
+8288.fasta	CP066955.1	100 %, 97 %	
+8290.fasta	CP066934.1	100 %, 97 %	
+8305.fasta	CP066966.1	100 %	
+8819.fasta	JAUIPQ010000015.1	100 %	
+8891A.fasta	JAUIPR010000019.1	100 %	
+8908.fasta	JAUIPT010000015.1	100 %	
+8909A.fasta	JAUIPU010000012.1	100 %	
+8934A.fasta	JAUIPV010000014.1	100 %	
+8959A.fasta	JAUIPW010000017.1	100 %	
+ATCC_33913.fasta	AE008922.1	100 %	
+B1459.fasta	CDNB01000022.1	100 %	
+CFBP6863.fasta	HG764958.1	100 %	
+CFBP_1121.fasta	CP155982.1	100 %	
+CFBP_1124.fasta	CP155933.1	100 %	
+CFBP_1710.fasta	CP155981.1	100 %	
+CFBP_1712.fasta	CM002541.1	100 %	
+CFBP_1713.fasta	CM002580.1	100 %	
+CFBP_4954.fasta	CP155930.1	100 %	
+CFBP_4955.fasta	CM002551.1	100 %	
+CFBP_5241.fasta	CP155931.1	100 %	
+CFBP_5683.fasta	CM002558.1	100 %	
+CFBP_6863.fasta	CP156004.1	100 %	
+CFBP_6865.fasta	JBDOJB010000001.1	100 %	
+CFBP_6865R.fasta	CM002537.1	100 %	
+CN13.fasta	HG752432.1	100 %	
+CN14.fasta	CP017317.1	100 %, 97 %	
+CN15.fasta	CP017323.1	100 %, 97 %	
+CN16.fasta	CP017389.1	100 %, 97 %	
+GBBC_1372.fasta	JAHBRD010000001.1	100 %	
+GBBC_3229.fasta	JAHBQQ010000001.1	100 %	
+IPO_3367.fasta	CP155968.1	100 %	
+LMG_00574.fasta	CP155998.1	100 %	
+LMG_07461.fasta	CP155994.1	100 %	
+LMG_08081.fasta	CP155987.1	100 %	
+LMG_08106.fasta	CP155985.1	100 %	
+NCPPB_3927.fasta	JBGOGE010000022.1	100 %	
+NCPPB_4678.fasta	JBGOGD010000020.1	100 %	
+NCPPB_4680.fasta	JBGOGC010000016.1	100 %	
+NCPPB_4682.fasta	JBGOGB010000019.1	100 %	
+NCPPB_528.fasta	JAJFNA010000026.1	100 %	
+SB39_1.fasta	JAMXPI010000014.1	100 %	
+TR7.fasta	JAMXPC010000020.1	100 %	
+WHRI_10030A.fasta	JAYITM010000020.1	100 %	
+WHRI_3845B.fasta	JBEFUZ010000018.1	100 %	
+WHRI_3851A.fasta	JBSJOT010000020.1	100 %	
+WHRI_3852B.fasta	JBEFVB010000028.1	100 %	STOP codon 
+WHRI_3880.fasta	RRXI01000025.1	100 %	
+WHRI_3880_NCPPB_2986.fasta	JAYIMH010000026.1	100 %	
+WHRI_3883_NCPPB_1946.fasta	JAYIMI010000025.1	100 %	
+WHRI_3975A.fasta	JAYINK010000023.1	100 %	
+WHRI_5212_NCPPB_528.fasta	JAYIMO010000020.1	100 %	
+WHRI_5219_NCPPB_2517.fasta	JAYIMP010000006.1	100 %	
+WHRI_5486.fasta	JBEFUB010000022.1	100 %	
+WHRI_5490.fasta	JBEFUD010000028.1	100 %	STOP codon 
+WHRI_6022A.fasta	JAYIOU010000028.1	100 %	STOP codon 
+WHRI_6379_NCPPB_45.fasta	JAYIRA010000016.1	100 %	
+WHRI_6382.fasta	RRXH01000036.1	100 %	
+WHRI_6382_NCPPB_1711.fasta	JAYIRD010000028.1	100 %	
+WHRI_6412.fasta	JAYIRF010000026.1	100 %	
+WHRI_7782.fasta	JAYIWA010000023.1	100 %	STOP codon 
+WHRI_7787.fasta	JAYIQL010000029.1	100 %	STOP codon 
+WHRI_7803.fasta	JAYIWD010000031.1	100 %	
+WHRI_8405.fasta	JAYITN010000016.1	100 %	
+WHRI_8443B.fasta	JAYIUR010000024.1	100 %	
+WHRI_8460B.fasta	JAYIVA010000012.1	100 %	
+WHRI_8815.fasta	RRXA01000054.1	100 %	
+WHRI_8819.fasta	RRXP01000009.1	100 %	
+WHRI_8820.fasta	JAYIQT010000026.1	100 %	
+WHRI_8838.fasta	JAYIVJ010000029.1	100 %	
+WHRI_8839.fasta	JAYIVK010000029.1	100 %	
+WHRI_8841.fasta	JAYIVM010000015.1	100 %	
+WHRI_8879.fasta	JAYIRO010000023.1	100 %	
+WHRI_8892A.fasta	CP169057.1	100 %	
+WHRI_8895.fasta	JAYITY010000019.1	100 %	
+WHRI_8952A.fasta	JAYITZ010000028.1	100 %	
+WHRI_8956.fasta	CP168116.1	100 %	
+WHRI_8975A.fasta	JAYIUD010000013.1	100 %	
+WHRI_8979.fasta	JAYIUG010000016.1	100 %	
+WHRI_8980.fasta	JAYIUH010000019.1	100 %	
+WHRI_8981.fasta	JAYIUI010000023.1	100 %	
+XY1-1.fasta	CP107717.1	100 %	
+Xc02.fasta	CP155934.1	100 %	
+Xc16.fasta	JAUBMQ020000019.1	100 %	
+Xc20.fasta	JAUBMP020000017.1	100 %	
+Xc2010.fasta	JAUBMS020000015.1	100 %	
+Xc211.fasta	JAUBMN020000028.1	100 %	
+Xc25.fasta	JAUBMO020000016.1	100 %	
+Xc252.fasta	JAUBMM020000016.1	100 %	
+Xc262.fasta	JAUBML020000021.1	100 %	
+Xc272.fasta	JAUBMK020000017.1	100 %	
+Xc292.fasta	JAUBMJ020000016.1	100 %	
+Xc302.fasta	JAUBMI020000017.1	100 %	
+Xc312.fasta	JAUBMH020000019.1	100 %	
+Xc321-1.fasta	JAUBNA020000018.1	100 %	
+Xc321-2.fasta	JAUBMZ020000017.1	100 %	
+Xc321.fasta	JAUBMG020000016.1	100 %	
+Xc342.fasta	JAUBMF020000017.1	100 %	
+Xc362.fasta	JAUBME020000019.1	100 %	
+Xc412.fasta	JAUBMD020000021.1	100 %	
+Xc422.fasta	JAUBMC020000016.1	100 %	
+Xc433.fasta	JAUBMB020000019.1	100 %	
+Xc442.fasta	JAUBMA020000020.1	100 %	
+Xc452.fasta	JAUBLZ020000017.1	100 %	
+Xc7.fasta	JAUBMR020000019.1	100 %	
+Xcc-G.fasta	CP155936.1	100 %, 99 %	
+bglFP_6745.fasta	CP156007.1	100 %, 88 %	
+bglFP_6746.fasta	CP155977.1	100 %, 88 %	
+10090.fasta	CP066936.1	99 %	
+10108.fasta	CP066933.1	99 %	
+10213.fasta	JAUIPZ010000070.1	99 %	
+10215A.fasta	JAUIQA010000061.1	99 %	
+10217A.fasta	JAUIQB010000063.1	99 %	
+147.fasta	CM002632.1	99 %	
+3811.fasta	CP025750.1	99 %	
+3977A.fasta	JAUIPB010000008.1	99 %	
+5498.fasta	JAUINA010000008.1	99 %	
+5740.fasta	JAUINX010000018.1	99 %	
+5741.fasta	JAUINY010000015.1	99 %	
+5744.fasta	JAUINM010000006.1	99 %	
+5745.fasta	JAUINN010000007.1	99 %	
+5746.fasta	JAUINO010000006.1	99 %	
+5771.fasta	JAUIOB010000058.1	99 %	
+5772.fasta	JAUIOC010000071.1	99 %	
+5773.fasta	JAUIOD010000044.1	99 %	
+5778.fasta	JAUIOE010000008.1	99 %	
+5779.fasta	JAUIOF010000007.1	99 %	
+5780.fasta	JAUIOG010000006.1	99 %	
+5789.fasta	JAUIOJ010000007.1	99 %	
+5791.fasta	JAUIOK010000010.1	99 %	
+5792.fasta	JAUIOL010000008.1	99 %	
+5796.fasta	JAUIOM010000048.1	99 %	
+5800.fasta	JAUIOO010000018.1	99 %	
+5804.fasta	JAUIOQ010000015.1	99 %	
+5806.fasta	JAUIOS010000069.1	99 %	
+5821.fasta	JAUIOZ010000016.1	99 %	
+6019A.fasta	JAUIPE010000015.1	99 %	
+6019C.fasta	JAUIPF010000017.1	99 %	
+6020A.fasta	JAUIPG010000017.1	99 %	
+6023A.fasta	JAUIPH010000059.1	99 %	
+6198.fasta	JAUIPK010000013.1	99 %	
+6413.fasta	JAUIPM010000016.1	99 %	
+6414.fasta	JAUIPO010000019.1	99 %	
+7073.fasta	JAUIPA010000017.1	99 %	
+8708.fasta	JAUIPP010000064.1	99 %	
+8903A.fasta	JAUIPS010000064.1	99 %	
+8964.fasta	JAUIPX010000060.1	99 %	
+A342.fasta	CP155925.1	99 %	
+AMN5.fasta	JAMKYF010000070.1	99 %	
+Ar1PC2.fasta	JAFFQP010000145.1	99 %	
+B100.fasta	AM920689.1	99 %	
+BJSJQ20200612-pXX3-4.fasta	CP184332.1	99 %	
+BJSJQ20200612.fasta	CP069085.1	99 %	
+CFBP1119.fasta	HG764951.1	99 %	
+CFBP4953.fasta	HG764953.1	99 %	
+CFBP_1869.fasta	CM002545.1	99 %	
+CFBP_5127.fasta	JBDOJA010000001.1	99 %	
+CFBP_5130.fasta	CM002556.1	99 %	
+CFBP_7156.fasta	CP155952.1	99 %	
+CFBP_8405.fasta	CP155978.1	99 %	
+CFBP_8406.fasta	CP156003.1	99 %	
+CFBP_9145.fasta	CP124745.1	99 %	
+CN01.fasta	CM002584.1	99 %	
+CN11.fasta	HG531772.1	99 %	
+CaNP1C.fasta	JAFFQO010000078.1	99 %	
+DAPP-PG_308.fasta	CP155942.1	99 %	
+GBBC_1071.fasta	JAHBRF010000063.1	99 %	
+GBBC_1072.fasta	JAHBRE010000006.1	99 %	
+GBBC_1073.fasta	CP075545.1	99 %	
+GBBC_1415.fasta	JAHBRA010000124.1	99 %	
+GBBC_1419.fasta	JAHBQZ010000004.1	99 %	
+GBBC_3220.fasta	JAHBQS010000130.1	99 %	
+GBBC_3226.fasta	JAHBQR010000112.1	99 %	
+IPO_634.fasta	CP156010.1	99 %	
+K13014.fasta	JAHBQO010000110.1	99 %	
+LMG_00569.fasta	CP156000.1	99 %	
+LMG_00583.fasta	CP155997.1	99 %	
+LMG_08001.fasta	CP155992.1	99 %	
+LMG_08003.fasta	CP155991.1	99 %	
+LMG_08005.fasta	CP155990.1	99 %	
+LMG_08099.fasta	CP155986.1	99 %	
+MAFF301176.fasta	JACAWT010000018.1	99 %	
+MAFF302021.fasta	AP019684.1	99 %	
+MBG-107.1.fasta	CP155944.1	99 %	
+MBG-63.1.fasta	CP155943.1	99 %	
+NCPPB_1144.fasta	JBGOGA010000017.1	99 %	
+NSTU_AG-1.fasta	CP199799.1	99 %	
+SA14.fasta	JAMXPH010000040.1	99 %	
+SB102.fasta	JAMXPD010000056.1	99 %	
+SB47_1.fasta	JAMXPB010000020.1	99 %	
+SB76_1.fasta	JAMXOZ010000061.1	99 %	
+SB80.fasta	CP089952.1	99 %	
+SV5.fasta	JAMKYG010000060.1	99 %	
+WHRI_10018A.fasta	CP142008.2	99 %	
+WHRI_10018B.fasta	JAYISS010000007.1	99 %	
+WHRI_10019A.fasta	JAYIST010000007.1	99 %	
+WHRI_10019C.fasta	JAYISV010000007.1	99 %	
+WHRI_10020A.fasta	JAYISW010000008.1	99 %	
+WHRI_10021A.fasta	JAYISX010000008.1	99 %	
+WHRI_10021B.fasta	JAYISY010000014.1	99 %	
+WHRI_10023A.fasta	JAYISZ010000007.1	99 %	
+WHRI_10033A.fasta	JAYITT010000004.1	99 %	
+WHRI_10034B.fasta	JAYIRP010000020.1	99 %	
+WHRI_10035A.fasta	JAYIRV010000007.1	99 %	
+WHRI_10061.fasta	JAYIOS010000007.1	99 %	
+WHRI_10062A.fasta	JAYIOT010000008.1	99 %	
+WHRI_3811.fasta	RRXT01000012.1	99 %	
+WHRI_3818A.fasta	JAYIMW010000010.1	99 %	
+WHRI_3819A.fasta	JAYINH010000009.1	99 %	
+WHRI_3873.fasta	JBSJOU010000046.1	99 %	
+WHRI_3874.fasta	JBEFVC010000048.1	99 %	
+WHRI_3876_NCPPB_1043.fasta	JAYIMF010000041.1	99 %	
+WHRI_3877_NCPPB_1645.fasta	JAYIMG010000020.1	99 %	
+WHRI_3964.fasta	JAYIMJ010000002.1	99 %	
+WHRI_3971A.fasta	JAYIMK010000018.1	99 %	
+WHRI_3972A.fasta	JBEFVF010000022.1	99 %	
+WHRI_3973A.fasta	JAYINI010000019.1	99 %	
+WHRI_3974A.fasta	JAYINJ010000019.1	99 %	
+WHRI_3976A.fasta	JBEFVG010000022.1	99 %	
+WHRI_5176.fasta	JAYIMM010000018.1	99 %	
+WHRI_5482.fasta	JBEFUA010000020.1	99 %	
+WHRI_5487.fasta	JAYIMR010000019.1	99 %	
+WHRI_6024A.fasta	JAYIOV010000050.1	99 %	
+WHRI_6044.fasta	JAYINL010000004.1	99 %	
+WHRI_6046.fasta	JAYINN010000039.1	99 %	
+WHRI_6047.fasta	JAYINO010000009.1	99 %	
+WHRI_6050.fasta	JAYINR010000007.1	99 %	
+WHRI_6051.fasta	JAYINT010000002.1	99 %	
+WHRI_6053.fasta	JAYINV010000002.1	99 %	
+WHRI_6054.fasta	JAYINW010000002.1	99 %	
+WHRI_6059.fasta	JAYIOB010000004.1	99 %	
+WHRI_6062.fasta	JAYIOE010000008.1	99 %	
+WHRI_6063.fasta	JAYIOF010000002.1	99 %	
+WHRI_6068.fasta	JAYIOK010000001.1	99 %	
+WHRI_6069.fasta	JAYIOL010000015.1	99 %	
+WHRI_6070.fasta	JAYIOM010000002.1	99 %	
+WHRI_6071.fasta	JAYION010000002.1	99 %	
+WHRI_6072.fasta	JAYIOW010000016.1	99 %	
+WHRI_6073.fasta	JAYIOX010000016.1	99 %	
+WHRI_6074.fasta	JAYIOY010000014.1	99 %	
+WHRI_6075.fasta	JAYIOP010000015.1	99 %	
+WHRI_6076.fasta	JAYIPA010000014.1	99 %	
+WHRI_6077.fasta	JAYIPB010000016.1	99 %	
+WHRI_6081.fasta	JAYIPC010000055.1	99 %	
+WHRI_6083.fasta	JAYIPE010000050.1	99 %	
+WHRI_6084.fasta	JAYIPF010000022.1	99 %	
+WHRI_6085.fasta	JAYIPG010000018.1	99 %	
+WHRI_6086.fasta	JAYIPH010000053.1	99 %	
+WHRI_6090.fasta	JAYIPL010000014.1	99 %	
+WHRI_6136.fasta	JAYIPT010000017.1	99 %	
+WHRI_6180.fasta	JAYIQD010000015.1	99 %	
+WHRI_6182.fasta	JAYIQY010000016.1	99 %	
+WHRI_6381_NCPPB_529.fasta	JAYIRC010000016.1	99 %	
+WHRI_6413.fasta	JAYIRG010000016.1	99 %	
+WHRI_7071.fasta	JAYIPV010000016.1	99 %	
+WHRI_7072.fasta	JAYIPW010000018.1	99 %	
+WHRI_7074.fasta	JAYIPX010000068.1	99 %	
+WHRI_7240.fasta	JAYIQA010000018.1	99 %	
+WHRI_7260.fasta	JAYIQB010000006.1	99 %	
+WHRI_7262.fasta	JAYIQC010000008.1	99 %	
+WHRI_7264.fasta	JAYIQE010000005.1	99 %	
+WHRI_7275.fasta	JAYIQG010000010.1	99 %	
+WHRI_7277.fasta	JAYIQH010000017.1	99 %	
+WHRI_7279.fasta	JAYIQI010000016.1	99 %	
+WHRI_7283.fasta	JAYIVN010000070.1	99 %	
+WHRI_7284.fasta	JAYIVO010000017.1	99 %	
+WHRI_7285.fasta	JAYIVP010000020.1	99 %	
+WHRI_7286.fasta	JAYIVQ010000017.1	99 %	
+WHRI_7287.fasta	JAYIVS010000011.1	99 %	
+WHRI_7292.fasta	JAYIVV010000022.1	99 %	
+WHRI_7294.fasta	JAYIVW010000016.1	99 %	
+WHRI_7657.fasta	JAYIVX010000017.1	99 %	
+WHRI_7804.fasta	JAYIWE010000070.1	99 %	
+WHRI_7805.fasta	JAYIWF010000017.1	99 %	
+WHRI_7806.fasta	RRXL01000004.1	99 %	
+WHRI_7808.fasta	JAYIWI010000005.1	99 %	
+WHRI_7809.fasta	JAYIWJ010000068.1	99 %	
+WHRI_7810.fasta	JAYIWK010000060.1	99 %	
+WHRI_8022A.fasta	JAYIWP010000004.1	99 %	
+WHRI_8022C.fasta	JAYIQR010000004.1	99 %	
+WHRI_8023A.fasta	JAYIWQ010000016.1	99 %	
+WHRI_8023C.fasta	JAYIQS010000021.1	99 %	
+WHRI_8078.fasta	JAYIWS010000019.1	99 %	
+WHRI_8127.fasta	JAYIWT010000018.1	99 %	
+WHRI_8310.fasta	JAYIWU010000016.1	99 %	
+WHRI_8322.fasta	JAYIUK010000059.1	99 %	
+WHRI_8323.fasta	JAYIUV010000065.1	99 %	
+WHRI_8330.fasta	JAYIVR010000063.1	99 %	
+WHRI_8333.fasta	JAYIWV010000064.1	99 %	
+WHRI_8346.fasta	JAYIWX010000069.1	99 %	
+WHRI_8348.fasta	JAYIWY010000067.1	99 %	
+WHRI_8372.fasta	JAYIWZ010000066.1	99 %	
+WHRI_8374.fasta	JAYIUL010000019.1	99 %	
+WHRI_8377.fasta	JAYIUM010000067.1	99 %	
+WHRI_8387.fasta	JAYIUN010000017.1	99 %	
+WHRI_8402.fasta	JAYISG010000015.1	99 %	
+WHRI_8414A.fasta	JAYIRQ010000061.1	99 %	
+WHRI_8420A.fasta	JAYISC010000019.1	99 %	
+WHRI_8430.fasta	JAYIUP010000021.1	99 %	
+WHRI_8434.fasta	JAYIUQ010000070.1	99 %	
+WHRI_8436.fasta	JAYIMU010000052.1	99 %	
+WHRI_8441A.fasta	JAYIMV010000050.1	99 %	
+WHRI_8447A.fasta	JAYIMY010000018.1	99 %	
+WHRI_8452A.fasta	JAYIUW010000066.1	99 %	
+WHRI_8453B.fasta	JAYIUX010000019.1	99 %	
+WHRI_8455A.fasta	JAYINB010000054.1	99 %	
+WHRI_8462A.fasta	JAYIPI010000058.1	99 %	
+WHRI_8469.fasta	JAYINE010000045.1	99 %	
+WHRI_8497.fasta	CP142007.2	99 %	
+WHRI_8500.fasta	JAYITI010000017.1	99 %	
+WHRI_8539.fasta	JAYITO010000060.1	99 %	
+WHRI_8541.fasta	JAYITV010000018.1	99 %	
+WHRI_8544.fasta	JAYIRR010000057.1	99 %	
+WHRI_8618.fasta	JAYISD010000060.1	99 %	
+WHRI_8622.fasta	JAYISJ010000061.1	99 %	
+WHRI_8629.fasta	JAYISP010000041.1	99 %	
+WHRI_8646.fasta	JAYITJ010000015.1	99 %	
+WHRI_8650.fasta	JAYIRS010000009.1	99 %	
+WHRI_8721.fasta	JAYITS010000052.1	99 %	
+WHRI_8730.fasta	JAYITC010000005.1	99 %	
+WHRI_8746.fasta	JAYISF010000020.1	99 %	
+WHRI_8758.fasta	JAYISL010000019.1	99 %	
+WHRI_8795.fasta	JAYIRX010000047.1	99 %	
+WHRI_8801.fasta	JAYITF010000017.1	99 %	
+WHRI_8804_NCPPB_3566.fasta	JAYIVE010000021.1	99 %	
+WHRI_8836.fasta	JAYIVH010000019.1	99 %	
+WHRI_8837.fasta	JAYIVI010000021.1	99 %	
+WHRI_8856.fasta	JAYISU010000007.1	99 %	
+WHRI_8966.fasta	JAYIUA010000007.1	99 %	
+WHRI_8968.fasta	JAYIUC010000007.1	99 %	
+WHRI_8976.fasta	JAYIUE010000007.1	99 %	
+WHRI_8978.fasta	CP142009.1	99 %	
+Xc105.fasta	JAUBLO020000007.1	99 %	
+Xc110.fasta	JAUBLN020000050.1	99 %	
+Xc111.fasta	JAUBLM020000007.1	99 %	
+Xc115.fasta	JAUBLL020000057.1	99 %	
+Xc117.fasta	JAUBLS020000053.1	99 %	
+Xc120.fasta	JAUBLR020000058.1	99 %	
+Xc121-1.fasta	JAUBMU020000050.1	99 %	
+Xc121-2.fasta	JAUBMT020000057.1	99 %	
+Xc129.fasta	JAUBLQ020000051.1	99 %	
+Xc134.fasta	JAUBLP020000052.1	99 %	
+Xc142.fasta	JAUBLK020000007.1	99 %	
+Xc150.fasta	JAUBLJ020000051.1	99 %	
+Xc153.fasta	JAUBLY020000057.1	99 %	
+Xc160.fasta	JAUBLX020000008.1	99 %	
+Xc163.fasta	JAUBLW020000052.1	99 %	
+Xc164.fasta	JAUBLV020000049.1	99 %	
+Xc173.fasta	JAUBLU020000050.1	99 %	
+Xc175.fasta	JAUBLT020000007.1	99 %	
+Xc221-1.fasta	JAUBNE020000061.1	99 %	
+Xc221-2.fasta	JAUBND020000061.1	99 %	
+Xc35.fasta	JAUBNP020000073.1	99 %	
+Xc39.fasta	JAUBNO020000052.1	99 %	
+Xc421-1.fasta	JAUBMY020000048.1	99 %	
+Xc421-2.fasta	JAUBMX020000046.1	99 %	
+Xc43.fasta	JAUBNN020000050.1	99 %	
+Xc51.fasta	JAUBNM020000007.1	99 %	
+Xc52.fasta	JAUBNL020000051.1	99 %	
+Xc521-1.fasta	JAUBMW020000057.1	99 %	
+Xc521-2.fasta	JAUBMV020000053.1	99 %	
+Xc57.fasta	JAUBNK020000047.1	99 %	
+Xc58.fasta	JAUBNJ020000048.1	99 %	
+Xc67.fasta	JAUBNI020000057.1	99 %	
+Xc78.fasta	JAUBNH020000006.1	99 %	
+Xcc-C7.fasta	CP077958.1	99 %	
+bglFP_6813.fasta	CP155951.1	99 %	
+40-2.fasta	CP067001.1	97 %, 88 %	
+45672.fasta	CP066986.1	97 %, 88 %	
+45685.fasta	CP066981.1	97 %, 88 %	
+45772.fasta	CP066985.1	97 %, 88 %	
+45806.fasta	CP067000.1	97 %, 88 %	
+45835.fasta	CP066983.1	97 %, 88 %	
+45837.fasta	CP066999.1	97 %, 88 %	
+45927.fasta	CP066982.1	97 %, 88 %	
+45957.fasta	CP066984.1	97 %, 88 %	
+WHRI_8952A.fasta	JAYITZ010000041.1	97 %	
+WHRI_8975A.fasta	JAYIUD010000040.1	97 %	
+39-3.fasta	CP067002.1	90 %	
+33-1.fasta	CP066997.1	88 %	
+42-1.fasta	CP066990.1	88 %	
+42-2.fasta	CP066988.1	88 %	
+42-4.fasta	CP066987.1	88 %	
+54-2.fasta	CP067006.1	88 %	
+54-3.fasta	CP067005.1	88 %	
+55-1.fasta	CP066980.1	88 %	
+55-2.fasta	CP066979.1	88 %	
+AMN4_1.fasta	JAMXPA010000037.1	88 %	
+CM6.fasta	JAMXPF010000042.1	88 %	
+WHRI_10024A.fasta	JAYITA010000046.1	88 %	
+WHRI_6064.fasta	JAYIOG010000031.1	88 %	
+WHRI_8840.fasta	JAYIVL010000046.1	88 %	
+WHRI_3849A.fasta	RRXQ01000061.1	85 %	
+419.fasta	CP155947.1	80 %, 20 %	
+5714B.fasta	JAUINJ010000036.1	80 %	
+5715A.fasta	JAUINK010000036.1	80 %	
+5732.fasta	JAUINP010000037.1	80 %	
+5733.fasta	JAUINQ010000035.1	80 %	
+5734.fasta	JAUINR010000036.1	80 %	
+5735.fasta	JAUINS010000035.1	80 %	
+5736.fasta	JAUINT010000037.1	80 %	
+5742.fasta	JAUINZ010000037.1	80 %	
+5743.fasta	JAUIOA010000037.1	80 %	
+6290.fasta	JAUIPL010000035.1	80 %	
+CFBP_8242.fasta	CP155939.1	80 %, 20 %	
+CN07.fasta	CM002574.1	80 %, 20 %	
+GBBC_1429.fasta	JAHBQY010000001.1	80 %, 20 %	
+LMG_07460.fasta	CP155996.1	80 %, 20 %	
+LMG_08006.fasta	CP155989.1	80 %, 20 %	
+SO1.fasta	JAMXPE010000034.1	80 %	
+WHRI_3843B.fasta	JAYIPJ010000034.1	80 %	
+WHRI_3844B.fasta	JBEFUY010000031.1	80 %	
+WHRI_3846B.fasta	JBEFVA010000039.1	80 %	
+WHRI_5489.fasta	JBEFUC010000019.1	80 %, 20 %	
+WHRI_5494A.fasta	JAYIMS010000023.1	80 %, 20 %	
+WHRI_6380_NCPPB_404.fasta	JAYIRB010000034.1	80 %	
+WHRI_7807.fasta	JAYIWH010000036.1	80 %	
+WHRI_8329.fasta	JAYIVG010000042.1	80 %	
+Xca5.fasta	HF570389.2	80 %, 20 %	
+12049.fasta	CP066943.1	75 %, 25 %	
+WHRI_6067.fasta	JAYIOJ010000023.1	75 %, 25 %	
+5495.fasta	JAUIMZ010000035.1	74 %	
+5499.fasta	JAUINL010000049.1	74 %	
+GBBC1458.fasta	CP075146.1	74 %, 26 %	
+GBBC_1412.fasta	JAHBRC010000001.1	74 %, 26 %	
+GBBC_1414.fasta	JAHBRB010000035.1	74 %	
+GBBC_1456.fasta	JAHBQW010000039.1	74 %	
+GBBC_3216.fasta	JAHBQU010000034.1	74 %	
+SB113.fasta	JAMXPG010000020.1	74 %, 26 %	
+WHRI_3978.fasta	JBEFTZ010000053.1	74 %	
+WHRI_8409.fasta	JAYITU010000037.1	74 %	
+CFBP_12824.fasta	CM002622.1	68 %	
+Ar1BCA1.fasta	JAFFQL010000069.1	67 %	
+BrA1.fasta	LMTU01000011.1	67 %	
+8004.fasta	CP155948.1	51 %, 49 %	
+ICMP_21080.fasta	CP012145.1	51 %, 49 %	
+LMG_00572.fasta	CP155999.1	51 %, 49 %	
+WHRI_3961.fasta	JBEFVD010000031.1	51 %	
+WHRI_3962.fasta	JBEFVE010000037.1	51 %	
+Xcc8004_Xcc1.fasta	CP029483.1	51 %, 49 %	
+Xcc8004_Xcc2.fasta	CP029484.1	51 %, 49 %	
+WHRI_3961.fasta	JBEFVD010000030.1	49 %	
+WHRI_3962.fasta	JBEFVE010000033.1	49 %	
+WHRI_8840.fasta	JAYIVL010000036.1	27 %	
+5495.fasta	JAUIMZ010000039.1	26 %	
+5499.fasta	JAUINL010000035.1	26 %	
+GBBC_1414.fasta	JAHBRB010000037.1	26 %	
+GBBC_1431.fasta	JAHBQX010000025.1	26 %	
+GBBC_1456.fasta	JAHBQW010000036.1	26 %	
+GBBC_3216.fasta	JAHBQU010000032.1	26 %	
+WHRI_8409.fasta	JAYITU010000033.1	26 %	
+5714B.fasta	JAUINJ010000040.1	20 %	
+5715A.fasta	JAUINK010000041.1	20 %	
+5732.fasta	JAUINP010000042.1	20 %	
+5733.fasta	JAUINQ010000040.1	20 %	
+5734.fasta	JAUINR010000042.1	20 %	
+5735.fasta	JAUINS010000041.1	20 %	
+5736.fasta	JAUINT010000043.1	20 %	
+5742.fasta	JAUINZ010000042.1	20 %	
+5743.fasta	JAUIOA010000042.1	20 %	
+6290.fasta	JAUIPL010000039.1	20 %	
+SO1.fasta	JAMXPE010000038.1	20 %	
+WHRI_3843B.fasta	JAYIPJ010000029.1	20 %	
+WHRI_3844B.fasta	JBEFUY010000028.1	20 %	
+WHRI_3846B.fasta	JBEFVA010000068.1	20 %	
+WHRI_6380_NCPPB_404.fasta	JAYIRB010000037.1	20 %	
+WHRI_7807.fasta	JAYIWH010000039.1	20 %	
+WHRI_8329.fasta	JAYIVG010000033.1	20 %	
+
+CP066953.1: 1086813 .. 1087433 in genome 10103.fasta
+Hit covers 100 %
+
+CDS	1084635..1085177	JH282_04535	YecA family protein	NA	
+CDS	1085190..1086524	JH282_04540	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	1086813..1087436	JH282_04545	type III secretion system effector protein	NA	
+CDS	complement(1087674..1088999)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(1089197..1089541)	JH282_04555	PilZ domain-containing protein	NA	
+
+CP066970.1: 1087868 .. 1088488 in genome 11085.fasta
+Hit covers 100 %
+

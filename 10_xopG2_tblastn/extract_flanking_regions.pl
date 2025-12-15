@@ -58,7 +58,7 @@ while (my $file = shift) {
 		### Calculate coverage over the query sequence
 		my $coverage = ($query_end - $query_start + 1) / $query_length;
 		my $pc_coverage = int($coverage * 100);
-		$coverages{$file}{$hit_acc}{$pc_coverage}++;
+		push @{$coverages{$file}{$hit_acc}}, $pc_coverage;
 		
 		if ($coverage >= $coverage_threshold_min and
 		    $coverage <= $coverage_threshold_max and
@@ -89,7 +89,7 @@ foreach my $file (sort keys %coverages){
 	die "Could not parse FASTA filename from TBLASTN file '$file'\n";
     }
     foreach my $acc (keys %{$coverages{$file}}) {
-	my @coverages = sort {$b<=>$a} keys %{$coverages{$file}{$acc}};
+	my @coverages = sort {$b<=>$a} @{$coverages{$file}{$acc}};
 	my $highest_coverage = shift @coverages;
 	my $printline = "";
 	$printline .= "$fasta_filename";
