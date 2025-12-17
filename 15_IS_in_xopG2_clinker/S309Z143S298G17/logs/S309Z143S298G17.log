@@ -1,0 +1,23 @@
+-- Executing input file sanitization
+-- Finished sanitization of input file: cagecat/jobs/S309Z143S298G17/uploads/CP155948.11088209..1092926.gb
+-- Executing input file sanitization
+WARNING  17/12 13:57:56   Fasta header too long: renamed "JAUINJ010000036.1" to "JAUINJ010000036"
+-- Finished sanitization of input file: cagecat/jobs/S309Z143S298G17/uploads/JAUINJ010000036.147737..50019.gb
+-- Executing input file sanitization
+WARNING  17/12 13:58:00   Fasta header too long: renamed "JAUINJ010000040.1" to "JAUINJ010000040"
+-- Finished sanitization of input file: cagecat/jobs/S309Z143S298G17/uploads/JAUINJ010000040.11..1836.gb
+[13:58:03] INFO - Starting clinker
+[13:58:03] INFO - Parsing files:
+[13:58:03] INFO -   S309Z143S298G17_1.gbk
+[13:58:03] INFO -   S309Z143S298G17.gbk
+[13:58:03] INFO -   S309Z143S298G17_2.gbk
+[13:58:03] INFO - Starting cluster alignments
+[13:58:03] INFO - S309Z143S298G17_1 vs S309Z143S298G17
+[13:58:03] INFO - S309Z143S298G17_1 vs S309Z143S298G17_2
+[13:58:03] INFO - S309Z143S298G17 vs S309Z143S298G17_2
+[13:58:03] INFO - Generating results summary...
+[13:58:03] INFO - Writing alignments to: /repo/cagecat/jobs/S309Z143S298G17/results/alignments.txt
+[13:58:03] INFO - Saving session to: /repo/cagecat/jobs/S309Z143S298G17/results/S309Z143S298G17_session.json
+[13:58:03] INFO - Building clustermap.js visualisation
+[13:58:03] INFO - Writing to: /repo/cagecat/jobs/S309Z143S298G17/results/S309Z143S298G17_plot.html
+[13:58:03] INFO - Done!

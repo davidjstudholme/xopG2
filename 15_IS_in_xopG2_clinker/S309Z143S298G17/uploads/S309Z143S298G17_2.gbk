@@ -1,0 +1,129 @@
+LOCUS       JAUINJ010000040         1836 bp    DNA     linear   BCT 22-DEC-2023
+DEFINITION  Xanthomonas campestris pv. campestris strain 5714B
+            NODE_40_length_44198_cov_161.383491, whole genome shotgun sequence.
+ACCESSION   JAUINJ010000040
+VERSION     JAUINJ010000040
+DBLINK      BioProject: PRJNA988133
+            BioSample: SAMN36001481
+KEYWORDS    WGS.
+SOURCE      Xanthomonas campestris pv. campestris
+  ORGANISM  Xanthomonas campestris pv. campestris
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Lysobacterales; Lysobacteraceae; Xanthomonas.
+REFERENCE   1  (bases 1 to 1836)
+  AUTHORS   Greer,S., Harrison,J., Grant,M., Vicente,J. and Studholme,D.J.
+  TITLE     Draft genome sequences for strains of Xanthomonas campestris pv.
+            campestris from the WHRI collection
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1836)
+  AUTHORS   Greer,S., Harrison,J., Grant,M., Vicente,J. and Studholme,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2023) Biosciences, University of Exeter, Geoffrey
+            Pope Building, Stocker Road, Exeter, Devon EX4 4QD, United Kingdom
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method                   :: SPAdes v. 3.15.1
+            Genome Representation             :: Full
+            Expected Final Version            :: Yes
+            Genome Coverage                   :: 356 x
+            Sequencing Technology             :: Illumina NovaSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 07/06/2023 10:03:37
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            (PGAP)
+            Annotation Method :: Best-placed reference protein set; GeneMarkS-2+
+            Annotation Software revision      :: 6.5
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 4,354
+            CDSs (total)                      :: 4,204
+            Genes (coding)                    :: 4,087
+            CDSs (with protein)               :: 4,087
+            Genes (RNA)                       :: 150
+            rRNAs                             :: 1, 1, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 1, 1, 1 (5S, 16S, 23S)
+            tRNAs                             :: 52
+            ncRNAs                            :: 95
+            Pseudo Genes (total)              :: 117
+            CDSs (without protein)            :: 117
+            Pseudo Genes (ambiguous residues) :: 0 of 117
+            Pseudo Genes (frameshifted)       :: 57 of 117
+            Pseudo Genes (incomplete)         :: 68 of 117
+            Pseudo Genes (internal stop)      :: 21 of 117
+            Pseudo Genes (multiple problems)  :: 27 of 117
+            ##Genome-Annotation-Data-END##
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            ##antiSMASH-Data-START##
+            Version      :: 6.0.0
+            Run date     :: 2025-12-17 13:58:02
+            Original ID  :: JAUINJ010000040.1
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1836
+                     /collection_date="1996"
+                     /db_xref="taxon:340"
+                     /host="Brassica oleracea"
+                     /mol_type="genomic DNA"
+                     /note="pathovar: campestris"
+                     /organism="Xanthomonas campestris pv. campestris"
+                     /strain="5714B"
+                     /submitter_seqid="NODE_40_length_44198_cov_161.383491"
+     gene            complement(496..1830)
+                     /locus_tag="QYY70_17145"
+     CDS             complement(496..1830)
+                     /codon_start=1
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011038361.1"
+                     /locus_tag="QYY70_17145"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology. GO_function:
+                     GO:0030145 - manganese ion binding [Evidence IEA];
+                     GO_function: GO:0070006 - metalloaminopeptidase activity
+                     [Evidence IEA]"
+                     /product="aminopeptidase P N-terminal domain-containing
+                     protein"
+                     /protein_id="MEA0655029.1"
+                     /transl_table=11
+                     /translation="MKKLTGIGAAEYARRRKQLMQMAGEQAILILPAAPERVRSHDTHY
+                     PYRQDSDFWYLSGFPEPEAVLVLVPGRKHGETILFCRERDAEREAWDGPRAGQQGAVAQ
+                     YGMDDAYPIDDVDEILPGLLEGRSRVYYHFGRDVDFDLKLIGWLKRVREQVRHGAQPPH
+                     EFLELGHLLHEQRLFKSRDEIALMQQAADISVRAHRAAMQLARPGVHEYQLQAEIEREF
+                     RAADAWPAYGSIVGTGSNACVLHYRANNARSRDGELVLVDAGAEYRGYAADITRTFPVN
+                     GRFSAAQRALHDLVGAAQAAALAQAQPGIAYEAGHLAAVQTLTEGLLRLGLLKGTLERN
+                     LAEGHYKRFYRHKTGHWLGLDVHDVGEYRLAGESRLLEPGMVFTIEPGLYVSADDTSVD
+                     AKWRGIGIRTEDNVLITADGHRVLTDALARSADEIQGAMAGGNRE"
+ORIGIN
+        1 ggcttcgagt gacagcagca tccacaaggc gcggcgcaga tcctgcgact tgcggctgaa
+       61 ggtcagggct aatcaggaac cttcaagcaa gtgattccct gagggagtac tttcaatctt
+      121 ggccaaggca gcatccaccc gatccgggta atccgcgctg cgatagcgat ttatttcaat
+      181 agtcggatgc cgcgtcgata ttgtcatagt caattcaacc ttcgggagaa tcaaacaata
+      241 tccgacgtcg gaaagcacct catcccggca ggcgaagatt gaaactaaaa tgcgaaaaat
+      301 ctcgacttgt tacttcaagc gcaaaacgat tggtgaaaat ctcgatacac tcatgtctcg
+      361 atcggtcaac ctatcgccag aaatcagccg atcagcacga cactgctttc agacattgaa
+      421 aacaactttc atcgattgag agtttgtctg cagtcacgtg cgtctagcac aaccaccgct
+      481 ctccattggc atttcctatt cccggtttcc tccagccatc gccccctgga tttcgtcggc
+      541 gctgcgcgcc aaggcatcgg tcagcacgcg gtggccgtcg gcggtgatca gcacgttgtc
+      601 ttcggtgcgg ataccgatgc cgcgccactt ggcgtccacg ctcgtatcgt cggccgagac
+      661 atacaaccca ggctcgatgg tgaacaccat gccgggctcc agcaggcgtg actcgcccgc
+      721 gaggcgatac tcgccaacgt catgcacatc caggccaagc cagtggccgg tcttgtgccg
+      781 ataaaaccgc ttgtagtgcc cttcggcgag gttgcgctcc agcgtgcctt tgagcagccc
+      841 caggcgcagc aacccttcgg tcagtgtctg caccgccgcc aggtgaccgg cctcgtaggc
+      901 aatgccaggt tgtgcctgcg ccagggcggc cgcctgcgcg gcgccgacca gatcgtgcag
+      961 ggcacgttgc gccgcgctga agcggccgtt gaccggaaat gtgcgggtga tgtcggccgc
+     1021 atagccgcgg tattcggcgc cggcgtccac cagcaccagc tcgccatcgc ggctgcgcgc
+     1081 gttgttggcg cggtaatgca gcacgcaggc attgctgccg gtgccgacga tgctgccgta
+     1141 cgccggccac gcatcggcgg cgcggaattc gcgttcgatc tcggcctgca gttgatactc
+     1201 gtgcacgccc gggcgtgcca actgcatcgc cgcgcgatgc gcacgcacgc tgatgtcggc
+     1261 ggcctgctgc atcaatgcga tctcgtcgcg cgacttgaac aggcgctgct cgtgcagcag
+     1321 atggcccaac tccaggaact catgcggcgg ttgcgcgcca tggcgcacct gctcgcgcac
+     1381 ccgcttgagc cagccgatca gcttgagatc gaaatccaca tcgcggccga agtggtagta
+     1441 gacgcggctg cgtccttcca gcaggccggg caggatctcg tcgacatcgt cgatggggta
+     1501 cgcatcgtcc atgccgtact gcgccaccgc gccttgctgg cccgcgcgcg ggccgtccca
+     1561 ggcctcgcgc tcggcatcgc gctcgcggca gaacaggatc gtttcaccgt gcttgcgccc
+     1621 cggtaccagc accagcaccg cctccggttc cggaaacccg ctcaggtacc aaaaatccga
+     1681 atcctgccgg tacgggtaat gggtgtcgtg gctgcgcacc cgctccggtg ccgccggcag
+     1741 gatcaggatg gcctgctcgc cggccatctg catgagctgc ttgcgtcggc gcgcatactc
+     1801 ggctgcgcca atgccggtga gcttcttcat atcgtg
+//
