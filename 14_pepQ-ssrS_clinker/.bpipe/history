@@ -1,0 +1,1 @@
+1310379	bpipe run /data/djs217/miniconda3/envs/clinker_env/share/clinker-1.33-0/workflow/clinker.pipe Frameshift_WHRI_6067.ssrS_to_pepQ.gbk Insertion_WHRI_5489.ssrS_to_pepQ.gbk Intact_WHRI_8979.ssrS_to_pepQ.gbk PTC_WHRI_5630.ssrS_to_pepQ.gbk PTC_WHRI_5802.ssrS_to_pepQ.gbk PTC_WHRI_6018A.ssrS_to_pepQ.gbk PTC_WHRI_6022A.ssrS_to_pepQ.gbk absent_WHRI_6183.ssrS_to_pepQ.gbk

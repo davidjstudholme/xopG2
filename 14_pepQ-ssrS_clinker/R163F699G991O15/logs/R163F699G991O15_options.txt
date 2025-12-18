@@ -1,8 +1,0 @@
-csrf_token,ImNmNGViMWFjYmVjMjFlNjEyMWRiMTVhOWY0ZTY2NTg0MWMzNjdiNzYi.aUJ-aw.M-_62DTwURF7gcaJoQ4Iv3k_9wk
-job_type,clinker
-job_title,pepQ ssrS xopG locus
-mail_address,d.j.studholme@exeter.ac.uk
-identity,0.30
-clinkerDelim,
-clinkerDecimals,2
-submit,Submit

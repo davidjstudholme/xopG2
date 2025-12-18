@@ -1,0 +1,256 @@
+bpipe.Runner	[1]	INFO	|12:09:13 Starting 
+bpipe.Runner	[1]	INFO	|12:09:13 OS: Linux (5.15.0-164-generic) Java: 11.0.1 Vendor: Azul Systems, Inc. 
+bpipe.Runner	[1]	INFO	|12:09:13 Initializing plugins ... 
+bpipe.Config	[1]	INFO	|12:09:13 No plugins directory found: /data/djs217/PROJECTS/51_xopG2/14_pepQ-ssrS_clinker/.bpipe/plugins 
+bpipe.Runner	[1]	INFO	|12:09:13 =================== GUID=372eefa50aaaeeb287b47d12fe2cc4e254a4e33f PID=1310379 (1310379) ============== 
+bpipe.Runner	[1]	INFO	|12:09:13 No CLI parameters specified 
+bpipe.Runner	[1]	INFO	|12:09:13 Reading user config ...  
+bpipe.Config	[1]	INFO	|12:09:13 No configuration file found in same dir as pipeline file /data/djs217/miniconda3/envs/clinker_env/share/clinker-1.33-0/workflow/bpipe.config 
+bpipe.Config	[1]	INFO	|12:09:13 No local configuration file found 
+bpipe.Utils	[25]	INFO	|12:09:14 Read config from /data/djs217/miniconda3/envs/clinker_env/opt/bpipe-0.9.13/bin/../bpipe.config executed in 0.830 seconds 
+bpipe.Utils	[1]	INFO	|12:09:14 Read user config executed in 1.047 seconds 
+bpipe.Runner	[1]	INFO	|12:09:14 Loading user configuration using environment: default 
+bpipe.Runner	[1]	INFO	|12:09:14 Loading tool database ...  
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Configuring notifications based on : [:] 
+bpipe.ToolDatabase	[26]	INFO	|12:09:14 Loading tool database from user configuration 
+bpipe.Dependencies	[30]	INFO	|12:09:14 No cached output graph (outputGraph2.ser) available: will be computed from property files 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Trying class name file for notification channel file 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool samtools 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool bwa 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool xhmm 
+bpipe.Concurrency	[28]	INFO	|12:09:14 Creating thread pool with 64 threads to execute parallel pipelines 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Unable to create notification channel using class file: java.lang.ClassNotFoundException: file 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool ExomeDepth 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Trying class name bpipe.notification.FILENotificationChannel for notification channel file 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool VariantAnnotation 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Unable to create notification channel using class bpipe.notification.FILENotificationChannel: java.lang.ClassNotFoundException: bpipe.notification.FILENotificationChannel 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool CODEX 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Trying class name bpipe.notification.file for notification channel file 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool cn.mops 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool conifer 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Unable to create notification channel using class bpipe.notification.file: java.lang.ClassNotFoundException: bpipe.notification.file 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool pandas 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Trying class name bpipe.notification.FileNotificationChannel for notification channel file 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool pysam 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool pytables 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool tables 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool matplotlib 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool seaborn 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool bowtie 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool fastqc 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool coverageBed 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool fastx_clipper 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool convert2annovar.pl 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool summarize_annovar.pl 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Successfully created notification channel using class bpipe.notification.FileNotificationChannel 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool bowtie2 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool GenomeAnalysisTK 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool MarkDuplicates 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool signalp 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool variant_effect_predictor.pl 
+bpipe.NotificationManager	[29]	INFO	|12:09:14 Subscribing channel file to event SEND 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool igvtools 
+bpipe.Tool	[26]	INFO	|12:09:14 Configured meta data about tool ls 
+bpipe.Runner	[1]	INFO	|12:09:14 Parsing script ...  
+bpipe.Runner	[1]	INFO	|12:09:15 Run ...  
+bpipe.Pipeline	[1]	INFO	|12:09:15 Running with INPUT [Frameshift_WHRI_6067.ssrS_to_pepQ.gbk, Insertion_WHRI_5489.ssrS_to_pepQ.gbk, Intact_WHRI_8979.ssrS_to_pepQ.gbk, PTC_WHRI_5630.ssrS_to_pepQ.gbk, PTC_WHRI_5802.ssrS_to_pepQ.gbk, PTC_WHRI_6018A.ssrS_to_pepQ.gbk, PTC_WHRI_6022A.ssrS_to_pepQ.gbk, absent_WHRI_6183.ssrS_to_pepQ.gbk] 
+PipelineCategory	[1]	INFO	|12:09:15 Found closure variable generate_fst 
+PipelineCategory	[1]	INFO	|12:09:15 Found closure variable star_genome_gen 
+PipelineCategory	[1]	INFO	|12:09:15 Found closure variable star_align 
+PipelineCategory	[1]	INFO	|12:09:15 Found closure variable index_bams 
+PipelineCategory	[1]	INFO	|12:09:15 Found closure variable prepare_plot 
+PipelineCategory	[1]	INFO	|12:09:15 Found closure variable plot_fusion 
+bpipe.NotificationManager	[1]	INFO	|12:09:15 Binding channel variable file 
+bpipe.Pipeline	[1]	WARNING	|12:09:15 Pipeline folder /data/djs217/bpipes could not be found 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Evaluating paths: [] 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Adding stages from evaluation of [/data/djs217/bpipes] 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Added stages from evaluation of [/data/djs217/bpipes] 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: file 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: file 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference file is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: args 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference args is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: fst_program 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference fst_program is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: resources 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference resources is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: fst_output_folder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference fst_output_folder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: fusion_finder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference fusion_finder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: find_fusion 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference find_fusion is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: competitive 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference competitive is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: threads 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference threads is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: genome_mem 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference genome_mem is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: align_mem 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference align_mem is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: track_order 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference track_order is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: annotation_folder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference annotation_folder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: alignment_folder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference alignment_folder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: genome_folder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference genome_folder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: reference_folder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference reference_folder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: plots_folder 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference plots_folder is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: generate_fst 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference generate_fst is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: star_genome_gen 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference star_genome_gen is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: star_align 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference star_align is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: index_bams 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference index_bams is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: prepare_plot 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference prepare_plot is overridden by local reference 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Loaded external reference: plot_fusion 
+bpipe.Pipeline	[1]	INFO	|12:09:15 External reference plot_fusion is overridden by local reference 
+bpipe.InputSplitter	[1]	INFO	|12:09:15 Found * pattern at [2], hash at [] and % at [0] 
+bpipe.InputSplitter	[1]	INFO	|12:09:15 Sorted: [0, 2] 
+bpipe.InputSplitter	[1]	INFO	|12:09:15 % groups are at [0] 
+bpipe.InputSplitter	[1]	INFO	|12:09:15 Result is [pattern:([^/]*?)_([^/]*?)\.fastq.gz, splits:[0]] 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check Frameshift_WHRI_6067.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input Frameshift_WHRI_6067.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check Insertion_WHRI_5489.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input Insertion_WHRI_5489.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check Intact_WHRI_8979.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input Intact_WHRI_8979.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check PTC_WHRI_5630.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input PTC_WHRI_5630.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check PTC_WHRI_5802.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input PTC_WHRI_5802.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check PTC_WHRI_6018A.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input PTC_WHRI_6018A.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check PTC_WHRI_6022A.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input PTC_WHRI_6022A.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Check absent_WHRI_6183.ssrS_to_pepQ.gbk in storage bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a: true 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Input absent_WHRI_6183.ssrS_to_pepQ.gbk resolved to storage type bpipe.storage.LocalFileSystemStorageLayer@7baf1f5a 
+bpipe.Pipeline	[1]	INFO	|12:09:15 Running segment with inputs [Frameshift_WHRI_6067.ssrS_to_pepQ.gbk, Insertion_WHRI_5489.ssrS_to_pepQ.gbk, Intact_WHRI_8979.ssrS_to_pepQ.gbk, PTC_WHRI_5630.ssrS_to_pepQ.gbk, PTC_WHRI_5802.ssrS_to_pepQ.gbk, PTC_WHRI_6018A.ssrS_to_pepQ.gbk, PTC_WHRI_6022A.ssrS_to_pepQ.gbk, absent_WHRI_6183.ssrS_to_pepQ.gbk] 
+bpipe.Dependencies	[1]	INFO	|12:09:15 Checking 8 input (s)  
+bpipe.Utils	[1]	INFO	|12:09:15 Output folder scan (concurrency=5) executed in 0.006 seconds 
+bpipe.Dependencies	[1]	INFO	|12:09:15 There are 1 output groups 
+bpipe.Dependencies	[1]	INFO	|12:09:15 Subtracting 8 remaining outputs from 8 total outputs 
+bpipe.Dependencies	[1]	INFO	|12:09:15  Frameshift_WHRI_6067.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  Insertion_WHRI_5489.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  Intact_WHRI_8979.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  PTC_WHRI_5630.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  PTC_WHRI_5802.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  PTC_WHRI_6018A.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  PTC_WHRI_6022A.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Dependencies	[1]	INFO	|12:09:15  absent_WHRI_6183.ssrS_to_pepQ.gbk / entry 1639958975  
+bpipe.Utils	[1]	INFO	|12:09:15 Index output graph executed in 0.001 seconds 
+bpipe.OutputDirectoryWatcher	[1]	INFO	|12:09:15 Creating directory watcher for . 
+bpipe.OutputDirectoryWatcher	[32]	INFO	|12:09:15 Watching directories using native watcher 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Setting or creating a delegate for context 443401609 body 1539477312/java.lang.Class in thread 1 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Created new delegate bpipe.PipelineDelegate@806996 overriding type java.lang.Class in thread 1 
+bpipe.OutputDirectoryWatcher	[32]	INFO	|12:09:15 Using high sensitivity file watcher for . 
+bpipe.Dependencies	[1]	INFO	|12:09:15 Checking 8 input (s)  
+bpipe.OutputDirectoryWatcher	[32]	INFO	|12:09:15 Initialising watcher for . with 21 paths 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Setting or creating a delegate for context 929856893 body 1859956068/java.lang.Class in thread 1 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Created new delegate bpipe.PipelineDelegate@4784efd9 overriding type java.lang.Class in thread 1 
+bpipe.Dependencies	[1]	INFO	|12:09:15 Checking 8 input (s)  
+bpipe.PipelineStage	[1]	INFO	|12:09:15 Stage generate_fst : INPUT=[Frameshift_WHRI_6067.ssrS_to_pepQ.gbk, Insertion_WHRI_5489.ssrS_to_pepQ.gbk, Intact_WHRI_8979.ssrS_to_pepQ.gbk, PTC_WHRI_5630.ssrS_to_pepQ.gbk, PTC_WHRI_5802.ssrS_to_pepQ.gbk, PTC_WHRI_6018A.ssrS_to_pepQ.gbk, PTC_WHRI_6022A.ssrS_to_pepQ.gbk, absent_WHRI_6183.ssrS_to_pepQ.gbk] OUTPUT=Frameshift_WHRI_6067.ssrS_to_pepQ.gbk.generate_fst 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Setting or creating a delegate for context 615014502 body 1764622989/Script_8f21e97eef0eff9577a10d1889cc1f00 in thread 1 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Created new delegate bpipe.PipelineDelegate@54402c04 overriding type Script_8f21e97eef0eff9577a10d1889cc1f00 in thread 1 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Producing [./results/reference/fst_reference.fasta] from bpipe.PipelineContext@24a86066 
+bpipe.storage.StorageLayer	[1]	INFO	|12:09:15 Default storage is null 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Setting output [./results/reference/fst_reference.fasta] on context 615014502 in thread 1 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Setting raw outputs: outputs [./results/reference/fst_reference.fasta] 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Setting or creating a delegate for context 615014502 body 1781297535/Script_8f21e97eef0eff9577a10d1889cc1f00$_run_closure1 in thread 1 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Created new delegate bpipe.PipelineDelegate@60d40ff4 overriding type Script_8f21e97eef0eff9577a10d1889cc1f00$_run_closure1 in thread 1 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Probing command using inputs [Frameshift_WHRI_6067.ssrS_to_pepQ.gbk, Insertion_WHRI_5489.ssrS_to_pepQ.gbk, Intact_WHRI_8979.ssrS_to_pepQ.gbk, PTC_WHRI_5630.ssrS_to_pepQ.gbk, PTC_WHRI_5802.ssrS_to_pepQ.gbk, PTC_WHRI_6018A.ssrS_to_pepQ.gbk, PTC_WHRI_6022A.ssrS_to_pepQ.gbk, absent_WHRI_6183.ssrS_to_pepQ.gbk] 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Tracking outputs referenced=[[]] inferred=[[]] for command python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.Command	[1]	INFO	|12:09:15 Checking for configuration for command python 
+bpipe.Command	[1]	INFO	|12:09:15 Default command properties: [max_per_command_threads:16, executor:local] 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Checking actual resolved inputs inputs [] 
+bpipe.CommandId	[1]	WARNING	|12:09:15 Failed to parse command id text: [] 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Skip check dependencies due to probe mode 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Skip command start for python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header due to probe mode 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Finished probe 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Tracked commands after probe are: 0 with associated command: 0 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Setting output [] on context 615014502 in thread 1 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Checking [./results/reference/fst_reference.fasta] 
+bpipe.Utils	[1]	INFO	|12:09:15 ===== Check ./results/reference/fst_reference.fasta ===== 
+bpipe.Utils	[1]	INFO	|12:09:15 file doesn't exist: ./results/reference/fst_reference.fasta 
+bpipe.storage.LocalFileSystemStorageLayer	[1]	INFO	|12:09:15 File ./results/reference/fst_reference.fasta does not appear to exist: listing directory to flush file system 
+bpipe.Dependencies	[1]	INFO	|12:09:15 These missing / older files require check for cleanup: [./results/reference/fst_reference.fasta] 
+bpipe.Dependencies	[1]	INFO	|12:09:15 Output properties file is not available for results/reference/fst_reference.fasta: assume NOT cleaned up 
+bpipe.Dependencies	[1]	INFO	|12:09:15 Some files are outdated : [results/reference/fst_reference.fasta] 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Not up to date because input inferred by probe of body newer than outputs 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Setting output [./results/reference/fst_reference.fasta] on context 615014502 in thread 1 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Setting raw outputs: outputs [./results/reference/fst_reference.fasta] 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Setting or creating a delegate for context 615014502 body 1781297535/bpipe.PipelineDelegate in thread 1 
+bpipe.PipelineDelegate	[1]	INFO	|12:09:15 Existing delegate bpipe.PipelineDelegate@60d40ff4 has type bpipe.PipelineDelegate in thread 1. Setting new context 615014502 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Producing [./results/reference/fst_reference.fasta] from inputs [Frameshift_WHRI_6067.ssrS_to_pepQ.gbk, Insertion_WHRI_5489.ssrS_to_pepQ.gbk, Intact_WHRI_8979.ssrS_to_pepQ.gbk, PTC_WHRI_5630.ssrS_to_pepQ.gbk, PTC_WHRI_5802.ssrS_to_pepQ.gbk, PTC_WHRI_6018A.ssrS_to_pepQ.gbk, PTC_WHRI_6022A.ssrS_to_pepQ.gbk, absent_WHRI_6183.ssrS_to_pepQ.gbk] (output dir=.) 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Tracking outputs referenced=[[]] inferred=[[]] for command python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.Command	[1]	INFO	|12:09:15 Checking for configuration for command python 
+bpipe.Command	[1]	INFO	|12:09:15 Default command properties: [max_per_command_threads:16, executor:local] 
+bpipe.PipelineContext	[1]	INFO	|12:09:15 Checking actual resolved inputs inputs [] 
+bpipe.storage.LocalFileSystemStorageLayer	[1]	INFO	|12:09:15 File ./results/reference/fst_reference.fasta does not appear to exist: listing directory to flush file system 
+bpipe.CommandManager	[1]	INFO	|12:09:15 Starting command with existing id: 1 
+bpipe.CommandManager	[1]	INFO	|12:09:15 Using config [name:python, max_per_command_threads:16, executor:local] for command 
+bpipe.CommandManager	[1]	INFO	|12:09:15 Created bpipe command id 1 
+bpipe.executor.ThrottledDelegatingCommandExecutor	[1]	INFO	|12:09:15 Container type for command 1 in stage generate_fst is null based on config null 
+bpipe.Concurrency	[1]	INFO	|12:09:15 Thread 1 requesting for 1 concurrency permit(s) type threads with 32 available 
+bpipe.Concurrency	[1]	INFO	|12:09:15 There are 0 registered bidders with 0 currently bidding, will distribute resources at 0 
+bpipe.Concurrency	[1]	INFO	|12:09:15 Taking over resource allocation because requested/bidders = 1 / min(numBidders=0,32)=0 
+bpipe.Concurrency	[1]	INFO	|12:09:15 First pass allocations are [1] 
+bpipe.Concurrency	[1]	INFO	|12:09:15 Thread 1 allocated 1 threads resources after 6 ms 
+bpipe.Concurrency	[1]	INFO	|12:09:15 Thread 1 acquired resource threads in amount 1 
+bpipe.processors.StorageResolver	[1]	INFO	|12:09:15 After replacing regions, command is: python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.processors.StorageResolver	[1]	INFO	|12:09:15 Checking for mount paths in python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.processors.StorageResolver	[1]	INFO	|12:09:15 Replacing storage mount points in python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header => python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.executor.LocalCommandExecutor	[35]	INFO	|12:09:15 No preallocated command executor: running command 1 directly 
+bpipe.ReportGenerator	[35]	INFO	|12:09:16 Searching for template in /data/djs217/miniconda3/envs/clinker_env/opt/bpipe-0.9.13/src/main/html/bpipe 
+bpipe.ReportGenerator	[35]	INFO	|12:09:16 Searching for template in /data/djs217/miniconda3/envs/clinker_env/opt/bpipe-0.9.13/src/main/templates/bpipe 
+bpipe.executor.CommandTemplate	[35]	INFO	|12:09:16 Generating output from command template /data/djs217/miniconda3/envs/clinker_env/opt/bpipe-0.9.13/bin/../templates/executor/local-command.template.sh 
+bpipe.executor.CommandTemplate	[35]	INFO	|12:09:16 Writing command template to to /data/djs217/PROJECTS/51_xopG2/14_pepQ-ssrS_clinker/.bpipe/commandtmp/1/cmd.sh 
+bpipe.executor.LocalCommandExecutor	[35]	INFO	|12:09:16 Launching command wrapper script .bpipe/commandtmp/1/cmd.sh 
+ForwardHost	[35]	INFO	|12:09:16 Forwarding file .bpipe/commandtmp/1/cmd.out using forwarder bpipe.Forwarder@37507fcb 
+ForwardHost	[35]	INFO	|12:09:16 Forwarding file .bpipe/commandtmp/1/cmd.err using forwarder bpipe.Forwarder@4d616b62 
+bpipe.Command	[35]	INFO	|12:09:16 Command 1 changing state from null to RUNNING 
+bpipe.executor.ThrottledDelegatingCommandExecutor	[1]	INFO	|12:09:16 Waiting for command to complete before releasing 1 resources 
+bpipe.executor.LocalCommandExecutor	[1]	INFO	|12:09:16 Checking for pid file .bpipe/commands/1.pid for local command 1 
+bpipe.executor.LocalCommandExecutor	[1]	INFO	|12:09:16 Read pid=1310464 for local command 1 
+bpipe.executor.LocalCommandExecutor	[1]	INFO	|12:09:16 Exit file .bpipe/commandtmp/1/cmd.exit exists: reading exit code 
+bpipe.executor.LocalCommandExecutor	[1]	INFO	|12:09:16 Command LocalCommandExecutor(job=1, pid=1310464, started=Thu Dec 18 12:09:16 UTC 2025, exitValue=2) returning complete status after reading exit code 2 
+bpipe.executor.ThrottledDelegatingCommandExecutor	[1]	INFO	|12:09:16 Releasing 1 resources 
+bpipe.Concurrency	[1]	INFO	|12:09:16 Thread 1 releasing 1 threads 
+bpipe.executor.ThrottledDelegatingCommandExecutor	[1]	INFO	|12:09:16 Released 1 resources 
+bpipe.executor.LocalCommandExecutor	[1]	INFO	|12:09:16 Cleanup command 1 
+ForwardHost	[1]	INFO	|12:09:16 Cancelling and flushing outputs for forwarders: [bpipe.Forwarder@37507fcb, bpipe.Forwarder@4d616b62] 
+bpipe.Forwarder	[1]	INFO	|12:09:16 All files [/data/djs217/PROJECTS/51_xopG2/14_pepQ-ssrS_clinker/.bpipe/commandtmp/1/cmd.out] exist 
+bpipe.Forwarder	[1]	INFO	|12:09:16 All files [/data/djs217/PROJECTS/51_xopG2/14_pepQ-ssrS_clinker/.bpipe/commandtmp/1/cmd.err] exist 
+bpipe.PipelineContext	[1]	INFO	|12:09:17 Command 1 in branch  failed with exit code 2 
+bpipe.PipelineStage	[1]	SEVERE	|12:09:17 Cleaning up outputs due to error: bpipe.CommandFailedException: Command 1 in stage generate_fst failed with exit status = 2 : 
+
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.OutputDirectoryWatcher	[32]	INFO	|12:09:17 File .bpipe.tmp--620707682 was created in directory . 
+bpipe.DirtyFileManager	[1]	INFO	|12:09:17 Identified 1 cleanup candidates: [./results/reference/fst_reference.fasta] 
+bpipe.DirtyFileManager	[1]	INFO	|12:09:17 Cleaning up 1 files: [./results/reference/fst_reference.fasta] 
+bpipe.Utils	[1]	INFO	|12:09:17 File ./results/reference/fst_reference.fasta does not appear to exist: listing directory to flush file system 
+bpipe.Utils	[1]	INFO	|12:09:17 Not cleaning up file ./results/reference/fst_reference.fasta because it does not exist 
+bpipe.OutputDirectoryWatcher	[1]	INFO	|12:09:17 All uses of watcher for . are gone 
+bpipe.PipelineStage	[1]	SEVERE	|12:09:17 Cleaning up outputs due to error: bpipe.CommandFailedException: Command 1 in stage generate_fst failed with exit status = 2 : 
+
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.PipelineStage	[1]	SEVERE	|12:09:17 Cleaning up outputs due to error: bpipe.CommandFailedException: Command 1 in stage generate_fst failed with exit status = 2 : 
+
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.Pipeline	[1]	INFO	|12:09:17 Pipeline segment in thread 1 failed (2): Command 1 in stage generate_fst failed with exit status = 2 : 
+
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+bpipe.Pipeline	[1]	INFO	|12:09:17 Finished running segment in thread 1 for inputs [Frameshift_WHRI_6067.ssrS_to_pepQ.gbk, Insertion_WHRI_5489.ssrS_to_pepQ.gbk, Intact_WHRI_8979.ssrS_to_pepQ.gbk, PTC_WHRI_5630.ssrS_to_pepQ.gbk, PTC_WHRI_5802.ssrS_to_pepQ.gbk, PTC_WHRI_6018A.ssrS_to_pepQ.gbk, PTC_WHRI_6022A.ssrS_to_pepQ.gbk, absent_WHRI_6183.ssrS_to_pepQ.gbk] 
+bpipe.Concurrency	[1]	INFO	|12:09:17 Unregister resource requestor bpipe.Pipeline@12f49ca8 
+bpipe.Pipeline	[1]	INFO	|12:09:17 Sending FINISHED event for Thu Dec 18 12:09:15 UTC 2025 - Thu Dec 18 12:09:17 UTC 2025 
+bpipe.Pipeline	[1]	INFO	|12:09:17 Saved pipeline state in 28ms 
+bpipe.ExecutorPool	[1]	INFO	|12:09:17 Shutting down 0 preallocation pools 
+bpipe.NotificationManager	[1]	INFO	|12:09:17 Channel file does not support close 
+bpipe.ExecutorPool	[24]	INFO	|12:09:17 Shutting down 0 preallocation pools 

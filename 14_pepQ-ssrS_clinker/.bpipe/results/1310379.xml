@@ -1,0 +1,21 @@
+<job id='1310379'>
+  <succeeded>false</succeeded>
+  <startDateTime>2025-12-18 12:09:15</startDateTime>
+  <endDateTime>2025-12-18 12:09:17</endDateTime>
+  <totalCommandTimeSeconds>0.277</totalCommandTimeSeconds>
+  <commands>
+    <command>
+      <id>1</id>
+      <stage>generate_fst</stage>
+      <branch></branch>
+      <content>python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header</content>
+      <start>2025-12-18 12:09:16</start>
+      <end>2025-12-18 12:09:16</end>
+      <resources>
+        <procs>1</procs>
+        <memory />
+      </resources>
+      <exitCode>2</exitCode>
+    </command>
+  </commands>
+</job>

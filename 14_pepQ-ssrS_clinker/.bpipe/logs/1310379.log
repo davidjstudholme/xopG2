@@ -1,0 +1,20 @@
+[----]	╒══════════════════════════════════════════════════════════════════════════════════════════════════╕
+[----]	|                              Starting Pipeline at 2025-12-18 12:09                               |
+[----]	╘══════════════════════════════════════════════════════════════════════════════════════════════════╛
+[]	
+[]	======================================== Stage generate_fst ========================================
+[0.1]	python: can't open file 'null/fusion/main.py': [Errno 2] No such file or directory
+
+ERROR: stage generate_fst failed: Command 1 in stage generate_fst failed with exit status = 2 : 
+
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header 
+
+
+========================================= Pipeline Failed ==========================================
+
+In stage generate_fst: Command 1 in stage generate_fst failed with exit status = 2 : 
+
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header
+
+Use 'bpipe errors' to see output from failed commands.
+

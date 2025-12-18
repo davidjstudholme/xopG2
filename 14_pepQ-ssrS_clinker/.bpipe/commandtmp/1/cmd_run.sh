@@ -1,0 +1,1 @@
+python null/fusion/main.py -in $fusion_finder_output -out ./results -pos $column_positions -del $delimiter -st null/resources/ -genome $genome -competitive false -fusionlist $fusion -header $header
