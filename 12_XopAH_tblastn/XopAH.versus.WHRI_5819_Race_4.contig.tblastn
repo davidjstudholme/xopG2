@@ -1,0 +1,81 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_5819_Race_4.contig
+           128 sequences; 4,917,797 total letters
+
+
+
+Query= WP_011037263.1 XopAH/AvrB family type III secretion system effector
+[Xanthomonas campestris]
+
+Length=331
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAUIOY010000049.1 Xanthomonas campestris pv. campestris strain 58...  686     0.0  
+
+
+>JAUIOY010000049.1 Xanthomonas campestris pv. campestris strain 
+5819 NODE_49_length_36986_cov_135.036333, whole genome shotgun 
+sequence
+Length=36986
+
+ Score = 686 bits (1769),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 330/331 (99%), Positives = 330/331 (99%), Gaps = 0/331 (0%)
+ Frame = +3
+
+Query  1      MWSQPVWNPYASFDTGTASSHSQAVQGTATNYLRGPANYSKLSSEEQSLVGAARWPDDAP  60
+              MWSQPVWNPYASFDTGTASSHSQAVQGTATNYLRGPANYSKLSSEEQSLVGAARWPDDAP
+Sbjct  33252  MWSQPVWNPYASFDTGTASSHSQAVQGTATNYLRGPANYSKLSSEEQSLVGAARWPDDAP  33431
+
+Query  61     GLNISNKSNTQDNKKYCKSLYKASRIAGGSIASGQINSFNDLWQKATQWRLSRISSGDAS  120
+              GLNISNKSNTQDNKKYCKSLYKASRIAGGSIASGQINSFNDLWQKATQWRLSRISSGDAS
+Sbjct  33432  GLNISNKSNTQDNKKYCKSLYKASRIAGGSIASGQINSFNDLWQKATQWRLSRISSGDAS  33611
+
+Query  121    KGDFAAERMPNTRFVTSLRRPYHSVIERARNHPDAETELYEGEYFKEIEVKVYRQCGAIS  180
+              KGDFAAERMPNTRFVTSLRRPYHSVIERARNHPDAETELYEGEYFKEIEVKVYRQCGAIS
+Sbjct  33612  KGDFAAERMPNTRFVTSLRRPYHSVIERARNHPDAETELYEGEYFKEIEVKVYRQCGAIS  33791
+
+Query  181    GETIPMTTVSAAVDDNAISARLRNLPKDKRQQARQSMASSHPNMITHTSAEYIKTIRDHL  240
+              GETIPMTTVSAAVDDNAISARLRNLPKDKRQQARQSMASSHPNMITHT AEYIKTIRDHL
+Sbjct  33792  GETIPMTTVSAAVDDNAISARLRNLPKDKRQQARQSMASSHPNMITHTGAEYIKTIRDHL  33971
+
+Query  241    ESLYLQAIDPSLEKHEAFELIARLHWWAASAAPDKRGSAAKAEFAARSIASAHGIEMPPF  300
+              ESLYLQAIDPSLEKHEAFELIARLHWWAASAAPDKRGSAAKAEFAARSIASAHGIEMPPF
+Sbjct  33972  ESLYLQAIDPSLEKHEAFELIARLHWWAASAAPDKRGSAAKAEFAARSIASAHGIEMPPF  34151
+
+Query  301    RHGIVPDIEAMLRSESQFVADYPNFFERPPI  331
+              RHGIVPDIEAMLRSESQFVADYPNFFERPPI
+Sbjct  34152  RHGIVPDIEAMLRSESQFVADYPNFFERPPI  34244
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.127    0.377    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 395604243
+
+
+  Database: WHRI_5819_Race_4.contig
+    Posted date:  Nov 21, 2024  5:03 PM
+  Number of letters in database: 4,917,797
+  Number of sequences in database:  128
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

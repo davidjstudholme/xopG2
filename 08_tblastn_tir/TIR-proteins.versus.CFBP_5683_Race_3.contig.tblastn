@@ -1,0 +1,86 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: CFBP_5683_Race_3.contig
+           5 sequences; 5,030,566 total letters
+
+
+
+Query= A0A0H2X2I1:97-229
+
+Length=133
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CM002558.1 Xanthomonas campestris pv. campestris str. CFBP 5683 c...  91.3    3e-23
+
+
+>CM002558.1 Xanthomonas campestris pv. campestris str. CFBP 5683 
+chromosome, whole genome shotgun sequence
+Length=5012730
+
+ Score = 91.3 bits (225),  Expect = 3e-23, Method: Compositional matrix adjust.
+ Identities = 49/131 (37%), Positives = 81/131 (62%), Gaps = 1/131 (1%)
+ Frame = +3
+
+Query  4       DVFLCHAWDDRQGAAKELHDLLEAAGVKVWFSEKDLGLGVPMMRAIDKGLANSKVGLVLV  63
+               DVF+ HA +D++   + L  +L   G+KVW+ E  L +G  + + IDKGLANS+VGLV++
+Sbjct  162186  DVFISHASEDKESIVRSLASVLIGKGLKVWYDEFTLRIGDSLRQKIDKGLANSRVGLVVI  162365
+
+Query  64      TPALLARLPKESVADKELSTLLAGNR-LVPIVHKTTYEALREISPMLASRTGLDTAEDSM  122
+               +P+ +A+       D  ++  ++G + L+PI H  T + + E SP LA +    TA  ++
+Sbjct  162366  SPSFIAKGWTNYELDGIVTRTVSGEQILLPIWHDITKQQVIEFSPSLADKLARSTATHTV  162545
+
+Query  123     SEVAAKIAELV  133
+                E+A +IAEL+
+Sbjct  162546  EEIANEIAELL  162578
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.133    0.374    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 93882320
+
+
+Query= A0A2S6Z8U1:1-142
+
+Length=143
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.136    0.417    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 108970225
+
+
+  Database: CFBP_5683_Race_3.contig
+    Posted date:  Sep 30, 2024  8:20 PM
+  Number of letters in database: 5,030,566
+  Number of sequences in database:  5
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

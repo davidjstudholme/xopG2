@@ -1,0 +1,248 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/Xcr_NCPPB_1946.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3069852 /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/Xcr_NCPPB_1946.fna /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/Xcr_NCPPB_1946.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3069852.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3069852.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3069939 /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3069939.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3069939.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna
+
+Running nucmer on ATCC_33913_Xcr_NCPPB_1946
+Running nucmer on ATCC_33913_ATCC_33913
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna -q /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir -d /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results -l /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree.error >> /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree.log
+
+
+Using given reference:  /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna
+Running nucmer on ATCC_33913_WHRI_8883_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8458A_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8820_Race_3_contig
+Running nucmer on ATCC_33913_WHRI_5819_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8763_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8436_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_10024A_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8883_Race_6_question_contig
+Running nucmer on ATCC_33913_WHRI_5499_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_5735_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8405_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_5591_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6023A_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8416A_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8497_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8662_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8909A_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8446_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_3883_NCPPB_1946_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_6181Rx_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_3820A_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5714B_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8448A_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8979_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8908_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_5715A_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_3843B_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_10030A_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8648_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5771_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_5190_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8877_Race_4_question_contig
+Running nucmer on ATCC_33913_WHRI_8892A_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8959A_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_6067_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5802_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8420A_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8429A_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6382_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8409_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8980_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_6382_NCPPB_1711_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8934A_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8450A_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8819_Race_3_contig
+Running nucmer on ATCC_33913_WHRI_5594_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_5588_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_6290_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8403_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_3880_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8500_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6056_Race_6_contig
+Running nucmer on ATCC_33913_Xcr_NCPPB_1946_contig
+Running nucmer on ATCC_33913_WHRI_6087_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6055_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6184_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6366_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5737_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_5806_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_5736_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_3830A_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_7074_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6057_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8808_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6075_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6186_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6022A_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6181_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_8541_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6024A_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6185_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_10023A_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5630_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6066_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6045_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6049_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6194_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8981_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8879_Race_9_contig
+Running nucmer on ATCC_33913_WHRI_8807_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6018A_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6192_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6077_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_6368_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5495_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_3883_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_3964_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_5592_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8759_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6183_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_3880_NCPPB_2986_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_6188_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_6065_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_5585_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8572_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_8857_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_6312A_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8401_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_6076_Race_6_contig
+Running nucmer on ATCC_33913_WHRI_5582_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8877_Race_4_contig
+Running nucmer on ATCC_33913_WHRI_8891A_Race_5_contig
+Running nucmer on ATCC_33913_WHRI_8733_Race_1_contig
+Running nucmer on ATCC_33913_WHRI_3832A_Race_4_contig
+NUCmer on all contig/draft genomes complete.
+
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results -r /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/files/ATCC_33913.fna -l /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/working_list.txt -p race-typed_Xcc_FastTree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree.error >> /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree.log
+
+Reading Gaps file.
+WHRI_8981_Race_5_contig covered 0.96376 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5594_Race_1_contig covered 0.93173 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3880_Race_5_contig covered 0.96301 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5588_Race_4_contig covered 0.97560 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6366_Race_4_contig covered 0.96062 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6184_Race_1_contig covered 0.93894 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8883_Race_6_question_contig covered 0.91431 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6077_Race_6_contig covered 0.92596 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6057_Race_6_contig covered 0.93520 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8405_Race_5_contig covered 0.95787 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5819_Race_4_contig covered 0.95848 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8959A_Race_5_contig covered 0.96649 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8648_Race_4_contig covered 0.92730 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3883_Race_5_contig covered 0.96867 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.97318 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5630_Race_1_contig covered 0.98321 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6186_Race_1_contig covered 0.92026 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6023A_Race_1_contig covered 0.93671 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8458A_Race_6_contig covered 0.94531 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10024A_Race_6_contig covered 0.92213 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5495_Race_1_contig covered 0.98372 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6022A_Race_1_contig covered 0.97966 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5737_Race_1_contig covered 0.97967 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5585_Race_4_contig covered 0.97595 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8403_Race_6_contig covered 0.93617 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3820A_Race_4_contig covered 0.97237 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6181_Race_6_contig covered 0.92121 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5582_Race_4_contig covered 0.97582 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5190_Race_4_contig covered 0.95817 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8420A_Race_1_contig covered 0.93561 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6067_Race_4_contig covered 0.95893 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5715A_Race_1_contig covered 0.97478 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8662_Race_1_contig covered 0.96469 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8448A_Race_6_contig covered 0.94690 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6382_Race_5_contig covered 0.95655 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5591_Race_1_contig covered 0.93041 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8401_Race_4_contig covered 0.92687 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8808_Race_6_contig covered 0.94582 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6290_Race_1_contig covered 0.99192 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8450A_Race_6_contig covered 0.95121 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8877_Race_4_question_contig covered 0.95995 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6056_Race_6_contig covered 0.92546 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6076_Race_6_contig covered 0.92588 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6065_Race_6_contig covered 0.93536 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8416A_Race_4_contig covered 0.92422 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5802_Race_1_contig covered 0.97918 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8446_Race_6_contig covered 0.94888 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8891A_Race_5_contig covered 0.96119 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5714B_Race_1_contig covered 0.97514 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6188_Race_4_contig covered 0.94872 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6049_Race_6_contig covered 0.93528 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6181Rx_Race_6_contig covered 0.92121 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8883_Race_6_contig covered 0.91431 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5736_Race_1_contig covered 0.97495 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8572_Race_1_contig covered 0.97088 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8857_Race_1_contig covered 0.93865 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8436_Race_4_contig covered 0.94141 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8820_Race_3_contig covered 0.95011 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6183_Race_1_contig covered 0.92376 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6382_NCPPB_1711_Race_5_contig covered 0.95655 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5592_Race_1_contig covered 0.92981 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6018A_Race_1_contig covered 0.98339 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8759_Race_1_contig covered 0.96056 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6075_Race_6_contig covered 0.92564 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8934A_Race_5_contig covered 0.96647 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8763_Race_1_contig covered 0.96186 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6055_Race_1_contig covered 0.93264 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6312A_Race_4_contig covered 0.97115 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3832A_Race_4_contig covered 0.97229 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8819_Race_3_contig covered 0.96359 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3964_Race_4_contig covered 0.93608 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5735_Race_1_contig covered 0.97504 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3880_NCPPB_2986_Race_5_contig covered 0.96301 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8892A_Race_5_contig covered 0.96261 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3830A_Race_4_contig covered 0.97232 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8733_Race_1_contig covered 0.96697 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6066_Race_6_contig covered 0.92542 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8909A_Race_5_contig covered 0.96249 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3843B_Race_1_contig covered 0.99217 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10023A_Race_4_contig covered 0.93238 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6024A_Race_1_contig covered 0.93973 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5499_Race_1_contig covered 0.98353 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8429A_Race_6_contig covered 0.94492 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8541_Race_1_contig covered 0.93382 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5771_Race_1_contig covered 0.93672 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5806_Race_1_contig covered 0.93708 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6194_Race_4_contig covered 0.95024 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Xcr_NCPPB_1946_contig covered 0.90099 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8877_Race_4_contig covered 0.95995 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8409_Race_1_contig covered 0.97540 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8979_Race_5_contig covered 0.95284 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8500_Race_6_contig covered 0.93262 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8497_Race_6_contig covered 0.93592 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ATCC_33913 covered 0.99996 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6192_Race_1_contig covered 0.95181 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6045_Race_6_contig covered 0.92481 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8879_Race_9_contig covered 0.96005 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6368_Race_4_contig covered 0.95117 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6185_Race_6_contig covered 0.91466 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10030A_Race_5_contig covered 0.95965 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_7074_Race_1_contig covered 0.92533 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6087_Race_1_contig covered 0.95285 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3883_NCPPB_1946_Race_5_contig covered 0.96867 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8908_Race_5_contig covered 0.96163 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8807_Race_6_contig covered 0.94222 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8980_Race_5_contig covered 0.96335 of the ATCC_33913 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree_all_snp_alignment.fna > /data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree_all.fasttree 2>>/data/djs217/PROJECTS/29_Xcc_races_and_t3ss/03_workdir/results/race-typed_Xcc_FastTree.error 
+
+Tree phylogeny complete.

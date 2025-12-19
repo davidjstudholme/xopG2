@@ -1,0 +1,3186 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_8436_Race_4.contig
+           95 sequences; 4,996,825 total letters
+
+
+
+Query= AvrBs1-WP_011037255.1
+
+Length=445
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000050.1 Xanthomonas campestris pv. campestris strain WH...  912     0.0  
+
+
+>JAYIMU010000050.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_50, whole genome shotgun sequence
+Length=10661
+
+ Score = 912 bits (2358),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 444/445 (99%), Positives = 444/445 (99%), Gaps = 0/445 (0%)
+ Frame = +3
+
+Query  1     MSDMKVNFSSKIIDSTPSEEEVATQQDSYTKSGLVAPSLDSQALKKAPRKRVIKENIAAL  60
+             MSDMKVNFSSKIIDSTPSEEEVATQQDSYTKSGLVAPSLDSQALKK PRKRVIKENIAAL
+Sbjct  2292  MSDMKVNFSSKIIDSTPSEEEVATQQDSYTKSGLVAPSLDSQALKKGPRKRVIKENIAAL  2471
+
+Query  61    HTSSLERVHQKKVLVQNLAQLQRGLAKINGRVELEELIDGFSVKELLIKRNPKIAEEYGE  120
+             HTSSLERVHQKKVLVQNLAQLQRGLAKINGRVELEELIDGFSVKELLIKRNPKIAEEYGE
+Sbjct  2472  HTSSLERVHQKKVLVQNLAQLQRGLAKINGRVELEELIDGFSVKELLIKRNPKIAEEYGE  2651
+
+Query  121   GNPLMIRSLRFSNPQEVTSKLGAEGKTPAKREVDTICNKSTLHDIVMTPASLVKKEVRMN  180
+             GNPLMIRSLRFSNPQEVTSKLGAEGKTPAKREVDTICNKSTLHDIVMTPASLVKKEVRMN
+Sbjct  2652  GNPLMIRSLRFSNPQEVTSKLGAEGKTPAKREVDTICNKSTLHDIVMTPASLVKKEVRMN  2831
+
+Query  181   LISEVPRAKDKQKYRGLPSVVYGQSSRRSESDYLTSRNGFGDVHSFKSNNAFNSDYEKIC  240
+             LISEVPRAKDKQKYRGLPSVVYGQSSRRSESDYLTSRNGFGDVHSFKSNNAFNSDYEKIC
+Sbjct  2832  LISEVPRAKDKQKYRGLPSVVYGQSSRRSESDYLTSRNGFGDVHSFKSNNAFNSDYEKIC  3011
+
+Query  241   GSLSHAEKLGLIERNLTPFIRHDPDRISTDFVHSIEELAEHQMLLQSRKPASALRHNEYC  300
+             GSLSHAEKLGLIERNLTPFIRHDPDRISTDFVHSIEELAEHQMLLQSRKPASALRHNEYC
+Sbjct  3012  GSLSHAEKLGLIERNLTPFIRHDPDRISTDFVHSIEELAEHQMLLQSRKPASALRHNEYC  3191
+
+Query  301   TKLELWDAKAIAVGESRALAVATLIEFNLEMLSIAQEIDDDGHKSKMVADFIERQLSWLG  360
+             TKLELWDAKAIAVGESRALAVATLIEFNLEMLSIAQEIDDDGHKSKMVADFIERQLSWLG
+Sbjct  3192  TKLELWDAKAIAVGESRALAVATLIEFNLEMLSIAQEIDDDGHKSKMVADFIERQLSWLG  3371
+
+Query  361   PQTALDSKSTLERVSAVTIQEREFIANEISRSLRQGVSLCTYDKDEAGSHIREMSLLDFR  420
+             PQTALDSKSTLERVSAVTIQEREFIANEISRSLRQGVSLCTYDKDEAGSHIREMSLLDFR
+Sbjct  3372  PQTALDSKSTLERVSAVTIQEREFIANEISRSLRQGVSLCTYDKDEAGSHIREMSLLDFR  3551
+
+Query  421   VEEIIEGISIFISSKLLHVTNAGEA  445
+             VEEIIEGISIFISSKLLHVTNAGEA
+Sbjct  3552  VEEIIEGISIFISSKLLHVTNAGEA  3626
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.130    0.353    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 588255590
+
+
+Query= AvrBs2-WP_039418336.1
+
+Length=729
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000004.1 Xanthomonas campestris pv. campestris strain WH...  1090    0.0  
+JAYIMU010000039.1 Xanthomonas campestris pv. campestris strain WH...  65.1    2e-11
+
+
+>JAYIMU010000004.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_4, whole genome shotgun sequence
+Length=257564
+
+ Score = 1090 bits (2819),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 549/725 (76%), Positives = 612/725 (84%), Gaps = 3/725 (0%)
+ Frame = -2
+
+Query  6     LAARRVFEVIMRIGPLQPSIAHTAAPALPTHTSAISPTQVPHMPGNTPPLRERPRRRAGN  65
+                R   EV+MRI  LQP+   T A A P HTSAI+P +VP  PG  PPLR RPRR+A  
+Sbjct  7840  FTGRSALEVVMRIALLQPAATPTTALATPAHTSAITPMEVPQPPGGNPPLRARPRRQAAV  7661
+
+Query  66    MPPLVPLNDSAMTGKPALVALDSEFSEQRLAEVQARQITVQTLQGKLATHLAQAGTALKP  125
+             +PPLVPL+DSAMTGK ALVALD EFSEQRLAEVQA QIT+Q  Q  LA  L QA  A +P
+Sbjct  7660  LPPLVPLDDSAMTGKQALVALDGEFSEQRLAEVQAHQITLQAAQSALAKQLPQATPAPRP  7481
+
+Query  126   DSIAARFAAGTLEPVYLDTAAFNAMSRGLPARARAAAGPVLIDAQQGRIIFNLQRAFAPG  185
+             DSIAARFAAGTL+PVYLDTAAF+ M+  LP  +RAAAGPVL+DAQQGRI+F+L  AFAPG
+Sbjct  7480  DSIAARFAAGTLQPVYLDTAAFDEMTASLPEHSRAAAGPVLVDAQQGRIVFDLGHAFAPG  7301
+
+Query  186   DTFSDAALAALGKQLNLSGHGLATPNWLQPAAGTPG--RRKLQQAARYHGHEVPARDGGA  243
+             DTFSDAA  AL K L+L  HGL TP WL+PAA TP   RRKLQQAARYHGHEVPARDGGA
+Sbjct  7300  DTFSDAARTALRKALDLRAHGLETPGWLKPAAPTPAQPRRKLQQAARYHGHEVPARDGGA  7121
+
+Query  244   GFFKANDHRLLEGKQVLLRNHQKSLVHNHYFEAPSTRAFGKDVMVHRGLFDNHAGIPENS  303
+              FFK NDH L+ GK  LLR H+K LVH+ YF+APSTRA GKDVMVHRGLFDNHAGIPENS
+Sbjct  7120  AFFKPNDHHLVAGKDALLRKHRKELVHDAYFQAPSTRALGKDVMVHRGLFDNHAGIPENS  6941
+
+Query  304   LASIDHAYEQGYRNLELDVEVSSDGVPVLMHDFSIGRMAGDPQNRLVSQVPFAELREMPL  363
+             LA+ID AYE GYRNLELDVEVS+DGVPVLMHDFSIGRM  DPQNRLVSQVPFA+LREMPL
+Sbjct  6940  LAAIDRAYEHGYRNLELDVEVSADGVPVLMHDFSIGRMTDDPQNRLVSQVPFAQLREMPL  6761
+
+Query  364   VIRNPSDGNYVKTDQTIAGVEQMLEHVLKKPEPMSVALDCKENTGEAVAMLLMRRPDLRK  423
+             VIRNP DGN++KTDQ+IA VEQ LEH L+KPE MSVALDCKE+TGEAVAMLLMRRPDLR+
+Sbjct  6760  VIRNPVDGNFIKTDQSIAAVEQALEHALQKPEAMSVALDCKEDTGEAVAMLLMRRPDLRQ  6581
+
+Query  424   AAAIKVYAKYYTGGFDQFLSNLYKHYQINPLHSQDAPRRAALDRLLAKINVVPVLSQGML  483
+              AAIK+YAKYYTGGFDQFLSNLYKHYQINPLHSQDAPRRAALDRLLAKINVVPV SQGML
+Sbjct  6580  GAAIKLYAKYYTGGFDQFLSNLYKHYQINPLHSQDAPRRAALDRLLAKINVVPVFSQGML  6401
+
+Query  484   NDERLRGFFRSNEQGAAGLADTAMQWLDSWTKMRPVIVEAVATD-DSDAGKAMEMARTRM  542
+              D +LR FF   + G  GLADTA+QWL+SW +MRPVIVEAVATD  S AGKAME+ RTR+
+Sbjct  6400  ADAQLRDFFPGKDDGPEGLADTAVQWLESWNRMRPVIVEAVATDQQSAAGKAMELTRTRL  6221
+
+Query  543   RQPDSAYAKAAYSVSYRYEDFSVPRANHDKDYYVYRNFGELQKLTNEAFGVKRTTAGAFR  602
+             RQPDS+YA+AA+S  YRYEDFS+PRANHDKDYYV+RNFGE+QKL+ EAFG++RTTAGAFR
+Sbjct  6220  RQPDSSYAQAAFSSGYRYEDFSLPRANHDKDYYVWRNFGEMQKLSGEAFGIQRTTAGAFR  6041
+
+Query  603   DDGESLLTDQPEAELLAILENRALARGHTGNELDVPPETPIDINRDAEIVKQRTQQFQAS  662
+             D GESLLTDQPE ELLA+LENR LARGHTG ELD+PPETPID  RDA IV+QRT +F+A+
+Sbjct  6040  DAGESLLTDQPEEELLALLENRTLARGHTGMELDLPPETPIDSARDAAIVEQRTSEFRAA  5861
+
+Query  663   SIPADPNHISAVREGKQHDHTADMVNDPAATRALDKRAKALGLLTDKYRGAPVTHYLNEQ  722
+             S PADP H++AVREG+  D +AD  +D AA +A+D RA ALGLLTD+YRGAPVTHYLNEQ
+Sbjct  5860  SRPADPAHVAAVREGRLLDRSADHSHDAAARQAVDARADALGLLTDQYRGAPVTHYLNEQ  5681
+
+Query  723   ARQTE  727
+             A+Q E
+Sbjct  5680  AKQIE  5666
+
+
+>JAYIMU010000039.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_39, whole genome shotgun sequence
+Length=34505
+
+ Score = 65.1 bits (157),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 30/58 (52%), Positives = 43/58 (74%), Gaps = 3/58 (5%)
+ Frame = +2
+
+Query  286    VMVHRGLFDNHAGIP---ENSLASIDHAYEQGYRNLELDVEVSSDGVPVLMHDFSIGR  340
+              V+ HRGL+  +AGIP   ENS  S+  A +Q    +ELDV+++SDGVPVL+HD+++GR
+Sbjct  18263  VLAHRGLWGKYAGIPDMPENSRGSLQTANDQCMDGVELDVKLTSDGVPVLLHDYNLGR  18436
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.132    0.383    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1050273622
+
+
+Query= AvrBs3-WP_011052943.1
+
+Length=1126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.132    0.385    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1702674344
+
+
+Query= XopB-WP_039417318.1
+
+Length=515
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.132    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 700855164
+
+
+Query= XopC1-WP_011347616.1
+
+Length=834
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.355    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1222488144
+
+
+Query= XopC2-WP_041183113.1
+
+Length=412
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.132    0.378    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 533572676
+
+
+Query= XopD-WP_228949438.1
+
+Length=760
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000003.1 Xanthomonas campestris pv. campestris strain WH...  579     0.0  
+
+
+>JAYIMU010000003.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_3, whole genome shotgun sequence
+Length=271210
+
+ Score = 579 bits (1493),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 307/427 (72%), Positives = 338/427 (79%), Gaps = 32/427 (7%)
+ Frame = +1
+
+Query  350    GASQGIQTAIRANFRMRYQQPDLPPYSPPQAFHRPEETWNPHTPAGSSYSSLFPPTPSGG  409
+              G S+ +Q A+  N     Q    PP   P A  R  E+ +P   + SSYSSL PPTPSGG
+Sbjct  13609  GNSRQLQNALSTNGSASKQ----PPSGLPSA-RRNVESQDPAGSSYSSYSSLIPPTPSGG  13773
+
+Query  410    WPQNASGEWHPDTPAGYSHRAWPAQPEASSSTFDDLESLDYRQNYGYREFDLNTPQEIEQ  469
+              WPQNASGEW+PDTPA  S+RAWPA+PEASSSTFDDLESLD R+NY YREFDLNTPQEIEQ
+Sbjct  13774  WPQNASGEWYPDTPADSSYRAWPARPEASSSTFDDLESLDSRRNYSYREFDLNTPQEIEQ  13953
+
+Query  470    PGWWQQAT---------PAQ--STDSTFDGLSSMS---HYG-SEFDLNIPQQEEYPNNHG  514
+              PGWWQ AT         PAQ  ++ STFD L S+    +YG  EFDLN PQ+E+ P ++G
+Sbjct  13954  PGWWQHATSAGSSYRAWPAQPEASSSTFDDLESLDSRQNYGYREFDLNTPQEEDEPWDYG  14133
+
+Query  515    TQTPMGYSAMTPERIDVDNLPSPQDVADPELPPVRATSWLLDGHLRAYTDDLARRLRGEP  574
+              TQTP+G+SAM+PERIDVDNLPSPQDVADPELP V  TSWLLDGHLRAYTDDLARRLRG+P
+Sbjct  14134  TQTPVGHSAMSPERIDVDNLPSPQDVADPELPQVTDTSWLLDGHLRAYTDDLARRLRGQP  14313
+
+Query  575    NAHLLHFADSQVVTMLSSADPDQQARAQRLLAGDDIPPIVFLPINQPNAHWSLLVVDRRN  634
+              NAHLLHFADSQVVTMLSS DP QQARA+RLL GDD+PPIVFLPINQPN HWSLLVVDRRN
+Sbjct  14314  NAHLLHFADSQVVTMLSSTDPGQQARARRLLVGDDVPPIVFLPINQPNFHWSLLVVDRRN  14493
+
+Query  635    KDAVAAYHYDSMAQKDPQQRYLADMAAYHLGLDYQQTHEMPIAIQSDGYSCGDHVLTGIE  694
+              KDA AAY+YDSMAQ  PQQRYLADMAAYHLGLDY++ HEMP AIQ DGYSCGDHVLTGIE
+Sbjct  14494  KDAAAAYYYDSMAQTQPQQRYLADMAAYHLGLDYKEIHEMPTAIQPDGYSCGDHVLTGIE  14673
+
+Query  695    VLAHRVLDGTFDYAGGRDLTDIEPDRGLI------------RDRLAQAEQAPAESSIRQV  742
+               LAHRV+DGTFD A GRDL++I P RGLI            RDRLAQAEQAPAESS+RQV
+Sbjct  14674  TLAHRVIDGTFDSADGRDLSEIAPGRGLITDRLAQAQAQAERDRLAQAEQAPAESSVRQV  14853
+
+Query  743    PARSNEQ  749
+                RS EQ
+Sbjct  14854  SERSIEQ  14874
+
+
+ Score = 453 bits (1165),  Expect(2) = 7e-148, Method: Compositional matrix adjust.
+ Identities = 250/349 (72%), Positives = 277/349 (79%), Gaps = 8/349 (2%)
+ Frame = +2
+
+Query  50     RRNPTQVHADGSVHQMRAAAPTSRTHRDYLKILELISAYGDGKGIPELQRSFPSFAAFLM  109
+              R   TQVHA  SVHQMRAAAPTS+THRDY K+LELI AYGDG+ I EL+R FP F+ FL 
+Sbjct  12674  REESTQVHAHSSVHQMRAAAPTSKTHRDYSKVLELIGAYGDGEDITELRRRFPGFSGFLA  12853
+
+Query  110    DSGLSHVNGRQMLQELNEDQRDQVIHQIIRRIEYCADPEYREVALSRLESDCSGKITLSQ  169
+              +S LS ++G QML+ELNE QRD+VIHQI+RRIE    PE RE+ALS LE  CS  + LSQ
+Sbjct  12854  ESSLSRMSGMQMLRELNEGQRDEVIHQIMRRIENVLVPEDREIALSNLELACSQNMVLSQ  13033
+
+Query  170    RTLDRIDKAKAKAEAEAEAKAKAKAEAKAEAKARVEAGAQCKINEIMEYIPRYEALEKVP  229
+                LDRI  A AKA+A+A+AKA+   EAK   +A+    A+  I+EIM Y+PRYEALEKVP
+Sbjct  13034  AALDRI--AGAKAKAKAKAKAEESEEAKEAKEAKEAKEAKSAISEIMGYLPRYEALEKVP  13207
+
+Query  230    VRVRFHAYLRGDGSFGPGLPGILRYMTPDQKKRLYLASERRKLALAAPKSKPTPKSKP--  287
+                VRFH YLRGDGSFG  L  IL Y+TPDQKKR  LASERRKLALAAPKSKP PKSKP  
+Sbjct  13208  SAVRFHNYLRGDGSFGRALLNILPYITPDQKKRFDLASERRKLALAAPKSKPAPKSKPAP  13387
+
+Query  288    ----LKGVFRTLHQKPNLLLEISSKFSNRAYSINDSSSGYLSQADLEEMVDEETGELTRL  343
+                  LKGVFRTL Q P+LLL IS KFSNR  SI+D+SSGYLSQA+LEEMVDEETGELTRL
+Sbjct  13388  KSKPLKGVFRTLRQNPDLLLAISGKFSNRTCSIDDASSGYLSQANLEEMVDEETGELTRL  13567
+
+Query  344    GEAVISGASQGIQTAIRANFRMRYQQPDLPPYSPPQAFHRPEETWNPHT  392
+              GEAVISGASQGIQTAIRANFRMRYQQ DLPP SPPQAFHRPEETWNP T
+Sbjct  13568  GEAVISGASQGIQTAIRANFRMRYQQTDLPPNSPPQAFHRPEETWNPKT  13714
+
+
+ Score = 88.6 bits (218),  Expect(2) = 7e-148, Method: Compositional matrix adjust.
+ Identities = 44/58 (76%), Positives = 48/58 (83%), Gaps = 4/58 (7%)
+ Frame = +1
+
+Query  1      MDRIFNFDYKKYREMTEAADDYRNSPPHEEQRENHGAGYNMHPLLESLPRRNPTQVHA  58
+              MD +FNFDYKKYR MTEAADD+RNS P EE RENH AGYNM+PLLESLPRR    +HA
+Sbjct  12529  MDGLFNFDYKKYRGMTEAADDHRNSTPPEEYRENHSAGYNMNPLLESLPRR----IHA  12690
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.131    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1101627695
+
+
+Query= XopE1-WP_011345998.1
+
+Length=400
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.130    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 515374583
+
+
+Query= XopE2-WP_011347479.1
+
+Length=358
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000012.1 Xanthomonas campestris pv. campestris strain WH...  77.0    6e-16
+
+
+>JAYIMU010000012.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_12, whole genome shotgun sequence
+Length=135808
+
+ Score = 77.0 bits (188),  Expect = 6e-16, Method: Compositional matrix adjust.
+ Identities = 41/57 (72%), Positives = 43/57 (75%), Gaps = 3/57 (5%)
+ Frame = +1
+
+Query  1    MGLCSSKP---SVVGSPVAGSPEHYLTHTAEQTTPSTPSSPEAPMSPSLHGLVALGS  54
+            MGLC+SK    SVVGSP+A SPEHY T   EQTTP  PSSPEA MSPSLH L ALGS
+Sbjct  298  MGLCNSKSVAGSVVGSPIATSPEHYPTSATEQTTPFRPSSPEASMSPSLHDLAALGS  468
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.128    0.374    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 447456960
+
+
+Query= XopE3-WP_011052114.1
+
+Length=356
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.128    0.378    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 444142464
+
+
+Query= XopE4-WP_244170787.1
+
+Length=367
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.127    0.373    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 460688534
+
+
+Query= XopE5-WP_260607984.1
+
+Length=412
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.129    0.371    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 533572676
+
+
+Query= XopF1-WP_011346095.1
+
+Length=670
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  395     3e-121
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 395 bits (1016),  Expect = 3e-121, Method: Compositional matrix adjust.
+ Identities = 196/283 (69%), Positives = 229/283 (81%), Gaps = 2/283 (1%)
+ Frame = -2
+
+Query  389    GQMR-VPDLVGGEQRLNLFALALPDKARRPAQWSDAVHFPPTYLLDTGKEALALARQGFN  447
+              GQ+R VPDL+GG+QRLNLF+LA+PDK RRPAQWSDAV+FPP YLL+TGKE LALARQ  +
+Sbjct  27546  GQLRSVPDLLGGQQRLNLFSLAVPDKTRRPAQWSDAVYFPPNYLLETGKEGLALARQALS  27367
+
+Query  448    SANAVATTARDLLTRHMLSNVMASFGPMGAGRIITAPLRRGSHI-RVAGEAVNSTAVVVQ  506
+              + NA+ T  RD+L RHMLSNV+A+F  +GAGR+I APLR G+    VAGEA NSTA VVQ
+Sbjct  27366  TTNAITTALRDVLGRHMLSNVLANFASLGAGRLIAAPLRGGNENGSVAGEAANSTATVVQ  27187
+
+Query  507    QAVQTLFNDTFWNALKAKNGANTSQAARLDNERAALAAEHQRTIERTLEALAEPVDQAIA  566
+              QAVQTLFNDT WNALKAKNGANT+QA RLD ERA  AA HQRTIERTL+ALAEP+D+AIA
+Sbjct  27186  QAVQTLFNDTVWNALKAKNGANTTQATRLDQERAVTAANHQRTIERTLQALAEPIDEAIA  27007
+
+Query  567    RLSGPTPAEAERAMEEGMRAAPGPGPLGQTLRTALQTLRTEIGTQSVSIATIDAVRTALR  626
+                S PTPAE   A+EEG+R AP PGPL + LR  L+ LRTEI TQ +SIATIDAVR  L 
+Sbjct  27006  LFSAPTPAEIAHALEEGVRLAPAPGPLARMLRETLERLRTEIDTQCISIATIDAVRDQLH  26827
+
+Query  627    EGWSQTFSGVPRDAATQALDGQLQTLKRALHDSEALRQWQSGR  669
+               G +  FSGVPRD  T+ LD +L+TL+RALH+SE LRQW++GR
+Sbjct  26826  AGSAAMFSGVPRDDVTKTLDTELRTLRRALHESEELRQWENGR  26698
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.128    0.359    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 954246528
+
+
+Query= XopF2-WP_011348008.1
+
+Length=667
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  299     4e-88
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 299 bits (766),  Expect = 4e-88, Method: Compositional matrix adjust.
+ Identities = 167/287 (58%), Positives = 198/287 (69%), Gaps = 10/287 (3%)
+ Frame = -2
+
+Query  388    GQM-TVPDLLGGHQRLNLFALALPDKTRPPATWSDAVHFP-SYLLQTGQEAMALARQAFS  445
+              GQ+ +VPDLLGG QRLNLF+LA+PDKTR PA WSDAV+FP +YLL+TG+E +ALARQA S
+Sbjct  27546  GQLRSVPDLLGGQQRLNLFSLAVPDKTRRPAQWSDAVYFPPNYLLETGKEGLALARQALS  27367
+
+Query  446    TANAATTALRDVLGRHMVGNVLANMASLGATRLIASPLRGGYGGGSLPGEADNSPAWVLQ  505
+              T NA TTALRDVLGRHM+ NVLAN ASLGA RLIA+PLRGG   GS+ GEA NS A V+Q
+Sbjct  27366  TTNAITTALRDVLGRHMLSNVLANFASLGAGRLIAAPLRGGNENGSVAGEAANSTATVVQ  27187
+
+Query  506    QGAQMFFNDVGWNALKAKNGTNTTQATRLDHERAIAAAEQDRTISRTLQTLAEPLDTALG  565
+              Q  Q  FND  WNALKAKNG NTTQATRLD ERA+ AA   RTI RTLQ LAEP+D A+ 
+Sbjct  27186  QAVQTLFNDTVWNALKAKNGANTTQATRLDQERAVTAANHQRTIERTLQALAEPIDEAIA  27007
+
+Query  566    LLPPPAQGEVPRAMEEGTGV---PVPLSADVDRLRNALQQLRDQVAAQAVSIATIDDALG  622
+              L   P   E+  A+EEG  +   P PL+     LR  L++LR ++  Q +SIATID    
+Sbjct  27006  LFSAPTPAEIAHALEEGVRLAPAPGPLA---RMLRETLERLRTEIDTQCISIATIDAVRD  26836
+
+Query  623    RL-ADLPVAGDGEGR-AVIAELSAQLHALGAALRQKQALQQWQQGRP  667
+              +L A       G  R  V   L  +L  L  AL + + L+QW+ GRP
+Sbjct  26835  QLHAGSAAMFSGVPRDDVTKTLDTELRTLRRALHESEELRQWENGRP  26695
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.129    0.372    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 949276494
+
+
+Query= XopF3-WP_039005675.1
+
+Length=687
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  79.3    9e-16
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 79.3 bits (194),  Expect = 9e-16, Method: Compositional matrix adjust.
+ Identities = 84/285 (29%), Positives = 130/285 (46%), Gaps = 31/285 (11%)
+ Frame = -2
+
+Query  424    VDNLVGGTQTVNLFRLARHDESAPALRWSDARRLH-HTLVEIAQEAGALATLPFTSPLMA  482
+              V +L+GG Q +NLF LA  D++    +WSDA     + L+E  +E  ALA    ++    
+Sbjct  27531  VPDLLGGQQRLNLFSLAVPDKTRRPAQWSDAVYFPPNYLLETGKEGLALARQALSTTNAI  27352
+
+Query  483    VRSVRDLLLRHMGGNILTSWVATGGGMVLASLVRGSYGTPGT-NESLSSPGSVVQQFGQS  541
+                ++RD+L RHM  N+L ++ + G G ++A+ +RG         E+ +S  +VVQQ  Q+
+Sbjct  27351  TTALRDVLGRHMLSNVLANFASLGAGRLIAAPLRGGNENGSVAGEAANSTATVVQQAVQT  27172
+
+Query  542    FSNDAVWNATNSALSDTKHDLAVNLDGHRDNKQARLRSRALTIQAGLQPEIDLIRNAAEQ  601
+                ND VWNA   A +      A  LD  R    A   +   TI+  LQ   + I  A   
+Sbjct  27171  LFNDTVWNAL-KAKNGANTTQATRLDQERAVTAA---NHQRTIERTLQALAEPIDEAIAL  27004
+
+Query  602    TQNARLQQVAAALEQSLQHGTG----------VLERSRFE-----TALATIGQVLD----  642
+                     ++A ALE+ ++               LER R E      ++ATI  V D    
+Sbjct  27003  FSAPTPAEIAHALEEGVRLAPAPGPLARMLRETLERLRTEIDTQCISIATIDAVRDQLHA  26824
+
+Query  643    ----APDGIEQQTLNRLRTLQDQVTDVRGLLMQRQALLDWRNGRP  683
+                     G+ +  +   +TL  ++  +R  L + + L  W NGRP
+Sbjct  26823  GSAAMFSGVPRDDVT--KTLDTELRTLRRALHESEELRQWENGRP  26695
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.127    0.359    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 982410054
+
+
+Query= XopG1-WP_011346758.1
+
+Length=213
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000052.1 Xanthomonas campestris pv. campestris strain WH...  406     7e-132
+
+
+>JAYIMU010000052.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_52, whole genome shotgun sequence
+Length=8775
+
+ Score = 406 bits (1043),  Expect = 7e-132, Method: Compositional matrix adjust.
+ Identities = 198/213 (93%), Positives = 204/213 (96%), Gaps = 0/213 (0%)
+ Frame = +3
+
+Query  1     MPISQTNFPGIYISTQTSAREEPYKNQVESALEKIAAGSSGSALLEGLGAISARKNRKVT  60
+             MPISQTNFPGIYISTQTSAREEPYKNQVESALEKIAAGSSGSALL+GL AISARKNRKVT
+Sbjct  2325  MPISQTNFPGIYISTQTSAREEPYKNQVESALEKIAAGSSGSALLQGLSAISARKNRKVT  2504
+
+Query  61    IAEIGAEARPNTTAALSASEVEKYKPRTFSDNQALAMERARKGKGCNAIVEWSPHSHIEL  120
+             IAEIGAEA+PNT A LSASEVEKY P TF+DN  LA ERARKGKGCNAI+EWSP SHIEL
+Sbjct  2505  IAEIGAEAQPNTRAVLSASEVEKYDPETFADNLELAKERARKGKGCNAIIEWSPQSHIEL  2684
+
+Query  121   NANGSPLRLGSNPEESFVVLAHELIHAQHLLAGTSRAYKGGDRYDETSEAGKEELRAVGV  180
+             N+NGSPLRLGS+PEESFVVLAHELIHAQHLLAGTSRAYKGGDRYDETSEAGKEELRAVGV
+Sbjct  2685  NSNGSPLRLGSDPEESFVVLAHELIHAQHLLAGTSRAYKGGDRYDETSEAGKEELRAVGV  2864
+
+Query  181   GKYEYRKTRQPSENSIRQEHGLPVRKKYKPHGM  213
+             GKYEYRKTRQPSENSIRQEHGLPVRKKYKPHGM
+Sbjct  2865  GKYEYRKTRQPSENSIRQEHGLPVRKKYKPHGM  2963
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.127    0.353    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 215503990
+
+
+Query= XopG2-WP_011038360.1
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000052.1 Xanthomonas campestris pv. campestris strain WH...  123     4e-33
+
+
+>JAYIMU010000052.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_52, whole genome shotgun sequence
+Length=8775
+
+ Score = 123 bits (308),  Expect = 4e-33, Method: Compositional matrix adjust.
+ Identities = 85/214 (40%), Positives = 122/214 (57%), Gaps = 15/214 (7%)
+ Frame = +3
+
+Query  1     MTIS-TRHPTIEINRYRSAD---YPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLL  56
+             M IS T  P I I+   SA    Y ++V++AL KI +  SG+ LL+GL  ++A   + + 
+Sbjct  2325  MPISQTNFPGIYISTQTSAREEPYKNQVESALEKIAAGSSGSALLQGLSAISARKNRKVT  2504
+
+Query  57    NESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPG  116
+                      P+  AV +  +  KY     + E   +   + K R  KG+G NA + WSP 
+Sbjct  2505  IAEIGAEAQPNTRAVLSASEVEKY-----DPETFADNLELAKERARKGKGCNAIIEWSPQ  2669
+
+Query  117   VGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFK--HGGDRLDPKSKSGKEE  174
+               + ++S G P    S+  E++FV LAHELIHA+H+++G  +   GGDR D  S++GKEE
+Sbjct  2670  SHIELNSNGSPLRLGSD-PEESFVVLAHELIHAQHLLAGTSRAYKGGDRYDETSEAGKEE  2846
+
+Query  175   LRATGLGKYASERV---SENSIRAENGLPIRKHY  205
+             LRA G+GKY   +    SENSIR E+GLP+RK Y
+Sbjct  2847  LRAVGVGKYEYRKTRQPSENSIRQEHGLPVRKKY  2948
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 205557652
+
+
+Query= XopG3-WP_084217840.1
+
+Length=226
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000052.1 Xanthomonas campestris pv. campestris strain WH...  138     4e-38
+
+
+>JAYIMU010000052.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_52, whole genome shotgun sequence
+Length=8775
+
+ Score = 138 bits (347),  Expect = 4e-38, Method: Compositional matrix adjust.
+ Identities = 88/223 (39%), Positives = 128/223 (57%), Gaps = 20/223 (9%)
+ Frame = +3
+
+Query  1     MPI-QTNYSGIYSQSMFNTPRDQDRFNAEVNVHLDHLNSRTTGNQLLDKLQQLSGKRGHK  59
+             MPI QTN+ GIY  +   T   ++ +  +V   L+ + + ++G+ LL  L  +S ++  K
+Sbjct  2325  MPISQTNFPGIYIST--QTSAREEPYKNQVESALEKIAAGSSGSALLQGLSAISARKNRK  2498
+
+Query  60    VTIHEIAPPENPGAEPVLSRHQLDAH-PELSRFKDISEKAGRSYALKKPGGEKNQGSSVV  118
+             VTI EI     P    VLS  +++ + PE   F D  E       L K    K +G + +
+Sbjct  2499  VTIAEIGAEAQPNTRAVLSASEVEKYDPET--FADNLE-------LAKERARKGKGCNAI  2651
+
+Query  119   VSWSARQTSIELDDDGDPTDKVTSSPIDKVSVLGHELVHAKHMMAGT---WKGSDEDERD  175
+             + WS  Q+ IEL+ +G P  ++ S P +   VL HEL+HA+H++AGT   +KG D    D
+Sbjct  2652  IEWSP-QSHIELNSNGSPL-RLGSDPEESFVVLAHELIHAQHLLAGTSRAYKGGDR--YD  2819
+
+Query  176   PDTPTGKEELRAVGLGKYKYSQSGEPSENSIRAEHGLPKRVSY  218
+               +  GKEELRAVG+GKY+Y ++ +PSENSIR EHGLP R  Y
+Sbjct  2820  ETSEAGKEELRAVGVGKYEYRKTRQPSENSIRQEHGLPVRKKY  2948
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.129    0.372    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 235383176
+
+
+Query= XopH1-WP_011345706.1
+
+Length=356
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000050.1 Xanthomonas campestris pv. campestris strain WH...  736     0.0  
+
+
+>JAYIMU010000050.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_50, whole genome shotgun sequence
+Length=10661
+
+ Score = 736 bits (1900),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 356/356 (100%), Positives = 356/356 (100%), Gaps = 0/356 (0%)
+ Frame = +3
+
+Query  1     MPNKISGSIAPSASSDAMKSADCAENIKEEVVSKHVHQAVPAELADLPSRQPPRSKTALY  60
+             MPNKISGSIAPSASSDAMKSADCAENIKEEVVSKHVHQAVPAELADLPSRQPPRSKTALY
+Sbjct  1131  MPNKISGSIAPSASSDAMKSADCAENIKEEVVSKHVHQAVPAELADLPSRQPPRSKTALY  1310
+
+Query  61    QVIQKFRDPLPLPPPPTSHPVLAYDRDLGSSDNFRSSDEFDLPESLNPTGWKNLHVSGSG  120
+             QVIQKFRDPLPLPPPPTSHPVLAYDRDLGSSDNFRSSDEFDLPESLNPTGWKNLHVSGSG
+Sbjct  1311  QVIQKFRDPLPLPPPPTSHPVLAYDRDLGSSDNFRSSDEFDLPESLNPTGWKNLHVSGSG  1490
+
+Query  121   SIASIGQITRLRPSKERPVVVLDAREESHAIVGGYPGTWRTPNNWGNAGKSRDEALADEQ  180
+             SIASIGQITRLRPSKERPVVVLDAREESHAIVGGYPGTWRTPNNWGNAGKSRDEALADEQ
+Sbjct  1491  SIASIGQITRLRPSKERPVVVLDAREESHAIVGGYPGTWRTPNNWGNAGKSRDEALADEQ  1670
+
+Query  181   QRIQALKSQETVHIFHRKDVKSEARNPRGATLSKPLIFSEEELVRAAGAKYVRLTVTDHL  240
+             QRIQALKSQETVHIFHRKDVKSEARNPRGATLSKPLIFSEEELVRAAGAKYVRLTVTDHL
+Sbjct  1671  QRIQALKSQETVHIFHRKDVKSEARNPRGATLSKPLIFSEEELVRAAGAKYVRLTVTDHL  1850
+
+Query  241   SPRADDIDAFIAMEREMAHDERLHVHCGMGLGRTTIFIVMHDILRNAAMLSFDDIIERQR  300
+             SPRADDIDAFIAMEREMAHDERLHVHCGMGLGRTTIFIVMHDILRNAAMLSFDDIIERQR
+Sbjct  1851  SPRADDIDAFIAMEREMAHDERLHVHCGMGLGRTTIFIVMHDILRNAAMLSFDDIIERQR  2030
+
+Query  301   KFNPGRSLDNNKDVSDKGRSEFRNERSEFLPLFYEYAKQNPKGQPLLWSEWLDHNA  356
+             KFNPGRSLDNNKDVSDKGRSEFRNERSEFLPLFYEYAKQNPKGQPLLWSEWLDHNA
+Sbjct  2031  KFNPGRSLDNNKDVSDKGRSEFRNERSEFLPLFYEYAKQNPKGQPLLWSEWLDHNA  2198
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.132    0.391    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 444142464
+
+
+Query= XopH2-WP_010377341.1
+
+Length=380
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000050.1 Xanthomonas campestris pv. campestris strain WH...  104     7e-25
+
+
+>JAYIMU010000050.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_50, whole genome shotgun sequence
+Length=10661
+
+ Score = 104 bits (259),  Expect = 7e-25, Method: Compositional matrix adjust.
+ Identities = 81/284 (29%), Positives = 133/284 (47%), Gaps = 38/284 (13%)
+ Frame = +3
+
+Query  84    PIMIFDSVEPS--RIRSTTNLAALDGINQEGLDRISMTGIEQFSEAQLDDVIKSVYPKTV  141
+             P++ +D    S    RS+      + +N  G   + ++G    +       ++    + V
+Sbjct  1368  PVLAYDRDLGSSDNFRSSDEFDLPESLNPTGWKNLHVSGSGSIASIGQITRLRPSKERPV  1547
+
+Query  142   VVIDTRQEAHGFVSGKPVSWMALDNKNWGNV----DKPMADIEP-----KEEKKLSKWVR  192
+             VV+D R+E+H  V G P +W   +N  WGN     D+ +AD +      K ++ +  + R
+Sbjct  1548  VVLDAREESHAIVGGYPGTWRTPNN--WGNAGKSRDEALADEQQRIQALKSQETVHIFHR  1721
+
+Query  193   KNDGEEVSIPNGSTAKVKRAAEPLTLSVSSDEVETEKRLVTRKGGIYIRVPVPDHAAPDE  252
+             K+   E   P G+T      ++PL  S        E+ LV   G  Y+R+ V DH +P  
+Sbjct  1722  KDVKSEARNPRGATL-----SKPLIFS--------EEELVRAAGAKYVRLTVTDHLSPRA  1862
+
+Query  253   DALAHFAASTRSVVMDKGLENVHFVVHCRGGMGRTTMFMSALDMLTNAGDVPMKEIVDRQ  312
+             D +  F A  R +  D+ L      VHC  G+GRTT+F+   D+L NA  +   +I++RQ
+Sbjct  1863  DDIDAFIAMEREMAHDERLH-----VHCGMGLGRTTIFIVMHDILRNAAMLSFDDIIERQ  2027
+
+Query  313   VKL---RQRDEG-SITAAGKAYKATFRDEKAAVLQFFYDYAAAN  352
+              K    R  D    ++  G   ++ FR+E++  L  FY+YA  N
+Sbjct  2028  RKFNPGRSLDNNKDVSDKG---RSEFRNERSEFLPLFYEYAKQN  2150
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.128    0.363    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 482231523
+
+
+Query= XopI1-WP_011346406.1
+
+Length=450
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.132    0.377    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 594849717
+
+
+Query= XopI2-WP_010367684.1
+
+Length=419
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.388    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 545172082
+
+
+Query= XopJ1-WP_011347382.1
+
+Length=373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.128    0.356    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 470631452
+
+
+Query= XopJ2-WP_074052319.1
+
+Length=350
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.128    0.365    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 434198976
+
+
+Query= XopJ3-WP_011346137.1
+
+Length=373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 470631452
+
+
+Query= XopJ4-WP_008572727.1
+
+Length=359
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.128    0.362    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 447431310
+
+
+Query= XopJ5-WP_228442257.1
+
+Length=360
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000012.1 Xanthomonas campestris pv. campestris strain WH...  741     0.0  
+
+
+>JAYIMU010000012.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_12, whole genome shotgun sequence
+Length=135808
+
+ Score = 741 bits (1913),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 358/360 (99%), Positives = 358/360 (99%), Gaps = 0/360 (0%)
+ Frame = +1
+
+Query  1     MGLCNSKSVAGSVVGSPIATSPEHYPTSATEQTTPFRPSSPEASMSPSLHDLAALGSPRA  60
+             MGLCNSKSVAGSVVGSPIATSPEHYPTSATEQTTPFRPSSPEASMSPSLHDLAALGSPRA
+Sbjct  298   MGLCNSKSVAGSVVGSPIATSPEHYPTSATEQTTPFRPSSPEASMSPSLHDLAALGSPRA  477
+
+Query  61    RRARSGRAASPSGTGIMAGRVSFPSSSSGPTLAAQLQDFIEALEHAERQGKQYPAAELDQ  120
+             RRARSGRAASPSGTGIMAGRVSFPSSSSGPTLAAQLQDFIEALEHAERQGKQYPAAELDQ
+Sbjct  478   RRARSGRAASPSGTGIMAGRVSFPSSSSGPTLAAQLQDFIEALEHAERQGKQYPAAELDQ  657
+
+Query  121   KFQPQVVAAQNHIHPNLDVKVFDASASEPHALRQAIVNTGRGQRWRAVVNVERIHGKGAP  180
+             KFQPQVVAAQNHIHPNLDVKVFDASASEPHALRQAIVNTGRGQRWRAVVNVERIHGKGAP
+Sbjct  658   KFQPQVVAAQNHIHPNLDVKVFDASASEPHALRQAIVNTGRGQRWRAVVNVERIHGKGAP  837
+
+Query  181   SHGIAVDVSGGRGKVSVLAVDSVWGCADTLSVMTAALKGVKNATLTILNTGTQKDVINCK  240
+             SHGIAVDVSG RGKVSVLAVDSVWGCADTLSVMTAALKGVKNATLTILNTGTQKDVINCK
+Sbjct  838   SHGIAVDVSGVRGKVSVLAVDSVWGCADTLSVMTAALKGVKNATLTILNTGTQKDVINCK  1017
+
+Query  241   TFALANAKAMADNDDLMVDLHKKNFRGKIVGTGDTVNDVDVTIARGSDVLYVSFFQHTTS  300
+             TFALANAKAMADNDDLMVDLHKKNFRGKIVGTGDTVNDVDVTIARGSDVLY SFFQHTTS
+Sbjct  1018  TFALANAKAMADNDDLMVDLHKKNFRGKIVGTGDTVNDVDVTIARGSDVLYASFFQHTTS  1197
+
+Query  301   KDVFDDLPEHIREPLEESFDQNFREIEAGGKRRAYNTSIQQERLKYLRDALLFADAEYWS  360
+             KDVFDDLPEHIREPLEESFDQNFREIEAGGKRRAYNTSIQQERLKYLRDALLFADAEYWS
+Sbjct  1198  KDVFDDLPEHIREPLEESFDQNFREIEAGGKRRAYNTSIQQERLKYLRDALLFADAEYWS  1377
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.129    0.373    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 449088463
+
+
+Query= XopJ6-WP_196765268.1
+
+Length=471
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.127    0.361    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 629645940
+
+
+Query= XopK-WP_027703763.1
+
+Length=843
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000003.1 Xanthomonas campestris pv. campestris strain WH...  847     0.0  
+
+
+>JAYIMU010000003.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_3, whole genome shotgun sequence
+Length=271210
+
+ Score = 847 bits (2188),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 513/860 (60%), Positives = 574/860 (67%), Gaps = 81/860 (9%)
+ Frame = +1
+
+Query  15     RDESERRPHHG---------DANARVAQAEAVYDVFVVAKYLADPLHGTADETAELINDI  65
+              R  S+R+P  G         +A A + +AEAVYD FVVAKYLADPLHGT D TAELI ++
+Sbjct  9745   RKASQRKPVSGHASKHKAGENAMAEIQEAEAVYDAFVVAKYLADPLHGTVDNTAELIAEM  9924
+
+Query  66     PPRGEPGHSPEAGESAHP----PADHPPAPDGHHLPPPPHAAHPAQPHPAHGPHAPTPEG  121
+              P  GEP HSPEA + AH     P DH P    H                         + 
+Sbjct  9925   PNAGEPEHSPEADQPAHSHEHTPIDHTPVSADH-------------------------QT  10029
+
+Query  122    HHGPHAGAGHPADPHAVGHAAEDGILHALAEEGAPAGAFDLAMSLSISGAMLPLSSLAIY  181
+               HG   GA H  DPH +  AA++ +LH LAEEGAP G  DLAMSLSISGAMLPLS LAIY
+Sbjct  10030  QHG--IGAEHSLDPHPIEPAAQESLLHTLAEEGAPEGVADLAMSLSISGAMLPLSGLAIY  10203
+
+Query  182    AAYKETREVAEQRTHLRQQERRLRSEQARLQSGLDTTAPAGAADAYGHALSEAIDTNAYL  241
+              AAYKETREVAEQR  LRQ+ER+LRSE A L++  ++      A A  HALSEAIDT AY 
+Sbjct  10204  AAYKETREVAEQRGALRQRERQLRSEMASLRTVPESGPLNAVAGAQVHALSEAIDTVAYQ  10383
+
+Query  242    QRRNVRDGAIAATSMASAGVIFTKAASELGIQGGLAIASKSANAAGLVGHSAAAAGAASA  301
+              Q+RN RDGAIA TSMASA VIFTKA +ELGIQGGLA+ + +ANAAGL+GHS AAAG ASA
+Sbjct  10384  QQRNARDGAIAVTSMASASVIFTKATTELGIQGGLALGANNANAAGLIGHSTAAAGVASA  10563
+
+Query  302    ACIAGSFVLAPLASVAATALGGAFLHQSRRERTHVAVDVGRVQRFLQDLEPGELSPGAQR  361
+              A IAG+FVLAPLASVAATALGG FLHQSR+E+T V  DV RV+ F+Q LEPGELSPGAQR
+Sbjct  10564  AGIAGTFVLAPLASVAATALGGTFLHQSRKEKTRVVADVARVEDFMQRLEPGELSPGAQR  10743
+
+Query  362    YQHFVSTKLGAYDRFAHRFNQWNKGFVVGGITYTASTLTKVGVSAAVVAGAA-VAAPVGT  420
+              YQHF+STKL     FA  FN WNKGFVVGG+TYTASTLTK GVSAAVV GAA V  PVGT
+Sbjct  10744  YQHFLSTKLTQRSGFAGSFNNWNKGFVVGGVTYTASTLTKTGVSAAVVLGAATVTGPVGT  10923
+
+Query  421    GLIIGAGLLGAATMGVGSHQFLLAHGKQKRYRRYQTEDMPGVDRALLAVADLLPAPEAES  480
+              GL++GAGLLGA TMGVG HQFLLAHGKQKRYR Y+T +MP VDRALLA+ADLLP PEA  
+Sbjct  10924  GLVVGAGLLGAVTMGVGGHQFLLAHGKQKRYRNYETAEMPSVDRALLAMADLLPTPEAGV  11103
+
+Query  481    AASRGAPNVADQLQPTAVDVALTPVAEEAAGSDEDDIVAEPDPG--LEPKHRQGASAARD  538
+              AAS           P  VD   TP   + A     D V     G  LE  H         
+Sbjct  11104  AAS-----------PGEVDPHGTPRVSDGASGKASDTVVTTGTGDQLESDH---------  11223
+
+Query  539    AQPAMPEPAASTADRSSARA---------------ADKVVPHHGFELRSALYACIDGQEK  583
+                  MP P   T    S  A               A   VP HGFELRSALYACIDGQEK
+Sbjct  11224  ---VMPGPTEHTVAAQSVAAKQASPAADDASAATEATVAVPQHGFELRSALYACIDGQEK  11394
+
+Query  584    ALEAFLQSGADDLQKLYSAKARSTDQSKDSGQSAPAAPLGRRINAALRAAANYQRAVLTG  643
+              A +A LQS A+D++K Y A  RSTDQS  +GQ+A  + L +R  AAL A A Y RAVLTG
+Sbjct  11395  ARDALLQSCANDMKKRYRAVPRSTDQSPATGQAAQPSSLAKRARAALFAGATYGRAVLTG  11574
+
+Query  644    KPREALGKAMRSHAKHSPALTETALAQWLQTPGSVKSQIAYMQCCLELQKKYLDAKLGAQ  703
+              KPR A  KA RS+AKH+  LTETAL QWLQTPGSVKSQ+AYMQ CLELQKKYLD+KL  +
+Sbjct  11575  KPRVAGEKAARSYAKHTDTLTETALNQWLQTPGSVKSQVAYMQSCLELQKKYLDSKLRLR  11754
+
+Query  704    ADLPQPDVHDDPHSHGETPVATVDQAPERLLAQLHQTRTRDDTQQRAVGLMLQELQMAEQ  763
+               +LP  D         E    T  QA  RL  QLHQ R RD+ Q R+V LML+EL MA +
+Sbjct  11755  VELPAEDAASGAIPDTEATATTAAQAHARLTTQLHQARERDEFQLRSVSLMLEELGMANE  11934
+
+Query  764    EQASPDARSQARAAARMPGLQQRLIRVLTSNAIVPQEGVAGFARFCMKQARQHTNHVRGT  823
+              E  S D R   RA  RM GLQQRLI  LT+NAI PQ G AGFA FCMKQAR+HT+ VRGT
+Sbjct  11935  ELESSDMRKIQRAENRMQGLQQRLIAALTANAITPQPGSAGFAHFCMKQARRHTSDVRGT  12114
+
+Query  824    LLATEIQAARIREQAAASTT  843
+              LLATE+QAARIRE AAA+ T
+Sbjct  12115  LLATEMQAARIREGAAAAAT  12174
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.128    0.369    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1237396536
+
+
+Query= XopL-WP_218498620.1
+
+Length=560
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000034.1 Xanthomonas campestris pv. campestris strain WH...  376     7e-116
+
+
+>JAYIMU010000034.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_34, whole genome shotgun sequence
+Length=48198
+
+ Score = 376 bits (965),  Expect = 7e-116, Method: Compositional matrix adjust.
+ Identities = 242/566 (43%), Positives = 330/566 (58%), Gaps = 45/566 (8%)
+ Frame = -3
+
+Query  3      QLPQLSDIERARFHSVTTDSQHLRPVRPRMPPPVGASPLRRSTALRPYHDVLSQWQRHYN  62
+              ++PQL   ER RF+  TT S  L           G   L+RST LR Y  VL +W+    
+Sbjct  44050  EIPQLDPSERRRFNIDTTASAQL--------VSAGGRVLQRSTQLRSYESVLLEWRDQCA  43895
+
+Query  63     ADRNRWHSAWRQANSNNPQIETRTGRALKATADLLEDATQPGRVALELRSVPLPQFPDQA  122
+              A+ ++W  AW  AN +    E     AL+ +A  L  A+     +L+L  +PLP+FP+Q 
+Sbjct  43894  ANADQWREAWISANESVTGAELNLEVALRISAAHLARASSHNVASLDLSYLPLPRFPEQT  43715
+
+Query  123    FRLSHLQHMTIDAAGLMELPDTMQQFAGLETLTLARNPLRALPASIASLNRLRELSIRAC  182
+              FR  HLQ M+I  AGL+ELP+++   A L TLTL++NP+ ALPASI+ L  L+EL+I +C
+Sbjct  43714  FRFGHLQDMSIAGAGLLELPESISDLANLRTLTLSQNPIGALPASISRLGELQELTIFSC  43535
+
+Query  183    PELTELPEPLASTDASGEHQGLVNLQSLRLEWTGIRSLPASIANLQNLKSLKIRNSPLSA  242
+              P LTELPE LA  + +G+ +GLV L++L L  TGIRSLP+S+  L++L  LKI +SPL+ 
+Sbjct  43534  PNLTELPEHLAIRNTAGQREGLVKLRTLTLSRTGIRSLPSSLEYLKDLTHLKINSSPLTE  43355
+
+Query  243    LGPAIHHLPKLEELDLRGCTALRNYPPIFGGRAPLKRLILKDCSNLLTLPLDIHRLTQLE  302
+              L  +IH LP LEE+DLRGCT LR+YP I G +  L++L L+DCS+L TLP +I  L  L+
+Sbjct  43354  LNTSIHRLPLLEEVDLRGCTRLRHYPSISGQQWSLRKLSLQDCSSLQTLPSNIDALRNLQ  43175
+
+Query  303    KLDLRGCVNLSRLPSLIAQLPANCIILVPPHLQAQLDQHRPVARPAEP--GRTGPTTPAL  360
+              +LDLRGC NL  LP  I+ LP +C I  P HLQA LDQ RP   P        GP+TP +
+Sbjct  43174  ELDLRGCNNLRALPPSISGLPDHCTIRAPAHLQASLDQLRPRRPPLARPWDVAGPSTPQV  42995
+
+Query  361    SPSAAGDRAGPSSSATASELLRTAALERIEDTAQAMLSTVIDEERNPFLEGAPSYLPGKR  420
+              +  A+   A PS    A     T A ++IEDT  A+ +  IDE+RNPF++ AP ++P KR
+Sbjct  42994  A-GASSSAARPSDDDPAI----TQARQKIEDTVYALFA-AIDEDRNPFVQNAPYFIPEKR  42833
+
+Query  421    PTDV-TTFGQVPALRDMLAESRDLEFLQRVSDMAGP--SPRIEDPSEEGLARHYTNVSNW  477
+                      G+V  ++ ML ES    F  ++  +A      RI  P              W
+Sbjct  42832  EEGTPIVLGEVDGIQQMLKESSREVFKNKLIGLANSLQQRRIPHP--------------W  42695
+
+Query  478    KAQK----SAHLGIVD-HLGQFVYHEGSPLDVATLAKAVQMWKTRELIVHAHPQDRARFP  532
+              KA      + H   V+ HLG F  H  SP++  +L KA QMWKTREL+VH  P +R   P
+Sbjct  42694  KASDRLDTAEHKAFVNSHLGTFNEH--SPINGVSLYKAAQMWKTRELLVHNDPTNRDFLP  42521
+
+Query  533    ELAVH-IPEQVSDDSD----SEQQTS  553
+               +  + +PEQ +D S+    SEQ+T+
+Sbjct  42520  PIPTYSLPEQATDASES*GTSEQRTT  42443
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.132    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 775414224
+
+
+Query= XopM-WP_011346113.1
+
+Length=519
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  308     8e-112
+JAYIMU010000026.1 Xanthomonas campestris pv. campestris strain WH...  82.0    6e-17 
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 308 bits (788),  Expect(2) = 8e-112, Method: Compositional matrix adjust.
+ Identities = 147/188 (78%), Positives = 164/188 (87%), Gaps = 0/188 (0%)
+ Frame = +1
+
+Query  258   SEDERHHKRSEQQHYSDLVTRLALTGILSNIAIGAAGKASGRPEMAARLLASELKVAPYA  317
+             S D+   KR EQQHYSDLV+RLAL GILSNIA+GAAGK++G+PEMAARLLAS+LK+A YA
+Sbjct  6490  SVDQTIPKRIEQQHYSDLVSRLALGGILSNIAVGAAGKSAGQPEMAARLLASDLKIAAYA  6669
+
+Query  318   AARDAIQATFRMVGMRSPTNGGVSDPHVTSAGRFYGMANVLTNLASNELEAPDFASARQR  377
+             AARD IQATFRMVGMR PTNGG+SDP +TSAGRFYGMANVL NLASNEL +PDFA+A QR
+Sbjct  6670  AARDTIQATFRMVGMRGPTNGGISDPRITSAGRFYGMANVLANLASNELASPDFAAAEQR  6849
+
+Query  378   WAGLMSPFNMGEATRVVFQQAAVNAALNVGLETADWLNVTQHEADEAGTQQISEPTWKAK  437
+             WAGL SPF  GEAT V+F+Q+AVN ALNVGLET D +NVTQHEADEAGT+QI EP WK K
+Sbjct  6850  WAGLNSPFTKGEATSVIFRQSAVNTALNVGLETLDCINVTQHEADEAGTKQIWEPAWKGK  7029
+
+Query  438   REDYERVM  445
+             R DYERVM
+Sbjct  7030  RGDYERVM  7053
+
+
+ Score = 113 bits (282),  Expect(2) = 8e-112, Method: Compositional matrix adjust.
+ Identities = 53/74 (72%), Positives = 63/74 (85%), Gaps = 0/74 (0%)
+ Frame = +3
+
+Query  446   DHSVARTAAINSNIAFGTAVNMIGTWLGLSPARSALLSNTLAGMAAGMQYKVIAGTWQAA  505
+             DHSVARTAAINSNIA GT++NMIG W+GLSPARS LL+NT++G+ AGMQYK I  TWQA 
+Sbjct  7053  DHSVARTAAINSNIALGTSINMIGAWVGLSPARSGLLANTVSGVVAGMQYKTIGATWQAE  7232
+
+Query  506   AAVREAEGARTRTE  519
+             AAVR AE +R ++E
+Sbjct  7233  AAVRGAEASRAQSE  7274
+
+
+>JAYIMU010000026.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_26, whole genome shotgun sequence
+Length=65650
+
+ Score = 82.0 bits (201),  Expect = 6e-17, Method: Compositional matrix adjust.
+ Identities = 58/133 (44%), Positives = 76/133 (57%), Gaps = 5/133 (4%)
+ Frame = +2
+
+Query  1      MTKISSASTSQQPQATSGDIVIEIPA-QRRDDTSTPRIDSPLSALPPRPSGRRNSTGSDS  59
+              +TKI SA+ SQ  ++T  D+VIE+P  Q+R++T TP  D  LS L  RPSGRR++  SD 
+Sbjct  65174  VTKIPSANASQPTRSTHADVVIEMPPLQQRNETPTPAADPALSGLARRPSGRRSNAKSDH  65353
+
+Query  60     GYETANDADLSPYGSPQPHAP----LRGEESSSEQFYDAEDSLEPSALPSLPQEHAAQHG  115
+              G  +A++ +     SP  HA     L G ES+SE F+DAEDS   S L S+  E  A   
+Sbjct  65354  GSGSADERNQHAGESPLLHASGASMLHGNESTSEHFFDAEDSFASSDLSSIRHEQPAPPD  65533
+
+Query  116    SQAHASTSATGTA  128
+                AH     T TA
+Sbjct  65534  PPAHTPAVTTATA  65572
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.125    0.355    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 707482636
+
+
+Query= XopN-WP_011348010.1
+
+Length=733
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000005.1 Xanthomonas campestris pv. campestris strain WH...  815     0.0  
+
+
+>JAYIMU010000005.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_5, whole genome shotgun sequence
+Length=243986
+
+ Score = 815 bits (2105),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 430/683 (63%), Positives = 511/683 (75%), Gaps = 21/683 (3%)
+ Frame = -1
+
+Query  1       MKSSASVDSASRS---AGSHLPEIQETELATASTSAAVTHQSA-PDPALSPLGRAPVRRS  56
+               MK +AS +  SR+   + +H+ EI+E     AS  A+ +H  A P   L+ L   P +R 
+Sbjct  122255  MKPAASANPPSRTVSASSAHIHEIEEE----ASQDASPSHSDAQPGGPLTKLSSRPNKR-  122091
+
+Query  57      GANTLGALLARPEQDAQAL------VPQPVTSSNATKATLARLRQQLASDNARAIAPDLA  110
+               G  T  A  A     A  L      + QPV  S+  KA+L RL+++LA DN RA+ P LA
+Sbjct  122090  GKETADAT-ADAFHTASHLHTVGLQISQPVMPSHPGKASLVRLKEKLADDNNRAVEPQLA  121914
+
+Query  111     ADLISRLRPMKSPGTTGAQARAATHADLVSRISEHDVIDWYKAQGLNENDVATLRRTALL  170
+               A+LI+++RPMK P TTG Q RAATH DL+SRI E D + WY+AQGL++ +V+ LRRTALL
+Sbjct  121913  AELINKVRPMKLPDTTGVQERAATHTDLLSRIHETDAMAWYQAQGLSDVEVSDLRRTALL  121734
+
+Query  171     SGMPNPSGSFLTNVMQYIVSPWINYATRQPWAGAGFGLATMLVAAPVNAGQQSAVVSLCE  230
+               SGMPNP+GSFL N MQ+IVSPWINYATRQPWAGAGFG AT  +AAP+NA QQSAVVSLCE
+Sbjct  121733  SGMPNPTGSFLNNAMQFIVSPWINYATRQPWAGAGFGFATAAIAAPMNAVQQSAVVSLCE  121554
+
+Query  231     SIREHGAHVIVPDKKQINDKHWLPELAHALKEKIETFAKACDVFREIQ----SDPNSSSK  286
+               SIREHG HVIVPDK QINDKHWLP+LA AL+  IE F+  CD FRE++      P ++S 
+Sbjct  121553  SIREHGGHVIVPDKNQINDKHWLPDLAKALERHIEEFSGCCDRFRELKHAADQRPTAASA  121374
+
+Query  287     ER-AAAADVLLAAEKELHQAQHDFVMTQGAHDRQCQGNRRQAVPRIMRSPVASTLGLLSK  345
+               E+   AAD LL AE  LHQAQHDFVMTQGAHDRQ  GNR QAVPRI+RSP+A TLGLLSK
+Sbjct  121373  EQLTEAADHLLQAEARLHQAQHDFVMTQGAHDRQWMGNRWQAVPRILRSPLAGTLGLLSK  121194
+
+Query  346     TGAMRALSPTAQTVGAMLMTAAQHVAAGFDEQAKQEANNKLNLLYADVLTDAGKQKLASG  405
+               TGAMRALSPTAQTVGA+LMTAAQHVAAGFDEQAKQ+ NNKLNLLYADVLT+ GK KLA G
+Sbjct  121193  TGAMRALSPTAQTVGALLMTAAQHVAAGFDEQAKQDYNNKLNLLYADVLTETGKLKLARG  121014
+
+Query  406     AAVSAEDIKTDKLRSLIQSPTQALVKRVTAGVAELEKLLADAVTAEGTQPGAITADDRDI  465
+                 V+AE+I   KLR LIQSPTQALVKRV  G+  +EK L   +    +  G   AD+ D+
+Sbjct  121013  EPVAAEEIDQTKLRKLIQSPTQALVKRVINGLVSMEKALNTELATSPSPQGTADADNLDL  120834
+
+Query  466     EAGDASKAMQELRLVRNDLEALREGRLDEIDPNGTASKLLIGAEKSVLSQQLFNDIAKKY  525
+               E+G  +   + L L+R DLEALREG+LDE+ P+G A+ +L+GAEKSV+S+QL NDIAKKY
+Sbjct  120833  ESGHGTGPAKALNLLRQDLEALREGKLDELHPDGVAAAVLLGAEKSVVSEQLINDIAKKY  120654
+
+Query  526     NYLEFTAQTAQRIGQMFHLIFLGSAASSVISKLVSASQGGTRNVPLPQSLAVSAISGGMA  585
+                  EF+AQTAQRIGQMFHL  LGSAASSVI K  SA+QGGTRNVP  Q+LA+SA+SG MA
+Sbjct  120653  TSREFSAQTAQRIGQMFHLGVLGSAASSVIGKASSAAQGGTRNVPTAQTLAISALSGTMA  120474
+
+Query  586     AVGALNQHTAITIKNNRREGSTDIGLGKQLGRGVLGAMYETFSQRRGTKASKAINALLEG  645
+                VGALNQHTAIT+KNNRREG TDIGL +Q+ RGV+G   E  SQRR T AS+AINALL+G
+Sbjct  120473  TVGALNQHTAITVKNNRREGDTDIGLKQQVLRGVMGGAIEALSQRRATTASRAINALLQG  120294
+
+Query  646     NDVEALLATARALSVQEASTSSS  668
+               NDVE LL  A+AL+    +TSS+
+Sbjct  120293  NDVEQLLGQAKALTQPPGATSSA  120225
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.125    0.341    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1056899954
+
+
+Query= XopO-WP_011346566.1
+
+Length=211
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.127    0.344    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 212188544
+
+
+Query= XopP-WP_104613784.1
+
+Length=714
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  452     4e-140
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 452 bits (1164),  Expect = 4e-140, Method: Compositional matrix adjust.
+ Identities = 286/725 (39%), Positives = 413/725 (57%), Gaps = 37/725 (5%)
+ Frame = -1
+
+Query  1     MPKIESTKQAPPDPAQLIQTAPTPSGSGSAASSSAASAAP-SAQLGGLSIRP----RRLG  55
+             M ++E  KQ   + A+    A  P+ S +A +++    A  S QL GL+ RP    R+  
+Sbjct  2263  MHRVEMIKQRSIELAESTNLAIVPTDSATATNTTGGRPAK*SPQLHGLAARPPKPVRQTV  2084
+
+Query  56    RASRANLPAASSTNAQDVMAALFAAAPVPQGPDPFEVLSKASSRLKRFNDLAQKRDAPAD  115
+               S   LP  SS         L AAA   Q  DP E+L KA S+ K F D+    + P  
+Sbjct  2083  VGSSDVLPGPSSP------VLLPAAAMQLQRIDPGEMLRKALSKAKIFRDVIGSNEGPQG  1922
+
+Query  116   IRAL------EARLESGKSAIESARQALQALAELNIQKRMPVDNVEEHENFLVPHFAVAA  169
+              R        E +++   +A++SAR+ LQA+A+L +Q R+      EHE+ L+     +A
+Sbjct  1921  QRGATSKVVPEQKVKLSLAAMKSAREGLQAVADLKVQGRLQSKAAVEHEHALLTLLGTSA  1742
+
+Query  170   SLHYGACEKMIDQKMATEFG-------HVNTQRVEMVVLSADAMRLQQPGPWLALRGHLL  222
+             ++ Y A +++++ K   +F         +    V+  + ++D  R QQ   W      + 
+Sbjct  1741  AVGYAARDELLEDKWMQQFDIIQPIEPAIGATIVQAELHNSDVER-QQTEEWQGYLSEIE  1565
+
+Query  223   NALAAMEEVCQRIRSPMTGQGPRDSLKDHLPVVRAMMGSCHERMQTVRGMLVEIHSRRLA  282
+                 AM+E+ +R+++P T +  R+++   +P++R  +G CHE MQ++R +LV+IH  +L 
+Sbjct  1564  QYRGAMDELLRRMKAPDTHKKIRENVSAMVPLIRTNLGFCHETMQSIRSLLVDIHRLQLE  1385
+
+Query  283   DEASECGLPQVLDGLRELEEIDSLHHAEVGEALKHVIQVHVERFSSTEH--SLTPEGLAR  340
+              +    G+P+V+  L EL+E  +    +V  A   + QV +E    +E   +LTP+ +A+
+Sbjct  1384  RQVEAKGMPEVMARLHELDEAKNYRGDDVAAAFSALSQVVIESICPSEAGVALTPQVVAQ  1205
+
+Query  341   CKKVLVEYAEIRGRAGMQLCVDAAALIEAGEHARDHLWPTMLDLAQALADQRQAIVDMCE  400
+              K VL +YAE  GR G++LCVD AALIE      DH+W +MLDLAQAL D RQ ++D+  
+Sbjct  1204  HKDVLEDYAEHFGRIGLKLCVDVAALIE--NDCDDHIWRSMLDLAQALTDYRQCVLDLTS  1031
+
+Query  401   FAVQDRQLIGTAAASPGQAPASTTSSVPTTTTTAGKSSRSRKARVRTPDASSSAAAPARR  460
+               V  ++ + T+       P++T   +P    +   + + RK   R  + SS   AP   
+Sbjct  1030  SVVAGKREVVTS-------PSATIEQLPVPRASPRPARKHRKPVNRAAEESSLVPAPPAI  872
+
+Query  461   VMDERSAAQKQADEILKGTRLESLPVAELGGDFIALAKRLGKDTTDVERLIGDSRYDAAT  520
+             + D+R+ AQKQAD +LK   LE   V EL  DF+ +AK LG+DT+ V  ++  S  DAA 
+Sbjct  871   LSDKRTLAQKQADALLKSIPLERSMVNELDADFMLIAKMLGRDTSSVGSMMHRSGQDAAI  692
+
+Query  521   AFDSARITMQGWFGSSERVLQLKGKLGAGDARIDHLDTRLRLLQRIEHDFKRREADALKT  580
+             AF   R +++ WF + +R+LQ K KL   D R+  L  RL+L+  IE   + READALK+
+Sbjct  691   AFTFVRASVRDWF-ARDRLLQTKAKLSPEDDRVAQLTERLQLVDMIEQRVRIREADALKS  515
+
+Query  581   DPQPRAPHLERLLAMNGLARVTSPRRLRSEDDIGDRGRLFEVRIEHTPQSNGNIPRPWFV  640
+             DPQPR+PHL RLL M+ +ARVTSP RL S+ D GDRG LFE+RI+H P SNG  P PWFV
+Sbjct  514   DPQPRSPHLSRLLKMSEVARVTSPIRLPSDHDNGDRGTLFEIRIDHAPLSNGKRPAPWFV  335
+
+Query  641   HVHAKRPVTPDALRALDYKDLAAVHLKTEREVNLGARWEEMMRALGNTEAKVHRATIGSK  700
+             H+H   PVT DAL  L YK   AVHLKT RE NLG RWE +MRALG+ +AKVHR+TI S 
+Sbjct  334   HLHTAEPVTADALPTLGYKAFNAVHLKTAREKNLGKRWEMLMRALGHADAKVHRSTIDSA  155
+
+Query  701   LLGQL  705
+             LL  L
+Sbjct  154   LLASL  140
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.130    0.371    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1027140360
+
+
+Query= XopQ-WP_011349176.1
+
+Length=464
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain WH...  491     3e-157
+
+
+>JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_22, whole genome shotgun sequence
+Length=94299
+
+ Score = 491 bits (1264),  Expect = 3e-157, Method: Compositional matrix adjust.
+ Identities = 258/410 (63%), Positives = 306/410 (75%), Gaps = 10/410 (2%)
+ Frame = -2
+
+Query  43     GALQTIVGRPPRPDGPR-HRRAQSLPARLTPAQRGMLAELGVADTSVLTPTETAVLRELR  101
+              GALQ +  +  RP G    +R+ S PA LT  QR MLAELG    + LTP E AVLREL 
+Sbjct  43229  GALQALPRK--RPQGAAVLKRSLSAPA-LTATQRRMLAELGAEGGTCLTPDEAAVLRELS  43059
+
+Query  102    LHRPPLPLDTLLFTDPNKDPDDVVTYTIAKQLQAEGFLRLTDVVVTLGDADMRSQRAQLA  161
+               H P  P DT+LFTDPNKDPDDVV YTI KQLQ  GF+RLTDV VTLGDA +R +RA+LA
+Sbjct  43058  FHTPATPRDTVLFTDPNKDPDDVVAYTIGKQLQVTGFVRLTDVAVTLGDASVREERARLA  42879
+
+Query  162    KGVFDRLALPEVRVARGQDYPMTSTQAREHSKFLAEGAALRAAPDAVHTDGVRAMRERLA  221
+              KGVF+RL LP VRV+RGQDY M++ QA++H+KFL EG  LRA    +  + ++A+ ERL 
+Sbjct  42878  KGVFNRLQLPNVRVSRGQDYLMSAKQAKDHAKFLQEGQGLRAESAEICDNSLQALHERLM  42699
+
+Query  222    TSPHKLGMVVIAGMTDASALLAEAGDLVREKLASITIMGGIDPARDADGLVQPDTRAYNN  281
+               +P  L MVVIAGMTDA AL+     LVRE++ SITIMGG++PARDADG VQPD RAYNN
+Sbjct  42698  QAPQGLSMVVIAGMTDAHALVDAHPALVRERVKSITIMGGVEPARDADGHVQPDARAYNN  42519
+
+Query  282    ATDIHAARALYRRAQQLGIPLRILSKEAAYRAAVPPAFYEGIARNGHPVGEYLRDVQKNA  341
+              ATD+ AA  LYR+AQQL IPLRI++KEAAY+ AV P+FYEG+A++GH VG YL DVQKNA
+Sbjct  42518  ATDLDAACGLYRKAQQLQIPLRIVTKEAAYKTAVSPSFYEGLAKSGHSVGRYLEDVQKNA  42339
+
+Query  342    LKGLWEGIQANLIPGLDTAWFFRTFVA-AQPQDPAAADQQG---AMSFDAIWPQVTKLNL  397
+              L GLWEGIQA L+PGLD AWFFRTF A A PQ  A   Q+G   AM+FD IWP+VTKLNL
+Sbjct  42338  LNGLWEGIQAGLLPGLDQAWFFRTFTAGALPQ--ANGPQEGANQAMAFDQIWPRVTKLNL  42165
+
+Query  398    YDPLTLLAALPGAARLLFQPTPMHREGASPVEHVGHAEVVRPEKARLLLS  447
+              YDPLTLLA++PGAA +LF P  +  +G S VE V   EV  PEKA+ L+S
+Sbjct  42164  YDPLTLLASVPGAAGMLFTPRQIQADGLSVVEQVSENEVKHPEKAKRLMS  42015
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.134    0.390    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 618047199
+
+
+Query= XopR-WP_011260681.1
+
+Length=437
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000005.1 Xanthomonas campestris pv. campestris strain WH...  63.2    3e-11
+
+
+>JAYIMU010000005.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_5, whole genome shotgun sequence
+Length=243986
+
+ Score = 63.2 bits (152),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 51/89 (57%), Gaps = 1/89 (1%)
+ Frame = -1
+
+Query  1       MRTNFLPRSYYRGAAEQASSAAADVPAATPESCSSHVLHQAPRTDAVNNTSRSPRAMLAS  60
+               MR + L  S +R A E   +         P +   H L QAP++      S+S R MLAS
+Sbjct  154037  MRLSQLFNSRHRVAPEPHGANPNKTTPLIPGASPQHPLSQAPKSTTSQGASKSHRGMLAS  153858
+
+Query  61      ARKSLASLRKRLPMMCLG-SPTTEATQTP  88
+               ARKSLASLRK+LP+ C+G SPT E  ++P
+Sbjct  153857  ARKSLASLRKQLPLTCMGSSPTLETVESP  153771
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.128    0.370    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 574999126
+
+
+Query= XopS-WP_039418869.1
+
+Length=292
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.131    0.370    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 339755315
+
+
+Query= XopT-WP_199285673.1
+
+Length=344
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.126    0.355    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 424255488
+
+
+Query= XopU-WP_011408937.1
+
+Length=985
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.130    0.378    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1470876984
+
+
+Query= XopV-WP_011409498.1
+
+Length=331
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.375    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 402711264
+
+
+Query= XopW-WP_228329674.1
+
+Length=203
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.307    0.125    0.347    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 198926760
+
+
+Query= XopX-WP_011346212.1
+
+Length=699
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000040.1 Xanthomonas campestris pv. campestris strain WH...  1013    0.0  
+
+
+>JAYIMU010000040.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_40, whole genome shotgun sequence
+Length=31230
+
+ Score = 1013 bits (2618),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 544/704 (77%), Positives = 599/704 (85%), Gaps = 7/704 (1%)
+ Frame = +2
+
+Query  1     MEIKKQQTAGPSSLAPLHDIHTDNAPVAD---ATSPTQTPLHPSLAALTPRSRSRASSAD  57
+             MEIKK Q AGPSS A L +    +  + +   A SPTQ P++P+L+AL PRSRSR SSA 
+Sbjct  6293  MEIKKAQLAGPSSPAELQNARKHDEGIVELQPAASPTQPPVNPALSALVPRSRSRTSSAS  6472
+
+Query  58    SEHGASPVPSHDTEPQADSPERASGPSTAATLAARANAALASGVQQAYAAVSKGASNLWS  117
+             S   +   PS    PQA    RA+  STA TL ARAN+AL SGVQ A AAVSK AS+LWS
+Sbjct  6473  SAPTSPVEPSSPA-PQASHSARATALSTAKTLTARANSALTSGVQHASAAVSKAASDLWS  6649
+
+Query  118   LADLRTMLQIHADDPAFLQMVRHTDPEQSAPHTLAACRQQITQLRDAIEAATGLEARFRQ  177
+             LADLRTMLQ+HADDPAFLQMVRHTDPEQ APH+LAACRQQITQLR AIE+ATGLE RF Q
+Sbjct  6650  LADLRTMLQMHADDPAFLQMVRHTDPEQVAPHSLAACRQQITQLRGAIESATGLETRFCQ  6829
+
+Query  178   QLLGDIKAVEDALQPLEHGTPATGRALKSLANLVNLWPLMVPSPLLGNQAKTFAYSIAAA  237
+             QLL D +AVE+ALQPLEHGTPA GRALKSLANLVNLWPL+VPSPLL NQAKTFAYSIAAA
+Sbjct  6830  QLLNDAEAVENALQPLEHGTPAAGRALKSLANLVNLWPLVVPSPLLANQAKTFAYSIAAA  7009
+
+Query  238   TKGVMTLSASALRPTADGLPFPLMGGQLGRDANEMHFYSVLLNGLFLTTELPKKFGTPSM  297
+             TKGVM+LSASALRPTADGLPFPLMGGQLGR+ANEMHFY++LLNGLFL TELPKKFG PSM
+Sbjct  7010  TKGVMSLSASALRPTADGLPFPLMGGQLGREANEMHFYAILLNGLFLATELPKKFGNPSM  7189
+
+Query  298   RHQAEAVENNLGFAAAASTACAAMVLTPFLWNSLNVLGNRLQHKLSHLGAGIAENAGFQS  357
+             R QAEAVENNLGFAAAASTAC AMVLTPFLWNSLN LGNR+QH +SHLGAGIA+ AG Q+
+Sbjct  7190  RQQAEAVENNLGFAAAASTACTAMVLTPFLWNSLNALGNRMQHGVSHLGAGIADRAGLQT  7369
+
+Query  358   QAQRLRARLTPGQVSAQLRTQLNEICAALEHGREAFQQARRDFTDPSQGRELTRTLNAQC  417
+             QAQRLRARLTPGQ+S +LRTQLNEICAALE GR+AF++ARRDFT+P  G ELTRTLNAQC
+Sbjct  7370  QAQRLRARLTPGQISQELRTQLNEICAALELGRDAFRKARRDFTEPGTGHELTRTLNAQC  7549
+
+Query  418   THLLETLDRCSKRLSAALQVDQDQPATLPRQVTNHDIAPKLALALLGAGVTGLTVYLIQP  477
+             THLLETLD+C+KRLS ALQVDQDQPAT+PRQ+TN D + KLALALL AGVTGLTVYLIQP
+Sbjct  7550  THLLETLDQCTKRLSTALQVDQDQPATIPRQLTNQDFSSKLALALLAAGVTGLTVYLIQP  7729
+
+Query  478   DRIGTVDLLADSVVVTAVMMQSAVNAHATRQDAMERFKAMCSGSLVMALALGVEKLSKTF  537
+             DRIGTVDLLAD+ VVT VMMQSA+N HATRQD MERFKAMCSGS+VMALALGVEKLSKTF
+Sbjct  7730  DRIGTVDLLADTAVVTTVMMQSALNKHATRQDTMERFKAMCSGSMVMALALGVEKLSKTF  7909
+
+Query  538   ADKSLIEASSSSPYYAGAIMSLMSMTMPGPMARGAELAMNWGGGQIMRVFRGPDGTALAT  597
+             ADKSLIEASS+SPYYAGAIMSLMSMTMPGPMARGAELAMNWGG Q+MRVF+GPDGT LAT
+Sbjct  7910  ADKSLIEASSASPYYAGAIMSLMSMTMPGPMARGAELAMNWGGRQVMRVFKGPDGTPLAT  8089
+
+Query  598   RMPSSPEELIQHVQDTARYVQSLSPEQAQEYAQTVADSALQGIEDAGAQAQTRPASSVTI  657
+              MPSSPEELIQ VQDTA+YV SLSPEQAQ YAQ VADSA+  I+ AGA A+T+P +SVTI
+Sbjct  8090  CMPSSPEELIQTVQDTAKYVASLSPEQAQNYAQIVADSAVHVIKGAGAGAETKPGNSVTI  8269
+
+Query  658   TEI---TEANEEEALAAASASPEQRSPARTHPSPDQAAASTVPS  698
+             TEI   TEA+E   +A  +ASPE  +  + +P  D A   T  S
+Sbjct  8270  TEISEVTEADEAAEVAVQTASPEPEAITQPYPLSDDATLRTAGS  8401
+
+
+ Score = 718 bits (1853),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 380/704 (54%), Positives = 499/704 (71%), Gaps = 31/704 (4%)
+ Frame = +1
+
+Query  1     MEIKKQQTAGPSSLAPLHDIHTDNAPVAD---ATSPTQTPLHPSLAALTPRSRSRASSAD  57
+             MEIKK Q+AGPSS A L +    +  + +   A SPT +P++P L+ L PRSRS +SSA 
+Sbjct  3946  MEIKKAQSAGPSSPAELQNARERDEGIVELQPAASPTHSPVNPVLSELAPRSRSGSSSAT  4125
+
+Query  58    SEHGASPVPSHDTEPQADSPERASGPSTAATLAARANAALASGVQQAYAAVSKGASNLWS  117
+             S                            AT+ A   +ALA+G + A  AVS+ AS+LWS
+Sbjct  4126  S--------------------------ATATITAHVKSALANGARHASTAVSRAASDLWS  4227
+
+Query  118   LADLRTMLQIHADDPAFLQMVRHTDPEQSAPHTLAACRQQITQLRDAIEAATGLEARFRQ  177
+             L+DLRTMLQ+HA+DPAFL+++R +DPE +  HTLA+CRQQ+ +L + I+   GLE    +
+Sbjct  4228  LSDLRTMLQMHANDPAFLEILRGSDPEHATQHTLASCRQQMEELGELIKNTEGLETHQGK  4407
+
+Query  178   QLLGDIKAVEDALQPLEHGTPATGRALKSLANLVNLWPLMVPSPLLGNQAKTFAYSIAAA  237
+             QLLGDIK V +ALQPL+H TPAT R LKS+ NL+N WP++VPSPL+G QAKTFA++++ A
+Sbjct  4408  QLLGDIKKVMNALQPLDHATPATSRVLKSIINLINFWPVVVPSPLMGKQAKTFAFTMSTA  4587
+
+Query  238   TKGVMTLSASALRPTADGLPFPLMGGQLGRDANEMHFYSVLLNGLFLTTELPKKFGTPSM  297
+             TKGV+ +SASALRP+ADGLPFP  GGQLGRDANEMH Y+VL+N LFLTTELPKKFG  ++
+Sbjct  4588  TKGVLAMSASALRPSADGLPFPFAGGQLGRDANEMHLYNVLINTLFLTTELPKKFGDQAL  4767
+
+Query  298   RHQAEAVENNLGFAAAASTACAAMVLTPFLWNSLNVLGNRLQHKLSHLGAGIAENAGFQS  357
+             R  AEAV  ++G+AA  S +  A++LTPFLW+SL+ LGN + +  + LGA  A+ AG  +
+Sbjct  4768  RKNAEAVSQSVGYAAGISVSFTAIMLTPFLWSSLSKLGNTMLNNTARLGAAAAQAAGLNN  4947
+
+Query  358   QAQRLRARLTPGQVSAQLRTQLNEICAALEHGREAFQQARRDFTDPSQGRELTRTLNAQC  417
+             QAQ+LRARLTP +++ ++R QL EI   L+    AF+QAR  F     G+ELTRT+NAQC
+Sbjct  4948  QAQQLRARLTPARINQEVRLQLQEIREQLDAACSAFRQARSSFVHQDGGQELTRTVNAQC  5127
+
+Query  418   THLLETLDRCSKRLSAALQVDQDQPATLPRQVTNHDIAPKLALALLGAGVTGLTVYLIQP  477
+             THLLETLD CSKRL++ L +D +Q  +LPR++ N D++ K+AL +L   VTG T+YLIQP
+Sbjct  5128  THLLETLDMCSKRLASVLHLDGNQTQSLPRELRNQDVSSKVALMILATAVTGSTIYLIQP  5307
+
+Query  478   DRIGTVDLLADSVVVTAVMMQSAVNAHATRQDAMERFKAMCSGSLVMALALGVEKLSKTF  537
+             DR+GT++LL+D+ +VTAVM QS  N  ATRQDAMERFK MC GS+V+ALALG EKLSKTF
+Sbjct  5308  DRLGTINLLSDTCIVTAVMAQSVWNKQATRQDAMERFKGMCGGSMVIALALGAEKLSKTF  5487
+
+Query  538   ADKSLIEASSSSPYYAGAIMSLMSMTMPGPMARGAELAMNWGGGQIMRVFRGPDGTALAT  597
+             AD SLIE+S ++ +YAGA+MSLM++TMPGP+ARGAELAMN+ G ++ R+F GP+GT LAT
+Sbjct  5488  ADNSLIESSPNAQFYAGAVMSLMAVTMPGPIARGAELAMNFAGSRLKRLFTGPEGTPLAT  5667
+
+Query  598   RMPSSPEELIQHVQDTARYVQSLSPEQAQEYAQTVADSALQGIEDAGAQAQTRPASSVTI  657
+               PSS EEL +  + T  Y+ SL+PE+  +Y Q   +S LQ I++AG  AQ  P+SSVTI
+Sbjct  5668  SAPSSVEELQERTRTTLAYLMSLTPEELDQYEQIAGESMLQAIQEAGDAAQAGPSSSVTI  5847
+
+Query  658   TEITEANEEEALAAASASPEQR--SPARTHPSPDQAAASTVPSS  699
+             TEI ++       A SA P +    P    P P  AA    P++
+Sbjct  5848  TEIDDSQPAPRTEAGSADPPRSG*GPRAEGPVPAIAAKPVAPAA  5979
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.125    0.353    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1002290190
+
+
+Query= XopY-WP_011408080.1
+
+Length=281
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.131    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 323200410
+
+
+Query= XopZ1-WP_011259177.1
+
+Length=1388
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000008.1 Xanthomonas campestris pv. campestris strain WH...  2330    0.0  
+
+
+>JAYIMU010000008.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_8, whole genome shotgun sequence
+Length=169853
+
+ Score = 2330 bits (6037),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1166/1388 (84%), Positives = 1247/1388 (90%), Gaps = 0/1388 (0%)
+ Frame = -3
+
+Query  1      MPRIPLRPSAIAACLPGMAETISHPSGPSAKRQTHNKLATPDPRAFEAELIQAQDDPLDW  60
+              MPRIPLRPS IAACLPGMAETISHPS PSAKRQTHNKLATPDPRAFEAELIQAQ+DPL W
+Sbjct  94377  MPRIPLRPSVIAACLPGMAETISHPSKPSAKRQTHNKLATPDPRAFEAELIQAQEDPLGW  94198
+
+Query  61     SATLLEQASQASVVEPGLKAAPKRRHTLLRPCGKAAELLGMSSGAPEPHATLLRYSSVQC  120
+              S TL EQ  Q SVVEPGLKAAPKR+H LLRPC KAAE LG+SSGAPEPHA LLRYSS+QC
+Sbjct  94197  SETLREQVRQTSVVEPGLKAAPKRKHALLRPCRKAAERLGLSSGAPEPHARLLRYSSLQC  94018
+
+Query  121    ERNRPADPSDSHASAARSPQAALPPPNASQDLNGALIRRLEQSNHDLAARISQRRRDELK  180
+              ER+R ADPSD  A+ A +P AA    NA+QDLNGALI RLEQSNHDLAA IS+RR+ ELK
+Sbjct  94017  ERDRLADPSDRSANVALAPHAAPLLSNATQDLNGALIARLEQSNHDLAAGISRRRQAELK  93838
+
+Query  181    YAHAQTLQAAREQLALRARRAANLSDSISVLTRERAALLQQLHGCNVQTDAVSAAMQDLQ  240
+              YAHAQTL AAREQLALRARRAANLSDSI+VLTRERA LLQQLHGCNV+TDAVSAA+ DL+
+Sbjct  93837  YAHAQTLHAAREQLALRARRAANLSDSINVLTRERAELLQQLHGCNVRTDAVSAAIHDLE  93658
+
+Query  241    ANILSARAALHALPVDPQLRAVVTHASQSAANTHQSADSSPLQLTCTRLENALRDARARG  300
+              +NI+SARAAL+ALP   Q RAVV   + SAAN HQ  D S LQ  CTRLE+A++DARARG
+Sbjct  93657  SNIVSARAALNALPGVRQSRAVVARTAPSAANAHQGEDPSHLQRVCTRLEHAVQDARARG  93478
+
+Query  301    DALAKAVFFGRGSAQATEAEQALARTNAQIDQLQSAYAQARDALQSDQASSSTSAPASRT  360
+              D LAK VFFGRGSAQA +AEQALA TNA+IDQL+SAYAQARDAL+SD ASSS + PASRT
+Sbjct  93477  DVLAKTVFFGRGSAQAAQAEQALADTNAEIDQLRSAYAQARDALRSDPASSSANRPASRT  93298
+
+Query  361    LASHLAAEQSQEIQALRTQLARDEQMLSLQSVHAERCQRNARRLQERLVQVEATLKQAQH  420
+              LAS L AEQ +EI+ALRT+L  DE+ML+LQ  HAERC+RN RRLQ RL QV+A L+QA+H
+Sbjct  93297  LASELVAEQDREIEALRTRLGYDEKMLTLQGTHAERCRRNTRRLQARLAQVDAKLEQARH  93118
+
+Query  421    SSRVNTKELWQQDHTVSALEAADGDMQRAVETAAAQSPADEARRAPDDSVAEAMAALLDA  480
+              SSR+NT+ELWQQ+ TVS LEAADGDMQR VE AAAQ PADEAR    D VA+ M  LLD 
+Sbjct  93117  SSRINTEELWQQEQTVSVLEAADGDMQRGVEHAAAQLPADEARPVASDIVADTMQTLLDV  92938
+
+Query  481    LPGFREDTIGPMSRQVLRTWADGLHRRSAAFGTDALQPVDALNIALQALSIASQSDATTA  540
+              LPGFRE+T+ P+SRQVLR WADGLH RSAAFGT+ALQPVDAL IALQALSIAS  DAT A
+Sbjct  92937  LPGFREETLDPVSRQVLRVWADGLHARSAAFGTEALQPVDALRIALQALSIASGGDATAA  92758
+
+Query  541    ANVLQRLGEVQLRELIPPPQVSNAAEAVPPMEAVTTCVGLLVSVPRGMQVLLHMLREEPT  600
+              AN LQRL  V++RELIPPPQVS AAEAVPPME VT CVGLL SVPRGMQVL HMLREEPT
+Sbjct  92757  ANALQRLSVVRMRELIPPPQVSIAAEAVPPMETVTACVGLLASVPRGMQVLSHMLREEPT  92578
+
+Query  601    SPAREWLEAAQVHLRASHRLALTPDAEQAERAWLADAQMGARHAVHGATPLQGLQSATDA  660
+                +REWLEAAQVHLRASHRLALT DAEQAER WL DAQMGARHAVHGA+PLQGLQSATDA
+Sbjct  92577  PASREWLEAAQVHLRASHRLALTQDAEQAERTWLGDAQMGARHAVHGASPLQGLQSATDA  92398
+
+Query  661    QRSAFHAIRNGYETTRAGSPYARVNASLQMFAQWAVAGGQTRGKRALNPFNALKLGMKVG  720
+              QR AFHA RNGYETTR GSPYARVNA LQMFAQWAVAG + RG   LNPFNAL LGMKVG
+Sbjct  92397  QRGAFHAFRNGYETTRTGSPYARVNACLQMFAQWAVAGSRRRGNSDLNPFNALALGMKVG  92218
+
+Query  721    ASEALPTAGRRANDAFREAAGHLSNWLVARRHIQMTCGQLPSQDELAMQALAECVQWLPH  780
+              ASEALPTA RRANDAFREAAGHL++WLVARR IQ+  G++PSQDELAMQAL+E   WLPH
+Sbjct  92217  ASEALPTAVRRANDAFREAAGHLTSWLVARRQIQLAGGRMPSQDELAMQALSEYAHWLPH  92038
+
+Query  781    EQSATELIFTAKVLAEIEQRARELQDSVTASLSTTDARQPAACHPAIASAWVALRTSRMR  840
+              EQ+AT+L FTAKVL  IE+RA+ELQ SV AS S +D  QPAACHPAIASAWVALR  RMR
+Sbjct  92037  EQNATDLTFTAKVLGTIERRAQELQRSVAASASESDDLQPAACHPAIASAWVALRAGRMR  91858
+
+Query  841    LPETLRLIQRGLLDHAIQPNDTPAGAAPLDKELASVARNHFHQAVGNASRFLHEGDTSRV  900
+              LPETLRLIQRGLLDHA QP D P GAAPLD+ELASVARNHFHQAVG+ASRFLHEGDTSRV
+Sbjct  91857  LPETLRLIQRGLLDHAGQPTDMPIGAAPLDEELASVARNHFHQAVGHASRFLHEGDTSRV  91678
+
+Query  901    RSPRALFACLRNVMERLEWRDKLRITEQRVIGLNTTPLSAALAIIPSGLGLKLSAGGQVS  960
+              RSPRALF CLRN+MERLEWRDKLRITEQRVIGLNTTPLSAALAIIPSGLGLKLSAGGQ S
+Sbjct  91677  RSPRALFECLRNLMERLEWRDKLRITEQRVIGLNTTPLSAALAIIPSGLGLKLSAGGQTS  91498
+
+Query  961    SDRSVEIYMGRTGLSLQIGQQKARQFQASTGISAGVLLPGTEHAPVGITGAAEWRIKKES  1020
+              SDRSVEIYMGRTGLSLQIG+QKARQF ASTGISAGVLLPGTE APVGITGAAEWR+KKES
+Sbjct  91497  SDRSVEIYMGRTGLSLQIGRQKARQFNASTGISAGVLLPGTERAPVGITGAAEWRMKKES  91318
+
+Query  1021   GIEHGVQIRVPRRGKGQELEQRAQFLAMFEHLLQLAEQSGGDTAQLTERDFLAELLAHHP  1080
+               IEHGVQIRVPRRGKGQELEQRAQFLAMFEHLLQLAEQSGGD  QLTERDFL ELLAHHP
+Sbjct  91317  SIEHGVQIRVPRRGKGQELEQRAQFLAMFEHLLQLAEQSGGDAGQLTERDFLGELLAHHP  91138
+
+Query  1081   SITVGLIGHAERNSSTTESSVSVAAGVRVGNMDGRPRRATLGASLGLKARRETSRSQTPI  1140
+              SITVGLIGHAERN+S TESS+SVAAGVRVGNMDG+PRRATLGASLGLKARRETSRSQTPI
+Sbjct  91137  SITVGLIGHAERNASATESSLSVAAGVRVGNMDGKPRRATLGASLGLKARRETSRSQTPI  90958
+
+Query  1141   EGYMTMVLKDSTAQSRVDIAGRASASLVAQQWTQPSAGNAPPSPVARLSMASLDLGYSRE  1200
+              EGYMTMVLKDS+AQSRV++AGRASAS+VAQQWT PS GNAPP+PVARLSMA+LDLGYSRE
+Sbjct  90957  EGYMTMVLKDSSAQSRVELAGRASASVVAQQWTHPSIGNAPPTPVARLSMATLDLGYSRE  90778
+
+Query  1201   LHLAGSNTFSTLWMFNNEIDPVRTDRGFEFFNFASFEREVKRNWQLWTHYGISKLQGKVD  1260
+              LH AGSNTFSTLWMFNNEIDPVRTDRGFEFF+FASFEREVKRNWQLWTHYGISKLQGKVD
+Sbjct  90777  LHSAGSNTFSTLWMFNNEIDPVRTDRGFEFFDFASFEREVKRNWQLWTHYGISKLQGKVD  90598
+
+Query  1261   DQRLYMVAERQLQDFIDRVRIHMQDNKFASLIVDWVLQAEAAPRLDALRAQAQLLRVAGC  1320
+              DQR+YMVAERQLQDF+DRVR+HMQDNKFAS+IVDWVLQAEAAPRLDALRAQAQLLRVAGC
+Sbjct  90597  DQRVYMVAERQLQDFVDRVRLHMQDNKFASMIVDWVLQAEAAPRLDALRAQAQLLRVAGC  90418
+
+Query  1321   EAQAAEADRAFDELINHPSIWEPTILILREKGKRQRERGIDFFVKRQTNQSAEAMRTVGQ  1380
+              EAQA EADRAFD+LI+HP IWEPTILILREKGKRQRERGIDFFVKRQTNQ+AEAMRTVGQ
+Sbjct  90417  EAQAVEADRAFDDLISHPGIWEPTILILREKGKRQRERGIDFFVKRQTNQAAEAMRTVGQ  90238
+
+Query  1381   WIPYEPVP  1388
+              WIPYEPVP
+Sbjct  90237  WIPYEPVP  90214
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.127    0.363    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2133067104
+
+
+Query= XopZ2-WP_039421390.1
+
+Length=1317
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000008.1 Xanthomonas campestris pv. campestris strain WH...  503     3e-150
+
+
+>JAYIMU010000008.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_8, whole genome shotgun sequence
+Length=169853
+
+ Score = 503 bits (1294),  Expect = 3e-150, Method: Compositional matrix adjust.
+ Identities = 382/1046 (37%), Positives = 545/1046 (52%), Gaps = 85/1046 (8%)
+ Frame = -3
+
+Query  287    QRLEASAASLHTTLAQALRSAHIVAGDLFETAEHADALHALLPPLSGLTRSLERELDSAV  346
+              +RL+A  A +   L QA  S+ I   +L++  +    L A           ++R ++ A 
+Sbjct  93174  RRLQARLAQVDAKLEQARHSSRINTEELWQQEQTVSVLEAA-------DGDMQRGVEHAA  93016
+
+Query  347    ADDLRAGQALRAASDALIAAQIAHTASSASDVAAA-------DALRKRLSTWASGL--ST  397
+              A  L A +A   ASD      +A T  +  DV             R+ L  WA GL   +
+Sbjct  93015  AQ-LPADEARPVASDI-----VADTMQTLLDVLPGFREETLDPVSRQVLRVWADGLHARS  92854
+
+Query  398    VRFGEQAVPAAGVVAIALAALRSAVAGVPGDNRADEASLLLATFEHVRRSTWSALIPADP  457
+                FG +A+     + IAL AL S  +G  GD  A   +L   +   +R      LIP  P
+Sbjct  92853  AAFGTEALQPVDALRIALQAL-SIASG--GDATAAANALQRLSVVRMRE-----LIPP-P  92701
+
+Query  458    ERPDAQQDATMGEQSVPRAAIEAATIHWLDTLARVPRGRQVLGHLIQARHERAAAPARQ-  516
+              +        ++  ++VP      A +     LA VPRG QVL H+++   E     +R+ 
+Sbjct  92700  Q-------VSIAAEAVPPMETVTACV---GLLASVPRGMQVLSHMLR---EEPTPASREW  92560
+
+Query  517    -DIARIALRADTLLRAAPGDDATTRRWLRGARRAAGAALHAADPAQALRDCSSDERAAYH  575
+               + A++ LRA   L      +   R WL  A+  A  A+H A P Q L+  +  +R A+H
+Sbjct  92559  LEAAQVHLRASHRLALTQDAEQAERTWLGDAQMGARHAVHGASPLQGLQSATDAQRGAFH  92380
+
+Query  576    ALRNGYESRAPGSAYARANAHLQAFGDAVRTATSPQPANARTPNPLHALSEGLEVGSATA  635
+              A RNGYE+   GS YAR NA LQ F      A S +  N+   NP +AL+ G++VG++ A
+Sbjct  92379  AFRNGYETTRTGSPYARVNACLQMFAQWA-VAGSRRRGNSDL-NPFNALALGMKVGASEA  92206
+
+Query  636    LPTPRRRANLMLEHASVALIGYLSALHAARPQ-----GWVPSQAELNWRAAAELLQWVDE  690
+              LPT  RRAN     A+    G+L++   AR Q     G +PSQ EL  +A +E   W+  
+Sbjct  92205  LPTAVRRANDAFREAA----GHLTSWLVARRQIQLAGGRMPSQDELAMQALSEYAHWLPH  92038
+
+Query  691    DVDRSCVVFDAATLARITERAAALHAHHQAQASQRPGAAVIQAAPPAGLEHVWQQLQSGR  750
+              + + + + F A  L  I  RA  L     A AS+     +  AA    +   W  L++GR
+Sbjct  92037  EQNATDLTFTAKVLGTIERRAQELQRSVAASASESDD--LQPAACHPAIASAWVALRAGR  91864
+
+Query  751    CTAPAALDLVRSCLRVARAEHAEHLAQRQPDDASPHDALWLAHADECLA-----HFDTAM  805
+                 P  L L++  L     +HA      QP D      +  A  DE LA     HF  A+
+Sbjct  91863  MRLPETLRLIQRGL----LDHAG-----QPTDMP----IGAAPLDEELASVARNHFHQAV  91723
+
+Query  806    DKSLQLVKQTGANALAHHEALLDLLRDMLSHLEWRDRWRITCQRTRGANLAPLSAAAAIA  865
+                + + + +   + +    AL + LR+++  LEWRD+ RIT QR  G N  PLSAA AI 
+Sbjct  91722  GHASRFLHEGDTSRVRSPRALFECLRNLMERLEWRDKLRITEQRVIGLNTTPLSAALAII  91543
+
+Query  866    GSAFGMGTRLIASMQCNRDASLEFYMGRTGLYLQISRQSATQRQLGAGLTAGYGIDVGSD  925
+               S  G+G +L A  Q + D S+E YMGRTGL LQI RQ A Q     G++AG  +  G++
+Sbjct  91542  PS--GLGLKLSAGGQTSSDRSVEIYMGRTGLSLQIGRQKARQFNASTGISAGVLLP-GTE  91372
+
+Query  926    YAAVGVAAAADWRYRREVGVEDGLQLRIPRLGKGREPELLQAFLNMLEHLVRQA--TSHP  983
+               A VG+  AA+WR ++E  +E G+Q+R+PR GKG+E E    FL M EHL++ A  +   
+Sbjct  91371  RAPVGITGAAEWRMKKESSIEHGVQIRVPRRGKGQELEQRAQFLAMFEHLLQLAEQSGGD  91192
+
+Query  984    AEQPQGADWMQRLLAEHPDASVGLIDQAARVSQGTECSASISAGLRAGDAHG--RRAGVS  1041
+              A Q    D++  LLA HP  +VGLI  A R +  TE S S++AG+R G+  G  RRA + 
+Sbjct  91191  AGQLTERDFLGELLAHHPSITVGLIGHAERNASATESSLSVAAGVRVGNMDGKPRRATLG  91012
+
+Query  1042   LGLGVRSRQDLGWTSTTVAGYMTTQYVDATAAHRVEAAARLTAGVQVALAQHRSEGSSP-  1100
+                LG+++R++   + T + GYMT    D++A  RVE A R +A V      H S G++P 
+Sbjct  91011  ASLGLKARRETSRSQTPIEGYMTMVLKDSSAQSRVELAGRASASVVAQQWTHPSIGNAPP  90832
+
+Query  1101   TPVASTTASAIDAGYAAEVSANIATAFCTLFQFGGEIDPVRSDRATDFSQFAAFERLVRS  1160
+              TPVA  + + +D GY+ E+ +  +  F TL+ F  EIDPVR+DR  +F  FA+FER V+ 
+Sbjct  90831  TPVARLSMATLDLGYSRELHSAGSNTFSTLWMFNNEIDPVRTDRGFEFFDFASFEREVKR  90652
+
+Query  1161   QWERWADYGLVKLGNDVDRTLQPVLAELQLEHFMQQAKRFADGNALAALFADEALRSEAA  1220
+               W+ W  YG+ KL   VD     ++AE QL+ F+ + +     N  A++  D  L++EAA
+Sbjct  90651  NWQLWTHYGISKLQGKVDDQRVYMVAERQLQDFVDRVRLHMQDNKFASMIVDWVLQAEAA  90472
+
+Query  1221   PLLDVHRALALMAEHAGDHARALAERTAFDALLQQRAVWEPTLLLVREKAKLTEECGVDF  1280
+              P LD  RA A +   AG  A+A+    AFD L+    +WEPT+L++REK K   E G+DF
+Sbjct  90471  PRLDALRAQAQLLRVAGCEAQAVEADRAFDDLISHPGIWEPTILILREKGKRQRERGIDF  90292
+
+Query  1281   IVKRQRNRIAEAMRTVGQWPAYEAVP  1306
+               VKRQ N+ AEAMRTVGQW  YE VP
+Sbjct  90291  FVKRQTNQAAEAMRTVGQWIPYEPVP  90214
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.129    0.379    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2017255254
+
+
+Query= XopAA-WP_041855088.1
+
+Length=688
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.133    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 984066732
+
+
+Query= XopAB-WP_011409110.1
+
+Length=193
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.125    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 184017798
+
+
+Query= XopAC-WP_011269629.1
+
+Length=536
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000004.1 Xanthomonas campestris pv. campestris strain WH...  1095    0.0  
+
+
+>JAYIMU010000004.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_4, whole genome shotgun sequence
+Length=257564
+
+ Score = 1095 bits (2832),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 535/536 (99%), Positives = 535/536 (99%), Gaps = 0/536 (0%)
+ Frame = -2
+
+Query  1       MDKNLNLWDMSTFIQQYGALTADHPTHTPEDSPQTVPSPRSSSAHSPEIQELRSLQETRP  60
+               MDKNLNLWDMSTFIQQYGALTADHPTHTPEDSPQTVPSPRSSSAHSPEIQELRSLQETRP
+Sbjct  222292  MDKNLNLWDMSTFIQQYGALTADHPTHTPEDSPQTVPSPRSSSAHSPEIQELRSLQETRP  222113
+
+Query  61      ARLGARSQSRSSKHGLQQCSSSPSDESFRLHAELAAWCERVETKPSLLAKLGCCAAPPVV  120
+               ARLGARSQSRSSKHGLQQCSSSPSDESFRLHAELAAWCERVETKPSLLAKLGCCAAPPVV
+Sbjct  222112  ARLGARSQSRSSKHGLQQCSSSPSDESFRLHAELAAWCERVETKPSLLAKLGCCAAPPVV  221933
+
+Query  121     GDHREQRREAMERIMRCLDAGQAGTQLTLRDLNLSQLPPGLHRLAHLRDLDVADNVNLTR  180
+               GDHREQRREAMERIMRCLDAGQAGTQLTLRDLNLSQLPPGLHRLAHLRDLDVADNVNLTR
+Sbjct  221932  GDHREQRREAMERIMRCLDAGQAGTQLTLRDLNLSQLPPGLHRLAHLRDLDVADNVNLTR  221753
+
+Query  181     LPEDLSLCKHLERINADGCSIAALPSKIGALKNLSEISLAFNELRTLPDSIGQCSSLTTI  240
+               LPEDLSLCKHLERINADGCSIAALPSKIGALKNLSEISLAFNELRTLPDSIGQCSSLTTI
+Sbjct  221752  LPEDLSLCKHLERINADGCSIAALPSKIGALKNLSEISLAFNELRTLPDSIGQCSSLTTI  221573
+
+Query  241     VVPGCKINKLPASLANLTQLKKLDVAANIELSELSPHMNLDDVAVHSTQTRLGLMHRIFK  300
+               VVPGCKINKLPASLANLTQLKKLDVAANIELSELSPHMNLDDVAVHSTQTRLGLMHRIFK
+Sbjct  221572  VVPGCKINKLPASLANLTQLKKLDVAANIELSELSPHMNLDDVAVHSTQTRLGLMHRIFK  221393
+
+Query  301     APTFDPETRQRLSYQASALRDRWAALSHHLSPQARARVDQMREGASTTLSSQDHKASTAW  360
+               APTFDPETRQRLSYQASALRDRWAALSHHLSPQARARVDQMREGASTTLSSQDHKAS AW
+Sbjct  221392  APTFDPETRQRLSYQASALRDRWAALSHHLSPQARARVDQMREGASTTLSSQDHKASAAW  221213
+
+Query  361     KTATEKVSSWAEEGAPITLDRIFKLNQLLLPEGDDDNDPIGGQLRKVGIQAAPSNTWTEC  420
+               KTATEKVSSWAEEGAPITLDRIFKLNQLLLPEGDDDNDPIGGQLRKVGIQAAPSNTWTEC
+Sbjct  221212  KTATEKVSSWAEEGAPITLDRIFKLNQLLLPEGDDDNDPIGGQLRKVGIQAAPSNTWTEC  221033
+
+Query  421     RYPPPETLKDEMAKFSGWLEHSEQQAHARDALGHIEFAAQLHQRLVSLHPFDDANGRTAR  480
+               RYPPPETLKDEMAKFSGWLEHSEQQAHARDALGHIEFAAQLHQRLVSLHPFDDANGRTAR
+Sbjct  221032  RYPPPETLKDEMAKFSGWLEHSEQQAHARDALGHIEFAAQLHQRLVSLHPFDDANGRTAR  220853
+
+Query  481     LAMDWALQRHGLPPAPPVGEASRLPASFLGGKRVSPEKVVLETLEGIATVMNQVHQ  536
+               LAMDWALQRHGLPPAPPVGEASRLPASFLGGKRVSPEKVVLETLEGIATVMNQVHQ
+Sbjct  220852  LAMDWALQRHGLPPAPPVGEASRLPASFLGGKRVSPEKVVLETLEGIATVMNQVHQ  220685
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.130    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 735649392
+
+
+Query= XopAD-WP_011409710.1
+
+Length=2927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.130    0.383    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4672196326
+
+
+Query= XopAE-WP_011050288.1
+
+Length=547
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000034.1 Xanthomonas campestris pv. campestris strain WH...  110     9e-26
+
+
+>JAYIMU010000034.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_34, whole genome shotgun sequence
+Length=48198
+
+ Score = 110 bits (274),  Expect = 9e-26, Method: Compositional matrix adjust.
+ Identities = 85/235 (36%), Positives = 125/235 (53%), Gaps = 12/235 (5%)
+ Frame = -3
+
+Query  65     LTLLHTGLQSLPDSLGQLHQLRHLQIAGALGLKTLPPSLTRLSNLRTLQLTMIPLDELPV  124
+              L L +  L   P+   +   L+ + IAGA GL  LP S++ L+NLRTL L+  P+  LP 
+Sbjct  43759  LDLSYLPLPRFPEQTFRFGHLQDMSIAGA-GLLELPESISDLANLRTLTLSQNPIGALPA  43583
+
+Query  125    GIGRMQGLRSLTL-GGGHYARLPASIV------ELSGLTELRMPHSSH--FRELPENIGL  175
+               I R+  L+ LT+    +   LP  +       +  GL +LR    S    R LP ++  
+Sbjct  43582  SISRLGELQELTIFSCPNLTELPEHLAIRNTAGQREGLVKLRTLTLSRTGIRSLPSSLEY  43403
+
+Query  176    MQGLRSLEVASNSELEQLPGSLTQLHRLEKLTLSSNRRLAHLPEDIGQLRGLTELSLKNC  235
+              ++ L  L++ S S L +L  S+ +L  LE++ L    RL H P   GQ   L +LSL++C
+Sbjct  43402  LKDLTHLKINS-SPLTELNTSIHRLPLLEEVDLRGCTRLRHYPSISGQQWSLRKLSLQDC  43226
+
+Query  236    AALRQLPDSVGDLAQLQLLDLRGT-GLQTLPQSLARLPAQCDIKVPDHLAGQLLQ  289
+              ++L+ LP ++  L  LQ LDLRG   L+ LP S++ LP  C I+ P HL   L Q
+Sbjct  43225  SSLQTLPSNIDALRNLQELDLRGCNNLRALPPSISGLPDHCTIRAPAHLQASLDQ  43061
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.133    0.381    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 753874940
+
+
+Query= XopAF1-WP_008577605.1
+
+Length=218
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.126    0.355    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 222122152
+
+
+Query= XopAF2-WP_227479740.1
+
+Length=286
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.132    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 331487600
+
+
+Query= XopAG1-WP_272820829.1
+
+Length=511
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000037.1 Xanthomonas campestris pv. campestris strain WH...  862     0.0  
+
+
+>JAYIMU010000037.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_37, whole genome shotgun sequence
+Length=40700
+
+ Score = 862 bits (2228),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 408/510 (80%), Positives = 450/510 (88%), Gaps = 2/510 (0%)
+ Frame = -1
+
+Query  1     MRTKAQLPLTAIQRFLAHDAASTQAPSASASTSLHKNETAGLLAALPARNARQG--AQRK  58
+             MRTK  LPL  +QR L    ++  +  ASAS +     TAGLL ALPAR  +Q   +QR 
+Sbjct  9569  MRTKTSLPLATVQRLLTPGTSTGLSTPASASATPCAETTAGLLGALPARKNKQKQQSQRP  9390
+
+Query  59    SGEKEGARQNNGGRGGQWASRAAKYALGIAGAGYVADNFVLSTTSLVDGKGGFTSNDRLD  118
+                ++G  +N    GGQWA+RAAKYALGIAGAGYVADNF LSTTSL DGK GF+SNDRL+
+Sbjct  9389  PNTQDGTPKNGRDHGGQWATRAAKYALGIAGAGYVADNFFLSTTSLRDGKAGFSSNDRLE  9210
+
+Query  119   KACAKAETYYARYHSATEDERASHSRPFVPIRTCGSNQFATMTDYRAATKVHVGHLFDSQ  178
+             KAC KAE+Y+ARYHSATE ERASHSRPFVPIRTCGSNQFATM+DYRAATKVH+GHLFDSQ
+Sbjct  9209  KACVKAESYHARYHSATEGERASHSRPFVPIRTCGSNQFATMSDYRAATKVHIGHLFDSQ  9030
+
+Query  179   AARESLVTNLACLKGERIKQECIIRYAPAQVPADPDLSKSELYDRKNKYSLVGMPNAQTG  238
+              AR+SL+TNLACLKGERI+ ECI +YAP  VPA+PDLS+S LY+ KNKYSL G+PNAQTG
+Sbjct  9029  HARQSLLTNLACLKGERIRDECIAQYAPTHVPANPDLSRSPLYETKNKYSLTGVPNAQTG  8850
+
+Query  239   ASGYTSRSITQPFINRGMEHFRQASQSDKALSLRQCMQSLERALQDTDKLGKQAQHAAGQ  298
+             ASGYTSRSITQPFINRGM+HF+Q SQSD+ALSL+QCM+ LER L+  DKLGKQAQHAAGQ
+Sbjct  8849  ASGYTSRSITQPFINRGMQHFKQDSQSDRALSLKQCMELLERTLEGDDKLGKQAQHAAGQ  8670
+
+Query  299   AILNFRQVYAADEHWGHPEKVIMKTLIANGLLSQEQTDRIDATLMFEDPSISVLKRNTSI  358
+             AILNFRQVYAADEHWGHPEKVIMKTLIANGLLSQEQTDRIDATLMFEDPSISVLK+NTS+
+Sbjct  8669  AILNFRQVYAADEHWGHPEKVIMKTLIANGLLSQEQTDRIDATLMFEDPSISVLKKNTSV  8490
+
+Query  359   AGPLLQKLETKIQSKRLQDQPETLADFMEMAKQKNMEGLPIAHFKLNAEGTGFEDCSGLG  418
+             AGPLLQ LETK QS+RLQD+PE LADFMEMAKQKNMEGLPI HFKLNA+G GFEDCSGLG
+Sbjct  8489  AGPLLQHLETKFQSRRLQDRPEALADFMEMAKQKNMEGLPIVHFKLNAQGNGFEDCSGLG  8310
+
+Query  419   DSFTSANAVACINHARLMSGEPRLSKEDVGVVVACLNAVYDDASSIRHSLHEIARGCFVG  478
+             DSFTSANAVACINHARLMSGEPRLSK+DVGVVVACLNAVYDDASS+RH+LHEIARGCFVG
+Sbjct  8309  DSFTSANAVACINHARLMSGEPRLSKQDVGVVVACLNAVYDDASSVRHTLHEIARGCFVG  8130
+
+Query  479   AGYTTEDADAFYEQICKDAARAFYAGKSMT  508
+             AGYTTEDAD FYE +CKDAA+AFYAG+SMT
+Sbjct  8129  AGYTTEDADVFYENVCKDAAQAFYAGRSMT  8040
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.128    0.366    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 694227692
+
+
+Query= XopAG2-WP_007970248.1
+
+Length=508
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000037.1 Xanthomonas campestris pv. campestris strain WH...  394     7e-123
+
+
+>JAYIMU010000037.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_37, whole genome shotgun sequence
+Length=40700
+
+ Score = 394 bits (1012),  Expect = 7e-123, Method: Compositional matrix adjust.
+ Identities = 218/492 (44%), Positives = 291/492 (59%), Gaps = 18/492 (4%)
+ Frame = -1
+
+Query  22    NSPTSAQTIGGANSLNEILSGLPSFSKNANRTSSSRK------TPR----RLASLAKTAM  71
+             ++P SA     A +   +L  LP+  KN  +  S R       TP+         A  A 
+Sbjct  9497  STPASASATPCAETTAGLLGALPA-RKNKQKQQSQRPPNTQDGTPKNGRDHGGQWATRAA  9321
+
+Query  72    KYVAGTAGAAYVYDNTANRFFLSTTSLHDGKQGFTSDARLQEAEKKAEAIYAEYHAHECP  131
+             KY  G AGA YV DN    FFLSTTSL DGK GF+S+ RL++A  KAE+ +A YH+    
+Sbjct  9320  KYALGIAGAGYVADN----FFLSTTSLRDGKAGFSSNDRLEKACVKAESYHARYHSATEG  9153
+
+Query  132   DKIEVKRTSLWPKLVGENAFVTMLDFRSATKVHLKELINTKEARDSIALNISCILGERIK  191
+             ++    R  +  +  G N F TM D+R+ATKVH+  L +++ AR S+  N++C+ GERI+
+Sbjct  9152  ERASHSRPFVPIRTCGSNQFATMSDYRAATKVHIGHLFDSQHARQSLLTNLACLKGERIR  8973
+
+Query  192   PALLTEHGVVQAPVAFDITKQDDFELKNKYSLLGVPNNDTGSYGYASRSILNPFIEKGEK  251
+                + ++     P   D+++   +E KNKYSL GVPN  TG+ GY SRSI  PFI +G +
+Sbjct  8972  DECIAQYAPTHVPANPDLSRSPLYETKNKYSLTGVPNAQTGASGYTSRSITQPFINRGMQ  8793
+
+Query  252   HHAQAIASDQALAPRDCVAALQPMLKNSQSLIPEAQFRAGQALLILRPLYCGPKTWGDAH  311
+             H  Q   SD+AL+ + C+  L+  L+    L  +AQ  AGQA+L  R +Y   + WG   
+Sbjct  8792  HFKQDSQSDRALSLKQCMELLERTLEGDDKLGKQAQHAAGQAILNFRQVYAADEHWGHPE  8613
+
+Query  312   KVLMPFLESKGLASTRENQRLGETRPFTPSDMEKGVARRNTSVAGPLLHELNMLIQKSIY  371
+             KV+M  L + GL S  +  R+  T  F   D    V ++NTSVAGPLL  L    Q    
+Sbjct  8612  KVIMKTLIANGLLSQEQTDRIDATLMF--EDPSISVLKKNTSVAGPLLQHLETKFQSRRL  8439
+
+Query  372   KKDEEGMSD-LRSKNLREMKYIPISHFRMNDDCTGFEDSSGLADSFTGYNVAAYINHARL  430
+             +   E ++D +     + M+ +PI HF++N    GFED SGL DSFT  N  A INHARL
+Sbjct  8438  QDRPEALADFMEMAKQKNMEGLPIVHFKLNAQGNGFEDCSGLGDSFTSANAVACINHARL  8259
+
+Query  431   LSGEDRLSKQDVVAVVGCLNAVYDNASSERHTLREIAHGCFVGAGYTVEDAEAFYKDVCK  490
+             +SGE RLSKQDV  VV CLNAVYD+ASS RHTL EIA GCFVGAGYT EDA+ FY++VCK
+Sbjct  8258  MSGEPRLSKQDVGVVVACLNAVYDDASSVRHTLHEIARGCFVGAGYTTEDADVFYENVCK  8079
+
+Query  491   DSAREFYGGEAL  502
+             D+A+ FY G ++
+Sbjct  8078  DAAQAFYAGRSM  8043
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.130    0.372    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 689257088
+
+
+Query= XopAH-WP_011037263.1
+
+Length=331
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000002.1 Xanthomonas campestris pv. campestris strain WH...  687     0.0  
+
+
+>JAYIMU010000002.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_2, whole genome shotgun sequence
+Length=349562
+
+ Score = 687 bits (1773),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 331/331 (100%), Positives = 331/331 (100%), Gaps = 0/331 (0%)
+ Frame = +2
+
+Query  1       MWSQPVWNPYASFDTGTASSHSQAVQGTATNYLRGPANYSKLSSEEQSLVGAARWPDDAP  60
+               MWSQPVWNPYASFDTGTASSHSQAVQGTATNYLRGPANYSKLSSEEQSLVGAARWPDDAP
+Sbjct  346457  MWSQPVWNPYASFDTGTASSHSQAVQGTATNYLRGPANYSKLSSEEQSLVGAARWPDDAP  346636
+
+Query  61      GLNISNKSNTQDNKKYCKSLYKASRIAGGSIASGQINSFNDLWQKATQWRLSRISSGDAS  120
+               GLNISNKSNTQDNKKYCKSLYKASRIAGGSIASGQINSFNDLWQKATQWRLSRISSGDAS
+Sbjct  346637  GLNISNKSNTQDNKKYCKSLYKASRIAGGSIASGQINSFNDLWQKATQWRLSRISSGDAS  346816
+
+Query  121     KGDFAAERMPNTRFVTSLRRPYHSVIERARNHPDAETELYEGEYFKEIEVKVYRQCGAIS  180
+               KGDFAAERMPNTRFVTSLRRPYHSVIERARNHPDAETELYEGEYFKEIEVKVYRQCGAIS
+Sbjct  346817  KGDFAAERMPNTRFVTSLRRPYHSVIERARNHPDAETELYEGEYFKEIEVKVYRQCGAIS  346996
+
+Query  181     GETIPMTTVSAAVDDNAISARLRNLPKDKRQQARQSMASSHPNMITHTSAEYIKTIRDHL  240
+               GETIPMTTVSAAVDDNAISARLRNLPKDKRQQARQSMASSHPNMITHTSAEYIKTIRDHL
+Sbjct  346997  GETIPMTTVSAAVDDNAISARLRNLPKDKRQQARQSMASSHPNMITHTSAEYIKTIRDHL  347176
+
+Query  241     ESLYLQAIDPSLEKHEAFELIARLHWWAASAAPDKRGSAAKAEFAARSIASAHGIEMPPF  300
+               ESLYLQAIDPSLEKHEAFELIARLHWWAASAAPDKRGSAAKAEFAARSIASAHGIEMPPF
+Sbjct  347177  ESLYLQAIDPSLEKHEAFELIARLHWWAASAAPDKRGSAAKAEFAARSIASAHGIEMPPF  347356
+
+Query  301     RHGIVPDIEAMLRSESQFVADYPNFFERPPI  331
+               RHGIVPDIEAMLRSESQFVADYPNFFERPPI
+Sbjct  347357  RHGIVPDIEAMLRSESQFVADYPNFFERPPI  347449
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.127    0.377    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 402711264
+
+
+Query= XopAI-WP_011052119.1
+
+Length=296
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000012.1 Xanthomonas campestris pv. campestris strain WH...  80.9    1e-17
+
+
+>JAYIMU010000012.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_12, whole genome shotgun sequence
+Length=135808
+
+ Score = 80.9 bits (198),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 43/58 (74%), Positives = 44/58 (76%), Gaps = 3/58 (5%)
+ Frame = +1
+
+Query  1    MGLCTSKP---SVVGSPVAGSPEHYLTHTAEQTTPSTPSSPEAPMSPSLHGLAALGSP  55
+            MGLC SK    SVVGSP+A SPEHY T   EQTTP  PSSPEA MSPSLH LAALGSP
+Sbjct  298  MGLCNSKSVAGSVVGSPIATSPEHYPTSATEQTTPFRPSSPEASMSPSLHDLAALGSP  471
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.127    0.380    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 346384687
+
+
+Query= XopAJ-WP_014504815.1
+
+Length=421
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.129    0.360    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 548486198
+
+
+Query= XopAK-WP_269466020.1
+
+Length=262
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.136    0.419    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 293383341
+
+
+Query= XopAL1-WP_274360846.1
+
+Length=305
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  638     0.0  
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 638 bits (1646),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 304/305 (99%), Positives = 305/305 (100%), Gaps = 0/305 (0%)
+ Frame = +1
+
+Query  1     MPKIHRSNGLHESHSPNGLAGFDQESIVKLHEYTAPEFLGLSKFSSKKKEVNASTMQNLK  60
+             MPKIHRSNGLHESHSPNGLAGFDQESIVKLHEYTAPEFLGLSKFSSKKKEVNASTMQNLK
+Sbjct  2902  MPKIHRSNGLHESHSPNGLAGFDQESIVKLHEYTAPEFLGLSKFSSKKKEVNASTMQNLK  3081
+
+Query  61    LAEDAVLKVKYLLPYGAGNQKTDISYTQGESWARRAMLRDNEYNQDPIQNAGRAVAYQAG  120
+             LAEDAVLKVKYLLPYGAGNQKTDISYTQGESWARRAMLRDNEYNQDPIQNAGRAVAYQAG
+Sbjct  3082  LAEDAVLKVKYLLPYGAGNQKTDISYTQGESWARRAMLRDNEYNQDPIQNAGRAVAYQAG  3261
+
+Query  121   NCNEHANVGYTLLAASSLNAPLLRVSDADEDHAYVLIGDPRDPTWGEKDTVVVDAWVTHP  180
+             NCNEHANVGYTLLAASSLNAPLLRVSDADEDHAYVLIGDPRDPTWGEKDTVVVDAWVTHP
+Sbjct  3262  NCNEHANVGYTLLAASSLNAPLLRVSDADEDHAYVLIGDPRDPTWGEKDTVVVDAWVTHP  3441
+
+Query  181   TAMTLDQSKGLNPQPTPLFQRPPRAQPDARATAALANVSPVTTENVNKYLLEQRGAPEIG  240
+             TAMTLDQSKGLNPQPTPLFQRPPRAQPDARATAALANVSPV+TENVNKYLLEQRGAPEIG
+Sbjct  3442  TAMTLDQSKGLNPQPTPLFQRPPRAQPDARATAALANVSPVSTENVNKYLLEQRGAPEIG  3621
+
+Query  241   QPLLRHIDAYVDTSKFFNERVSVGDPSTRYQSSALSSKSFDKIMYCTIEKENYADAAWRG  300
+             QPLLRHIDAYVDTSKFFNERVSVGDPSTRYQSSALSSKSFDKIMYCTIEKENYADAAWRG
+Sbjct  3622  QPLLRHIDAYVDTSKFFNERVSVGDPSTRYQSSALSSKSFDKIMYCTIEKENYADAAWRG  3801
+
+Query  301   NGFRW  305
+             NGFRW
+Sbjct  3802  NGFRW  3816
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 361300774
+
+
+Query= XopAL2-WP_012437264.1
+
+Length=293
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain WH...  82.4    3e-18
+
+
+>JAYIMU010000028.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_28, whole genome shotgun sequence
+Length=60376
+
+ Score = 82.4 bits (202),  Expect = 3e-18, Method: Compositional matrix adjust.
+ Identities = 63/212 (30%), Positives = 93/212 (44%), Gaps = 18/212 (8%)
+ Frame = +1
+
+Query  19    LCDIHDDRLQEITG--NFSPDPVAVSRKTFEAMGLASRVVKKTGYKTFPDGPGNQEAAIC  76
+             +  +H+    E  G   FS     V+  T + + LA   V K  Y   P G GNQ+  I 
+Sbjct  2980  IVKLHEYTAPEFLGLSKFSSKKKEVNASTMQNLKLAEDAVLKVKY-LLPYGAGNQKTDIS  3156
+
+Query  77    MSGGRSWTRMKLARDMINGGHCSDEFEELKTVKEFGGGSCGEHRRLSAAELRSMPRKMPV  136
+              + G SW R  + RD     +  D  +       +  G+C EH  +    L +     P+
+Sbjct  3157  YTQGESWARRAMLRD---NEYNQDPIQNAGRAVAYQAGNCNEHANVGYTLLAASSLNAPL  3327
+
+Query  137   IQVRDSGQDHNYVIIGDWRDRTVGDH-AVVVDPWPMLKKVHTYGERLESS-----TPIPL  190
+             ++V D+ +DH YV+IGD RD T G+   VVVD W      H     L+ S      P PL
+Sbjct  3328  LRVSDADEDHAYVLIGDPRDPTWGEKDTVVVDAW----VTHPTAMTLDQSKGLNPQPTPL  3495
+
+Query  191   MSYPPGPAEPNPSLSEALA-AEPAENSKMDRF  221
+                PP  A+P+   + ALA   P     ++++
+Sbjct  3496  FQRPPR-AQPDARATAALANVSPVSTENVNKY  3588
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.131    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 341412658
+
+
+Query= XopAM-WP_012438997.1
+
+Length=2049
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain WH...  4085    0.0  
+
+
+>JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_22, whole genome shotgun sequence
+Length=94299
+
+ Score = 4085 bits (10595),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 2048/2049 (99%), Positives = 2048/2049 (99%), Gaps = 0/2049 (0%)
+ Frame = +2
+
+Query  1      MTLPDSITRSSQSRQTPTLEPAEPATASPQSRPAPETAADILGALPARAGRRASSKTANA  60
+              MTLPDSITRSSQSRQTPTLEPAEPATASPQSRPAPETAADILGALPARAGRRASSKTANA
+Sbjct  64175  MTLPDSITRSSQSRQTPTLEPAEPATASPQSRPAPETAADILGALPARAGRRASSKTANA  64354
+
+Query  61     ALHVQNVSSHGGRRARMHLEGAAAADGDVTSLMEACLARRPVVHSESSLGGGGRLLRYMP  120
+              ALHVQNVSSHGGRRARMHLEGAAAADGDVTSLMEACLARRPVVHSESSLGGGGRLLRYMP
+Sbjct  64355  ALHVQNVSSHGGRRARMHLEGAAAADGDVTSLMEACLARRPVVHSESSLGGGGRLLRYMP  64534
+
+Query  121    DRDDSRMPRNEAFFTTIPGLLIAALTVHPAVERRTGTTPTADQVASQLADPPIGQLTGIW  180
+              DRDDSRMPRNEAFFTTIPGLLIAALTVHPAVERRTGTTPTADQVASQLADPPIGQLTGIW
+Sbjct  64535  DRDDSRMPRNEAFFTTIPGLLIAALTVHPAVERRTGTTPTADQVASQLADPPIGQLTGIW  64714
+
+Query  181    QAADGQCFALRANQLHRVEASGHWAAVPLPPACDAIAHLCMLGRQADGGVYVRAGELCWR  240
+              QAADGQCFALRANQLHRVEASGHWAAVPLPPACDAIAHLCMLGRQADGGVYVRAGELCWR
+Sbjct  64715  QAADGQCFALRANQLHRVEASGHWAAVPLPPACDAIAHLCMLGRQADGGVYVRAGELCWR  64894
+
+Query  241    AGNEQMSIAVGPTPEGALLRFDADGRPCMLHAGVLRRCDDDQPGRVVELTRPVAGGPAFE  300
+              AGNEQMSIAVGPTPEGALLRFDADGRPCMLHAGVLRRCDDDQPGRVVELTRPVAGGPAFE
+Sbjct  64895  AGNEQMSIAVGPTPEGALLRFDADGRPCMLHAGVLRRCDDDQPGRVVELTRPVAGGPAFE  65074
+
+Query  301    STPAMPVDVLPLAHAAVLVLDDKGRVYEADMRGSGPIVARRLTLPRPMGSEQGWAVTSMG  360
+              STPAMPVDVLPLAHAAVLVLDDKGRVYEADMRGSGPIVARRLTLPRPMGSEQGWAVTSMG
+Sbjct  65075  STPAMPVDVLPLAHAAVLVLDDKGRVYEADMRGSGPIVARRLTLPRPMGSEQGWAVTSMG  65254
+
+Query  361    LSTDHSVHLLLEHSDGRRISLQRPAGQAQFQPAFMLDRPLLLMRSEGLQMPADEAMQSRV  420
+              LSTDHSVHLLLEHSDGRRISLQRPAGQAQFQPAFMLDRPLLLMRSEGLQMPADEAMQSRV
+Sbjct  65255  LSTDHSVHLLLEHSDGRRISLQRPAGQAQFQPAFMLDRPLLLMRSEGLQMPADEAMQSRV  65434
+
+Query  421    VLDGHAQLGHLDGVLHYSPSPNQPWERLTLPGGAPLTGVVSLHSGPRGFVDRRPVFALLA  480
+              VLDGHAQLGHLDGVLHYSPSPNQPWERLTLPGGAPLTGVVSLHSGPRGFVDRRPVFALLA
+Sbjct  65435  VLDGHAQLGHLDGVLHYSPSPNQPWERLTLPGGAPLTGVVSLHSGPRGFVDRRPVFALLA  65614
+
+Query  481    APSRLVELKLPGRTTWLAAHAAPSTPSGGPLAVVPDVVEVRCLPIARFDEDIAQAAVHAD  540
+              APSRLVELKLPGRTTWLAAHAAPSTPSGGPLAVVPDVVEVRCLPIARFDEDIAQAAVHAD
+Sbjct  65615  APSRLVELKLPGRTTWLAAHAAPSTPSGGPLAVVPDVVEVRCLPIARFDEDIAQAAVHAD  65794
+
+Query  541    RSAVVMAASGRLIKVDADRNSGDVPALEGVVAIAVGLDDALYALSQPGDGSAHVHRLSHD  600
+              RSAVVMAASGRLIKVDADRNSGDVPALEGVVAIAVGLDDALYALSQPGDGSAHVHRLSHD
+Sbjct  65795  RSAVVMAASGRLIKVDADRNSGDVPALEGVVAIAVGLDDALYALSQPGDGSAHVHRLSHD  65974
+
+Query  601    HDRWEAFPVTLPQTSPLPSALRTTRTGQLQLRLGAQWHTVLPAMTGPDRARLPARVAAHA  660
+              HDRWEAFPVTLPQTSPLPSALRTTRTGQLQLRLGAQWHTVLPAMTGPDRARLPARVAAHA
+Sbjct  65975  HDRWEAFPVTLPQTSPLPSALRTTRTGQLQLRLGAQWHTVLPAMTGPDRARLPARVAAHA  66154
+
+Query  661    SPDDVAVSGTQSGSNARVNRQQASRLRTPDHDAAVSTTLLGTTSTDPLSLRSNARVLAQS  720
+              SPDDVAVSGTQSGSNARVNRQQASRLRTPDHDAAVSTTLLGTTSTDPLSLRSNARVLAQS
+Sbjct  66155  SPDDVAVSGTQSGSNARVNRQQASRLRTPDHDAAVSTTLLGTTSTDPLSLRSNARVLAQS  66334
+
+Query  721    GRAQAAALVKVLTDVAGGTARAVAGWTGVGYAPTTQQRRLARFRSEAEQVLSLALEMFDT  780
+              GRAQAAALVKVLTDVAGGTARAVAGWTGVGYAPTTQQRRLARFRSEAEQVLSLALEMFDT
+Sbjct  66335  GRAQAAALVKVLTDVAGGTARAVAGWTGVGYAPTTQQRRLARFRSEAEQVLSLALEMFDT  66514
+
+Query  781    LPVLAEARIAGAAGPHQPAALSQSQHERLTTLRKTTLAGLLRDLRKIGFREGVLAADFSM  840
+              LPVLAEARIAGAAGPHQPAALSQSQHERLTTLRKTTLAGLLRDLRKIGFREGVLAADFSM
+Sbjct  66515  LPVLAEARIAGAAGPHQPAALSQSQHERLTTLRKTTLAGLLRDLRKIGFREGVLAADFSM  66694
+
+Query  841    ADGGCTQRASSTASYRAAELWRRARSAVMRTTVQNSDDMLPHLDRCIAALAGGASLHPQA  900
+              ADGGCTQRASSTASYRAAELWRRARSAVMRTTVQNSDDMLPHLDRCIAALAGGASLHPQA
+Sbjct  66695  ADGGCTQRASSTASYRAAELWRRARSAVMRTTVQNSDDMLPHLDRCIAALAGGASLHPQA  66874
+
+Query  901    LTAMEHAQLAELREVSHRLKAAGVRLPIRNGRATDASSDPHALRSACLLASLMEYNALLD  960
+              LTAMEHAQLAELREVSHRLKAAGVRLPIRNGRATDASSDPHALRSACLLASLMEYNALLD
+Sbjct  66875  LTAMEHAQLAELREVSHRLKAAGVRLPIRNGRATDASSDPHALRSACLLASLMEYNALLD  67054
+
+Query  961    VDDAAALEAADARQRQSGLRALAKLGLSSWRELEAFDDVVTTFREEVATPGSARQLQLLK  1020
+              VDDAAALEAADARQRQSGLRALAKLGLSSWRELEAFDDVVTTFREEVATPGSARQLQLLK
+Sbjct  67055  VDDAAALEAADARQRQSGLRALAKLGLSSWRELEAFDDVVTTFREEVATPGSARQLQLLK  67234
+
+Query  1021   SIGLSPGAAPDEMAARMIDVLQDLFNRSTFFTSRVRSAELRGSLGSTQWMDLNPVSVGMG  1080
+              SIGLSPGAAPDEMAARMIDVLQDLFNRSTFFTSRVRSAELRGSLGSTQWMDLNPVSVGMG
+Sbjct  67235  SIGLSPGAAPDEMAARMIDVLQDLFNRSTFFTSRVRSAELRGSLGSTQWMDLNPVSVGMG  67414
+
+Query  1081   GEAIHALGVERIGDSKDGDAGLVAFFVRHAKATASGTAGIRIDLRPGPGTGAHVYDADPA  1140
+              GEAIHALGVERIGDSKDGDAGLVAFFVRHAKATASGTAGIRIDLRPGPGTGAHVYDADPA
+Sbjct  67415  GEAIHALGVERIGDSKDGDAGLVAFFVRHAKATASGTAGIRIDLRPGPGTGAHVYDADPA  67594
+
+Query  1141   RTLSATWGGAANLSAGGTYQHGVGAAVILSPSTIPEFARLLFDRHDDDTTKLLRAGVNEG  1200
+              RTLSATWGGAANLSAGGTYQHGVGAAVILSPSTIPEFARLLFDRHDDDTTKLLRAGVNEG
+Sbjct  67595  RTLSATWGGAANLSAGGTYQHGVGAAVILSPSTIPEFARLLFDRHDDDTTKLLRAGVNEG  67774
+
+Query  1201   AIGLDLFETNANGSLNVNLTLQPLAVRHSYGPRQPVAPNAAPDAAGTDNPRSAVSASLPF  1260
+              AIGLDLFETNANGSLNVNLTLQPLAVRHSYGPRQPVAPNAAPDAAGTDNPRSAVSASLPF
+Sbjct  67775  AIGLDLFETNANGSLNVNLTLQPLAVRHSYGPRQPVAPNAAPDAAGTDNPRSAVSASLPF  67954
+
+Query  1261   SMTAQAGVQWSQMELHLDHAWQEIIGLEFQGRVGLTAEVSSGINLSGALTSVLGRNFARL  1320
+              SMTAQAGVQWSQMELHLDHAWQEIIGLEFQGRVGLTAEVSSGINLSGALTSVLGRNFARL
+Sbjct  67955  SMTAQAGVQWSQMELHLDHAWQEIIGLEFQGRVGLTAEVSSGINLSGALTSVLGRNFARL  68134
+
+Query  1321   VNAVTGAGNLQLAGVRVASSDVQLPTDAPLDDTRTGPLLGTASYKRTLDTQAAQPISPQA  1380
+              VNAVTGAGNLQLAGVRVASSDVQLPTDAPLDDTRTGPLLGTASYKRTLDTQAAQPISPQA
+Sbjct  68135  VNAVTGAGNLQLAGVRVASSDVQLPTDAPLDDTRTGPLLGTASYKRTLDTQAAQPISPQA  68314
+
+Query  1381   WDAMRKRLEEIIPESMAELDGMRYPATPGERRDVLLKAIERIQGAQARAIEAGALLEGPA  1440
+              WDAMRKRLEEIIPESMAELDGMRYPATPGERRDVLLKAIERIQGAQARAIEAGALLEGPA
+Sbjct  68315  WDAMRKRLEEIIPESMAELDGMRYPATPGERRDVLLKAIERIQGAQARAIEAGALLEGPA  68494
+
+Query  1441   LAQQRACAEQATLAEASSLWKGGSPSERAAMVDLLHQLRQEDAAAIQQRARIIPGARVEI  1500
+              LAQQRACAEQATLAEASSLWKGGSPSERAAMVDLLHQLRQEDAAAIQQRARIIPGARVEI
+Sbjct  68495  LAQQRACAEQATLAEASSLWKGGSPSERAAMVDLLHQLRQEDAAAIQQRARIIPGARVEI  68674
+
+Query  1501   NMFGRESLDAVVSHAIGHYALGEKMRDVAELRRKIPGLGEVLQRFKDVPNVNQVRFVFEM  1560
+              NMFGRESLDAVVSHAIGHYALGEKMRDVAELRRKIPGLGEVLQRFKDVPNVNQVRFVFEM
+Sbjct  68675  NMFGRESLDAVVSHAIGHYALGEKMRDVAELRRKIPGLGEVLQRFKDVPNVNQVRFVFEM  68854
+
+Query  1561   RPQAIVAINDALEVKQHAQAAAALGLREPAGAMAWRDALVAAQRSPDLYRLAAIAVHNTD  1620
+              RPQAIVAINDALEVKQHAQAAAALGLREPAGAMAWRDALVAAQRSPDLYRLAAIAVHNTD
+Sbjct  68855  RPQAIVAINDALEVKQHAQAAAALGLREPAGAMAWRDALVAAQRSPDLYRLAAIAVHNTD  69034
+
+Query  1621   ENPVTSRVGLPLLNVAATAVSSHQLFEAEIQFRYGLYDRIEGAEVLEAGVRALRQSLDPL  1680
+              ENPVTSRVGLPLLNVAATAVSSHQLFEAEIQFRYGLYDRIEGAEVLEAGVRALRQSLDPL
+Sbjct  69035  ENPVTSRVGLPLLNVAATAVSSHQLFEAEIQFRYGLYDRIEGAEVLEAGVRALRQSLDPL  69214
+
+Query  1681   QVVGVQALGQRQRANIPSSVPASPRGERPRLKEARDLEFERHLQMGVVPVGPHLRALTRD  1740
+              QVVGVQALGQRQRANIPSSVP SPRGERPRLKEARDLEFERHLQMGVVPVGPHLRALTRD
+Sbjct  69215  QVVGVQALGQRQRANIPSSVPVSPRGERPRLKEARDLEFERHLQMGVVPVGPHLRALTRD  69394
+
+Query  1741   LTRFEEQTQRTVAQYLAHDALADAVSGAQANVGERINQLLARLAPADDGVTEAAITGSGL  1800
+              LTRFEEQTQRTVAQYLAHDALADAVSGAQANVGERINQLLARLAPADDGVTEAAITGSGL
+Sbjct  69395  LTRFEEQTQRTVAQYLAHDALADAVSGAQANVGERINQLLARLAPADDGVTEAAITGSGL  69574
+
+Query  1801   HRRLASLQACRDAVHQATDALDKAYDDFRTHMDASRAENRDIAAVQHAFEFLQRAAECDH  1860
+              HRRLASLQACRDAVHQATDALDKAYDDFRTHMDASRAENRDIAAVQHAFEFLQRAAECDH
+Sbjct  69575  HRRLASLQACRDAVHQATDALDKAYDDFRTHMDASRAENRDIAAVQHAFEFLQRAAECDH  69754
+
+Query  1861   TLVSAVDVLLRRTAEIYEVQDRELRDMDDRLDDLLPRLDGLGQASELERRAFEDAEQRLV  1920
+              TLVSAVDVLLRRTAEIYEVQDRELRDMDDRLDDLLPRLDGLGQASELERRAFEDAEQRLV
+Sbjct  69755  TLVSAVDVLLRRTAEIYEVQDRELRDMDDRLDDLLPRLDGLGQASELERRAFEDAEQRLV  69934
+
+Query  1921   EVRNEALQVLDRHAGGTDAAKAIDAEGKAEAIKTLEDAMKDALQQMAATRDRIAELVSLK  1980
+              EVRNEALQVLDRHAGGTDAAKAIDAEGKAEAIKTLEDAMKDALQQMAATRDRIAELVSLK
+Sbjct  69935  EVRNEALQVLDRHAGGTDAAKAIDAEGKAEAIKTLEDAMKDALQQMAATRDRIAELVSLK  70114
+
+Query  1981   DSLCARLADDVGALRDIDEHTLAARSVVMQARDLGAGAHAAIVAMLKELSDDDAPGQDVA  2040
+              DSLCARLADDVGALRDIDEHTLAARSVVMQARDLGAGAHAAIVAMLKELSDDDAPGQDVA
+Sbjct  70115  DSLCARLADDVGALRDIDEHTLAARSVVMQARDLGAGAHAAIVAMLKELSDDDAPGQDVA  70294
+
+Query  2041   GSQITSGQE  2049
+              GSQITSGQE
+Sbjct  70295  GSQITSGQE  70321
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.131    0.379    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3222231558
+
+
+Query= XopAO-WP_162267513.1
+
+Length=207
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.124    0.343    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 205557652
+
+
+Query= XopAP-WP_236504155.1
+
+Length=426
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.132    0.410    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 556771488
+
+
+Query= XopAQ-WP_233366621.1
+
+Length=93
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.310    0.125    0.350    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 41478700
+
+
+Query= XopAR-APO95022.1
+
+Length=132
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000013.1 Xanthomonas campestris pv. campestris strain WH...  174     2e-52
+
+
+>JAYIMU010000013.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_13, whole genome shotgun sequence
+Length=133785
+
+ Score = 174 bits (442),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 86/131 (66%), Positives = 103/131 (79%), Gaps = 0/131 (0%)
+ Frame = -3
+
+Query  1      MTSPIRGASSSNYHYSVASSPESSPPQQRQPAGLQPSAEFTGLERMSGRRRRPAEIFNVR  60
+              MTSPIRGASSS+Y+YS  S+PESSPPQQ Q +   PSA+F+GL+ MS R RR  E+ NVR
+Sbjct  91291  MTSPIRGASSSSYNYSHESNPESSPPQQGQTSNPPPSAQFSGLQHMSSRHRRRGELLNVR  91112
+
+Query  61     FSTDNPAIHEVPCEDRKPDIVLQEDTELSRRAGMLYGGYPQGLPSDVKKSIKKDYKLYNE  120
+              FST+ P +H++P EDRKP IVL +DT LS RAG LY  YP+GLPSDVK+S K+D KLY  
+Sbjct  91111  FSTEEPTVHDLPREDRKPGIVLSDDTALSYRAGQLYATYPRGLPSDVKRSTKRDPKLYAA  90932
+
+Query  121    YKDILKNKGYK  131
+              YKD+LKN GYK
+Sbjct  90931  YKDLLKNNGYK  90899
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.376    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 91206115
+
+
+Query= XopAS-WP_229015407.1
+
+Length=1375
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.129    0.368    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2111537700
+
+
+Query= XopAT-AEL06363.1
+
+Length=211
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.128    0.377    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 212188544
+
+
+Query= XopAU-WP_041855031.1
+
+Length=524
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.134    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 715766976
+
+
+Query= XopAV1-WP_065628638.1
+
+Length=258
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain WH...  118     1e-30
+
+
+>JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_22, whole genome shotgun sequence
+Length=94299
+
+ Score = 118 bits (295),  Expect = 1e-30, Method: Compositional matrix adjust.
+ Identities = 96/241 (40%), Positives = 122/241 (51%), Gaps = 23/241 (10%)
+ Frame = +3
+
+Query  11     MRPLALTSVTRRGARREQQEGATVADAGPPAPANDPHANTQLAQSLPRRPVREARLRAPG  70
+              M    +TSV R   R +Q+E     + G  +   DP AN QL Q L R PVR ARL+AP 
+Sbjct  43797  MGSFPVTSVAREAVRHDQREAQAPREVGYSSQRGDPQANPQLKQDLSRAPVRAARLKAPR  43976
+
+Query  71     TPRGVPLVNLGRTMAHLGAVGAAVWGGFAAIQAPAAAAY------------GYFNDDLYY  118
+               P GV + N G   A             +A+  PA AA              Y   ++ +
+Sbjct  43977  VPIGVHIANTGLQAARFAT---------SAVAGPAEAAVLDAVHAPAAAAYDYAKGEVSW  44129
+
+Query  119    KNLAVVSGYQAVGALAAFLGMGLADVLAARYVEAQSRWYEVPTKAQRASELGATEACLDQ  178
+              K  A V+   A+        +     LA RY++AQS+     +KA RA ELG TEACLD 
+Sbjct  44130  KKNAGVTLAPALAYAVVMGTLSAVQYLANRYLQAQSQ--TSVSKADRAKELGVTEACLDA  44303
+
+Query  179    AVDMVTRLDADPPGPGMDEGERLALARDLMHLMTVERSRLPPDLWRAARGAGNDAYGLVA  238
+              AV MV + +   PG  M E E  ALA DL +L T +RSRLPP+LWRAA G G+DAY LV 
+Sbjct  44304  AVAMVNKGEVAGPGGEMTEEEAAALAADLQNLATADRSRLPPELWRAASGVGDDAYALVT  44483
+
+Query  239    R  239
+              +
+Sbjct  44484  Q  44486
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.131    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 286753209
+
+
+Query= XopAV2-WP_011269951.1
+
+Length=249
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain WH...  481     1e-157
+
+
+>JAYIMU010000022.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_22, whole genome shotgun sequence
+Length=94299
+
+ Score = 481 bits (1239),  Expect = 1e-157, Method: Compositional matrix adjust.
+ Identities = 245/246 (99%), Positives = 245/246 (99%), Gaps = 0/246 (0%)
+ Frame = +3
+
+Query  1      MGSFPVTSVAREAVRHDQREAQAPREVGYSSQRGDPQANPQLKQDLSRAPVRAARLKAPR  60
+              MGSFPVTSVAREAVRHDQREAQAPREVGYSSQRGDPQANPQLKQDLSRAPVRAARLKAPR
+Sbjct  43797  MGSFPVTSVAREAVRHDQREAQAPREVGYSSQRGDPQANPQLKQDLSRAPVRAARLKAPR  43976
+
+Query  61     VPIGVHIANTGLQAARFATSAVAGPAEAAVLDAVHAPAAAAYDYAKGEVSWKKNAGVTLA  120
+              VPIGVHIANTGLQAARFATSAVAGPAEAAVLDAVHAPAAAAYDYAKGEVSWKKNAGVTLA
+Sbjct  43977  VPIGVHIANTGLQAARFATSAVAGPAEAAVLDAVHAPAAAAYDYAKGEVSWKKNAGVTLA  44156
+
+Query  121    PALAYAVVMGTLSAVQYLANRYLQAQSQTSVSKADRAKELGVTEACLDAAAAMVNKGEVA  180
+              PALAYAVVMGTLSAVQYLANRYLQAQSQTSVSKADRAKELGVTEACLDAA AMVNKGEVA
+Sbjct  44157  PALAYAVVMGTLSAVQYLANRYLQAQSQTSVSKADRAKELGVTEACLDAAVAMVNKGEVA  44336
+
+Query  181    GPGGEMTEEEAAALAADLQNLATADRSRLPPELWRAASGVGDDAYALVTQLLLAARARAS  240
+              GPGGEMTEEEAAALAADLQNLATADRSRLPPELWRAASGVGDDAYALVTQLLLAARARAS
+Sbjct  44337  GPGGEMTEEEAAALAADLQNLATADRSRLPPELWRAASGVGDDAYALVTQLLLAARARAS  44516
+
+Query  241    AEASAS  246
+              AEASAS
+Sbjct  44517  AEASAS  44534
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.123    0.339    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 271835412
+
+
+Query= XopAW-WP_011348129.1
+
+Length=221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.302    0.120    0.315    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 227095036
+
+
+Query= XopAX-WP_041854960.1
+
+Length=353
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000031.1 Xanthomonas campestris pv. campestris strain WH...  726     0.0  
+
+
+>JAYIMU010000031.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_31, whole genome shotgun sequence
+Length=55059
+
+ Score = 726 bits (1875),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 353/353 (100%), Positives = 353/353 (100%), Gaps = 0/353 (0%)
+ Frame = +1
+
+Query  1      MRITNDNYSPIELLAEIATRRGTTSADTHRFFQGGKTSHDWLVEEWSSRVDCILESFKRY  60
+              MRITNDNYSPIELLAEIATRRGTTSADTHRFFQGGKTSHDWLVEEWSSRVDCILESFKRY
+Sbjct  47683  MRITNDNYSPIELLAEIATRRGTTSADTHRFFQGGKTSHDWLVEEWSSRVDCILESFKRY  47862
+
+Query  61     GIDVNATQFVRDQGIDVLLRVPNHQGKEWRLGFQIKSEQEAERDRTKKPGQENMIGTLKR  120
+              GIDVNATQFVRDQGIDVLLRVPNHQGKEWRLGFQIKSEQEAERDRTKKPGQENMIGTLKR
+Sbjct  47863  GIDVNATQFVRDQGIDVLLRVPNHQGKEWRLGFQIKSEQEAERDRTKKPGQENMIGTLKR  48042
+
+Query  121    QAHDAFERVDEWWILCCFDLDKHYKLVQGISSELTGGKQNRLIRVIDPRACAAMLRMSEA  180
+              QAHDAFERVDEWWILCCFDLDKHYKLVQGISSELTGGKQNRLIRVIDPRACAAMLRMSEA
+Sbjct  48043  QAHDAFERVDEWWILCCFDLDKHYKLVQGISSELTGGKQNRLIRVIDPRACAAMLRMSEA  48222
+
+Query  181    EVDAFCTLLLCRDDAVLRAAREEVAACHPNVGAFVLEHIVPALVDGERVSREEVASFLEE  240
+              EVDAFCTLLLCRDDAVLRAAREEVAACHPNVGAFVLEHIVPALVDGERVSREEVASFLEE
+Sbjct  48223  EVDAFCTLLLCRDDAVLRAAREEVAACHPNVGAFVLEHIVPALVDGERVSREEVASFLEE  48402
+
+Query  241    AFRKSERERLEDGGGEDDDCEAVIELDEDADEHGSVQDGIDDDEEFEDLDIHEMLQELES  300
+              AFRKSERERLEDGGGEDDDCEAVIELDEDADEHGSVQDGIDDDEEFEDLDIHEMLQELES
+Sbjct  48403  AFRKSERERLEDGGGEDDDCEAVIELDEDADEHGSVQDGIDDDEEFEDLDIHEMLQELES  48582
+
+Query  301    NGFLAAGTYDDDYRISPTAFPGVCALFFEARVRHGLNDDAAASYMRWLTLRQH  353
+              NGFLAAGTYDDDYRISPTAFPGVCALFFEARVRHGLNDDAAASYMRWLTLRQH
+Sbjct  48583  NGFLAAGTYDDDYRISPTAFPGVCALFFEARVRHGLNDDAAASYMRWLTLRQH  48741
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.136    0.412    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 439170720
+
+
+Query= XopAZ-WP_104549896.1
+
+Length=157
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIMU010000054.1 Xanthomonas campestris pv. campestris strain WH...  277     7e-88
+JAYIMU010000004.1 Xanthomonas campestris pv. campestris strain WH...  115     3e-31
+
+
+>JAYIMU010000054.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_54, whole genome shotgun sequence
+Length=8295
+
+ Score = 277 bits (708),  Expect = 7e-88, Method: Compositional matrix adjust.
+ Identities = 133/155 (86%), Positives = 148/155 (95%), Gaps = 0/155 (0%)
+ Frame = -2
+
+Query  1     MEISQGRVATIHYTLSDDTGQVLDRSTPDTPLSYLHGAGNIVPGLEQALDGKRLGETLTA  60
+             MEI+QGRVATIHYTLSDD+GQVLDRSTPDTPLSYLHGAGNIVPGLEQALDGKR G+TLTA
+Sbjct  5408  MEITQGRVATIHYTLSDDSGQVLDRSTPDTPLSYLHGAGNIVPGLEQALDGKRTGDTLTA  5229
+
+Query  61    DVAPEQGYGPRHAQLIQQVPRDAFPTDIEVVPGVQFEARTQQGPVLVTVTDVGPEHVTVD  120
+             DVAPEQGYGPRHAQLIQ VPR+AFP+D++VVPG QFEARTQQGPV+VTVT+VGPE VTVD
+Sbjct  5228  DVAPEQGYGPRHAQLIQHVPREAFPSDVDVVPGAQFEARTQQGPVMVTVTEVGPEQVTVD  5049
+
+Query  121   GNHPLAGKSLHFAVEVIEVREATTEELNEGHVANL  155
+             GNHPLAG++LHFAVEV  VREATTEEL++GHV ++
+Sbjct  5048  GNHPLAGQTLHFAVEVTAVREATTEELDQGHVTDI  4944
+
+
+>JAYIMU010000004.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8436 scf_83258_4, whole genome shotgun sequence
+Length=257564
+
+ Score = 115 bits (288),  Expect = 3e-31, Method: Compositional matrix adjust.
+ Identities = 67/146 (46%), Positives = 86/146 (59%), Gaps = 1/146 (1%)
+ Frame = +2
+
+Query  1       MEISQGRVATIHYTLSDDTGQVLDRSTPDTPLSYLHGAGNIVPGLEQALDGKRLGETLTA  60
+               M+I +  V   HYT+S+   + ++ S    PL+ L G GNI+PGLE A+  K  GE+   
+Sbjct  197255  MKIEKDSVVRFHYTVSELGQEPIESSKERDPLAILIGHGNIIPGLEAAMMDKEAGESFGV  197434
+
+Query  61      DVAPEQGYGPRHAQLIQQVPRDAFPTDIEVVPGVQFEARTQQGPVLVTVTDVGPEHVTVD  120
+               DV   + YG     L Q+VP+  F    ++VPG Q   +T  GP  VTV  VG   V VD
+Sbjct  197435  DVKATEAYGEYREGLSQRVPKKHFGAT-KLVPGTQVVLQTNFGPRAVTVQKVGMSVVDVD  197611
+
+Query  121     GNHPLAGKSLHFAVEVIEVREATTEE  146
+                NHP+AGK LHF VE+IEVREAT EE
+Sbjct  197612  LNHPMAGKDLHFDVEIIEVREATQEE  197689
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.133    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 127666616
+
+
+Query= XopBA-WP_227478587.1
+
+Length=500
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.132    0.380    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 677697867
+
+
+Query= XopBB-WP_251761698.1
+
+Length=220
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.127    0.381    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 225437408
+
+
+Query= XopBG-WP_145953988.1
+
+Length=158
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.133    0.388    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 129324624
+
+
+  Database: WHRI_8436_Race_4.contig
+    Posted date:  Nov 21, 2024  4:05 PM
+  Number of letters in database: 4,996,825
+  Number of sequences in database:  95
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
