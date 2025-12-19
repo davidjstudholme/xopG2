@@ -8,7 +8,7 @@ protein database search programs", Nucleic Acids Res. 25:3389-3402.
 
 
 
-Database: ATCC_33913.fasta
+Database: ATCC_33913_Clade_C.fasta
            1 sequences; 5,076,188 total letters
 
 
@@ -59,8 +59,8 @@ Lambda      K        H        a         alpha    sigma
 Effective search space used: 209805396
 
 
-  Database: ATCC_33913.fasta
-    Posted date:  Dec 15, 2025  3:28 PM
+  Database: ATCC_33913_Clade_C.fasta
+    Posted date:  Dec 19, 2025  8:58 PM
   Number of letters in database: 5,076,188
   Number of sequences in database:  1
 

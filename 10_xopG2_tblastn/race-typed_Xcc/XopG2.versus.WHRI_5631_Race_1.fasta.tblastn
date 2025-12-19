@@ -8,8 +8,8 @@ protein database search programs", Nucleic Acids Res. 25:3389-3402.
 
 
 
-Database: WHRI_5737_Race_1.fasta
-           104 sequences; 4,991,209 total letters
+Database: WHRI_5631_Race_1.fasta
+           105 sequences; 5,025,290 total letters
 
 
 
@@ -20,33 +20,33 @@ Length=207
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-JAUINU010000025.1 Xanthomonas campestris pv. campestris strain 57...  425     1e-138
+JAUING010000039.1 Xanthomonas campestris pv. campestris strain 56...  422     1e-137
 
 
->JAUINU010000025.1 Xanthomonas campestris pv. campestris strain 
-5737 NODE_25_length_67814_cov_167.103370, whole genome shotgun 
+>JAUING010000039.1 Xanthomonas campestris pv. campestris strain 
+5631 NODE_39_length_46195_cov_50.691444, whole genome shotgun 
 sequence
-Length=67814
+Length=46195
 
- Score = 425 bits (1093),  Expect = 1e-138, Method: Compositional matrix adjust.
- Identities = 207/207 (100%), Positives = 207/207 (100%), Gaps = 0/207 (0%)
- Frame = -3
+ Score = 422 bits (1086),  Expect = 1e-137, Method: Compositional matrix adjust.
+ Identities = 206/207 (99%), Positives = 206/207 (99%), Gaps = 0/207 (0%)
+ Frame = +2
 
 Query  1      MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP  60
               MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP
-Sbjct  29169  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP  28990
+Sbjct  45506  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKVLLNESP  45685
 
 Query  61     PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM  120
               PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM
-Sbjct  28989  PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM  28810
+Sbjct  45686  PWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVNWSPGVGLM  45865
 
 Query  121    VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGKEELRATGL  180
-              VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGKEELRATGL
-Sbjct  28809  VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGKEELRATGL  28630
+              VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMS DFKHGGDRLDPKSKSGKEELRATGL
+Sbjct  45866  VDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMS*DFKHGGDRLDPKSKSGKEELRATGL  46045
 
 Query  181    GKYASERVSENSIRAENGLPIRKHYAG  207
               GKYASERVSENSIRAENGLPIRKHYAG
-Sbjct  28629  GKYASERVSENSIRAENGLPIRKHYAG  28549
+Sbjct  46046  GKYASERVSENSIRAENGLPIRKHYAG  46126
 
 
 
@@ -57,13 +57,13 @@ Gapped
 Lambda      K        H        a         alpha    sigma
    0.267   0.0410    0.140     1.90     42.6     43.6 
 
-Effective search space used: 205232896
+Effective search space used: 206631244
 
 
-  Database: WHRI_5737_Race_1.fasta
-    Posted date:  Dec 15, 2025  3:28 PM
-  Number of letters in database: 4,991,209
-  Number of sequences in database:  104
+  Database: WHRI_5631_Race_1.fasta
+    Posted date:  Dec 19, 2025  8:58 PM
+  Number of letters in database: 5,025,290
+  Number of sequences in database:  105
 
 
 
