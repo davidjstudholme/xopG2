@@ -1,1 +1,1 @@
-../01_genomes/genomes.txt
+../02_genomes_race-typed/genomes.txt
