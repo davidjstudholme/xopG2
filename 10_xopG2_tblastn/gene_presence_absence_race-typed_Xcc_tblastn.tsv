@@ -25,6 +25,7 @@ File	Coverage (%)	Sequence identity (%)
 ./race-typed_Xcc/XopG2.versus.WHRI_3883_Race_5.fasta.tblastn	100	100
 ./race-typed_Xcc/XopG2.versus.WHRI_3964_Race_4.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_5190_Race_4.fasta.tblastn		
+./race-typed_Xcc/XopG2.versus.WHRI_5494A_Race_1.fasta.tblastn	80	100
 ./race-typed_Xcc/XopG2.versus.WHRI_5495_Race_1.fasta.tblastn	74	100
 ./race-typed_Xcc/XopG2.versus.WHRI_5499_Race_1.fasta.tblastn	74	100
 ./race-typed_Xcc/XopG2.versus.WHRI_5582_Race_4.fasta.tblastn		
@@ -34,7 +35,6 @@ File	Coverage (%)	Sequence identity (%)
 ./race-typed_Xcc/XopG2.versus.WHRI_5592_Race_1.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_5594_Race_1.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_5630_Race_1.fasta.tblastn	100	99
-./race-typed_Xcc/XopG2.versus.WHRI_5631_Race_1.fasta.tblastn	100	99
 ./race-typed_Xcc/XopG2.versus.WHRI_5714B_Race_1.fasta.tblastn	80	100
 ./race-typed_Xcc/XopG2.versus.WHRI_5715A_Race_1.fasta.tblastn	80	100
 ./race-typed_Xcc/XopG2.versus.WHRI_5733_Race_1.fasta.tblastn	80	100
@@ -62,7 +62,6 @@ File	Coverage (%)	Sequence identity (%)
 ./race-typed_Xcc/XopG2.versus.WHRI_6076_Race_6.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_6077_Race_6.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_6087_Race_1.fasta.tblastn		
-./race-typed_Xcc/XopG2.versus.WHRI_6181Rx_Race_6.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_6181_Race_6.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_6183_Race_1.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.WHRI_6184_Race_1.fasta.tblastn		
@@ -117,4 +116,3 @@ File	Coverage (%)	Sequence identity (%)
 ./race-typed_Xcc/XopG2.versus.WHRI_8979_Race_5.fasta.tblastn	100	100
 ./race-typed_Xcc/XopG2.versus.WHRI_8980_Race_5.fasta.tblastn	100	100
 ./race-typed_Xcc/XopG2.versus.WHRI_8981_Race_5.fasta.tblastn	100	100
-./race-typed_Xcc/XopG2.versus.Xcr_NCPPB_1946.fasta.tblastn		

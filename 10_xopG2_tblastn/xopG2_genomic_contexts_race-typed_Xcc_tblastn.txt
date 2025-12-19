@@ -6,7 +6,6 @@ WHRI_10030A_Race_5.fasta	JAYITM010000020.1	100 %
 WHRI_3880_Race_5.fasta	JAYIMH010000026.1	100 %	
 WHRI_3883_Race_5.fasta	JAYIMI010000025.1	100 %	
 WHRI_5630_Race_1.fasta	JAUINF010000027.1	100 %	STOP codon 
-WHRI_5631_Race_1.fasta	JAUING010000039.1	100 %	STOP codon 
 WHRI_5802_Race_1.fasta	JAUIOP010000029.1	100 %	STOP codon 
 WHRI_6018A_Race_1.fasta	JAUIPD010000019.1	100 %	STOP codon 
 WHRI_6022A_Race_1.fasta	JAYIOU010000028.1	100 %	STOP codon 
@@ -48,6 +47,7 @@ WHRI_8978_Race_4.fasta	CP142009.1	99 %
 WHRI_10024A_Race_6.fasta	JAYITA010000046.1	88 %	
 WHRI_8883_Race_6.fasta	JAYILS010000066.1	88 %	
 WHRI_3843B_Race_1.fasta	JAYIPJ010000034.1	80 %	
+WHRI_5494A_Race_1.fasta	JAYIMS010000023.1	80 %, 20 %	
 WHRI_5714B_Race_1.fasta	JAUINJ010000036.1	80 %	
 WHRI_5715A_Race_1.fasta	JAUINK010000036.1	80 %	
 WHRI_5733_Race_1.fasta	JAUINQ010000035.1	80 %	
@@ -137,6 +137,16 @@ CDS	complement(28535..29158)	VDO80_19080	type III secretion system effector prot
 CDS	complement(29447..30781)	VDO80_19085	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30794..31336)	VDO80_19090	YecA family protein	NA	
 
+JAYIMS010000023.1: 45208 .. 45705 in genome WHRI_5494A_Race_1.fasta
+!!! Hit covers 80 %
+!!! Hit covers 20 %
+
+CDS	42382..43716	VDP15_18200	aminopeptidase P N-terminal domain-containing protein	NA	
+CDS	44226..45188	VDP15_18205	IS1595-like element ISXca4 family transposase	NA	***
+CDS	45214..45708	VDP15_18210	M91 family zinc metallopeptidase	NA	
+CDS	complement(45946..47271)	pepQ	Xaa-Pro dipeptidase	NA	
+CDS	complement(47469..47813)	VDP15_18220	PilZ domain-containing protein	NA	
+
 JAUIMZ010000035.1: 79 .. 543 in genome WHRI_5495_Race_1.fasta
 !!! Hit covers 74 %
 
@@ -160,14 +170,6 @@ CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA
 CDS	complement(28546..29169)	QYY69_15335	type III secretion system effector protein	NA	
 CDS	complement(29458..30792)	QYY69_15340	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30805..31347)	QYY69_15345	YecA family protein	NA	
-
-JAUING010000039.1: 45506 .. 46126 in genome WHRI_5631_Race_1.fasta
-STOP codon in JAUING010000039.1: 45506 .. 46126
-Hit covers 100 %
-
-CDS	43328..43870	QYY71_18200	YecA family protein	NA	
-CDS	43883..45217	QYY71_18205	aminopeptidase P N-terminal domain-containing protein	NA	
-CDS	45506..46195	QYY71_18210	type III secretion system effector protein	NA	
 
 JAUINJ010000036.1: 49445 .. 49942 in genome WHRI_5714B_Race_1.fasta
 !!! Hit covers 80 %

@@ -8,8 +8,8 @@ protein database search programs", Nucleic Acids Res. 25:3389-3402.
 
 
 
-Database: WHRI_5735_Race_1.fasta
-           112 sequences; 4,997,679 total letters
+Database: WHRI_5494A_Race_1.fasta
+           87 sequences; 4,995,342 total letters
 
 
 
@@ -20,44 +20,37 @@ Length=207
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-JAUINS010000035.1 Xanthomonas campestris pv. campestris strain 57...  340     6e-109
-JAUINS010000041.1 Xanthomonas campestris pv. campestris strain 57...  92.0    2e-22 
+JAYIMS010000023.1 Xanthomonas campestris pv. campestris strain WH...  340     6e-109
 
 
->JAUINS010000035.1 Xanthomonas campestris pv. campestris strain 
-5735 NODE_35_length_50019_cov_167.575127, whole genome shotgun 
-sequence
-Length=50019
+>JAYIMS010000023.1 Xanthomonas campestris pv. campestris strain 
+WHRI 5494A scf_82085_23, whole genome shotgun sequence
+Length=74262
 
  Score = 340 bits (872),  Expect = 6e-109, Method: Compositional matrix adjust.
  Identities = 166/166 (100%), Positives = 166/166 (100%), Gaps = 0/166 (0%)
- Frame = -3
+ Frame = +1
 
 Query  42     EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF  101
               EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF
-Sbjct  49942  EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF  49763
+Sbjct  45208  EGLKPLAAHGKKVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRF  45387
 
 Query  102    CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG  161
               CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG
-Sbjct  49762  CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG  49583
+Sbjct  45388  CKGEGTNATVNWSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGG  45567
 
 Query  162    DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  207
               DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG
-Sbjct  49582  DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  49445
+Sbjct  45568  DRLDPKSKSGKEELRATGLGKYASERVSENSIRAENGLPIRKHYAG  45705
 
-
->JAUINS010000041.1 Xanthomonas campestris pv. campestris strain 
-5735 NODE_41_length_44198_cov_162.403844, whole genome shotgun 
-sequence
-Length=44198
 
  Score = 92.0 bits (227),  Expect = 2e-22, Method: Compositional matrix adjust.
  Identities = 43/43 (100%), Positives = 43/43 (100%), Gaps = 0/43 (0%)
- Frame = +3
+ Frame = +1
 
 Query  1      MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG  43
               MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG
-Sbjct  43992  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG  44120
+Sbjct  44005  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEG  44133
 
 
 
@@ -68,13 +61,13 @@ Gapped
 Lambda      K        H        a         alpha    sigma
    0.267   0.0410    0.140     1.90     42.6     43.6 
 
-Effective search space used: 205418028
+Effective search space used: 205578732
 
 
-  Database: WHRI_5735_Race_1.fasta
+  Database: WHRI_5494A_Race_1.fasta
     Posted date:  Dec 19, 2025  9:24 PM
-  Number of letters in database: 4,997,679
-  Number of sequences in database:  112
+  Number of letters in database: 4,995,342
+  Number of sequences in database:  87
 
 
 
