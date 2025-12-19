@@ -1,9 +1,0 @@
-for i in *.contig; do echo $i; formatdb -pF -i $i; done
-
-for i in *.contig; do echo $i; tblastn -query TIR-proteins.faa -db $i -evalue 0.0000000001 -seg no -out TIR-proteins.faa.versus.$i.tblastn -outfmt 6; done
-
-python parse_blast.py
-
-
-perl prepare-metadata-for-itol.pl > TIR-metadata.csv
-

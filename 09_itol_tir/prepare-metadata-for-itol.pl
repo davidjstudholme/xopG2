@@ -1,1 +1,0 @@
-../07_itol_t3ss/prepare-metadata-for-itol.pl

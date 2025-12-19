@@ -1,1 +1,0 @@
-../11_xopG2_itol/prepare-metadata-for-itol.pl
