@@ -1013,19 +1013,12 @@ Hit covers 100 %
 !!! Hit covers 78 %
 !!! Hit covers 76 %
 
-CDS	complement(1058977..1059624)	rpi1	ribose-5-phosphate isomerase	NA	
-CDS	complement(1059726..1060196)	XCCB100_0920	hypothetical protein	NA	
-CDS	complement(1060193..1060834)	fthC	putative 5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(1061200..1061319)	XCCB100_4471	hypothetical protein	NA	
-CDS	complement(1061347..1061643)	XCCB100_0922	hypothetical protein	NA	
-CDS	complement(1061640..1061861)	XCCB100_0923	hypothetical protein	NA	
 CDS	1061956..1062639	XCCB100_0924	hypothetical protein	NA	
 CDS	1062652..1063983	pepP	aminopeptidase P	NA	
 CDS	complement(1064224..1064622)	XCCB100_0926	hypothetical protein	NA	
 CDS	complement(1064651..1065976)	pepQ	proline dipeptidase	NA	
 CDS	complement(1066174..1066518)	XCCB100_0928	hypothetical protein	NA	
 CDS	complement(1066515..1068947)	XCCB100_0929	hypothetical protein	NA	
-CDS	complement(1069015..1070172)	hemN	putative coproporphyrinogen dehydrogenase	NA	
 
 HG764951.1: 1003391 .. 1003786 in genome CFBP_1119_Race_1_Clade_A.contig
 Hit covers 100 %
@@ -1128,370 +1121,232 @@ Hit covers 100 %
 !!! Hit covers 78 %
 !!! Hit covers 76 %
 
-CDS	complement(1058543..1059190)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(1059292..1059762)	VDR36_004505	EVE domain-containing protein	NA	
-CDS	complement(1059759..1060349)	VDR36_004510	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(1060913..1061209)	VDR36_004520	cell division protein ZapA	NA	
-CDS	complement(1061206..1061427)	VDR36_004525	TIGR02449 family protein	NA	
 CDS	1061663..1062205	VDR36_004530	YecA family protein	NA	
 CDS	1062218..1063549	VDR36_004535	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(1063790..1064188)	VDR36_004540	XVIPCD domain-containing protein	NA	
 CDS	complement(1064217..1065542)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(1065740..1066084)	VDR36_004550	PilZ domain-containing protein	NA	
 CDS	complement(1066081..1068513)	VDR36_004555	DUF1631 domain-containing protein	NA	
-CDS	complement(1068581..1069738)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYISZ010000008.1: 140590 .. 140985 in genome WHRI_10023A_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(135344..135991)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(136093..136563)	VDR44_09915	EVE domain-containing protein	NA	
-CDS	complement(136560..137150)	VDR44_09920	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(137714..138010)	VDR44_09930	cell division protein ZapA	NA	
-CDS	complement(138007..138228)	VDR44_09935	TIGR02449 family protein	NA	
 CDS	138464..139006	VDR44_09940	YecA family protein	NA	
 CDS	139019..140350	VDR44_09945	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(140587..140985)	VDR44_09950	XVIPCD domain-containing protein	NA	
 CDS	complement(141014..142339)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(142537..142881)	VDR44_09960	PilZ domain-containing protein	NA	
 CDS	complement(142878..145316)	VDR44_09965	DUF1631 domain-containing protein	NA	
-CDS	complement(145384..146541)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYITA010000004.1: 58979 .. 59374 in genome WHRI_10024A_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(53729..54376)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(54478..54948)	VDR45_05620	EVE domain-containing protein	NA	
-CDS	complement(54945..55535)	VDR45_05625	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(56099..56395)	VDR45_05635	cell division protein ZapA	NA	
-CDS	complement(56392..56613)	VDR45_05640	TIGR02449 family protein	NA	
 CDS	56849..57391	VDR45_05645	YecA family protein	NA	
 CDS	57404..58735	VDR45_05650	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(58976..59374)	VDR45_05655	XVIPCD domain-containing protein	NA	
 CDS	complement(59403..60728)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(60926..61270)	VDR45_05665	PilZ domain-containing protein	NA	
 CDS	complement(61267..63699)	VDR45_05670	DUF1631 domain-containing protein	NA	
-CDS	complement(63767..64924)	hemW	radical SAM family heme chaperone HemW	NA	
 
 RRXO01000041.1: 40631 .. 41026 in genome WHRI_1279A_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35381..36028)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36130..36573)	EIQ11_12660	EVE domain-containing protein	NA	
-CDS	complement(36597..37187)	EIQ11_12665	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37751..38047)	zapA	cell division protein ZapA	NA	
-CDS	complement(38044..38265)	EIQ11_12680	TIGR02449 family protein	NA	
 CDS	38501..39043	EIQ11_12685	YecA family protein	NA	
 CDS	39056..40387	EIQ11_12690	M24 family metallopeptidase	NA	
 CDS	complement(40628..41026)	EIQ11_12695	hypothetical protein	NA	
 CDS	complement(41055..42380)	EIQ11_12700	Xaa-Pro dipeptidase	NA	
 CDS	complement(42578..42922)	EIQ11_12705	PilZ domain-containing protein	NA	
 CDS	complement(42919..45357)	EIQ11_12710	DUF1631 domain-containing protein	NA	
-CDS	complement(45425..46582)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYINS010000028.1: 40534 .. 40929 in genome WHRI_3820A_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35288..35935)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36037..36507)	VDP66_16000	EVE domain-containing protein	NA	
-CDS	complement(36504..37094)	VDP66_16005	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37658..37954)	VDP66_16015	cell division protein ZapA	NA	
-CDS	complement(37951..38172)	VDP66_16020	TIGR02449 family protein	NA	
 CDS	38408..38950	VDP66_16025	YecA family protein	NA	
 CDS	38963..40294	VDP66_16030	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40531..40929)	VDP66_16035	XVIPCD domain-containing protein	NA	
 CDS	complement(40958..42283)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42481..42825)	VDP66_16045	PilZ domain-containing protein	NA	
 CDS	complement(42822..45260)	VDP66_16050	DUF1631 domain-containing protein	NA	
-CDS	complement(45328..46485)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIOD010000027.1: 28315 .. 28710 in genome WHRI_3830A_Race_4.contig
 Hit covers 100 %
 
-CDS	22759..23916	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	23984..26422	VDP71_16645	DUF1631 domain-containing protein	NA	
 CDS	26419..26763	VDP71_16650	PilZ domain-containing protein	NA	
 CDS	26961..28286	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	28315..28713	VDP71_16660	XVIPCD domain-containing protein	NA	
 CDS	complement(28950..30281)	VDP71_16665	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30294..30836)	VDP71_16670	YecA family protein	NA	
-CDS	31072..31293	VDP71_16675	TIGR02449 family protein	NA	
-CDS	31290..31586	VDP71_16680	cell division protein ZapA	NA	
-CDS	32150..32740	VDP71_16690	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	32737..33207	VDP71_16695	EVE domain-containing protein	NA	
-CDS	33309..33956	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIOO010000030.1: 40510 .. 40905 in genome WHRI_3832A_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35264..35911)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36013..36483)	VDP92_16270	EVE domain-containing protein	NA	
-CDS	complement(36480..37070)	VDP92_16275	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37634..37930)	VDP92_16285	cell division protein ZapA	NA	
-CDS	complement(37927..38148)	VDP92_16290	TIGR02449 family protein	NA	
 CDS	38384..38926	VDP92_16295	YecA family protein	NA	
 CDS	38939..40270	VDP92_16300	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40507..40905)	VDP92_16305	XVIPCD domain-containing protein	NA	
 CDS	complement(40934..42259)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42457..42801)	VDP92_16315	PilZ domain-containing protein	NA	
 CDS	complement(42798..45236)	VDP92_16320	DUF1631 domain-containing protein	NA	
-CDS	complement(45304..46461)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIMJ010000009.1: 48880 .. 49275 in genome WHRI_3964_Race_4.contig
 Hit covers 100 %
 
-CDS	43324..44481	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44549..46987	VDP19_08710	DUF1631 domain-containing protein	NA	
 CDS	46984..47328	VDP19_08715	PilZ domain-containing protein	NA	
 CDS	47526..48851	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	48880..49278	VDP19_08725	XVIPCD domain-containing protein	NA	
 CDS	complement(49515..50846)	VDP19_08730	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(50859..51401)	VDP19_08735	YecA family protein	NA	
-CDS	51637..51858	VDP19_08740	TIGR02449 family protein	NA	
-CDS	51855..52151	VDP19_08745	cell division protein ZapA	NA	
-CDS	52715..53305	VDP19_08755	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53302..53772	VDP19_08760	EVE domain-containing protein	NA	
-CDS	53874..54521	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIMN010000019.1: 49288 .. 49683 in genome WHRI_5190_Race_4.contig
 Hit covers 100 %
 
-CDS	43732..44889	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44957..47395	VDP29_12800	DUF1631 domain-containing protein	NA	
 CDS	47392..47736	VDP29_12805	PilZ domain-containing protein	NA	
 CDS	47934..49259	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	49288..49686	VDP29_12815	XVIPCD domain-containing protein	NA	
 CDS	complement(49927..51258)	VDP29_12820	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(51271..51813)	VDP29_12825	YecA family protein	NA	
-CDS	52049..52270	VDP29_12830	TIGR02449 family protein	NA	
-CDS	52267..52563	VDP29_12835	cell division protein ZapA	NA	
-CDS	53127..53717	VDP29_12845	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53714..54184	VDP29_12850	EVE domain-containing protein	NA	
-CDS	54286..54933	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAUINW010000028.1: 28343 .. 28738 in genome WHRI_5582_Race_4.contig
 Hit covers 100 %
 
-CDS	22787..23944	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	24012..26450	QYY74_13805	DUF1631 domain-containing protein	NA	
 CDS	26447..26791	QYY74_13810	PilZ domain-containing protein	NA	
 CDS	26989..28314	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	28343..28741	QYY74_13820	hypothetical protein	NA	
 CDS	complement(28978..30309)	QYY74_13825	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30322..30864)	QYY74_13830	YecA family protein	NA	
-CDS	31100..31321	QYY74_13835	TIGR02449 family protein	NA	
-CDS	31318..31614	QYY74_13840	cell division protein ZapA	NA	
-CDS	32178..32768	QYY74_13850	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	32765..33235	QYY74_13855	EVE domain-containing protein	NA	
-CDS	33337..33984	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAUIOR010000027.1: 40499 .. 40894 in genome WHRI_5585_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35253..35900)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36002..36472)	QYY82_12825	EVE domain-containing protein	NA	
-CDS	complement(36469..37059)	QYY82_12830	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37623..37919)	QYY82_12840	cell division protein ZapA	NA	
-CDS	complement(37916..38137)	QYY82_12845	TIGR02449 family protein	NA	
 CDS	38373..38915	QYY82_12850	YecA family protein	NA	
 CDS	38928..40259	QYY82_12855	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40496..40894)	QYY82_12860	hypothetical protein	NA	
 CDS	complement(40923..42248)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42446..42790)	QYY82_12870	PilZ domain-containing protein	NA	
 CDS	complement(42787..45225)	QYY82_12875	DUF1631 domain-containing protein	NA	
-CDS	complement(45293..46450)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUIPY010000012.1: 40499 .. 40894 in genome WHRI_5588_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35253..35900)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36002..36472)	QYZ27_07035	EVE domain-containing protein	NA	
-CDS	complement(36469..37059)	QYZ27_07040	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37623..37919)	QYZ27_07050	cell division protein ZapA	NA	
-CDS	complement(37916..38137)	QYZ27_07055	TIGR02449 family protein	NA	
 CDS	38373..38915	QYZ27_07060	YecA family protein	NA	
 CDS	38928..40259	QYZ27_07065	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40496..40894)	QYZ27_07070	hypothetical protein	NA	
 CDS	complement(40923..42248)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42446..42790)	QYZ27_07080	PilZ domain-containing protein	NA	
 CDS	complement(42787..45225)	QYZ27_07085	DUF1631 domain-containing protein	NA	
-CDS	complement(45293..46450)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUINB010000011.1: 49181 .. 49576 in genome WHRI_5591_Race_1.contig
 Hit covers 100 %
 
-CDS	43631..44788	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44856..47288	QYY68_09950	DUF1631 domain-containing protein	NA	
 CDS	47285..47629	QYY68_09955	PilZ domain-containing protein	NA	
 CDS	47827..49152	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	49181..49579	QYY68_09965	hypothetical protein	NA	
 CDS	complement(49820..51151)	QYY68_09970	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(51164..51706)	QYY68_09975	YecA family protein	NA	
-CDS	51942..52163	QYY68_09980	TIGR02449 family protein	NA	
-CDS	52160..52456	QYY68_09985	cell division protein ZapA	NA	
-CDS	53020..53610	QYY68_09995	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53607..54077	QYY68_10000	EVE domain-containing protein	NA	
-CDS	54179..54826	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAUINC010000011.1: 68460 .. 68855 in genome WHRI_5592_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(63210..63857)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(63959..64429)	QYY62_07705	EVE domain-containing protein	NA	
-CDS	complement(64426..65016)	QYY62_07710	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(65580..65876)	QYY62_07720	cell division protein ZapA	NA	
-CDS	complement(65873..66094)	QYY62_07725	TIGR02449 family protein	NA	
 CDS	66330..66872	QYY62_07730	YecA family protein	NA	
 CDS	66885..68216	QYY62_07735	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(68457..68855)	QYY62_07740	hypothetical protein	NA	
 CDS	complement(68884..70209)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(70407..70751)	QYY62_07750	PilZ domain-containing protein	NA	
 CDS	complement(70748..73180)	QYY62_07755	DUF1631 domain-containing protein	NA	
-CDS	complement(73248..74405)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUIND010000003.1: 257858 .. 258253 in genome WHRI_5594_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(252608..253255)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(253357..253827)	QYY64_04075	EVE domain-containing protein	NA	
-CDS	complement(253824..254414)	QYY64_04080	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(254978..255274)	QYY64_04090	cell division protein ZapA	NA	
-CDS	complement(255271..255492)	QYY64_04095	TIGR02449 family protein	NA	
 CDS	255728..256270	QYY64_04100	YecA family protein	NA	
 CDS	256283..257614	QYY64_04105	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(257855..258253)	QYY64_04110	hypothetical protein	NA	
 CDS	complement(258282..259607)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(259805..260149)	QYY64_04120	PilZ domain-containing protein	NA	
 CDS	complement(260146..262578)	QYY64_04125	DUF1631 domain-containing protein	NA	
-CDS	complement(262646..263803)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUIOB010000004.1: 233842 .. 234237 in genome WHRI_5771_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(228592..229239)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(229341..229811)	QYY73_05600	EVE domain-containing protein	NA	
-CDS	complement(229808..230398)	QYY73_05605	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(230962..231258)	QYY73_05615	cell division protein ZapA	NA	
-CDS	complement(231255..231476)	QYY73_05620	TIGR02449 family protein	NA	
 CDS	231712..232254	QYY73_05625	YecA family protein	NA	
 CDS	232267..233598	QYY73_05630	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(233839..234237)	QYY73_05635	hypothetical protein	NA	
 CDS	complement(234266..235591)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(235789..236133)	QYY73_05645	PilZ domain-containing protein	NA	
 CDS	complement(236130..238562)	QYY73_05650	DUF1631 domain-containing protein	NA	
-CDS	complement(238630..239787)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUIOS010000003.1: 233816 .. 234211 in genome WHRI_5806_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(228566..229213)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(229315..229785)	QYY93_04115	EVE domain-containing protein	NA	
-CDS	complement(229782..230372)	QYY93_04120	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(230936..231232)	QYY93_04130	cell division protein ZapA	NA	
-CDS	complement(231229..231450)	QYY93_04135	TIGR02449 family protein	NA	
 CDS	231686..232228	QYY93_04140	YecA family protein	NA	
 CDS	232241..233572	QYY93_04145	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(233813..234211)	QYY93_04150	hypothetical protein	NA	
 CDS	complement(234240..235565)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(235763..236107)	QYY93_04160	PilZ domain-containing protein	NA	
 CDS	complement(236104..238536)	QYY93_04165	DUF1631 domain-containing protein	NA	
-CDS	complement(238604..239761)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUIOY010000016.1: 40581 .. 40976 in genome WHRI_5819_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35331..35978)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36080..36550)	QYY94_09225	EVE domain-containing protein	NA	
-CDS	complement(36547..37137)	QYY94_09230	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37701..37997)	QYY94_09240	cell division protein ZapA	NA	
-CDS	complement(37994..38215)	QYY94_09245	TIGR02449 family protein	NA	
 CDS	38451..38993	QYY94_09250	YecA family protein	NA	
 CDS	39006..40337	QYY94_09255	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40578..40976)	QYY94_09260	hypothetical protein	NA	
 CDS	complement(41005..42330)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42528..42872)	QYY94_09270	PilZ domain-containing protein	NA	
 CDS	complement(42869..45307)	QYY94_09275	DUF1631 domain-containing protein	NA	
-CDS	complement(45375..46532)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAUIPH010000004.1: 233842 .. 234237 in genome WHRI_6023A_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(228592..229239)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(229341..229811)	QYY91_05830	EVE domain-containing protein	NA	
-CDS	complement(229808..230398)	QYY91_05835	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(230962..231258)	QYY91_05845	cell division protein ZapA	NA	
-CDS	complement(231255..231476)	QYY91_05850	TIGR02449 family protein	NA	
 CDS	231712..232254	QYY91_05855	YecA family protein	NA	
 CDS	232267..233598	QYY91_05860	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(233839..234237)	QYY91_05865	hypothetical protein	NA	
 CDS	complement(234266..235591)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(235789..236133)	QYY91_05875	PilZ domain-containing protein	NA	
 CDS	complement(236130..238562)	QYY91_05880	DUF1631 domain-containing protein	NA	
-CDS	complement(238630..239787)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIOV010000004.1: 234122 .. 234517 in genome WHRI_6024A_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(228872..229519)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(229621..230091)	VDQ15_07165	EVE domain-containing protein	NA	
-CDS	complement(230088..230678)	VDQ15_07170	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(231242..231538)	VDQ15_07180	cell division protein ZapA	NA	
-CDS	complement(231535..231756)	VDQ15_07185	TIGR02449 family protein	NA	
 CDS	231992..232534	VDQ15_07190	YecA family protein	NA	
 CDS	232547..233878	VDQ15_07195	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(234119..234517)	VDQ15_07200	XVIPCD domain-containing protein	NA	
 CDS	complement(234546..235871)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(236069..236413)	VDQ15_07210	PilZ domain-containing protein	NA	
 CDS	complement(236410..238842)	VDQ15_07215	DUF1631 domain-containing protein	NA	
-CDS	complement(238910..240067)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYINM010000006.1: 154643 .. 155038 in genome WHRI_6045_Race_6.contig
 Hit covers 100 %
 
-CDS	149087..150244	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	150312..152750	VDP00_06525	DUF1631 domain-containing protein	NA	
 CDS	152747..153091	VDP00_06530	PilZ domain-containing protein	NA	
 CDS	153289..154614	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	154643..155041	VDP00_06540	XVIPCD domain-containing protein	NA	
 CDS	complement(155282..156613)	VDP00_06545	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(156626..157168)	VDP00_06550	YecA family protein	NA	
-CDS	157404..157625	VDP00_06555	TIGR02449 family protein	NA	
-CDS	157622..157918	VDP00_06560	cell division protein ZapA	NA	
-CDS	158482..159072	VDP00_06570	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	159069..159539	VDP00_06575	EVE domain-containing protein	NA	
-CDS	159641..160288	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYINQ010000002.1: 160871 .. 161266 in genome WHRI_6049_Race_6.contig
 Hit covers 100 %
 
-CDS	155315..156472	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	156540..158978	VDP60_02875	DUF1631 domain-containing protein	NA	
 CDS	158975..159319	VDP60_02880	PilZ domain-containing protein	NA	
 CDS	159517..160842	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	160871..161269	VDP60_02890	XVIPCD domain-containing protein	NA	
 CDS	complement(161510..162841)	VDP60_02895	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(162854..163396)	VDP60_02900	YecA family protein	NA	
-CDS	163632..163853	VDP60_02905	TIGR02449 family protein	NA	
-CDS	163850..164146	VDP60_02910	cell division protein ZapA	NA	
-CDS	164710..165300	VDP60_02920	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	165297..165767	VDP60_02925	EVE domain-containing protein	NA	
-CDS	165869..166516	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYINX010000004.1: 48887 .. 49282 in genome WHRI_6055_Race_1.contig
 Hit covers 100 %
 
-CDS	43337..44494	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44562..46994	VDP85_05905	DUF1631 domain-containing protein	NA	
 CDS	46991..47335	VDP85_05910	PilZ domain-containing protein	NA	
 CDS	47533..48858	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	48887..49285	VDP85_05920	XVIPCD domain-containing protein	NA	
 CDS	complement(49526..50857)	VDP85_05925	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(50870..51412)	VDP85_05930	YecA family protein	NA	
-CDS	51648..51869	VDP85_05935	TIGR02449 family protein	NA	
-CDS	51866..52162	VDP85_05940	cell division protein ZapA	NA	
-CDS	52726..53316	VDP85_05950	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53313..53783	VDP85_05955	EVE domain-containing protein	NA	
-CDS	53885..54532	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 CP142006.1: 1070978 .. 1071373 in genome WHRI_6056_Race_6.contig
 Hit covers 100 %
@@ -1507,50 +1362,32 @@ Hit covers 100 %
 !!! Hit covers 72 %
 !!! Hit covers 71 %
 
-CDS	complement(1065730..1066377)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(1066479..1066949)	VDQ57_004535	EVE domain-containing protein	NA	
-CDS	complement(1066946..1067536)	VDQ57_004540	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(1068100..1068396)	VDQ57_004550	cell division protein ZapA	NA	
-CDS	complement(1068397..1068612)	VDQ57_004555	TIGR02449 family protein	NA	
 CDS	1068848..1069390	VDQ57_004560	YecA family protein	NA	
 CDS	1069403..1070734	VDQ57_004565	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(1070975..1071373)	VDQ57_004570	XVIPCD domain-containing protein	NA	
 CDS	complement(1071402..1072727)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(1072925..1073269)	VDQ57_004580	PilZ domain-containing protein	NA	
 CDS	complement(1073266..1075704)	VDQ57_004585	DUF1631 domain-containing protein	NA	
-CDS	complement(1075772..1076929)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYINZ010000002.1: 233341 .. 233736 in genome WHRI_6057_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(228091..228738)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(228840..229310)	VDP63_03165	EVE domain-containing protein	NA	
-CDS	complement(229307..229897)	VDP63_03170	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(230461..230757)	VDP63_03180	cell division protein ZapA	NA	
-CDS	complement(230754..230975)	VDP63_03185	TIGR02449 family protein	NA	
 CDS	231211..231753	VDP63_03190	YecA family protein	NA	
 CDS	231766..233097	VDP63_03195	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(233338..233736)	VDP63_03200	XVIPCD domain-containing protein	NA	
 CDS	complement(233765..235090)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(235288..235632)	VDP63_03210	PilZ domain-containing protein	NA	
 CDS	complement(235629..238067)	VDP63_03215	DUF1631 domain-containing protein	NA	
-CDS	complement(238135..239292)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIOH010000003.1: 160871 .. 161266 in genome WHRI_6065_Race_6.contig
 Hit covers 100 %
 
-CDS	155315..156472	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	156540..158978	VDP87_04015	DUF1631 domain-containing protein	NA	
 CDS	158975..159319	VDP87_04020	PilZ domain-containing protein	NA	
 CDS	159517..160842	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	160871..161269	VDP87_04030	XVIPCD domain-containing protein	NA	
 CDS	complement(161510..162841)	VDP87_04035	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(162854..163396)	VDP87_04040	YecA family protein	NA	
-CDS	163632..163853	VDP87_04045	TIGR02449 family protein	NA	
-CDS	163850..164146	VDP87_04050	cell division protein ZapA	NA	
-CDS	164710..165300	VDP87_04060	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	165297..165767	VDP87_04065	EVE domain-containing protein	NA	
-CDS	165869..166516	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 CP142085.2: 1070288 .. 1070683 in genome WHRI_6066_Race_6.contig
 Hit covers 100 %
@@ -1566,438 +1403,276 @@ Hit covers 100 %
 !!! Hit covers 72 %
 !!! Hit covers 71 %
 
-CDS	complement(1065038..1065685)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(1065787..1066257)	VDP59_004570	EVE domain-containing protein	NA	
-CDS	complement(1066254..1066844)	VDP59_004575	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(1067408..1067704)	VDP59_004585	cell division protein ZapA	NA	
-CDS	complement(1067701..1067922)	VDP59_004590	TIGR02449 family protein	NA	
 CDS	1068158..1068700	VDP59_004595	YecA family protein	NA	
 CDS	1068713..1070044	VDP59_004600	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(1070285..1070683)	VDP59_004605	XVIPCD domain-containing protein	NA	
 CDS	complement(1070712..1072037)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(1072235..1072579)	VDP59_004615	PilZ domain-containing protein	NA	
 CDS	complement(1072576..1075014)	VDP59_004620	DUF1631 domain-containing protein	NA	
-CDS	complement(1075082..1076239)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIOP010000006.1: 38069 .. 38464 in genome WHRI_6075_Race_6.contig
 Hit covers 100 %
 !!! Hit covers 46 %
 
-CDS	complement(32819..33466)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(33568..34038)	VDP68_06180	EVE domain-containing protein	NA	
-CDS	complement(34035..34625)	VDP68_06185	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(35189..35485)	VDP68_06195	cell division protein ZapA	NA	
-CDS	complement(35482..35703)	VDP68_06200	TIGR02449 family protein	NA	
 CDS	35939..36481	VDP68_06205	YecA family protein	NA	
 CDS	36494..37825	VDP68_06210	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(38066..38464)	VDP68_06215	XVIPCD domain-containing protein	NA	
 CDS	complement(38493..39818)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(40016..40360)	VDP68_06225	PilZ domain-containing protein	NA	
 CDS	complement(40357..42795)	VDP68_06230	DUF1631 domain-containing protein	NA	
-CDS	complement(42863..44020)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIPA010000007.1: 173034 .. 173429 in genome WHRI_6076_Race_6.contig
 Hit covers 100 %
 !!! Hit covers 46 %
 
-CDS	167478..168635	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	168703..171141	VDQ16_07485	DUF1631 domain-containing protein	NA	
 CDS	171138..171482	VDQ16_07490	PilZ domain-containing protein	NA	
 CDS	171680..173005	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	173034..173432	VDQ16_07500	XVIPCD domain-containing protein	NA	
 CDS	complement(173673..175004)	VDQ16_07505	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(175017..175559)	VDQ16_07510	YecA family protein	NA	
-CDS	175795..176016	VDQ16_07515	TIGR02449 family protein	NA	
-CDS	176013..176309	VDQ16_07520	cell division protein ZapA	NA	
-CDS	176873..177463	VDQ16_07530	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	177460..177930	VDQ16_07535	EVE domain-containing protein	NA	
-CDS	178032..178679	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIPB010000006.1: 173034 .. 173429 in genome WHRI_6077_Race_6.contig
 Hit covers 100 %
 !!! Hit covers 46 %
 
-CDS	167478..168635	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	168703..171141	VDQ29_05920	DUF1631 domain-containing protein	NA	
 CDS	171138..171482	VDQ29_05925	PilZ domain-containing protein	NA	
 CDS	171680..173005	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	173034..173432	VDQ29_05935	XVIPCD domain-containing protein	NA	
 CDS	complement(173673..175004)	VDQ29_05940	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(175017..175559)	VDQ29_05945	YecA family protein	NA	
-CDS	175795..176016	VDQ29_05950	TIGR02449 family protein	NA	
-CDS	176013..176309	VDQ29_05955	cell division protein ZapA	NA	
-CDS	176873..177463	VDQ29_05965	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	177460..177930	VDQ29_05970	EVE domain-containing protein	NA	
-CDS	178032..178679	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIQU010000020.1: 49206 .. 49601 in genome WHRI_6087_Race_1.contig
 Hit covers 100 %
 
-CDS	43650..44807	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44875..47313	VDQ86_11790	DUF1631 domain-containing protein	NA	
 CDS	47310..47654	VDQ86_11795	PilZ domain-containing protein	NA	
 CDS	47852..49177	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	49206..49604	VDQ86_11805	XVIPCD domain-containing protein	NA	
 CDS	complement(49845..51176)	VDQ86_11810	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(51189..51731)	VDQ86_11815	YecA family protein	NA	
-CDS	51967..52188	VDQ86_11820	TIGR02449 family protein	NA	
-CDS	52185..52481	VDQ86_11825	cell division protein ZapA	NA	
-CDS	53044..53634	VDQ86_11835	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53631..54101	VDQ86_11840	EVE domain-containing protein	NA	
-CDS	54203..54850	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIPO010000006.1: 154651 .. 155046 in genome WHRI_6181_Race_6.contig
 Hit covers 100 %
 
-CDS	149095..150252	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	150320..152758	VDQ50_05470	DUF1631 domain-containing protein	NA	
 CDS	152755..153099	VDQ50_05475	PilZ domain-containing protein	NA	
 CDS	153297..154622	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	154651..155049	VDQ50_05485	XVIPCD domain-containing protein	NA	
 CDS	complement(155290..156621)	VDQ50_05490	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(156634..157176)	VDQ50_05495	YecA family protein	NA	
-CDS	157412..157633	VDQ50_05500	TIGR02449 family protein	NA	
-CDS	157630..157926	VDQ50_05505	cell division protein ZapA	NA	
-CDS	158490..159080	VDQ50_05515	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	159077..159547	VDQ50_05520	EVE domain-containing protein	NA	
-CDS	159649..160296	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIRH010000004.1: 257904 .. 258299 in genome WHRI_6183_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(252654..253301)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(253403..253873)	VDQ87_05850	EVE domain-containing protein	NA	
-CDS	complement(253870..254460)	VDQ87_05855	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(255024..255320)	VDQ87_05865	cell division protein ZapA	NA	
-CDS	complement(255317..255538)	VDQ87_05870	TIGR02449 family protein	NA	
 CDS	255774..256316	VDQ87_05875	YecA family protein	NA	
 CDS	256329..257660	VDQ87_05880	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(257901..258299)	VDQ87_05885	XVIPCD domain-containing protein	NA	
 CDS	complement(258328..259653)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(259851..260195)	VDQ87_05895	PilZ domain-containing protein	NA	
 CDS	complement(260192..262624)	VDQ87_05900	DUF1631 domain-containing protein	NA	
-CDS	complement(262692..263849)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIOQ010000004.1: 268966 .. 269361 in genome WHRI_6184_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(263716..264363)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(264465..264935)	VDP64_06995	EVE domain-containing protein	NA	
-CDS	complement(264932..265522)	VDP64_07000	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(266086..266382)	VDP64_07010	cell division protein ZapA	NA	
-CDS	complement(266379..266600)	VDP64_07015	TIGR02449 family protein	NA	
 CDS	266836..267378	VDP64_07020	YecA family protein	NA	
 CDS	267391..268722	VDP64_07025	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(268963..269361)	VDP64_07030	XVIPCD domain-containing protein	NA	
 CDS	complement(269390..270715)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(270913..271257)	VDP64_07040	PilZ domain-containing protein	NA	
 CDS	complement(271254..273686)	VDP64_07045	DUF1631 domain-containing protein	NA	
-CDS	complement(273754..274911)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIRI010000005.1: 163442 .. 163837 in genome WHRI_6185_Race_6.contig
 Hit covers 100 %
 
-CDS	157886..159043	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	159111..161549	VDR11_04860	DUF1631 domain-containing protein	NA	
 CDS	161546..161890	VDR11_04865	PilZ domain-containing protein	NA	
 CDS	162088..163413	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	163442..163840	VDR11_04875	XVIPCD domain-containing protein	NA	
 CDS	complement(164081..165412)	VDR11_04880	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(165425..165967)	VDR11_04885	YecA family protein	NA	
-CDS	166203..166424	VDR11_04890	TIGR02449 family protein	NA	
-CDS	166421..166717	VDR11_04895	cell division protein ZapA	NA	
-CDS	167281..167871	VDR11_04905	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	167868..168338	VDR11_04910	EVE domain-containing protein	NA	
-CDS	168440..169087	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIRJ010000025.1: 46761 .. 47156 in genome WHRI_6186_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(41511..42158)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(42260..42730)	VDR08_12245	EVE domain-containing protein	NA	
-CDS	complement(42727..43317)	VDR08_12250	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(43881..44177)	VDR08_12260	cell division protein ZapA	NA	
-CDS	complement(44174..44395)	VDR08_12265	TIGR02449 family protein	NA	
 CDS	44631..45173	VDR08_12270	YecA family protein	NA	
 CDS	45186..46517	VDR08_12275	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(46758..47156)	VDR08_12280	XVIPCD domain-containing protein	NA	
 CDS	complement(47185..48510)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(48708..49052)	VDR08_12290	PilZ domain-containing protein	NA	
 CDS	complement(49049..51481)	VDR08_12295	DUF1631 domain-containing protein	NA	
-CDS	complement(51549..52706)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIPM010000028.1: 28333 .. 28728 in genome WHRI_6188_Race_4.contig
 Hit covers 100 %
 
-CDS	22777..23934	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	24002..26440	VDQ55_14785	DUF1631 domain-containing protein	NA	
 CDS	26437..26781	VDQ55_14790	PilZ domain-containing protein	NA	
 CDS	26979..28304	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	28333..28731	VDQ55_14800	XVIPCD domain-containing protein	NA	
 CDS	complement(28972..30303)	VDQ55_14805	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30316..30858)	VDQ55_14810	YecA family protein	NA	
-CDS	31094..31315	VDQ55_14815	TIGR02449 family protein	NA	
-CDS	31312..31608	VDQ55_14820	cell division protein ZapA	NA	
-CDS	32172..32762	VDQ55_14830	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	32759..33229	VDQ55_14835	EVE domain-containing protein	NA	
-CDS	33331..33978	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIPQ010000013.1: 43937 .. 44332 in genome WHRI_6192_Race_1.contig
 Hit covers 100 %
 !!! Hit covers 78 %
 
-CDS	complement(38688..39335)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(39437..39907)	VDQ60_10160	EVE domain-containing protein	NA	
-CDS	complement(39904..40494)	VDQ60_10165	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(41057..41353)	VDQ60_10175	cell division protein ZapA	NA	
-CDS	complement(41350..41571)	VDQ60_10180	TIGR02449 family protein	NA	
 CDS	41807..42349	VDQ60_10185	YecA family protein	NA	
 CDS	42362..43693	VDQ60_10190	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(43934..44332)	VDQ60_10195	XVIPCD domain-containing protein	NA	
 CDS	complement(44361..45686)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(45884..46228)	VDQ60_10205	PilZ domain-containing protein	NA	
 CDS	complement(46225..48663)	VDQ60_10210	DUF1631 domain-containing protein	NA	
-CDS	complement(48731..49888)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIPR010000018.1: 49333 .. 49728 in genome WHRI_6194_Race_4.contig
 Hit covers 100 %
 
-CDS	43777..44934	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	45002..47440	VDQ65_11485	DUF1631 domain-containing protein	NA	
 CDS	47437..47781	VDQ65_11490	PilZ domain-containing protein	NA	
 CDS	47979..49304	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	49333..49731	VDQ65_11500	XVIPCD domain-containing protein	NA	
 CDS	complement(49972..51303)	VDQ65_11505	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(51316..51858)	VDQ65_11510	YecA family protein	NA	
-CDS	52094..52315	VDQ65_11515	TIGR02449 family protein	NA	
-CDS	52312..52608	VDQ65_11520	cell division protein ZapA	NA	
-CDS	53172..53762	VDQ65_11530	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53759..54229	VDQ65_11535	EVE domain-containing protein	NA	
-CDS	54331..54978	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIOR010000029.1: 28315 .. 28710 in genome WHRI_6312A_Race_4.contig
 Hit covers 100 %
 
-CDS	22759..23916	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	23984..26422	VDQ11_16445	DUF1631 domain-containing protein	NA	
 CDS	26419..26763	VDQ11_16450	PilZ domain-containing protein	NA	
 CDS	26961..28286	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	28315..28713	VDQ11_16460	XVIPCD domain-containing protein	NA	
 CDS	complement(28950..30281)	VDQ11_16465	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30294..30836)	VDQ11_16470	YecA family protein	NA	
-CDS	31072..31293	VDQ11_16475	TIGR02449 family protein	NA	
-CDS	31290..31586	VDQ11_16480	cell division protein ZapA	NA	
-CDS	32150..32740	VDQ11_16490	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	32737..33207	VDQ11_16495	EVE domain-containing protein	NA	
-CDS	33309..33956	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIQV010000027.1: 40510 .. 40905 in genome WHRI_6366_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35264..35911)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36013..36483)	VDQ91_14490	EVE domain-containing protein	NA	
-CDS	complement(36480..37070)	VDQ91_14495	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37634..37930)	VDQ91_14505	cell division protein ZapA	NA	
-CDS	complement(37927..38148)	VDQ91_14510	TIGR02449 family protein	NA	
 CDS	38384..38926	VDQ91_14515	YecA family protein	NA	
 CDS	38939..40270	VDQ91_14520	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40507..40905)	VDQ91_14525	XVIPCD domain-containing protein	NA	
 CDS	complement(40934..42259)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42457..42801)	VDQ91_14535	PilZ domain-containing protein	NA	
 CDS	complement(42798..45236)	VDQ91_14540	DUF1631 domain-containing protein	NA	
-CDS	complement(45304..46461)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIQX010000027.1: 40899 .. 41294 in genome WHRI_6368_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(35649..36296)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36398..36868)	VDQ85_14465	EVE domain-containing protein	NA	
-CDS	complement(36865..37455)	VDQ85_14470	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(38019..38315)	VDQ85_14480	cell division protein ZapA	NA	
-CDS	complement(38312..38533)	VDQ85_14485	TIGR02449 family protein	NA	
 CDS	38769..39311	VDQ85_14490	YecA family protein	NA	
 CDS	39324..40655	VDQ85_14495	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40896..41294)	VDQ85_14500	XVIPCD domain-containing protein	NA	
 CDS	complement(41323..42648)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42846..43190)	VDQ85_14510	PilZ domain-containing protein	NA	
 CDS	complement(43187..45625)	VDQ85_14515	DUF1631 domain-containing protein	NA	
-CDS	complement(45693..46850)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIPX010000004.1: 233436 .. 233831 in genome WHRI_7074_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(228186..228833)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(228935..229405)	VDQ64_05270	EVE domain-containing protein	NA	
-CDS	complement(229402..229992)	VDQ64_05275	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(230556..230852)	VDQ64_05285	cell division protein ZapA	NA	
-CDS	complement(230849..231070)	VDQ64_05290	TIGR02449 family protein	NA	
 CDS	231306..231848	VDQ64_05295	YecA family protein	NA	
 CDS	231861..233192	VDQ64_05300	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(233433..233831)	VDQ64_05305	XVIPCD domain-containing protein	NA	
 CDS	complement(233860..235185)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(235383..235727)	VDQ64_05315	PilZ domain-containing protein	NA	
 CDS	complement(235724..238156)	VDQ64_05320	DUF1631 domain-containing protein	NA	
-CDS	complement(238224..239381)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYISB010000016.1: 26957 .. 27352 in genome WHRI_8401_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(21707..22354)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(22456..22926)	VDR43_12155	EVE domain-containing protein	NA	
-CDS	complement(22923..23513)	VDR43_12160	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(24077..24373)	VDR43_12170	cell division protein ZapA	NA	
-CDS	complement(24370..24591)	VDR43_12175	TIGR02449 family protein	NA	
 CDS	24827..25369	VDR43_12180	YecA family protein	NA	
 CDS	25382..26713	VDR43_12185	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(26954..27352)	VDR43_12190	XVIPCD domain-containing protein	NA	
 CDS	complement(27381..28706)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(28904..29248)	VDR43_12200	PilZ domain-containing protein	NA	
 CDS	complement(29245..31683)	VDR43_12205	DUF1631 domain-containing protein	NA	
-CDS	complement(31751..32908)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYISN010000021.1: 67225 .. 67620 in genome WHRI_8403_Race_6.contig
 Hit covers 100 %
 
-CDS	61669..62826	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	62894..65332	VDR21_13765	DUF1631 domain-containing protein	NA	
 CDS	65329..65673	VDR21_13770	PilZ domain-containing protein	NA	
 CDS	65871..67196	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	67225..67623	VDR21_13780	XVIPCD domain-containing protein	NA	
 CDS	complement(67863..69194)	VDR21_13785	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(69207..69749)	VDR21_13790	YecA family protein	NA	
-CDS	69985..70206	VDR21_13795	TIGR02449 family protein	NA	
-CDS	70203..70499	VDR21_13800	cell division protein ZapA	NA	
-CDS	71072..71662	VDR21_13810	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	71659..72129	VDR21_13815	EVE domain-containing protein	NA	
-CDS	72231..72878	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIRW010000018.1: 73581 .. 73976 in genome WHRI_8416A_Race_4.contig
 Hit covers 100 %
 
-CDS	68025..69182	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	69250..71688	VDR28_12515	DUF1631 domain-containing protein	NA	
 CDS	71685..72029	VDR28_12520	PilZ domain-containing protein	NA	
 CDS	72227..73552	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	73581..73979	VDR28_12530	XVIPCD domain-containing protein	NA	
 CDS	complement(74220..75551)	VDR28_12535	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(75564..76106)	VDR28_12540	YecA family protein	NA	
-CDS	76342..76563	VDR28_12545	TIGR02449 family protein	NA	
-CDS	76560..76856	VDR28_12550	cell division protein ZapA	NA	
-CDS	77419..78009	VDR28_12560	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	78006..78476	VDR28_12565	EVE domain-containing protein	NA	
-CDS	78578..79225	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYISC010000004.1: 48885 .. 49280 in genome WHRI_8420A_Race_1.contig
 Hit covers 100 %
 
-CDS	43335..44492	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44560..46992	VDR16_04715	DUF1631 domain-containing protein	NA	
 CDS	46989..47333	VDR16_04720	PilZ domain-containing protein	NA	
 CDS	47531..48856	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	48885..49283	VDR16_04730	XVIPCD domain-containing protein	NA	
 CDS	complement(49524..50855)	VDR16_04735	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(50868..51410)	VDR16_04740	YecA family protein	NA	
-CDS	51646..51867	VDR16_04745	TIGR02449 family protein	NA	
-CDS	51864..52160	VDR16_04750	cell division protein ZapA	NA	
-CDS	52724..53314	VDR16_04760	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53311..53781	VDR16_04765	EVE domain-containing protein	NA	
-CDS	53883..54530	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIMT010000016.1: 6836 .. 7231 in genome WHRI_8429A_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(1578..2225)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(2327..2797)	VDQ48_11990	EVE domain-containing protein	NA	
-CDS	complement(2794..3384)	VDQ48_11995	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(3957..4253)	VDQ48_12005	cell division protein ZapA	NA	
-CDS	complement(4250..4471)	VDQ48_12010	TIGR02449 family protein	NA	
 CDS	4707..5249	VDQ48_12015	YecA family protein	NA	
 CDS	5262..6593	VDQ48_12020	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(6833..7231)	VDQ48_12025	XVIPCD domain-containing protein	NA	
 CDS	complement(7260..8585)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(8783..9127)	VDQ48_12035	PilZ domain-containing protein	NA	
 CDS	complement(9124..11562)	VDQ48_12040	DUF1631 domain-containing protein	NA	
-CDS	complement(11630..12787)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIMU010000019.1: 51325 .. 51720 in genome WHRI_8436_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(46079..46726)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(46828..47298)	VDP43_14725	EVE domain-containing protein	NA	
-CDS	complement(47295..47885)	VDP43_14730	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(48449..48745)	VDP43_14740	cell division protein ZapA	NA	
-CDS	complement(48742..48963)	VDP43_14745	TIGR02449 family protein	NA	
 CDS	49199..49741	VDP43_14750	YecA family protein	NA	
 CDS	49754..51085	VDP43_14755	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(51322..51720)	VDP43_14760	XVIPCD domain-containing protein	NA	
 CDS	complement(51749..53074)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(53272..53616)	VDP43_14770	PilZ domain-containing protein	NA	
 CDS	complement(53613..56051)	VDP43_14775	DUF1631 domain-containing protein	NA	
-CDS	complement(56119..57276)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIMX010000019.1: 38811 .. 39206 in genome WHRI_8446_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(33553..34200)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(34302..34772)	VDP44_13800	EVE domain-containing protein	NA	
-CDS	complement(34769..35359)	VDP44_13805	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(35932..36228)	VDP44_13815	cell division protein ZapA	NA	
-CDS	complement(36225..36446)	VDP44_13820	TIGR02449 family protein	NA	
 CDS	36682..37224	VDP44_13825	YecA family protein	NA	
 CDS	37237..38568	VDP44_13830	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(38808..39206)	VDP44_13835	XVIPCD domain-containing protein	NA	
 CDS	complement(39235..40560)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(40758..41102)	VDP44_13845	PilZ domain-containing protein	NA	
 CDS	complement(41099..43537)	VDP44_13850	DUF1631 domain-containing protein	NA	
-CDS	complement(43605..44762)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIMZ010000017.1: 38817 .. 39212 in genome WHRI_8448A_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(33559..34206)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(34308..34778)	VDP41_13975	EVE domain-containing protein	NA	
-CDS	complement(34775..35365)	VDP41_13980	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(35938..36234)	VDP41_13990	cell division protein ZapA	NA	
-CDS	complement(36231..36452)	VDP41_13995	TIGR02449 family protein	NA	
 CDS	36688..37230	VDP41_14000	YecA family protein	NA	
 CDS	37243..38574	VDP41_14005	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(38814..39212)	VDP41_14010	XVIPCD domain-containing protein	NA	
 CDS	complement(39241..40566)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(40764..41108)	VDP41_14020	PilZ domain-containing protein	NA	
 CDS	complement(41105..43543)	VDP41_14025	DUF1631 domain-containing protein	NA	
-CDS	complement(43611..44768)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYINA010000001.1: 337776 .. 338171 in genome WHRI_8450A_Race_6.contig
 Hit covers 100 %
 
-CDS	332220..333377	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	333445..335883	VDP30_01330	DUF1631 domain-containing protein	NA	
 CDS	335880..336224	VDP30_01335	PilZ domain-containing protein	NA	
 CDS	336422..337747	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	337776..338174	VDP30_01345	XVIPCD domain-containing protein	NA	
 CDS	complement(338414..339745)	VDP30_01350	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(339758..340300)	VDP30_01355	YecA family protein	NA	
-CDS	340536..340757	VDP30_01360	TIGR02449 family protein	NA	
-CDS	340754..341050	VDP30_01365	cell division protein ZapA	NA	
-CDS	341623..342213	VDP30_01375	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	342210..342680	VDP30_01380	EVE domain-containing protein	NA	
-CDS	342782..343429	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYINC010000016.1: 69868 .. 70263 in genome WHRI_8458A_Race_6.contig
 Hit covers 100 %
 
-CDS	64312..65469	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	65537..67975	VDP36_12775	DUF1631 domain-containing protein	NA	
 CDS	67972..68316	VDP36_12780	PilZ domain-containing protein	NA	
 CDS	68514..69839	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	69868..70266	VDP36_12790	XVIPCD domain-containing protein	NA	
 CDS	complement(70506..71837)	VDP36_12795	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(71850..72392)	VDP36_12800	YecA family protein	NA	
-CDS	72628..72849	VDP36_12805	TIGR02449 family protein	NA	
-CDS	72846..73142	VDP36_12810	cell division protein ZapA	NA	
-CDS	73715..74305	VDP36_12820	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	74302..74772	VDP36_12825	EVE domain-containing protein	NA	
-CDS	74874..75521	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 CP142007.2: 1146329 .. 1146724 in genome WHRI_8497_Race_6.contig
 Hit covers 100 %
@@ -2015,226 +1690,142 @@ Hit covers 100 %
 !!! Hit covers 78 %
 !!! Hit covers 76 %
 
-CDS	complement(1141079..1141726)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(1141828..1142298)	VDR24_004870	EVE domain-containing protein	NA	
-CDS	complement(1142295..1142885)	VDR24_004875	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(1143449..1143745)	VDR24_004885	cell division protein ZapA	NA	
-CDS	complement(1143742..1143963)	VDR24_004890	TIGR02449 family protein	NA	
 CDS	1144199..1144741	VDR24_004895	YecA family protein	NA	
 CDS	1144754..1146085	VDR24_004900	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(1146326..1146724)	VDR24_004905	XVIPCD domain-containing protein	NA	
 CDS	complement(1146753..1148078)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(1148276..1148620)	VDR24_004915	PilZ domain-containing protein	NA	
 CDS	complement(1148617..1151055)	VDR24_004920	DUF1631 domain-containing protein	NA	
-CDS	complement(1151123..1152280)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYITI010000002.1: 236067 .. 236462 in genome WHRI_8500_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(230817..231464)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(231566..232036)	VDR63_04370	EVE domain-containing protein	NA	
-CDS	complement(232033..232623)	VDR63_04375	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(233187..233483)	VDR63_04385	cell division protein ZapA	NA	
-CDS	complement(233480..233701)	VDR63_04390	TIGR02449 family protein	NA	
 CDS	233937..234479	VDR63_04395	YecA family protein	NA	
 CDS	234492..235823	VDR63_04400	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(236064..236462)	VDR63_04405	XVIPCD domain-containing protein	NA	
 CDS	complement(236491..237816)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(238014..238358)	VDR63_04415	PilZ domain-containing protein	NA	
 CDS	complement(238355..240793)	VDR63_04420	DUF1631 domain-containing protein	NA	
-CDS	complement(240861..242018)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYITV010000003.1: 48885 .. 49280 in genome WHRI_8541_Race_1.contig
 Hit covers 100 %
 
-CDS	43335..44492	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44560..46992	VDR62_04230	DUF1631 domain-containing protein	NA	
 CDS	46989..47333	VDR62_04235	PilZ domain-containing protein	NA	
 CDS	47531..48856	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	48885..49283	VDR62_04245	XVIPCD domain-containing protein	NA	
 CDS	complement(49524..50855)	VDR62_04250	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(50868..51410)	VDR62_04255	YecA family protein	NA	
-CDS	51646..51867	VDR62_04260	TIGR02449 family protein	NA	
-CDS	51864..52160	VDR62_04265	cell division protein ZapA	NA	
-CDS	52724..53314	VDR62_04275	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53311..53781	VDR62_04280	EVE domain-containing protein	NA	
-CDS	53883..54530	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYINF010000019.1: 47730 .. 48125 in genome WHRI_8572_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(42481..43128)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(43230..43700)	VDP93_11945	EVE domain-containing protein	NA	
-CDS	complement(43697..44287)	VDP93_11950	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(44850..45146)	VDP93_11960	cell division protein ZapA	NA	
-CDS	complement(45143..45364)	VDP93_11965	TIGR02449 family protein	NA	
 CDS	45600..46142	VDP93_11970	YecA family protein	NA	
 CDS	46155..47486	VDP93_11975	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(47727..48125)	VDP93_11980	XVIPCD domain-containing protein	NA	
 CDS	complement(48154..49479)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(49677..50021)	VDP93_11990	PilZ domain-containing protein	NA	
 CDS	complement(50018..52456)	VDP93_11995	DUF1631 domain-containing protein	NA	
-CDS	complement(52524..53681)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYITP010000016.1: 26963 .. 27358 in genome WHRI_8648_Race_4.contig
 Hit covers 100 %
 
-CDS	complement(21713..22360)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(22462..22932)	VDR76_11055	EVE domain-containing protein	NA	
-CDS	complement(22929..23519)	VDR76_11060	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(24083..24379)	VDR76_11070	cell division protein ZapA	NA	
-CDS	complement(24376..24597)	VDR76_11075	TIGR02449 family protein	NA	
 CDS	24833..25375	VDR76_11080	YecA family protein	NA	
 CDS	25388..26719	VDR76_11085	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(26960..27358)	VDR76_11090	XVIPCD domain-containing protein	NA	
 CDS	complement(27387..28712)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(28910..29254)	VDR76_11100	PilZ domain-containing protein	NA	
 CDS	complement(29251..31689)	VDR76_11105	DUF1631 domain-containing protein	NA	
-CDS	complement(31757..32914)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIRZ010000021.1: 28337 .. 28732 in genome WHRI_8662_Race_1.contig
 Hit covers 100 %
 
-CDS	22781..23938	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	24006..26444	VDR05_13020	DUF1631 domain-containing protein	NA	
 CDS	26441..26785	VDR05_13025	PilZ domain-containing protein	NA	
 CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	28337..28735	VDR05_13035	XVIPCD domain-containing protein	NA	
 CDS	complement(28976..30307)	VDR05_13040	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30320..30862)	VDR05_13045	YecA family protein	NA	
-CDS	31098..31319	VDR05_13050	TIGR02449 family protein	NA	
-CDS	31316..31612	VDR05_13055	cell division protein ZapA	NA	
-CDS	32175..32765	VDR05_13065	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	32762..33232	VDR05_13070	EVE domain-containing protein	NA	
-CDS	33334..33981	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIRU010000017.1: 49212 .. 49607 in genome WHRI_8733_Race_1.contig
 Hit covers 100 %
 
-CDS	43656..44813	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	44881..47319	VDR14_12145	DUF1631 domain-containing protein	NA	
 CDS	47316..47660	VDR14_12150	PilZ domain-containing protein	NA	
 CDS	47858..49183	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	49212..49610	VDR14_12160	XVIPCD domain-containing protein	NA	
 CDS	complement(49851..51182)	VDR14_12165	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(51195..51737)	VDR14_12170	YecA family protein	NA	
-CDS	51973..52194	VDR14_12175	TIGR02449 family protein	NA	
-CDS	52191..52487	VDR14_12180	cell division protein ZapA	NA	
-CDS	53050..53640	VDR14_12190	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	53637..54107	VDR14_12195	EVE domain-containing protein	NA	
-CDS	54209..54856	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYITD010000022.1: 28337 .. 28732 in genome WHRI_8759_Race_1.contig
 Hit covers 100 %
 
-CDS	22781..23938	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	24006..26444	VDR52_13695	DUF1631 domain-containing protein	NA	
 CDS	26441..26785	VDR52_13700	PilZ domain-containing protein	NA	
 CDS	26983..28308	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	28337..28735	VDR52_13710	XVIPCD domain-containing protein	NA	
 CDS	complement(28976..30307)	VDR52_13715	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(30320..30862)	VDR52_13720	YecA family protein	NA	
-CDS	31098..31319	VDR52_13725	TIGR02449 family protein	NA	
-CDS	31316..31612	VDR52_13730	cell division protein ZapA	NA	
-CDS	32175..32765	VDR52_13740	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	32762..33232	VDR52_13745	EVE domain-containing protein	NA	
-CDS	33334..33981	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYITL010000020.1: 40571 .. 40966 in genome WHRI_8763_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(35322..35969)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(36071..36541)	VDR77_14745	EVE domain-containing protein	NA	
-CDS	complement(36538..37128)	VDR77_14750	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(37691..37987)	VDR77_14760	cell division protein ZapA	NA	
-CDS	complement(37984..38205)	VDR77_14765	TIGR02449 family protein	NA	
 CDS	38441..38983	VDR77_14770	YecA family protein	NA	
 CDS	38996..40327	VDR77_14775	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(40568..40966)	VDR77_14780	XVIPCD domain-containing protein	NA	
 CDS	complement(40995..42320)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(42518..42862)	VDR77_14790	PilZ domain-containing protein	NA	
 CDS	complement(42859..45297)	VDR77_14795	DUF1631 domain-containing protein	NA	
-CDS	complement(45365..46522)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYIWW010000006.1: 38813 .. 39208 in genome WHRI_8806_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(33555..34202)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(34304..34774)	VDS49_04385	EVE domain-containing protein	NA	
-CDS	complement(34771..35361)	VDS49_04390	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(35934..36230)	VDS49_04400	cell division protein ZapA	NA	
-CDS	complement(36227..36448)	VDS49_04405	TIGR02449 family protein	NA	
 CDS	36684..37226	VDS49_04410	YecA family protein	NA	
 CDS	37239..38570	VDS49_04415	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(38810..39208)	VDS49_04420	XVIPCD domain-containing protein	NA	
 CDS	complement(39237..40562)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(40760..41104)	VDS49_04430	PilZ domain-containing protein	NA	
 CDS	complement(41101..43539)	VDS49_04435	DUF1631 domain-containing protein	NA	
-CDS	complement(43607..44764)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYITQ010000016.1: 67225 .. 67620 in genome WHRI_8807_Race_6.contig
 Hit covers 100 %
 
-CDS	61669..62826	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	62894..65332	VDR64_11980	DUF1631 domain-containing protein	NA	
 CDS	65329..65673	VDR64_11985	PilZ domain-containing protein	NA	
 CDS	65871..67196	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	67225..67623	VDR64_11995	XVIPCD domain-containing protein	NA	
 CDS	complement(67863..69194)	VDR64_12000	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(69207..69749)	VDR64_12005	YecA family protein	NA	
-CDS	69985..70206	VDR64_12010	TIGR02449 family protein	NA	
-CDS	70203..70499	VDR64_12015	cell division protein ZapA	NA	
-CDS	71072..71662	VDR64_12025	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	71659..72129	VDR64_12030	EVE domain-containing protein	NA	
-CDS	72231..72878	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYIUB010000014.1: 69877 .. 70272 in genome WHRI_8808_Race_6.contig
 Hit covers 100 %
 
-CDS	64321..65478	hemW	radical SAM family heme chaperone HemW	NA	
 CDS	65546..67984	VDR55_10800	DUF1631 domain-containing protein	NA	
 CDS	67981..68325	VDR55_10805	PilZ domain-containing protein	NA	
 CDS	68523..69848	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	69877..70275	VDR55_10815	XVIPCD domain-containing protein	NA	
 CDS	complement(70515..71846)	VDR55_10820	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(71859..72401)	VDR55_10825	YecA family protein	NA	
-CDS	72637..72858	VDR55_10830	TIGR02449 family protein	NA	
-CDS	72855..73151	VDR55_10835	cell division protein ZapA	NA	
-CDS	73724..74314	VDR55_10845	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	74311..74781	VDR55_10850	EVE domain-containing protein	NA	
-CDS	74883..75530	rpiA	ribose-5-phosphate isomerase RpiA	NA	
 
 JAYITB010000005.1: 269244 .. 269639 in genome WHRI_8857_Race_1.contig
 Hit covers 100 %
 
-CDS	complement(263994..264641)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(264743..265213)	VDR54_08390	EVE domain-containing protein	NA	
-CDS	complement(265210..265800)	VDR54_08395	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(266364..266660)	VDR54_08405	cell division protein ZapA	NA	
-CDS	complement(266657..266878)	VDR54_08410	TIGR02449 family protein	NA	
 CDS	267114..267656	VDR54_08415	YecA family protein	NA	
 CDS	267669..269000	VDR54_08420	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(269241..269639)	VDR54_08425	XVIPCD domain-containing protein	NA	
 CDS	complement(269668..270993)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(271191..271535)	VDR54_08435	PilZ domain-containing protein	NA	
 CDS	complement(271532..273964)	VDR54_08440	DUF1631 domain-containing protein	NA	
-CDS	complement(274032..275189)	hemW	radical SAM family heme chaperone HemW	NA	
 
 JAYILS010000015.1: 43283 .. 43678 in genome WHRI_8883_Race_6.contig
 Hit covers 100 %
 
-CDS	complement(38034..38681)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(38783..39253)	VDG63_11575	EVE domain-containing protein	NA	
-CDS	complement(39250..39840)	VDG63_11580	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(40403..40699)	VDG63_11590	cell division protein ZapA	NA	
-CDS	complement(40696..40917)	VDG63_11595	TIGR02449 family protein	NA	
 CDS	41153..41695	VDG63_11600	YecA family protein	NA	
 CDS	41708..43039	VDG63_11605	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(43280..43678)	VDG63_11610	XVIPCD domain-containing protein	NA	
 CDS	complement(43707..45032)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(45230..45574)	VDG63_11620	PilZ domain-containing protein	NA	
 CDS	complement(45571..48009)	VDG63_11625	DUF1631 domain-containing protein	NA	
-CDS	complement(48077..49234)	hemW	radical SAM family heme chaperone HemW	NA	
 
 CP142009.1: 1059989 .. 1060384 in genome WHRI_8978_Race_4.contig
 Hit covers 100 %
@@ -2250,15 +1841,9 @@ Hit covers 100 %
 !!! Hit covers 78 %
 !!! Hit covers 76 %
 
-CDS	complement(1054743..1055390)	rpiA	ribose-5-phosphate isomerase RpiA	NA	
-CDS	complement(1055492..1055962)	VDR56_004455	EVE domain-containing protein	NA	
-CDS	complement(1055959..1056549)	VDR56_004460	5-formyltetrahydrofolate cyclo-ligase	NA	
-CDS	complement(1057113..1057409)	VDR56_004470	cell division protein ZapA	NA	
-CDS	complement(1057406..1057627)	VDR56_004475	TIGR02449 family protein	NA	
 CDS	1057863..1058405	VDR56_004480	YecA family protein	NA	
 CDS	1058418..1059749	VDR56_004485	aminopeptidase P N-terminal domain-containing protein	NA	
 CDS	complement(1059986..1060384)	VDR56_004490	XVIPCD domain-containing protein	NA	
 CDS	complement(1060413..1061738)	pepQ	Xaa-Pro dipeptidase	NA	
 CDS	complement(1061936..1062280)	VDR56_004500	PilZ domain-containing protein	NA	
 CDS	complement(1062277..1064715)	VDR56_004505	DUF1631 domain-containing protein	NA	
-CDS	complement(1064783..1065940)	hemW	radical SAM family heme chaperone HemW	NA	

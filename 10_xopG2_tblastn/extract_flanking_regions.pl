@@ -12,8 +12,8 @@ my %files;
 my %coverages;
 my %stop_codons;
 
-my $upstream_flank = 5000;
-my $downstream_flank = 5000;
+my $upstream_flank = 2000;
+my $downstream_flank = 2000;
 
 my $coverage_threshold_min = 0.40; # example $coverage_threshold_min = 0.90 
 my $coverage_threshold_max = 1.00; # example $coverage_threshold_max = 1.00
