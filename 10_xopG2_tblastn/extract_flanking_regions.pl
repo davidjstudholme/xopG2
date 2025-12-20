@@ -83,7 +83,7 @@ my %coverage_to_printline;
 print "Coverages:\n";
 foreach my $file (sort keys %coverages){
     my $fasta_filename;
-    if ($file =~ m/\.versus\.(.*.fasta)\.tblastn/) {
+    if ($file =~ m/\.versus\.(.*.contig)\.tblastn/) {
 	$fasta_filename = $1;
     } else {
 	die "Could not parse FASTA filename from TBLASTN file '$file'\n";
@@ -120,7 +120,7 @@ foreach my $coverage (sort {$b<=>$a} keys %coverage_to_printline) {
 ### Iterate over each BLAST hit
 foreach my $file (sort keys %file2hits) {
     my $fasta_filename;  
-    if ($file =~ m/\.versus\.(.*.fasta)\.tblastn/) {
+    if ($file =~ m/\.versus\.(.*.contig)\.tblastn/) {
 	$fasta_filename = $1;
     } else {
 	die "Could not parse FASTA filename from TBLASTN file '$file'\n";

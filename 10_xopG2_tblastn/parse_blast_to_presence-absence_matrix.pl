@@ -16,7 +16,7 @@ my $pc_identical_threshold = 90; # example $pc_identical_threshold = 90
 
 while (my $file = shift) {
 
-    #warn "$file\n";
+    warn "$file\n";
 
     $files{$file}++;
     
@@ -45,16 +45,14 @@ while (my $file = shift) {
 		
 		my $coverage = 100 * (($query_end - $query_start + 1) / $query_length);
 
-		#warn "$coverage\t$pc_identical\n";
+		warn "$coverage\t$pc_identical\n";
 		
 		if ($coverage >= $coverage_threshold_min and
                    $coverage <= $coverage_threshold_max and
 		    $pc_identical >= $pc_identical_threshold) {
 		    
 		    $file2hits{$file}{"$query_acc $query_desc"}{$coverage}=$pc_identical;
-		   
-		}
-		
+		}		
 	    }
 	}
     }
@@ -66,7 +64,6 @@ print "Coverage (%)";
 print "\t";
 print "Sequence identity (%)";;
 print "\n";
-
 
 foreach my $file (sort keys %files) {
     foreach my $query (sort keys %queries) {

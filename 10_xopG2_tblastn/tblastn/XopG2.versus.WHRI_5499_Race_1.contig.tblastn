@@ -1,0 +1,84 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_5499_Race_1.contig
+           106 sequences; 4,977,798 total letters
+
+
+
+Query= WP_011038360.1 XopG/HopH/AvrPtoH family type III secretion system
+effector [Xanthomonas campestris]
+
+Length=207
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAUINL010000049.1 Xanthomonas campestris pv. campestris strain 54...  319     9e-102
+JAUINL010000035.1 Xanthomonas campestris pv. campestris strain 54...  113     9e-30 
+
+
+>JAUINL010000049.1 Xanthomonas campestris pv. campestris strain 
+5499 NODE_49_length_29091_cov_54.386227, whole genome shotgun 
+sequence
+Length=29091
+
+ Score = 319 bits (818),  Expect = 9e-102, Method: Compositional matrix adjust.
+ Identities = 155/155 (100%), Positives = 155/155 (100%), Gaps = 0/155 (0%)
+ Frame = -1
+
+Query  53     KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVN  112
+              KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVN
+Sbjct  29013  KVLLNESPPWNPAPSAGAVFTDKQRRKYGERESEGEAAVELGLITKGRFCKGEGTNATVN  28834
+
+Query  113    WSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGK  172
+              WSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGK
+Sbjct  28833  WSPGVGLMVDSEGRPQGQSSEYAEQAFVGLAHELIHAKHIMSGDFKHGGDRLDPKSKSGK  28654
+
+Query  173    EELRATGLGKYASERVSENSIRAENGLPIRKHYAG  207
+              EELRATGLGKYASERVSENSIRAENGLPIRKHYAG
+Sbjct  28653  EELRATGLGKYASERVSENSIRAENGLPIRKHYAG  28549
+
+
+>JAUINL010000035.1 Xanthomonas campestris pv. campestris strain 
+5499 NODE_35_length_44244_cov_51.348065, whole genome shotgun 
+sequence
+Length=44244
+
+ Score = 113 bits (282),  Expect = 9e-30, Method: Compositional matrix adjust.
+ Identities = 54/54 (100%), Positives = 54/54 (100%), Gaps = 0/54 (0%)
+ Frame = -1
+
+Query  1    MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKV  54
+            MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKV
+Sbjct  240  MTISTRHPTIEINRYRSADYPDRVDAALAKIESTPSGNHLLEGLKPLAAHGKKV  79
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.131    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 204658032
+
+
+  Database: WHRI_5499_Race_1.contig
+    Posted date:  Dec 20, 2025 11:42 AM
+  Number of letters in database: 4,977,798
+  Number of sequences in database:  106
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
