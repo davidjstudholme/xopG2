@@ -1,7 +1,7 @@
 File	Coverage (%)	Sequence identity (%)
 ./race-typed_Xcc/XopG2.versus.147_Race_4.fasta.tblastn		
-./race-typed_Xcc/XopG2.versus.8004_Race_9.fasta.tblastn	51	99
-./race-typed_Xcc/XopG2.versus.8004_Race_9.fasta.tblastn	51	99
+./race-typed_Xcc/XopG2.versus.8004_Race_9.fasta.tblastn	49	99
+./race-typed_Xcc/XopG2.versus.8004_Race_9.fasta.tblastn	49	99
 ./race-typed_Xcc/XopG2.versus.ATCC_33913_Clade_C.fasta.tblastn	100	100
 ./race-typed_Xcc/XopG2.versus.B100_Race_1_Clade_A.fasta.tblastn		
 ./race-typed_Xcc/XopG2.versus.CFBP_1119_Race_1_Clade_A.fasta.tblastn		
