@@ -3,7 +3,9 @@
 use warnings;
 use strict;
 
-my $gene_census_file = 'gene_presence_absence_transposed.csv';
+my $usage = "Usage: $0 gene_census_file.csv";
+
+my $gene_census_file = shift or die "$usage\n";
 my $itol_nodes_file = 'itol-tree-node-ids.txt';
 
 open(CENSUS_FILE, "<$gene_census_file") or die $!;

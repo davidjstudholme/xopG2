@@ -1,8 +1,7 @@
 
-perl parse_blast.pl ../10_xopG2_tblastn/race-typed_Xcc/*.tblastn > gene_presence_absence_transposed.csv
+perl parse_blast.pl ../10_xopG2_tblastn/tblastn/XopG2.versus.*.tblastn > xopG2_gene_census.tsv
 
-perl prepare-metadata-for-itol.pl  > XopG2-intact-metadata.csv
-
+perl prepare-metadata-for-itol.pl xopG2_gene_census.tsv  > XopG2-intact-metadata.tsv
 
 
 
