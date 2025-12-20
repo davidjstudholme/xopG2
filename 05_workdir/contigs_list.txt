@@ -22,6 +22,7 @@ WHRI_3880_Race_5_contig
 WHRI_3883_Race_5_contig
 WHRI_3964_Race_4_contig
 WHRI_5190_Race_4_contig
+WHRI_5494A_Race_1_contig
 WHRI_5495_Race_1_contig
 WHRI_5499_Race_1_contig
 WHRI_5582_Race_4_contig
@@ -31,7 +32,6 @@ WHRI_5591_Race_1_contig
 WHRI_5592_Race_1_contig
 WHRI_5594_Race_1_contig
 WHRI_5630_Race_1_contig
-WHRI_5631_Race_1_contig
 WHRI_5714B_Race_1_contig
 WHRI_5715A_Race_1_contig
 WHRI_5733_Race_1_contig
@@ -59,7 +59,6 @@ WHRI_6075_Race_6_contig
 WHRI_6076_Race_6_contig
 WHRI_6077_Race_6_contig
 WHRI_6087_Race_1_contig
-WHRI_6181Rx_Race_6_contig
 WHRI_6181_Race_6_contig
 WHRI_6183_Race_1_contig
 WHRI_6184_Race_1_contig
@@ -114,4 +113,3 @@ WHRI_8978_Race_4_contig
 WHRI_8979_Race_5_contig
 WHRI_8980_Race_5_contig
 WHRI_8981_Race_5_contig
-Xcr_NCPPB_1946_contig
