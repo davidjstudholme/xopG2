@@ -1,0 +1,117 @@
+File	Coverage (%)	Sequence identity (%)
+./tblastn/XVIPCD.versus.147_Race_4.contig.tblastn	100	98
+./tblastn/XVIPCD.versus.8004_Race_9.contig.tblastn		
+./tblastn/XVIPCD.versus.ATCC_33913_Clade_C.contig.tblastn		
+./tblastn/XVIPCD.versus.B100_Race_1_Clade_A.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.CFBP_1119_Race_1_Clade_A.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.CFBP_5817_Race_4_Clade_B.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.CFBP_6865R_Race_5_Clade_E.contig.tblastn		
+./tblastn/XVIPCD.versus.CN03_Clade_A.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.CN05_Race_6_Clade_D.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.CN16_Clade_G.contig.tblastn		
+./tblastn/XVIPCD.versus.CN19_Race_1_Clade_B.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.CN20_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_10018A_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_10023A_Race_4.contig.tblastn	100	98
+./tblastn/XVIPCD.versus.WHRI_10024A_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_10030A_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_1279A_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_3820A_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_3830A_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_3832A_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_3843B_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_3880_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_3883_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_3964_Race_4.contig.tblastn	100	98
+./tblastn/XVIPCD.versus.WHRI_5190_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_5494A_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5495_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5499_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5582_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_5585_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_5588_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_5591_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_5592_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_5594_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_5630_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5714B_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5715A_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5733_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5735_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5736_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5742_Race_1_.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5743_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5771_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_5802_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_5806_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_5819_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6018A_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_6022A_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_6023A_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6024A_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6045_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6049_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6055_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6056_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6057_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6065_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6066_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6067_Race_4.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_6075_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6076_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6077_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6087_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6181_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6183_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6184_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6185_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6186_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6188_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6192_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6194_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6290_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_6312A_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_6366_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_6368_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_6382_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_7074_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8401_Race_4.contig.tblastn	100	99
+./tblastn/XVIPCD.versus.WHRI_8403_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8405_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8409_Race_1.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8416A_Race_4.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8420A_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8429A_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8436_Race_4.contig.tblastn	100	96
+./tblastn/XVIPCD.versus.WHRI_8446_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8448A_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8450A_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8458A_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8497_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8500_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8541_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8572_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8648_Race_4.contig.tblastn	100	99
+./tblastn/XVIPCD.versus.WHRI_8662_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8733_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8759_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8763_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8806_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8807_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8808_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8819_Race_3.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8820_Race_3.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8838_Race_9.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8857_Race_1.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8879_Race_9.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8883_Race_6.contig.tblastn	100	100
+./tblastn/XVIPCD.versus.WHRI_8891A_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8892A_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8908_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8909A_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8934A_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8959A_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8978_Race_4.contig.tblastn	100	98
+./tblastn/XVIPCD.versus.WHRI_8979_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8980_Race_5.contig.tblastn		
+./tblastn/XVIPCD.versus.WHRI_8981_Race_5.contig.tblastn		

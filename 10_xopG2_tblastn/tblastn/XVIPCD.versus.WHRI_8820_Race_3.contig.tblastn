@@ -1,0 +1,238 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: WHRI_8820_Race_3.contig
+           76 sequences; 4,934,123 total letters
+
+
+
+Query= WVL74137.1 XVIPCD domain-containing protein [Xanthomonas campestris
+pv. campestris]
+
+Length=132
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+JAYIQT010000033.1 Xanthomonas campestris pv. campestris strain WH...  107     7e-29
+JAYIQT010000025.1 Xanthomonas campestris pv. campestris strain WH...  103     1e-27
+JAYIQT010000022.1 Xanthomonas campestris pv. campestris strain WH...  94.4    2e-24
+JAYIQT010000039.1 Xanthomonas campestris pv. campestris strain WH...  89.7    1e-22
+JAYIQT010000020.1 Xanthomonas campestris pv. campestris strain WH...  85.5    4e-21
+JAYIQT010000017.1 Xanthomonas campestris pv. campestris strain WH...  84.3    8e-21
+JAYIQT010000003.1 Xanthomonas campestris pv. campestris strain WH...  83.2    2e-20
+JAYIQT010000035.1 Xanthomonas campestris pv. campestris strain WH...  66.2    2e-14
+JAYIQT010000056.1 Xanthomonas campestris pv. campestris strain WH...  64.7    5e-14
+
+
+>JAYIQT010000033.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_33, whole genome shotgun sequence
+Length=55481
+
+ Score = 107 bits (267),  Expect = 7e-29, Method: Compositional matrix adjust.
+ Identities = 63/129 (49%), Positives = 80/129 (62%), Gaps = 5/129 (4%)
+ Frame = +2
+
+Query  4     PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+             P    HPDH M+QQI   V  +D A GR  D TS R+TA+LL LAK+ GL+RVD+VL+S+
+Sbjct  7130  PADAGHPDHAMHQQIRGKVEQLDTASGRTFDATSERMTASLLTLAKDNGLTRVDHVLLSD  7309
+
+Query  64    ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAAPGEALQQPE  123
+               R  +   +NVFVVQGDP +PA LRAHM T +A   P ++SF    Q+    + L Q E
+Sbjct  7310  KTRE-LTAAQNVFVVQGDPQDPAKLRAHMPTAEAAQRPVQESFT---QLETVNQRLAQ-E  7474
+
+Query  124   RTQTPQLGQ  132
+             R Q   L Q
+Sbjct  7475  RVQEQVLDQ  7501
+
+
+>JAYIQT010000025.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_25, whole genome shotgun sequence
+Length=75881
+
+ Score = 103 bits (258),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 53/109 (49%), Positives = 70/109 (64%), Gaps = 1/109 (1%)
+ Frame = -3
+
+Query  4      PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+              P    HPDH M+QQI   V  +D   GRA D TS R+TA+LL LAK+ GL+RVD+VL+S+
+Sbjct  75492  PADVGHPDHAMHQQIRGKVAQLDTTSGRASDATSERITASLLTLAKDNGLTRVDHVLLSD  75313
+
+Query  64     ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQI  112
+                +  +   + +FVVQGDP +PA LRAHM T +A   P + SF +   I
+Sbjct  75312  KTK-DLPAAQTLFVVQGDPKDPAMLRAHMPTAEAAQRPVQDSFAQLESI  75169
+
+
+ Score = 96.7 bits (239),  Expect = 4e-25, Method: Compositional matrix adjust.
+ Identities = 52/117 (44%), Positives = 74/117 (63%), Gaps = 1/117 (1%)
+ Frame = -2
+
+Query  4    PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+            P   SHP + ++QQ + GV  +D   GRA D+ SA + A+L  LA   GL RVD+VL+S+
+Sbjct  718  PDDPSHPRYALHQQCKAGVGALDQQLGRASDEKSACMAASLTNLAVTNGLERVDHVLLSD  539
+
+Query  64   ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAAPGEALQ  120
+              +    G +NVF+VQG+ ++PAHLRAHM  +QA++TP E SF    Q+     A+Q
+Sbjct  538  QAKPASLG-QNVFIVQGELSDPAHLRAHMSADQAISTPVEASFRELAQVEQRNVAMQ  371
+
+
+>JAYIQT010000022.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_22, whole genome shotgun sequence
+Length=84769
+
+ Score = 94.4 bits (233),  Expect = 2e-24, Method: Compositional matrix adjust.
+ Identities = 48/100 (48%), Positives = 66/100 (66%), Gaps = 1/100 (1%)
+ Frame = -3
+
+Query  9      HPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTG  68
+              H D+ + QQ+  GV+ IDA  GR PD+ S RL A+++ LA++  L R D+V++S      
+Sbjct  13106  HRDYALLQQVRAGVNAIDAQAGRTPDENSERLIASVMTLARQNNLDRADHVVLS-TQTAD  12930
+
+Query  69     VHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFER  108
+                 G +VFVVQG+  NPAHLRAHM T+ A+ TP EQS +R
+Sbjct  12929  SPAGRHVFVVQGELNNPAHLRAHMPTDVAVQTPVEQSLQR  12810
+
+
+ Score = 89.7 bits (221),  Expect = 1e-22, Method: Compositional matrix adjust.
+ Identities = 54/117 (46%), Positives = 74/117 (63%), Gaps = 8/117 (7%)
+ Frame = +1
+
+Query  4      PRQTSHPD-----HPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDY  58
+              PRQ    D     HP++ Q    V  +DA+ GRA D  S R++A+L  LAKE GL R+D+
+Sbjct  20353  PRQADAEDAQPAPHPLHAQASTLVGRLDASMGRASDAHSERMSASLAHLAKEHGLERIDH  20532
+
+Query  59     VLMSEANRTG-VHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAA  114
+              V++S  N+T     G  VFVVQG+P+NPAHLRA M T+ A+ TP EQS  + +++ A
+Sbjct  20533  VMLS--NQTSRAAAGATVFVVQGEPSNPAHLRASMPTDLAVTTPVEQSLAKLQELDA  20697
+
+
+>JAYIQT010000039.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_39, whole genome shotgun sequence
+Length=43429
+
+ Score = 89.7 bits (221),  Expect = 1e-22, Method: Compositional matrix adjust.
+ Identities = 47/112 (42%), Positives = 71/112 (63%), Gaps = 4/112 (4%)
+ Frame = -2
+
+Query  2      NDPRQTSHPDHPMYQQIERGVHGI-DAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVL  60
+              NDP +  HPDH + QQI   + G+ ++ H +A D  SAR+TA++  LAK+   S VD + 
+Sbjct  20802  NDPIRQGHPDHALMQQIREKIEGLKNSGHVQAAD--SARITASVYALAKQNNFSSVDEIA  20629
+
+Query  61     MSEANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQI  112
+              +S+       G E +F++QG   NPA LRA+M T++A+ TP EQ FE+ R++
+Sbjct  20628  LSKQTNAAAPG-EKIFILQGASDNPATLRAYMPTQEAIQTPVEQPFEKVRKL  20476
+
+
+>JAYIQT010000020.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_20, whole genome shotgun sequence
+Length=93118
+
+ Score = 85.5 bits (210),  Expect = 4e-21, Method: Compositional matrix adjust.
+ Identities = 51/108 (47%), Positives = 66/108 (61%), Gaps = 4/108 (4%)
+ Frame = -1
+
+Query  10     PDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGV  69
+              P  P++ Q E  V  ++   GR  D  SARL A+   LAKE GLSR+D+V++SE  ++ V
+Sbjct  72436  PTDPLHHQAEEAVRRLEQGLGREYDDNSARLAASSAYLAKENGLSRIDHVVLSEYTKS-V  72260
+
+Query  70     HGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAAPGE  117
+                GENVFVV+G   +PAH  AHM T  A+A P EQS     Q+ A GE
+Sbjct  72259  RQGENVFVVEGALNDPAHKMAHMMTSDAIAQPVEQSLA---QLQALGE  72125
+
+
+>JAYIQT010000017.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_17, whole genome shotgun sequence
+Length=104497
+
+ Score = 84.3 bits (207),  Expect = 8e-21, Method: Compositional matrix adjust.
+ Identities = 48/102 (47%), Positives = 67/102 (66%), Gaps = 3/102 (3%)
+ Frame = -2
+
+Query  13     PMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGVHG-  71
+              P+++Q E  V  ++ + GR  D  SARL A+   LAK  GL+++D+V++S  N+T   G 
+Sbjct  47151  PLHRQAEEAVRRLEQSLGRDYDDNSARLAASSAHLAKANGLTQIDHVVLS--NQTAAVGK  46978
+
+Query  72     GENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIA  113
+              GENVFVVQG   NPAHL AHMKT  A+A P EQS  + + ++
+Sbjct  46977  GENVFVVQGALDNPAHLMAHMKTSDAIAQPVEQSLSQLQTLS  46852
+
+
+>JAYIQT010000003.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_3, whole genome shotgun sequence
+Length=219868
+
+ Score = 83.2 bits (204),  Expect = 2e-20, Method: Compositional matrix adjust.
+ Identities = 45/109 (41%), Positives = 66/109 (61%), Gaps = 3/109 (3%)
+ Frame = -2
+
+Query  4      PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+              P    HPDH ++ QI+  V  +D   G+  D+ S R+ A LLPLAK+ G  +VD V++S 
+Sbjct  22371  PDHPEHPDHHLFSQIQEAVSVLDTELGKPTDEASMRMAARLLPLAKQHGFDQVDLVVLS-  22195
+
+Query  64     ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQI  112
+                R     GENVF+V+G   +PAHLRAH+ T++A+ T  + S  +  +I
+Sbjct  22194  --RHLGEVGENVFLVRGALDDPAHLRAHITTQEAMETSVDASLAQLDEI  22054
+
+
+>JAYIQT010000035.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_35, whole genome shotgun sequence
+Length=53383
+
+ Score = 66.2 bits (160),  Expect = 2e-14, Method: Compositional matrix adjust.
+ Identities = 44/110 (40%), Positives = 58/110 (53%), Gaps = 9/110 (8%)
+ Frame = +3
+
+Query  6      QTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMS-EA  64
+              Q  H  +P++Q  +RGVH  D   GRAPD  SA+L+  L       G  R+D V MS +A
+Sbjct  46278  QPGHTGNPLFQDAQRGVHAQDLRAGRAPDHQSAQLSGVLASEMHAAGGQRIDSVAMSPDA  46457
+
+Query  65     NRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAA  114
+               RT        F VQG   +PA LR  + T  A+ TP EQS +R  + +A
+Sbjct  46458  ART--------FAVQGRADDPAQLRVSVDTMTAMNTPLEQSSQRVAENSA  46583
+
+
+>JAYIQT010000056.1 Xanthomonas campestris pv. campestris strain 
+WHRI 8820 scf_83486_56, whole genome shotgun sequence
+Length=16376
+
+ Score = 64.7 bits (156),  Expect = 5e-14, Method: Compositional matrix adjust.
+ Identities = 41/104 (39%), Positives = 51/104 (49%), Gaps = 7/104 (7%)
+ Frame = +3
+
+Query  5      RQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEA  64
+              R  +HPDH + QQ    V  ++ AHG  P   S RL    L  A+E GL RVD+VL+   
+Sbjct  15357  RDPAHPDHGLLQQCTAAVGRLEGAHGPTPGMDSERLALGSLVAAREHGLQRVDHVLLGND  15536
+
+Query  65     NRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFER  108
+                 G       FVVQG   +PAHLR     + A   P E S +R
+Sbjct  15537  PARG-------FVVQGALDSPAHLRGSFDAKAAQEAPVEASLQR  15647
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.371    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 90137025
+
+
+  Database: WHRI_8820_Race_3.contig
+    Posted date:  Dec 20, 2025 11:59 AM
+  Number of letters in database: 4,934,123
+  Number of sequences in database:  76
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

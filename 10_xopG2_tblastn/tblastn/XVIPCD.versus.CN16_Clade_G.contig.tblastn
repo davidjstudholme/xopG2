@@ -1,0 +1,251 @@
+TBLASTN 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: CN16_Clade_G.contig
+           13 sequences; 5,162,366 total letters
+
+
+
+Query= WVL74137.1 XVIPCD domain-containing protein [Xanthomonas campestris
+pv. campestris]
+
+Length=132
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CP017389.1 Xanthomonas campestris pv. campestris str. CN16 chromo...  111     3e-30
+CP017396.1 Xanthomonas campestris pv. campestris str. CN16 plasmi...  76.3    4e-20
+
+
+>CP017389.1 Xanthomonas campestris pv. campestris str. CN16 chromosome, 
+complete genome
+Length=5023147
+
+ Score = 111 bits (278),  Expect = 3e-30, Method: Compositional matrix adjust.
+ Identities = 61/110 (55%), Positives = 75/110 (68%), Gaps = 3/110 (3%)
+ Frame = -1
+
+Query  4        PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+                P    H DH +YQQI  GV  +DA HGR  D +S R+TA+LL LAKE GLSRVD+V+++ 
+Sbjct  2711524  PSDPGHADHSLYQQIRNGVQKLDAQHGREWDASSQRMTASLLALAKEEGLSRVDHVVLN-  2711348
+
+Query  64       ANRTG-VHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQI  112
+                 N T  + GGE VFVVQG   +PAH RAHM T  A+ TPE QSF+R + I
+Sbjct  2711347  -NPTAQLAGGEKVFVVQGALNDPAHQRAHMSTMDAVQTPETQSFDRLQAI  2711201
+
+
+ Score = 105 bits (261),  Expect = 4e-28, Method: Compositional matrix adjust.
+ Identities = 54/109 (50%), Positives = 72/109 (66%), Gaps = 1/109 (1%)
+ Frame = -2
+
+Query  4       PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+               P +  HPDH M+QQI   V  +DAA+GR  D TS R+TA+LL LAK+ GL+RVD+VL+SE
+Sbjct  159693  PAEAGHPDHAMHQQIRSKVEQLDAANGRTFDATSERMTASLLTLAKDNGLTRVDHVLLSE  159514
+
+Query  64      ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQI  112
+                 +      + +FVVQGDP +PA LRAHM T  A   P ++SF +   +
+Sbjct  159513  KTKNSP-AAQTLFVVQGDPKDPAMLRAHMPTADAAQRPVQESFTQLESV  159370
+
+
+ Score = 103 bits (258),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 54/103 (52%), Positives = 69/103 (67%), Gaps = 1/103 (1%)
+ Frame = -3
+
+Query  4      PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+              P    HPDH M+QQI   V  +DAA GR  D TS R+TA+LL LAK+ GL+RVD+VL+S+
+Sbjct  78647  PADAGHPDHAMHQQIRGKVEQLDAASGRTFDATSERMTASLLTLAKDNGLTRVDHVLLSD  78468
+
+Query  64     ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSF  106
+                R  +   +NVFVVQG P +PA LR HM T +A   P ++SF
+Sbjct  78467  KTRE-LTAAQNVFVVQGGPQDPAKLRTHMPTAEAAQRPVQESF  78342
+
+
+ Score = 94.7 bits (234),  Expect = 2e-24, Method: Compositional matrix adjust.
+ Identities = 48/100 (48%), Positives = 66/100 (66%), Gaps = 1/100 (1%)
+ Frame = +1
+
+Query  9        HPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTG  68
+                H D+ + QQ+  GV+ IDA  GR PD+ S RL A+++ LA++  L R D+V++S      
+Sbjct  3672697  HRDYALLQQVRAGVNAIDAQAGRTPDENSERLIASVMTLARQNNLDRADHVVLS-TQTAD  3672873
+
+Query  69       VHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFER  108
+                   G +VFVVQG+  NPAHLRAHM T+ A+ TP EQS +R
+Sbjct  3672874  SPAGRHVFVVQGELNNPAHLRAHMPTDVAVQTPVEQSLQR  3672993
+
+
+ Score = 90.5 bits (223),  Expect = 7e-23, Method: Compositional matrix adjust.
+ Identities = 54/131 (41%), Positives = 74/131 (56%), Gaps = 7/131 (5%)
+ Frame = -3
+
+Query  6       QTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEAN  65
+               Q   P  PM+ QI+ GVH ID +  R PD  S R+T +L  LAKE GL RVD V++ +A 
+Sbjct  685106  QAPSPSDPMFAQIQDGVHRIDRSLNRVPDAASDRMTWSLYALAKEQGLERVDNVVLGQAG  684927
+
+Query  66      RTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEE------QSFERARQIAAPGEAL  119
+                T    GE VF+VQGDP+   + R  M+T  A+ +  E      QS E+ R +A   EA 
+Sbjct  684926  -TRAAAGEYVFLVQGDPSTSVYHREQMRTADAVESSVEQSQARVQSAEQTRALAMTAEAQ  684750
+
+Query  120     QQPERTQTPQL  130
+               +Q ++   P+L
+Sbjct  684749  EQNQKQDAPRL  684717
+
+
+ Score = 88.2 bits (217),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 48/101 (48%), Positives = 66/101 (65%), Gaps = 1/101 (1%)
+ Frame = +3
+
+Query  13      PMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGVHGG  72
+               P++QQ E  V  ++   GR  D  SARL A+   LAKE GLSR+D+V++SE+ +T    G
+Sbjct  690465  PLHQQAEEAVRRLEQGLGREYDDNSARLAASSAYLAKENGLSRIDHVVLSESTKTARQ-G  690641
+
+Query  73      ENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIA  113
+               ENVFVV+G   +PAH  AHMKT  A+A P EQS  + + ++
+Sbjct  690642  ENVFVVEGALNDPAHKMAHMKTGDAIAQPIEQSLAQLQSVS  690764
+
+
+ Score = 85.1 bits (209),  Expect = 4e-21, Method: Compositional matrix adjust.
+ Identities = 51/108 (47%), Positives = 66/108 (61%), Gaps = 4/108 (4%)
+ Frame = -2
+
+Query  10       PDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGV  69
+                P  P++ Q E  V  ++   GR  D  SARL A+   LAKE GLSR+D+V++SE  ++ V
+Sbjct  2708505  PTDPLHHQAEEAVRRLEQGLGREYDDNSARLAASSAYLAKENGLSRIDHVVLSEYTKS-V  2708329
+
+Query  70       HGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAAPGE  117
+                  GENVFVV+G   +PAH  AHM T  A+A P EQS     Q+ A GE
+Sbjct  2708328  RQGENVFVVEGALNDPAHKMAHMMTSDAIAQPVEQSLA---QLQALGE  2708194
+
+
+ Score = 84.3 bits (207),  Expect = 8e-21, Method: Compositional matrix adjust.
+ Identities = 46/109 (42%), Positives = 66/109 (61%), Gaps = 3/109 (3%)
+ Frame = +3
+
+Query  4       PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+               P    HPDH ++ QI+  V  +D   GR  D+ S R+ A LLPLAK+ G  +VD V++S 
+Sbjct  375864  PDHPEHPDHHLFSQIQEAVSVLDTELGRPTDEASMRMAARLLPLAKQHGFDQVDLVVLS-  376040
+
+Query  64      ANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQI  112
+                 R     GENVF+V+G   +PAHLRAH+ T++A+ T  + S  +  +I
+Sbjct  376041  --RHLGEVGENVFLVRGALDDPAHLRAHITTQEAMETSVDASLAQLDEI  376181
+
+
+ Score = 82.0 bits (201),  Expect = 7e-20, Method: Compositional matrix adjust.
+ Identities = 47/95 (49%), Positives = 62/95 (65%), Gaps = 3/95 (3%)
+ Frame = -1
+
+Query  13       PMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGVHG-  71
+                P+++Q E  V  ++   GR  D  SARL A+   LAK  GL+++D+V++S  N+T   G 
+Sbjct  4939534  PLHRQAEEAVRRLEQNLGRDYDDNSARLAASSAHLAKANGLTQIDHVVLS--NQTAAVGK  4939361
+
+Query  72       GENVFVVQGDPANPAHLRAHMKTEQALATPEEQSF  106
+                GENVFVVQG   NPAHL AHMKT  A+A P +QS 
+Sbjct  4939360  GENVFVVQGALDNPAHLMAHMKTSDAIAQPVDQSL  4939256
+
+
+ Score = 80.5 bits (197),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 45/101 (45%), Positives = 62/101 (61%), Gaps = 1/101 (1%)
+ Frame = +1
+
+Query  13      PMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGVHGG  72
+               P+  Q E  V  ++   GR  D+ SARL A+   LAKE GLSR+D+V++S    + V  G
+Sbjct  165637  PLVSQAEAAVRDLEKGLGRDYDENSARLAASSAYLAKENGLSRIDHVVLSRQTDS-VRQG  165813
+
+Query  73      ENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIA  113
+               ENVFVV+G   +PAH  AHMKT  A+  P EQS  + + ++
+Sbjct  165814  ENVFVVEGALNDPAHKMAHMKTMHAITQPVEQSLAQLQTLS  165936
+
+
+ Score = 77.4 bits (189),  Expect = 2e-18, Method: Compositional matrix adjust.
+ Identities = 46/102 (45%), Positives = 64/102 (63%), Gaps = 3/102 (3%)
+ Frame = -1
+
+Query  13       PMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEANRTGVHG-  71
+                P+++Q E  V  ++   GR  D  SARL A+   LAK  GL+++D+V++S  N+T   G 
+Sbjct  4937197  PLHRQAEEAVRRLEQNLGRDYDDNSARLAASSAHLAKANGLTQIDHVVLS--NQTASVGR  4937024
+
+Query  72       GENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIA  113
+                GENVFVVQG   NPAH  AHMKT  A+A P  QS  + + ++
+Sbjct  4937023  GENVFVVQGTLDNPAHQMAHMKTSDAIAQPVGQSLSQLQTLS  4936898
+
+
+ Score = 65.9 bits (159),  Expect = 3e-14, Method: Compositional matrix adjust.
+ Identities = 45/113 (40%), Positives = 59/113 (52%), Gaps = 12/113 (11%)
+ Frame = +1
+
+Query  6       QTSHPDH---PMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMS  62
+               +  HP H   P++Q  +RGVH  D   GRAPD  SA+L+  L       G  R+D V MS
+Sbjct  673192  RIDHPGHTGNPLFQDAQRGVHAQDLRAGRAPDHQSAQLSGVLASEMHAAGGQRIDSVAMS  673371
+
+Query  63      -EANRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFERARQIAA  114
+                +A RT        F VQG   +PA LR  + T  A+ TP EQS +R  + +A
+Sbjct  673372  PDAART--------FAVQGRADDPAQLRVSVDTMTAMNTPLEQSSQRVAENSA  673506
+
+
+ Score = 64.7 bits (156),  Expect = 6e-14, Method: Compositional matrix adjust.
+ Identities = 41/104 (39%), Positives = 51/104 (49%), Gaps = 7/104 (7%)
+ Frame = +1
+
+Query  5        RQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSEA  64
+                R  +HPDH + QQ    V  ++ AHG  P   S RL    L  A+E GL RVD+VL+   
+Sbjct  3591424  RDPAHPDHGLLQQCTAAVGRLEGAHGPTPGMDSERLALGSLVAAREHGLQRVDHVLLGND  3591603
+
+Query  65       NRTGVHGGENVFVVQGDPANPAHLRAHMKTEQALATPEEQSFER  108
+                   G       FVVQG   +PAHLR     + A   P E S +R
+Sbjct  3591604  PARG-------FVVQGALDSPAHLRGSFDAKAAQEAPVEASLQR  3591714
+
+
+>CP017396.1 Xanthomonas campestris pv. campestris str. CN16 plasmid 
+unnamed
+Length=2295
+
+ Score = 76.3 bits (186),  Expect(2) = 4e-20, Method: Compositional matrix adjust.
+ Identities = 42/77 (55%), Positives = 51/77 (66%), Gaps = 1/77 (1%)
+ Frame = +3
+
+Query  4     PRQTSHPDHPMYQQIERGVHGIDAAHGRAPDQTSARLTAALLPLAKEGGLSRVDYVLMSE  63
+             P Q  H DH +YQQI  GV  +DA HG+  D  S R+TA+LL LAKE GLSRVD+V ++ 
+Sbjct  1371  PSQPGHADHALYQQIRGGVMQLDAQHGKEWDGASQRMTASLLALAKEEGLSRVDHVALNN  1550
+
+Query  64    ANRTGVHGGENVFVVQG  80
+                  + GGE VFVVQG
+Sbjct  1551  PTPQ-LAGGEKVFVVQG  1598
+
+
+ Score = 35.4 bits (80),  Expect(2) = 4e-20, Method: Compositional matrix adjust.
+ Identities = 16/25 (64%), Positives = 20/25 (80%), Gaps = 0/25 (0%)
+ Frame = +2
+
+Query  84    NPAHLRAHMKTEQALATPEEQSFER  108
+             +PAH RAHM T +A+ TPE QSF+R
+Sbjct  1607  DPAHQRAHMPTIEAVQTPEIQSFDR  1681
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.129    0.371    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 94588285
+
+
+  Database: CN16_Clade_G.contig
+    Posted date:  Dec 20, 2025 11:59 AM
+  Number of letters in database: 5,162,366
+  Number of sequences in database:  13
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
