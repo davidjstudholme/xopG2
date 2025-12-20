@@ -1,14 +1,13 @@
 ### Create directory containing genome sequences
-
 mkdir race-typed_Xcc
 cd race-typed_Xcc/
-ln -s ../../02_genomes_race-typed/*.fasta .
+ln -s ../../02_genomes_race-typed/*.contig .
 
 ### Create BLAST databases
-for i in *.fasta; do echo $i; formatdb -pF -i $i ; done
+for i in *.contig; do echo $i; formatdb -pF -i $i ; done
 
 ### Perform the TBLASTN searches
-for i in *.fasta; do echo $i; tblastn -seg no -query ../XopG2.faa -db $i -evalue 0.0000000001 -out XopG2.versus.$i.tblastn; done
+for i in *.contig; do echo $i; tblastn -seg no -query ../XopG2.faa -db $i -evalue 0.0000000001 -out XopG2.versus.$i.tblastn; done
 
 ### Come back out of the new directory
 cd ..
