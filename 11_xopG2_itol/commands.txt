@@ -1,7 +1,10 @@
 
 perl parse_blast.pl ../10_xopG2_tblastn/tblastn/XopG2.versus.*.tblastn > xopG2_gene_census.tsv
-
 perl prepare-metadata-for-itol.pl xopG2_gene_census.tsv  > XopG2-intact-metadata.tsv
+
+
+perl parse_blast.pl ../10_xopG2_tblastn/tblastn/XVIPCD.versus.*.tblastn > XVIPCD_gene_census.tsv
+perl prepare-metadata-for-itol.pl XVIPCD_gene_census.tsv  > XVIPCD-intact-metadata.tsv
 
 
 
